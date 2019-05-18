@@ -1,0 +1,9 @@
+- grouped_assignments = assignments.group_by(&:description)
+- grouped_assignments.each do |description, assignments|
+  - if description.present?
+    %h5{ id: [*id, description] }
+      = description.capitalize
+
+  %ul
+    - assignments.each do |assignment|
+      %li= link_to "@#{assignment.username}", "https://gitlab.com/#{assignment.username}"

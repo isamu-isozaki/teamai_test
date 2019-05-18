@@ -1,0 +1,158 @@
+---
+layout: markdown_page
+title: Product categories
+extra_js:
+    - listjs.min.js
+    - categories.js
+---
+
+:markdown
+    ## On this page
+    {:.no_toc}
+
+    - TOC
+    {:toc}
+
+    ## Interfaces
+
+    We want intuitive interfaces both within the company and with the wider
+    community. This makes it more efficient for everyone to contribute or to get
+    a question answered. Therefore, the following interfaces are based on the
+    product categories defined on this page:
+
+    - [Product Vision](/direction/product-vision/)
+    - [Direction](/direction/#devops-stages)
+    - [Software Development Life-Cycle (SDLC)](/sdlc/#stacks)
+    - [Home page](/)
+    - [Product page](/product/)
+    - [Product Features](/features/)
+    - [Pricing page](/pricing/)
+    - [Documentation](https://docs.gitlab.com/ee/#complete-devops-with-gitlab)
+    - [Engineering](https://about.gitlab.com/handbook/engineering/) Engineering Manager/Developer/Designer titles, their expertise, and department, and team names.
+    - [Product manager](https://about.gitlab.com/handbook/product/) responsibilities which are detailed on this page
+    - [Our pitch deck](https://about.gitlab.com/handbook/marketing/product-marketing/#company-pitch-deck), the slides that we use to describe the company
+    - [Product marketing](https://about.gitlab.com/handbook/marketing/product-marketing/) specializations
+
+    ## Hierarchy
+
+    The categories form a hierarchy:
+
+    1. **Departments**: Dev and Ops. Dev and Ops map to departments in our [organization structure](https://about.gitlab.com/team/structure/#table). At GitLab the Dev and Ops split is different then the infinity loop suggests because our CI/CD functionality is one codebase, so from verify on we consider it Ops so that the codebase falls under one department.
+    The stages that are the difference between the value stages and the team stages are part of the Dev department.
+    1. **Stages**: Stages start with the 7 **loop stages**, then add Manage and Secure to give the 9 (DevOps) **value stages**, and then add Distribution, Geo, Gitaly & Gitter to get the 12 **team stages**. Values stages are what we all talk about in our marketing. Each of the team stages has a dedicated engineering team, product manager. Within shared functions like quality and product management individuals are paired to one or more stages so that there are stable counterparts.
+    1. **Categories**: High-level capabilities that may be a standalone product at another company. e.g. Portfolio Management. There are a maximum of 8 high-level capabilities per stage to ensure we can display this on our website and pitch deck. Or the **internal customers** of the stage who practice our [collaborate value](https://about.gitlab.com/handbook/values/#collaboration) of dogfooding.
+    1. **Features**: Small, discrete functionalities. e.g. Issue weights. Some common features are listed within parentheses to facilitate finding responsible PMs by keyword. Features are maintained in [features.yml](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml).
+
+    Eventually, every category and capability listed on this page should link to a product marketing page, documentation, or an epic/issue.
+    
+    [Solutions](#solutions) can consist of multiple categories as defined on this page, but there are also other ones, for example industry verticals.
+    
+    Capabilities can refer to stages, categories, features, but not solutions.
+
+    Adding more layers to the hierarchy would give it more fidelity but would hurt usability in the following ways:
+
+    1. Harder to keep the [interfaces](#Interfaces) up to date.
+    1. Harder to automatically update things.
+    1. Harder to train and test people.
+    1. Harder to display more levels.
+    1. Harder to reason, falsify, and talk about it.
+    1. Harder to define what level something should be in.
+    1. Harder to keep this page up to date.
+
+    ## Changes
+
+    The impact of changes to stages is felt [across the company](/team/structure/#stage-groups).
+    Merge requests with changes to stages and significant changes to categories need to be approved by:
+
+    1. Head of Product
+    1. VP of Product
+    1. VP of Engineering
+    1. [CEO](https://about.gitlab.com/team/structure/#layers)
+
+:markdown
+    ## Dev department
+
+    ### Dev leadership
+
+    - Product: Job
+    - Backend: Tommy
+    - Product Marketing: Ashish
+
+%h3 Dev stages
+= partial "includes/product/engineering_area", locals: { dev_ops: 'dev'}
+
+:markdown
+    ## Ops department
+
+    ### Ops leadership
+
+    - Product: Mark
+    - Backend: Dalia
+    - Product Marketing: Ashish
+
+%h3 Ops stages
+= partial "includes/product/engineering_area", locals: { dev_ops: 'ops'}
+
+:markdown
+    ## Solutions
+
+    GitLab also does the things below that are composed of multiple categories.
+
+    1. Software Composition Analysis (SCA) = Dependency Scanning + License Management
+    1. Interactive Application Security Testing (IAST) = Dynamic application security testing (DAST) + Runtime Application Self-Protection (RASP)
+    1. Application Performance Monitoring (APM) = Metrics + Tracing
+    1. Project management = Issue trackers + Issue boards
+    1. Continuous Integration (CI) = Unit Testing + Integration Testing + System Testing + Acceptance Testing (UAT) + Usability Testing + Compatibility Testing
+
+    ## Other functionality
+
+    This list of other functionality so you can easily find the team that owns it.
+    Maybe we should make our features easier to search to replace the section below.
+
+    ### Manage
+
+    - User management, LDAP, signup, abuse, profiles
+    - Groups and Subgroups
+    - Navigation
+    - GitLab.com specific functionality
+    - Subscriptions (incl. license.gitlab.com and customers.gitlab.com)
+    - Projects (Project creation, project templates, project import/export, importers)
+    - Admin Area
+    - Version check, usage ping, and version.gitlab.com
+
+    ### Plan
+
+    - markdown functionality
+    - assignees
+    - milestones
+    - time tracking
+    - due dates
+    - labels
+    - issue weights
+    - quick actions
+    - email notifications
+    - todos
+    - search
+    - Elasticsearch integration
+    - Jira and other third-party issue management integration
+
+    [Jeremy]: /team/#d3arWatson
+    [Fabio]: /team/#bikebilly
+    [Josh]: /team/#joshlambert
+    [Mark]: /team/#MarkPundsack
+    [Ashish]: /team/#kuthiala
+    [William]: /team/#thewilliamchia
+    [James]: /team/#jamesramsay
+    [Job]: /team/#Jobvo
+    [John]: /team/#j_jeremiah
+    [Victor]: /team/#victorwuky
+    [Daniel]: /team/#danielgruesso
+    [Tommy]: /team/#tommy.morgan
+    [Dalia]: /team/#dhavens
+    [Andreas]: /team/#andreasmarc
+    [Pages]: /features/pages/
+    [Geo]: /features/gitlab-geo/
+    [Continuous Integration (CI)]: /features/gitlab-ci-cd/
+    [Continuous Delivery (CD)]: /features/gitlab-ci-cd/
+    [Subgroups]: /features/subgroups/
+    [Service Desk]: /features/service-desk/

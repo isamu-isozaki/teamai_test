@@ -1,0 +1,118 @@
+---
+layout: markdown_page
+title: "Plan Team"
+---
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+## Plan Team
+
+The Plan team works on the backend part of GitLab for the [Plan stage]. Among
+other things, this means working on GitLab's issue tracker, integration with
+external trackers, [Markdown rendering], [Elasticsearch integration], and email
+notifications.
+
+For more details about the vision for this area of the product, see the [Plan
+stage] page.
+
+[Plan stage]: /direction/plan/
+[Markdown rendering]: https://docs.gitlab.com/ee/user/markdown.html
+[Elasticsearch integration]: https://docs.gitlab.com/ee/integration/elasticsearch.html
+
+### Team members
+
+<%= direct_team(manager_role: 'Engineering Manager, Plan') %>
+
+### Stable counterparts
+
+<%= stable_counterparts(role_regexp: /[,&] Plan/, direct_manager_role: 'Engineering Manager, Plan') %>
+
+## Work
+
+In general, we use the standard GitLab [engineering workflow]. To get in touch
+with the Plan team, it's best to [create an issue] in the relevant project
+(typically [GitLab CE]) and add the ~Plan label, along with any other
+appropriate labels. Then, feel free to ping the relevant Product Manager and/or
+Engineering Manager as listed above.
+
+For more urgent items, feel free to use [#g_plan] on Slack.
+
+[engineering workflow]: /handbook/engineering/workflow/
+[create an issue]: /handbook/communication/#everything-starts-with-an-issue
+[GitLab CE]: https://gitlab.com/gitlab-org/gitlab-ce
+
+### Team meetings
+
+Most of our team meetings are recorded and publicly available on Youtube in the
+[Plan team playlist][youtube].
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFGfElNsQthaREiE1QwWQtqUv1LYPEuuj" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Retrospectives
+
+The Plan team conducts [monthly retrospectives in GitLab issues][retros]. These include
+the backend team, plus any people from frontend, UX, and PM who have worked with
+that team during the release being retrospected.
+
+These are confidential during the initial discussion, then made public in time
+for each month's [GitLab retrospective]. For more information, see [team
+retrospectives].
+
+The retrospective issue is created by a scheduled pipeline in the
+[backend-retrospectives] project. For more information on how it works, see that
+project's README.
+
+[GitLab retrospective]: /handbook/engineering/workflow/#retrospective
+[team retrospectives]: /handbook/engineering/management/team-retrospectives/
+[backend-retrospectives]: https://gitlab.com/gitlab-org/backend-retrospectives
+
+### Functional group updates
+
+Our [functional group updates][fgus] are public, published through GitLab
+Pages. For more information, see the [functional group updates handbook page].
+
+The source repository for these updates is [functional-group-updates]. The
+README contains more information on how they are built.
+
+[functional group updates handbook page]: /handbook/people-operations/functional-group-updates/
+[functional-group-updates]: https://gitlab.com/gitlab-org/functional-group-updates
+
+### The due-22nd Label
+
+The [due-22nd label]. This indicates issues that have a soft due-date of the
+22nd of the month (two weeks after the kick-off on the 8th), as opposed to other
+issues which can be completed at any time during the month. We are still
+evaluating this label and its usage, but we hope to:
+
+1. Help Product communicate priority outside boards, in a more granular way than
+   the existing Deliverable and Stretch labels.
+2. Force ourselves to ensure issues are scoped down appropriately.
+3. Give everyone a clearer sense of the state of the milestone; if all of the
+   due-22nd issues are still open on the 24th, for instance, then we are
+   probably at risk of other issues slipping.
+
+We are tracking its success, or otherwise, in a [retrospective follow-up issue].
+
+[due-22nd label]: https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Plan&label_name[]=due-22nd
+[retrospective follow-up issue]: https://gitlab.com/gl-retrospectives/plan/issues/10
+
+## Useful links
+
+* [Plan backend board] - this shows work in the current release
+* [Plan backend next release board] - used for planning the next release
+* [#g_plan] in Slack
+* [Recorded meetings][youtube]
+* [Retrospectives][retros]
+* [Functional group updates][fgus]
+
+[Plan backend board]: https://gitlab.com/groups/gitlab-org/-/boards/631316
+[Plan backend next release board]: https://gitlab.com/groups/gitlab-org/-/boards/760773
+
+[#g_plan]: https://gitlab.slack.com/archives/g_plan
+[youtube]: https://www.youtube.com/playlist?list=PLFGfElNsQthaREiE1QwWQtqUv1LYPEuuj
+[retros]: https://gitlab.com/gl-retrospectives/plan/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
+[fgus]: http://gitlab-org.gitlab.io/functional-group-updates/backend-plan/

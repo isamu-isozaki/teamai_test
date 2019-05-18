@@ -1,0 +1,61 @@
+---
+layout: markdown_page
+title: Release Post Scheduling
+---
+
+%div{:style => "margin: 25px 0px; "}
+  %h3 Release Post Scheduling
+  Each month a Product Manager, a Product Marketing Manager, or a Technical
+  Writer will lead the release post, as defined in the
+  #{link_to "Release Posts page", "../#authorship"}.
+
+%table.table-responsive{:style => "margin-bottom: 25px; white-space: nowrap;"}
+  %thead
+    %tr
+      %th{:style => "padding-right: 50px; text-align: right;"}
+        Version
+      %th
+        Release date
+      %th.text-center
+        Manager
+      %th.text-center
+        Structural check
+      %th.text-center
+        Copy edit
+      %th.text-center
+        Marketing
+      %th.text-center
+        Social
+  %tbody
+    - [*data.release_post_managers.releases, nil].each_cons(2) do |r|
+      - manager = data.release_post_managers.managers.find {|m| m.handle == r[0].manager}
+      - structural_check = data.release_post_managers.managers.find {|m| m.handle == r[0].structural_check}
+      - copy_edit = data.release_post_managers.managers.find {|m| m.handle == r[0].copy_edit}
+      - marketing = data.release_post_managers.managers.find {|m| m.handle == r[0].marketing}
+      - social = data.release_post_managers.managers.find {|m| m.handle == r[0].social}
+      - date = Date.parse(r[0].date)
+      %tr
+        %td{:style => "padding-right: 50px; text-align: right;"}
+          - if (date - Date.today).to_i < 0
+            = link_to "#{r[0].version}", "/#{date.strftime('%Y/%m/%d')}/gitlab-#{r[0].version.tr('.', '-')}-released"
+          - else
+            - if r[1] && (Date.parse(r[1].date) - Date.today).to_i < 0
+              = "➡&nbsp;&nbsp;&nbsp;"
+            = r[0].version
+        %td
+          = date.strftime("%B #{date.day.ordinalize}, %Y (%a)")
+        %td.text-center
+          - if manager
+            = link_to "#{manager.name}", "/team/##{manager.team_page}"
+        %td.text-center
+          - if structural_check
+            = link_to "#{structural_check.name}", "/team/##{structural_check.team_page}"
+        %td.text-center
+          - if copy_edit
+            = link_to "#{copy_edit.name}", "/team/##{copy_edit.team_page}"
+        %td.text-center
+          - if marketing
+            = link_to "#{marketing.name}", "/team/##{marketing.team_page}"
+        %td.text-center
+          - if social
+            = link_to "#{social.name}", "/team/##{social.team_page}"
