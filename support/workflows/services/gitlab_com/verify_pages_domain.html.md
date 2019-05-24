@@ -34,7 +34,7 @@ disabled.
 
 State changes for custom domains are logged to the Rails `application.log` as
 well as being emailed to every maintainer of the owning project. View the events
-for GitLab.com [on Kibana](https://log.gitlab.net/goto/10500a6d4eaa397a11701e2ddf10e883)
+for GitLab.com [on Kibana](https://log.gitlab.net/goto/10500a6d4eaa397a11701e2ddf10e883/index.html.md)
 and search for the domain name to see what actions have been taken in the past
 week.
 
@@ -60,7 +60,7 @@ present on the special subdomain in the following steps.
 Support requests will generally center on a domain not being verified, when the
 user believes the verification code has been added to DNS correctly. You can
 check the TXT records for a custom domain by running the following commands
-(replacing `example.com` with the correct domain throughout):
+(replacing `example.com` with the correct domain throughout/index.html.md):
 
 ```
 $ dig +short txt example.com
@@ -75,16 +75,16 @@ One or both of these commands should output a line of this form:
 
 (It's OK if there are multiple lines, or the code appears in the middle of
 a line mixed in with other data, as long as it's separated from them by
-whitespace).
+whitespace/index.html.md).
 
 As an administrative user, you can view the *correct* verification code by
-visiting the project on GitLab.com, then navigating to `Settings âž” Pages` and
+visiting the project on GitLab.com, then navigating to `Settings âž Pages` and
 pressing the `Details` button for the appropriate custom domain.
 
 You can also view the code in the rails console by running:
 
 ```ruby
-PagesDomain.find_by!(domain: "example.com").verification_code
+PagesDomain.find_by!(domain: "example.com"/index.html.md).verification_code
 ```
 
 If no records are present, or the verification code doesn't match, the customer
@@ -105,7 +105,7 @@ GitLab.com. How long these records are cached for is controlled by the domain
 owner:
 
 If a "negative lookup" has been cached, it will be for a time specified by the
-`MINIMUM` field of the [SOA record](https://en.wikipedia.org/wiki/SOA_record).
+`MINIMUM` field of the [SOA record](https://en.wikipedia.org/wiki/SOA_record/index.html.md).
 
 TXT records containing the incorrect code will be cached for a time specified
 by the TXT record's `TTL` field.
@@ -128,10 +128,10 @@ the domain's grace period with the following instructions.
 
 If caching or a GitLab bug is preventing verification from suceeding, you can
 prevent the custom domain from being disabled by running the following command
-in a Rails console (replacing `example.com` with the correct domain):
+in a Rails console (replacing `example.com` with the correct domain/index.html.md):
 
 ```ruby
-PagesDomain.find_by!(domain: "example.com").update!(enabled_until: 1.month.from_now)
+PagesDomain.find_by!(domain: "example.com"/index.html.md).update!(enabled_until: 1.month.from_now/index.html.md)
 ```
 
 This will give the domain an additional month for verification to complete,

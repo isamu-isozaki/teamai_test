@@ -11,7 +11,7 @@ title: "Data Analysis"
 
 ## Redash data visualization tool
 Redash is a data visualization tool. Currently it has one data source, i.e. the database in `version.gitlab.com`.
-This database stores both CE and EE usage pings that are sent from customers who [enabled the feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html).
+This database stores both CE and EE usage pings that are sent from customers who [enabled the feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html/index.html.md).
 You can create and save SQL queries that execute against that database, and create charts based on those results, that can be refreshed dynamically.
 Log in to `http://redash.gitlab.com` using your GitLab Google credentials.
 
@@ -21,13 +21,13 @@ We are working on adding a second data source for `staging.gitlab.com`, so that 
 
 ## Access data
 ### Redash
-You should be able to access [redash.gitlab.com](https://redash.gitlab.com) with your GitLab Google account.
+You should be able to access [redash.gitlab.com](https://redash.gitlab.com/index.html.md) with your GitLab Google account.
 
 ### Raw Data
 Follow these steps to get access to raw data from gitlab.com and EE usage pings stored in `version.gitlab.com`.
 
 #### Get a GitLab Linux account
-Ask production folks (`#infrastructure` channel) to set up a Linux account for you. Mine is `victor`, and is used as an example below.
+Ask production folks (`#infrastructure` channel/index.html.md) to set up a Linux account for you. Mine is `victor`, and is used as an example below.
 
 ---
 
@@ -91,12 +91,12 @@ Use `mysql` and access the db
 $ sudo mysql --defaults-file=/etc/mysql/debian.cnf
 ```
 
-Refer to the [Piwik schema](https://developer.piwik.org/guides/persistence-and-the-mysql-backend)
+Refer to the [Piwik schema](https://developer.piwik.org/guides/persistence-and-the-mysql-backend/index.html.md)
 
 ---
 
 #### Access db from a sql client
-Access db from a sql client for additional features and ease of use. The sql client can connect to your local machine, and tunnel to the server. A suggested native Mac sql client for PostgreSQL is [Postico](https://eggerapps.at/postico/). Ask GitLab to expense a license. Download and install. For MySQL, [Sequel Pro](http://sequelpro.com) (i.e. "Pancakes") is decent.
+Access db from a sql client for additional features and ease of use. The sql client can connect to your local machine, and tunnel to the server. A suggested native Mac sql client for PostgreSQL is [Postico](https://eggerapps.at/postico/index.html.md/index.html.md). Ask GitLab to expense a license. Download and install. For MySQL, [Sequel Pro](http://sequelpro.com/index.html.md) (i.e. "Pancakes"/index.html.md) is decent.
 
 
 Set up forwarding through your local machine by running one of the following

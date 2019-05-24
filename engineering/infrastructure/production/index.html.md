@@ -5,10 +5,10 @@ title: "Production Team"
 
 ## Common Links
 
-- [Public Infrastructure Issue Tracker](https://gitlab.com/gitlab-com/infrastructure/issues/); please use confidential issues for topics that should only be visible to team members at GitLab.
-- [Chat channel](https://gitlab.slack.com/archives/production); please use the `#production` chat channel for questions that don't seem appropriate to use the issue tracker or the internal email address for.
-- [GitLab Production Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com&ctz=America/Los_Angeles); add it to your own views by hitting the `+GoogleCalendar` button in the lower right of the screen when viewing the Calendar with the link here.
-- [Production On-Call Reports](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=oncall%20report)
+- [Public Infrastructure Issue Tracker](https://gitlab.com/gitlab-com/infrastructure/issues/index.html.md/index.html.md); please use confidential issues for topics that should only be visible to team members at GitLab.
+- [Chat channel](https://gitlab.slack.com/archives/production/index.html.md); please use the `#production` chat channel for questions that don't seem appropriate to use the issue tracker or the internal email address for.
+- [GitLab Production Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com&ctz=America/Los_Angeles/index.html.md); add it to your own views by hitting the `+GoogleCalendar` button in the lower right of the screen when viewing the Calendar with the link here.
+- [Production On-Call Reports](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=oncall%20report/index.html.md)
 
 ## On this page
 {:.no_toc}
@@ -18,7 +18,7 @@ title: "Production Team"
 
 ## Production Team
 
-The Production SRE team is responsible for all user-facing services. Production SREs ensure that these services are secure, reliable, and fast. This infrastructure includes staging, GitLab.com and dev.GitLab.org; see the [list of environments](/handbook/engineering/infrastructure/environments/).
+The Production SRE team is responsible for all user-facing services. Production SREs ensure that these services are secure, reliable, and fast. This infrastructure includes staging, GitLab.com and dev.GitLab.org; see the [list of environments](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/environments/index.html.md/index.html.md).
 
 Production SREs also have a strong focus on building the right toolsets and automations to enable development to ship features as fast and bug free as possible, leveraging the tools provided by GitLab.com itself - we must dogfood.
 
@@ -28,11 +28,11 @@ Another part of the job is building monitoring tools that allow quick troublesho
 
 We want to make GitLab.com ready for mission critical workloads. That readiness means:
 
-1. Speedy ([speed index](/handbook/engineering/performance/#performance-target) below 2 seconds)
-1. Available (uptime above 99.95%)
-1. Durable (automated backups and restores, monthly manual tests)
-1. Secure (prioritize requests of our security team)
-1. Deployable (quickly deploy and provide metrics for new versions in all environments)
+1. Speedy ([speed index](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/performance/#performance-target/index.html.md) below 2 seconds/index.html.md)
+1. Available (uptime above 99.95%/index.html.md)
+1. Durable (automated backups and restores, monthly manual tests/index.html.md)
+1. Secure (prioritize requests of our security team/index.html.md)
+1. Deployable (quickly deploy and provide metrics for new versions in all environments/index.html.md)
 
 ### Tenets
 
@@ -44,27 +44,27 @@ We want to make GitLab.com ready for mission critical workloads. That readiness 
 
 ### Adding work to the Team Backlog and getting it prioritized
 
-Add issues at any time to the [infrastructure issue tracker](https://gitlab.com/gitlab-com/infrastructure/issues).
+Add issues at any time to the [infrastructure issue tracker](https://gitlab.com/gitlab-com/infrastructure/issues/index.html.md).
 Let one of the managers for the production team know of the request.  It would be helpful for our prioritization to know the timeline for the issue if your team has commitments related to it.  We do reserve part of our time for interrupt requests, but that does not always mean we can fit in everything that comes to us.
 
 ### Team board and Milestones
 
 #### Production Issue Tracker
-We have a [production issue tracker](https://gitlab.com/gitlab-com/production/issues).  Issues in this tracker are meant to track incidents and changes to production that need approval.  We can host discussion of proposed changes in linked infrastructure issues.  These issues should have ~incident or ~change and notes describing what happened or what is changing with relevant infrastructure team issues linked for supporting information.
+We have a [production issue tracker](https://gitlab.com/gitlab-com/production/issues/index.html.md).  Issues in this tracker are meant to track incidents and changes to production that need approval.  We can host discussion of proposed changes in linked infrastructure issues.  These issues should have ~incident or ~change and notes describing what happened or what is changing with relevant infrastructure team issues linked for supporting information.
 
 *  All issues affecting customers S1-S4
 *  All changes to infrastructure serving production traffic
 
 #### Infrastructure Issue Tracker
-We plan our work from the infrastructure [team board](https://gitlab.com/gitlab-com/infrastructure/boards/619904?=) in a [Kanban style workflow](https://kanbanize.com/blog/kanban-for-devops-teams/), though with no swimlanes.
+We plan our work from the infrastructure [team board](https://gitlab.com/gitlab-com/infrastructure/boards/619904?=/index.html.md) in a [Kanban style workflow](https://kanbanize.com/blog/kanban-for-devops-teams/index.html.md/index.html.md), though with no swimlanes.
 
 The columns on our board are:
 
 1.  Planning - Issues that we are talking about - to be refined to an actionable state.
 1.  Ready - Issues that are "ready to pull"
-1.  Waiting - Issues that have been started, but are waiting on an external item (vendor ticket, another team, etc)
+1.  Waiting - Issues that have been started, but are waiting on an external item (vendor ticket, another team, etc/index.html.md)
 1.  In Progress
-1.  Completed (aka Closed) - Issue is closed per all notes or criteria in the issue description.
+1.  Completed (aka Closed/index.html.md) - Issue is closed per all notes or criteria in the issue description.
 
 Guiding philosophies:
 To get from Planning to Ready, an issue should be:
@@ -74,7 +74,7 @@ To get from Planning to Ready, an issue should be:
 * Have guiding notes or clear criteria for what marks it as done
 * Ideally this planning will be done async, but a quick meeting to review an issues guiding notes may be scheduled.
 
-We'll organize our work into 2 week [milestones](https://gitlab.com/gitlab-com/infrastructure/milestones).  These milestones are meant to:
+We'll organize our work into 2 week [milestones](https://gitlab.com/gitlab-com/infrastructure/milestones/index.html.md).  These milestones are meant to:
 
 1.  Give us a timebox to gain some measure of velocity over time.
 1.  Give us a window of time to focus on a particular team for planned work.  As themes go, it is better to try to focus on one theme for a few time boxes rather than start 3 things and not finish any.
@@ -103,21 +103,21 @@ Long term, additional teams will perform work on the production environment:
 
 We cannot keep track of **events** in production across a growing number of *functional* queues.
 
-Furthermore, said teams will start to have on-call rotations for both their function (e.g., security) and their services.  For people on-call, having a centralized tracking point to keep track of said events is more effective than perusing various queues. Timely information (in terms of when an event is happening and how long it takes for an on-call person to understand what's happening) about the production environment is critical. The `production` queue centralizes production event information.
+Furthermore, said teams will start to have on-call rotations for both their function (e.g., security/index.html.md) and their services.  For people on-call, having a centralized tracking point to keep track of said events is more effective than perusing various queues. Timely information (in terms of when an event is happening and how long it takes for an on-call person to understand what's happening/index.html.md) about the production environment is critical. The `production` queue centralizes production event information.
 
 ### Implementation
 
-Functional queues track team workloads (`infrastructure`, `security`, etc) and are the source of the work that has to get done. Some of this work clearly impacts production (build and deploy new storage nodes); some of it will not (develop a tool to do x, y, z) until is deployed to production.
+Functional queues track team workloads (`infrastructure`, `security`, etc/index.html.md) and are the source of the work that has to get done. Some of this work clearly impacts production (build and deploy new storage nodes/index.html.md); some of it will not (develop a tool to do x, y, z/index.html.md) until is deployed to production.
 
 The `production` queue tracks events in production, namely:
 
-* [changes](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/)
-* [incidents](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
-* deltas (exceptions) -- still need to do handbook write up
+* [changes](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/change-management/index.html.md/index.html.md)
+* [incidents](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/incident-management/index.html.md/index.html.md)
+* deltas (exceptions/index.html.md) -- still need to do handbook write up
 
 Over time, we will implement hooks into our automation to *automagically* inject change audit data into the `production` queue.
 
-This also leads to a single source of data. Today, for instance, incident reports for the week get transcribed to both the On-call Handoff and Infra Call documents (we also show exceptions in the latter). These meetings serve different purposes but have overlapping data. The input for this data should be queries against the `production` queue versus the manual build in documents.
+This also leads to a single source of data. Today, for instance, incident reports for the week get transcribed to both the On-call Handoff and Infra Call documents (we also show exceptions in the latter/index.html.md). These meetings serve different purposes but have overlapping data. The input for this data should be queries against the `production` queue versus the manual build in documents.
 
 Additionally, we need to keep track of error budgets, which should also be derived from the `production` queue.
 
@@ -129,24 +129,24 @@ We will also be collapsing the `database` queue into the `infrastructure` queue.
 All direct or indirect changes to authentication and authorization mechanisms used by GitLab Inc. by customers or employees require additional review and approval by a member of at least one of following teams:
 
 
-* [production team](/handbook/engineering/infrastructure/production/) member
-* [security team](/security/)  member
+* [production team](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/production/index.html.md/index.html.md) member
+* [security team](/security/index.html.md/index.html.md)  member
 * developer from a different team that is staff level or higher
 
 This process is enforced for the following repositories where the approval is mandatory using
-[MR approvals](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html):
+[MR approvals](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html/index.html.md):
 
-* [gitlab-oauth2-proxy](https://gitlab.com/gitlab-cookbooks/gitlab-oauth2-proxy)
-* [gitlab_users](https://gitlab.com/gitlab-cookbooks/gitlab_users)
+* [gitlab-oauth2-proxy](https://gitlab.com/gitlab-cookbooks/gitlab-oauth2-proxy/index.html.md)
+* [gitlab_users](https://gitlab.com/gitlab-cookbooks/gitlab_users/index.html.md)
 
 Additional repositories may also require this approval and can be evaluated on a
 case-by-case basis.
 
 ### Labeling Issues
 
-We use [issue labels](https://gitlab.com/gitlab-com/infrastructure/labels) within the Infrastructure issue tracker to assist in prioritizing and organizing work. Prioritized labels are:
+We use [issue labels](https://gitlab.com/gitlab-com/infrastructure/labels/index.html.md) within the Infrastructure issue tracker to assist in prioritizing and organizing work. Prioritized labels are:
 
-- `~(perceived) data loss`
+- `~(perceived/index.html.md) data loss`
 - `~critical`
 - `~SL1` and `~SL2`
 - `~unblocks others`
@@ -155,7 +155,7 @@ We use [issue labels](https://gitlab.com/gitlab-com/infrastructure/labels) withi
 - `~blocked`
 - `~oncall`
 
-We also use the `~AP1`, `~AP2`, `~AP3` labels as described in [availability & performance priority labels](/handbook/engineering/performance/#performance-labels). Those are mainly used to communicate priority of issues to Product Managers, for scheduling purposes.
+We also use the `~AP1`, `~AP2`, `~AP3` labels as described in [availability & performance priority labels](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/performance/#performance-labels/index.html.md). Those are mainly used to communicate priority of issues to Product Managers, for scheduling purposes.
 
 Issues labeled `~oncall` are prioritized to be worked on by the current oncall team memers.
 
@@ -163,7 +163,7 @@ Issues labeled `~oncall` are prioritized to be worked on by the current oncall t
 
 `~goals` are issues that are in a WoW and we agreed as a team that we will do everything in our power to deliver them.  Goal issues should fit in one WoW, that is, they are deliverable in a single week time, if they do not fit in one WoW we are probably talking about a `~meta ~goal`.
 
-We use this kind of issues to indicate a general direction (generally speaking something that will take from 1 to 3 months of work) This means that a `~meta ~goal` should be achievable in one quarter.
+We use this kind of issues to indicate a general direction (generally speaking something that will take from 1 to 3 months of work/index.html.md) This means that a `~meta ~goal` should be achievable in one quarter.
 
 `~meta` issues that are not also `~goal` are the tasks that are larger than what fits in a quarter, therefore they need to be sliced into actually deliverable pieces that can also become a goal.
 
@@ -187,37 +187,37 @@ If this issue is urgent for whatever reason, we should label them following the 
 
 ### Issue or Outage Hand-off
 
-Ongoing outages, as well as issues that have the `~(perceived) data loss` label and are (therefore) actively being worked on need a hand off to happen as team members cycle in and out of their timezones and availability. The on call log can be used to assist with this. (See link at top to on-call log).
+Ongoing outages, as well as issues that have the `~(perceived/index.html.md) data loss` label and are (therefore/index.html.md) actively being worked on need a hand off to happen as team members cycle in and out of their timezones and availability. The on call log can be used to assist with this. (See link at top to on-call log/index.html.md).
 
 ## On-Call Support
 
-To ensure 24x7 coverage of emergency issues, we currently have split on-call rotations between EMEA and AMER regions; team members in [EMEA](https://en.wikipedia.org/wiki/List_of_country_groupings) regions are on-call from 0400-1600 UTC, and team members in [AMER](https://en.wikipedia.org/wiki/List_of_country_groupings) regions are on-call from 1600-0400 UTC. We plan to extend this to include team members from the [APAC](https://en.wikipedia.org/wiki/List_of_country_groupings) region in the future, as well. This forms the basis of a [follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun) support model, and has the benefit for our team members of reducing (or eliminating) the stress of responding to emergent issues outside of their normal work hours, as well as increasing communication and collaboration within our [global team](https://about.gitlab.com/team/).
+To ensure 24x7 coverage of emergency issues, we currently have split on-call rotations between EMEA and AMER regions; team members in [EMEA](https://en.wikipedia.org/wiki/List_of_country_groupings/index.html.md) regions are on-call from 0400-1600 UTC, and team members in [AMER](https://en.wikipedia.org/wiki/List_of_country_groupings/index.html.md) regions are on-call from 1600-0400 UTC. We plan to extend this to include team members from the [APAC](https://en.wikipedia.org/wiki/List_of_country_groupings/index.html.md) region in the future, as well. This forms the basis of a [follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun/index.html.md) support model, and has the benefit for our team members of reducing (or eliminating/index.html.md) the stress of responding to emergent issues outside of their normal work hours, as well as increasing communication and collaboration within our [global team](https://about.gitlab.com/team/index.html.md/index.html.md).
 
-For further details about managing schedules, workflows, and documentation, see the [on-call runbook](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/oncall.md).
+For further details about managing schedules, workflows, and documentation, see the [on-call runbook](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/oncall.md/index.html.md).
 
 ## Production Events Logging
 
 There are 2 kind of production events that we track:
 
-- Changes to the production fleet: for this we record things [in the Chef Repo](https://dev.gitlab.org/cookbooks/chef-repo).
+- Changes to the production fleet: for this we record things [in the Chef Repo](https://dev.gitlab.org/cookbooks/chef-repo/index.html.md).
   - Deploys will be recorded automagically because of the way we do deploys.
   - General operations can be recorded by creating an empty commit in the repo and pushing it into origin.
 - Outages and general production incidents
   - If we are required to act in production manually to perform any operation we should create an issue and consider labeling it as _toil_ to track the cost of such manual work load.
-  - If we had a disruption in the service, we must create a blameless post mortem. Refer to the [Outages and Blameless Post Mortems](../#postmortems) section of the Infrastructure page.
+  - If we had a disruption in the service, we must create a blameless post mortem. Refer to the [Outages and Blameless Post Mortems](../#postmortems/index.html.md) section of the Infrastructure page.
 
 ## Backups
 
 ### Summary of Backup Strategy
 
-- Backups of our databases are taken every 24 hours with continuous incremental data (at 60 sec intervals) streaming into a separate cloud service from the production fleet. These backups are encrypted.
+- Backups of our databases are taken every 24 hours with continuous incremental data (at 60 sec intervals/index.html.md) streaming into a separate cloud service from the production fleet. These backups are encrypted.
 - Backups of our filesystems are taken via Azure snapshots every 24 hours.
 
-For details see the runbooks, in particular regarding details on [Azure snapshots](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/azure-snapshots.md) and [Database backups using WAL-E (encrypted)](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/using-wale-gpg.md)
+For details see the runbooks, in particular regarding details on [Azure snapshots](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/azure-snapshots.md/index.html.md) and [Database backups using WAL-E (encrypted/index.html.md)](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/using-wale-gpg.md/index.html.md)
 
 ### R.A.D. - Restore Appreciation Days
 
 Every second day of the month, we have a R.A.D. "party". Two production SREs use this day to test our backup processes by fully restoring not-yet-automated backups to test instances and to verify data integrity. The issues for every individual
-R.A.D can be found in the [infrastructure tracker](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=opened&search=restore+OR+backup+appreciation+day).
+R.A.D can be found in the [infrastructure tracker](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=opened&search=restore+OR+backup+appreciation+day/index.html.md).
 
-The ongoing effort to automate all the things backups is tracked in the infrastructure [META issue](https://gitlab.com/gitlab-com/infrastructure/issues/3222).
+The ongoing effort to automate all the things backups is tracked in the infrastructure [META issue](https://gitlab.com/gitlab-com/infrastructure/issues/3222/index.html.md).

@@ -5,13 +5,13 @@ title: "Customer Use-Cases"
 **Customer Use Cases:**
 A customer use case is:
 * A problem or initiative that a customer needs to solve.  
-* These are discrete problems that we believe GitLab can solve (hence which we should seek out in prospects)
+* These are discrete problems that we believe GitLab can solve (hence which we should seek out in prospects/index.html.md)
 
 **Specific Use Cases**
 * **Portfolio Management:** The goal of portfolio management is to determine the optimal resource mix for delivery and to schedule activities to best achieve an organization’s operational and financial goals, while honoring constraints imposed by customers, strategic objectives, or external real-world factors. Examples in GitLab include epics, roadmaps, and milestones.
 * **Project Management:** Project management is the practice of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria at the specified time. Examples in Gitlab include Issues, Issue Boards, Issue Weights, Labels, Milestones, and burndown charts.
 * **Source Code Management:** Source code management is the management of changes to documents, computer programs, large web sites, and other collections of information. Examples in GitLab include Branches, Merge Requests, WebIDE, and files.
-* **Continuous Integration (CI):** Continuous Integration automates the build and testing processes to implement continuous processes of applying quality control in general — small pieces of effort, applied frequently. In addition to running the unit and integration tests, such processes run additional static and dynamic tests, measure and profile performance, extract and format documentation from the source code and facilitate manual QA processes. Examples in GitLab include Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality.
+* **Continuous Integration (CI/index.html.md):** Continuous Integration automates the build and testing processes to implement continuous processes of applying quality control in general � small pieces of effort, applied frequently. In addition to running the unit and integration tests, such processes run additional static and dynamic tests, measure and profile performance, extract and format documentation from the source code and facilitate manual QA processes. Examples in GitLab include Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST/index.html.md), and Code Quality.
 * **Continuous Delivery:** Continuous Delivery automates the packaging, configuration and deployment of applications to a target environment.  Examples in GitLab include: CI Runner, Container Repository, Deploy Boards, Canary Deploys, Partial Deploys, Manual Deploys, Environments.
 * **Safer Deployments:** Being able to deliver changes to production while minimizing risk to production systems.  A subset of Continuous Delivery.  Examples in GitLab include: Canary Deploys, Partial Deploys, and Feature Flags.
 * **Dynamic Environments for SDLC:** The ability to create non production environments in support of the development process.  Examples in GitLab include Review Apps, containers and kubernetes integration.
@@ -21,12 +21,12 @@ A customer use case is:
 * **End to End DevOps:** GitLab is designed to manage the entire DevOps lifecycle in a single application.  Beginning with managing ideas and projects through the full SDLC and to production.  In GitLab, this would mean using Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab.
 * **Value Stream Management:**  Value streams help you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key elements of managing the value stream.
 * **Integration - Planning:** Integrations with Project Planning tools like: VersionOne, Rally, Jira, Trello, Monday, Workfront, and Basecamp.  Or integrations with Portfolio Planning tools like Clarity, MicroFocus PPM, or others.
-* **Integration - SCM(GitHub):** The most common SCM integration is with GitHub
+* **Integration - SCM(GitHub/index.html.md):** The most common SCM integration is with GitHub
 * **Integration - CI:**  Integrations with Jenkins, Circle CI, Bamboo or other CI servers.
 * **Integration - CD:** Integrations with common CD tools such as Puppet, Chef, Ansible, Jenkins and others.
 
 **Non-Use Cases:**
-* To be filled in based on FANUC (frequently asked non-use cases)
+* To be filled in based on FANUC (frequently asked non-use cases/index.html.md)
 
 **Specific Examples**
 
@@ -70,7 +70,7 @@ A customer use case is:
     their GitLab repositories, configuration, and the database. With the slave
     server being a copy of the master, they used DRBD to ensure their data from
     the master is being replicated to the slave server in a timely manner. This
-    of course made everyone feel better :)
+    of course made everyone feel better :/index.html.md)
     * Placeholder to add another story
 1. Access to your server and security
     * A customer in the banking industry had security as their number one

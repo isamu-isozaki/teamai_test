@@ -10,61 +10,61 @@ title: "Sales and Business Development"
 {:toc}
 
 
-As a Sales Development Representative (SDR) or Business Development Representative (BDR) you will be dealing with the front end of the sales process. Your focus will be on generating opportunities that the Account Executives (AE) and Strategic Account Leader (SAL) accept, ultimately leading to closed won business. On this team we work hard, but have fun too (I know, it's a cliche ...but here it's true!). We will work hard to guarantee your success if you do the same.
+As a Sales Development Representative (SDR/index.html.md) or Business Development Representative (BDR/index.html.md) you will be dealing with the front end of the sales process. Your focus will be on generating opportunities that the Account Executives (AE/index.html.md) and Strategic Account Leader (SAL/index.html.md) accept, ultimately leading to closed won business. On this team we work hard, but have fun too (I know, it's a cliche ...but here it's true!/index.html.md). We will work hard to guarantee your success if you do the same.
 
 This handbook lays out the knowledge you will need to have in order to be successful in your role here at GitLab. Know that if you have the right mindset and come to work hungry with a positive attitude, you will see growth personally and in your career. Let's make it happen!
 
 
 
 ## GitLab Buyer
-- [Video: Understand the GitLab Buyer: Personas and Pain Points](https://www.youtube.com/watch?v=-UITZi0mXeU&feature=youtu.be)
-- [GitLab Personas](/handbook/marketing/product-marketing/#gitlab-personas)
-- [Video: Chief Architect/Head of DevOps](https://www.youtube.com/watch?v=qyELotxsQzY)
-- [Video: Head of IT](https://www.youtube.com/watch?v=LUh5eevH3F4)
-- [Video: DevOps Director/Lead](https://www.youtube.com/watch?v=5_D4brnjwTg)
+- [Video: Understand the GitLab Buyer: Personas and Pain Points](https://www.youtube.com/watch?v=-UITZi0mXeU&feature=youtu.be/index.html.md)
+- [GitLab Personas](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/#gitlab-personas/index.html.md)
+- [Video: Chief Architect/Head of DevOps](https://www.youtube.com/watch?v=qyELotxsQzY/index.html.md)
+- [Video: Head of IT](https://www.youtube.com/watch?v=LUh5eevH3F4/index.html.md)
+- [Video: DevOps Director/Lead](https://www.youtube.com/watch?v=5_D4brnjwTg/index.html.md)
 
 ## GitLab Industry
-- [Video: Understand the industry in which GitLab competes](https://www.youtube.com/watch?v=qQ0CL3J08lI)
-- [Software Development Lifecycle](/sdlc/)
-- [Glossary of Terms](https://docs.gitlab.com/ee/university/glossary/)
-- [GitLab Market and Ecosystem](https://www.youtube.com/watch?v=sXlhgPK1NTY&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e&index=6)
+- [Video: Understand the industry in which GitLab competes](https://www.youtube.com/watch?v=qQ0CL3J08lI/index.html.md)
+- [Software Development Lifecycle](/sdlc/index.html.md/index.html.md)
+- [Glossary of Terms](https://docs.gitlab.com/ee/university/glossary/index.html.md/index.html.md)
+- [GitLab Market and Ecosystem](https://www.youtube.com/watch?v=sXlhgPK1NTY&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e&index=6/index.html.md)
 
 ### DevOps
-- [Video: What is DevOps?](https://www.youtube.com/watch?v=_I94-tJlovg)
-- [Video: Why Auto DevOps Really Matters](https://www.youtube.com/watch?v=56chpCftwJQ&feature=youtu.be)
-- [The State of DevOps 2017](https://www.bmc.com/content/dam/bmc/migration/pdf/Interop+ITX+State+of+DevOps_Final2-002-V1.pdf)
-- [Video: Keynotes - DevOps Enterprise Summit 2017](https://www.youtube.com/playlist?list=PLvk9Yh_MWYuyq_rn0H-AP3ORoQ1QM0s1L)
+- [Video: What is DevOps?](https://www.youtube.com/watch?v=_I94-tJlovg/index.html.md)
+- [Video: Why Auto DevOps Really Matters](https://www.youtube.com/watch?v=56chpCftwJQ&feature=youtu.be/index.html.md)
+- [The State of DevOps 2017](https://www.bmc.com/content/dam/bmc/migration/pdf/Interop+ITX+State+of+DevOps_Final2-002-V1.pdf/index.html.md)
+- [Video: Keynotes - DevOps Enterprise Summit 2017](https://www.youtube.com/playlist?list=PLvk9Yh_MWYuyq_rn0H-AP3ORoQ1QM0s1L/index.html.md)
 
 ### Competitive Landscape
-- [Video: GitLab Competitive Landscape](https://www.youtube.com/watch?v=GDqGO5cv1Mk)
-- [GitLab Compared](/comparison/)
+- [Video: GitLab Competitive Landscape](https://www.youtube.com/watch?v=GDqGO5cv1Mk/index.html.md)
+- [GitLab Compared](/comparison/index.html.md/index.html.md)
 
 ## GitLab Solution
-- [Video: Understand The GitLab Value Proposition](https://www.youtube.com/watch?v=6Dsdd1LSf40)
-- [Video: Where GitLab Fits in Within Current Tool Stack](https://www.youtube.com/watch?v=YHznYB275Mg&feature=youtu.be)
-- [GitLab Positioning](/handbook/positioning-faq/)
-- [Customer Use-Cases](/handbook/use-cases/)
-- [Customer Stories](/blog/categories/customer-stories/)
-- [GitLab Sales Demo](/handbook/marketing/product-marketing/demo/)
-- [Video: Converting Free to Paid](https://www.youtube.com/watch?v=56eRRl6zFuA&feature=youtu.be)
-- [Video: GitLab Sales Training - Security Products](https://www.youtube.com/watch?v=O1XFOlnywDI&feature=youtu.be)
+- [Video: Understand The GitLab Value Proposition](https://www.youtube.com/watch?v=6Dsdd1LSf40/index.html.md)
+- [Video: Where GitLab Fits in Within Current Tool Stack](https://www.youtube.com/watch?v=YHznYB275Mg&feature=youtu.be/index.html.md)
+- [GitLab Positioning](https://github.com/isamu-isozaki/teamai_test/tree/master/positioning-faq/index.html.md/index.html.md)
+- [Customer Use-Cases](https://github.com/isamu-isozaki/teamai_test/tree/master/use-cases/index.html.md/index.html.md)
+- [Customer Stories](/blog/categories/customer-stories/index.html.md/index.html.md)
+- [GitLab Sales Demo](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/demo/index.html.md/index.html.md)
+- [Video: Converting Free to Paid](https://www.youtube.com/watch?v=56eRRl6zFuA&feature=youtu.be/index.html.md)
+- [Video: GitLab Sales Training - Security Products](https://www.youtube.com/watch?v=O1XFOlnywDI&feature=youtu.be/index.html.md)
 
 ## GitLab Messaging
 Understand how to connect the GitLab buyer pain points to your calls, email messaging & social strategies
 
-- [GitLab Elevator Pitch](/handbook/marketing/product-marketing/#elevator-pitch)
-- [Video: Successful Messaging](https://www.youtube.com/watch?v=8LDlcvOgn9w)
-- [Questions to Ask Yourself Before Sending an Email](/handbook/sales-training/#6-questions-sales-reps-should-but-dont-ask-themselves-before-sending-an-email-)
-- [How to Write the Perfect Sales Email](https://www.saleshacker.com/how-to-write-the-perfect-sales-email/)
-- [Voicemail Tips](https://blog.hubspot.com/sales/sales-voicemail-tips-that-guarantee-callbacks)
+- [GitLab Elevator Pitch](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/#elevator-pitch/index.html.md)
+- [Video: Successful Messaging](https://www.youtube.com/watch?v=8LDlcvOgn9w/index.html.md)
+- [Questions to Ask Yourself Before Sending an Email](https://github.com/isamu-isozaki/teamai_test/tree/master/sales-training/#6-questions-sales-reps-should-but-dont-ask-themselves-before-sending-an-email-/index.html.md)
+- [How to Write the Perfect Sales Email](https://www.saleshacker.com/how-to-write-the-perfect-sales-email/index.html.md/index.html.md)
+- [Voicemail Tips](https://blog.hubspot.com/sales/sales-voicemail-tips-that-guarantee-callbacks/index.html.md)
 
 ## When to Create an Opportunity
 
 Before a 0-Pending Acceptance opportunity can be created in Salesforce, the following criteria should be met:
 1. **Authority**
-  * What role does this person play in the decision process? (i.e. decision maker, influencer, etc.) OR is this someone that has a high-level pain and clear path to the decision maker? If so, great! The prospect meets the authority requirement for opportunity creation.
-2. **Need (not mandatory in some regions/inquiries)**
-  * Ideally, BDRs/SDRs should uncover an identified problem GitLab can solve OR a high-level pain and if so, the need requirement is filled. For the US West and East regions, this requirement is not mandatory provided the prospect fits our Buyer Persona (Authority) and is interested in a deeper conversation (Committed Next Step).
+  * What role does this person play in the decision process? (i.e. decision maker, influencer, etc./index.html.md) OR is this someone that has a high-level pain and clear path to the decision maker? If so, great! The prospect meets the authority requirement for opportunity creation.
+2. **Need (not mandatory in some regions/inquiries/index.html.md)**
+  * Ideally, BDRs/SDRs should uncover an identified problem GitLab can solve OR a high-level pain and if so, the need requirement is filled. For the US West and East regions, this requirement is not mandatory provided the prospect fits our Buyer Persona (Authority/index.html.md) and is interested in a deeper conversation (Committed Next Step/index.html.md).
 3. **Committed next step**
   * Is the prospect willing to schedule an introductory meeting to uncover more information and meet with a salesperson? If so, great! With this last step, follow in the instructions below to create an opportunity in salesforce.
 
@@ -79,26 +79,26 @@ You were successful and created an opportunity! Now what?
 The handoff can make or break an opportunity being accepted by sales. This simple but important step in passing the prospect to sales requires the following:
 * Send a follow-up email to both the prospect and SAL recapping the business needs of the prospect, any and all data captured on their current situation, confirming the day and time for the discovery call and letting the prospect know you will be sending a calendar invite with agenda shortly.
 * Send out a meeting invite to both the prospect and SAL, including an agenda for the meeting of what the prospect would like to talk about
-  * E.g., Mutual Introductions, Discuss (identified need, or whatever you gathered from your conversation), Discuss potential solutions, Next steps
+  * E.g., Mutual Introductions, Discuss (identified need, or whatever you gathered from your conversation/index.html.md), Discuss potential solutions, Next steps
 
 **Steps in Salesforce**
 
 ### Creating an Opportunity from the Contact Record
 
-* On the contact record, click on the New Opportunity button, enter all required fields: opportunity name ([see Opportunity Naming Convention](/handbook/sales-process/images_sales_process/#opportunity-naming-convention-)  for the correct format), stage, type, and close date. Update the contact role field (i.e. business user, champion, decision maker, influencer, evaluator). Next, change the opportunity owner to the account owner (SAL). Click the Save button.
-* When creating an opportunity from contacts that still need to be qualified make sure that the opportunities are opened in stage [`00-Pre Opportunity`](/handbook/business-ops/#opportunity-stages). Then in order to qualify the contact, use the qualification questions on the opportunity in the same manner that we use qualification questions on leads.
+* On the contact record, click on the New Opportunity button, enter all required fields: opportunity name ([see Opportunity Naming Convention](https://github.com/isamu-isozaki/teamai_test/tree/master/sales-process/images_sales_process/#opportunity-naming-convention-/index.html.md)  for the correct format/index.html.md), stage, type, and close date. Update the contact role field (i.e. business user, champion, decision maker, influencer, evaluator/index.html.md). Next, change the opportunity owner to the account owner (SAL/index.html.md). Click the Save button.
+* When creating an opportunity from contacts that still need to be qualified make sure that the opportunities are opened in stage [`00-Pre Opportunity`](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#opportunity-stages/index.html.md). Then in order to qualify the contact, use the qualification questions on the opportunity in the same manner that we use qualification questions on leads.
 * Within the opportunity record, click the Initial Qualifying Meeting button. Enter the required fields, and the description field with any notes you think the SAL should have before taking the scheduled meeting. Next, fill in the `Related To` section for both the contact and the opportunity. The last step is to change the `Assigned To` field to the same person you assigned the opportunity to. Click the Save button.
 
 ### Creating an Opportunity from the Lead Record
 
 * On the lead record, fill out the required qualification questions, add additional noted to the optional sections, if additional information has been gathered
-* On the lead record, click on the convert button, enter all required fields: opportunity name ([see Opportunity Naming Convention](/handbook/sales-process/images_sales_process/#opportunity-naming-convention-) for the correct format), stage, type, and close date. Update the contact role field (i.e., business user, champion, decision maker, influencer, evaluator). Next, change the opportunity owner to the account owner (AE, SAL). Click the Save button.
+* On the lead record, click on the convert button, enter all required fields: opportunity name ([see Opportunity Naming Convention](https://github.com/isamu-isozaki/teamai_test/tree/master/sales-process/images_sales_process/#opportunity-naming-convention-/index.html.md) for the correct format/index.html.md), stage, type, and close date. Update the contact role field (i.e., business user, champion, decision maker, influencer, evaluator/index.html.md). Next, change the opportunity owner to the account owner (AE, SAL/index.html.md). Click the Save button.
 * Within the opportunity record, click the Initial Qualifying Meeting button. Enter the required fields, and the description field with any notes you think the SAL should have before taking the scheduled meeting. Next, fill in the Related To section for both the contact and the opportunity. The last step is to change the Assigned To field to the same person you assigned the opportunity to. Click the Save button.
-* On the account record, be sure the [sales segmentation](/handbook/business-ops/#segmentation) is entered correctly
+* On the account record, be sure the [sales segmentation](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#segmentation/index.html.md) is entered correctly
 
 **Pending Acceptance**
 
-Your opportunity is now pending acceptance, after the initial meeting date, sales will either accept or reject your opportunity per the [SAO criteria](/handbook/business-ops/#criteria-for-sales-accepted-opportunity-sao) in the business operations handbook
+Your opportunity is now pending acceptance, after the initial meeting date, sales will either accept or reject your opportunity per the [SAO criteria](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#criteria-for-sales-accepted-opportunity-sao/index.html.md) in the business operations handbook
 
 * Attend the initial qualifying meeting, introduce the SAL to the prospect and hand the meeting off
 * Take notes in Salesforce and communicate with your SAL after the meeting
@@ -117,7 +117,7 @@ You  will be assigned a GitLab Onboarding Issue. If you complete the BDR/SDR onb
 Throughout the BDR/SDR onboarding program there are assessments to test your knowledge on the learned topics from that day/week’s training. These quizzes are sent to your team lead automatically upon completion. Upon receipt, your team lead will review and discuss with you your score during your 1:1 time. 
 
 **How to assign the assessments to a new hire**
-The team lead should notify the Marketing Operations Manager no later than one week before the new hire start date in order for the Marketo form (where the assesment templates live) to be updated to reflect the new hire name and corresponding team lead.
+The team lead should notify the Marketing Operations Manager no later than one week before the new hire start date in order for the Marketo form (where the assesment templates live/index.html.md) to be updated to reflect the new hire name and corresponding team lead.
 
 **Who are the results sent to and how do you know you passed?**
 The assessment results are sent to the team lead overseeing the onboarding and will be reviewed in your weekly 1:1s throughout the duration of your onboarding. If not complete after 30 days you will recieve a written warning and you have one additonal week to complete them.
@@ -125,77 +125,77 @@ The assessment results are sent to the team lead overseeing the onboarding and w
 
 ### Super Leaf Coin
 
-When you've successfully passed your onboarding test you will receive this Super Leaf Challenge Coin because you now have eaten [The Super Leaf](https://www.mariowiki.com/Super_Leaf).
+When you've successfully passed your onboarding test you will receive this Super Leaf Challenge Coin because you now have eaten [The Super Leaf](https://www.mariowiki.com/Super_Leaf/index.html.md).
 
-![Super Leaf Challenge Coin](img/super-leaf-challenge-coin.png)
+![Super Leaf Challenge Coin](img/super-leaf-challenge-coin.png/index.html.md)
 
-More info about why this skill is so helpful to the tanuki is explained in the first item on [this page](https://en.wikipedia.org/wiki/Japanese_raccoon_dog#In_popular_culture).
+More info about why this skill is so helpful to the tanuki is explained in the first item on [this page](https://en.wikipedia.org/wiki/Japanese_raccoon_dog#In_popular_culture/index.html.md).
 
 ### Process Resources
 
-- [Business Operations Handbook](/handbook/business-ops/)
-- [Marketing Handbook](/handbook/marketing/)
-- [Sales Handbook](/handbook/sales/)
-- [Customer Success Handbook](/handbook/customer-success/)
-- [Resellers Handbook](/handbook/resellers/)
-- [Support Handbook](/handbook/support/)
+- [Business Operations Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/index.html.md/index.html.md)
+- [Marketing Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/index.html.md/index.html.md)
+- [Sales Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/index.html.md/index.html.md)
+- [Customer Success Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/index.html.md/index.html.md)
+- [Resellers Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/resellers/index.html.md/index.html.md)
+- [Support Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/support/index.html.md/index.html.md)
 
 ### Product Resources
 
-- [GitLab Resources](/resources/)
-- [GitLab Blog](/blog/)
-- [GLU GitLab University](https://docs.gitlab.com/ee/university/)
-- [GitLab Primer](/primer/)
-- [Sales Qualification Questions](/handbook/sales-qualification-questions/)
-- [FAQ from Prospects](/handbook/sales-faq-from-prospects/)
-- [Platzi GitLab Workshop](https://courses.platzi.com/classes/git-gitlab/)
-- [GitLab Documentation](http://docs.gitlab.com/ee/)
-- [Version.gitlab](https://version.gitlab.com/users/sign_in)
-- [Customer Reference Sheet](https://docs.google.com/a/gitlab.com/spreadsheets/d/1Off9pVkc2krT90TyOEevmr4ZtTEmutMj8dLgCnIbhRs/edit?usp=sharing)
-- [Additional Training Resources](https://drive.google.com/drive/folders/0B1W9hTDXggO1NGJwMS12R09lakE)
+- [GitLab Resources](/resources/index.html.md/index.html.md)
+- [GitLab Blog](/blog/index.html.md/index.html.md)
+- [GLU GitLab University](https://docs.gitlab.com/ee/university/index.html.md/index.html.md)
+- [GitLab Primer](/primer/index.html.md/index.html.md)
+- [Sales Qualification Questions](https://github.com/isamu-isozaki/teamai_test/tree/master/sales-qualification-questions/index.html.md/index.html.md)
+- [FAQ from Prospects](https://github.com/isamu-isozaki/teamai_test/tree/master/sales-faq-from-prospects/index.html.md/index.html.md)
+- [Platzi GitLab Workshop](https://courses.platzi.com/classes/git-gitlab/index.html.md/index.html.md)
+- [GitLab Documentation](http://docs.gitlab.com/ee/index.html.md/index.html.md)
+- [Version.gitlab](https://version.gitlab.com/users/sign_in/index.html.md)
+- [Customer Reference Sheet](https://docs.google.com/a/gitlab.com/spreadsheets/d/1Off9pVkc2krT90TyOEevmr4ZtTEmutMj8dLgCnIbhRs/edit?usp=sharing/index.html.md)
+- [Additional Training Resources](https://drive.google.com/drive/folders/0B1W9hTDXggO1NGJwMS12R09lakE/index.html.md)
 
 ### Tools
 
-- [Tech Stack](/handbook/business-ops/#tech-stack)
-- [Tools and Tips](/handbook/tools-and-tips/)
-- [Getting Started with Slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members)
-- [Outreach University](https://university.outreach.io/)
+- [Tech Stack](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#tech-stack/index.html.md)
+- [Tools and Tips](https://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/index.html.md/index.html.md)
+- [Getting Started with Slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members/index.html.md)
+- [Outreach University](https://university.outreach.io/index.html.md/index.html.md)
 - How to Use Outreach - updated process coming soon
-- [Outreach Killer Content & Using Sequences](https://university.outreach.io/live-training/80859)
-- [Outreach Executing Tasks with Precision](https://university.outreach.io/live-training/80896)
-- [Video: Outreach Advanced Training](https://drive.google.com/open?id=0BxIvWVJUiX7AZGNWdEZ5MHpCOHc)
-- [Drift Agent Training Guide](https://help.drift.com/getting-started/drift-agent-training-guide)
-- [Salesforce Trailhead Training](https://www.salesforce.com/services/training/overview/)
-- [Video: LinkedIn Sales Navigator Training](https://www.youtube.com/watch?v=jxPw_pXqd2s&feature=youtu.be)
-- [Drift Agent Training Guide](https://help.drift.com/getting-started/drift-agent-training-guide)
-- [Drift Starter Guide](https://help.drift.com/getting-started/228660-the-ultimate-drift-starter-guide-for-sales-teams)
+- [Outreach Killer Content & Using Sequences](https://university.outreach.io/live-training/80859/index.html.md)
+- [Outreach Executing Tasks with Precision](https://university.outreach.io/live-training/80896/index.html.md)
+- [Video: Outreach Advanced Training](https://drive.google.com/open?id=0BxIvWVJUiX7AZGNWdEZ5MHpCOHc/index.html.md)
+- [Drift Agent Training Guide](https://help.drift.com/getting-started/drift-agent-training-guide/index.html.md)
+- [Salesforce Trailhead Training](https://www.salesforce.com/services/training/overview/index.html.md/index.html.md)
+- [Video: LinkedIn Sales Navigator Training](https://www.youtube.com/watch?v=jxPw_pXqd2s&feature=youtu.be/index.html.md)
+- [Drift Agent Training Guide](https://help.drift.com/getting-started/drift-agent-training-guide/index.html.md)
+- [Drift Starter Guide](https://help.drift.com/getting-started/228660-the-ultimate-drift-starter-guide-for-sales-teams/index.html.md)
 
 ### Personal Development
-- [Video: Time Management for Sales Development Success](https://www.youtube.com/watch?v=bA_xdjwAfZM&feature=youtu.be)
-- [Video: How to Boost Your Business Acumen](https://www.youtube.com/watch?v=-h6XciVfraI)
-- [Video: Business Acumen for Sales Professionals](https://www.youtube.com/watch?v=XRt9RIvxUTA)
-- [Fanatical Prospecting](https://www.amazon.com/Fanatical-Prospecting-Jeb-Blount/dp/8126560053/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-- [Predictable Revenue](https://www.amazon.com/Predictable-Revenue-Business-Practices-Salesforce-com/dp/0984380213)
-- [Predictable Prospecting: How to Radically Increase for B2B Sales Pipeline](https://www.amazon.com/Predictable-Prospecting-Radically-Increase-Pipeline/dp/1259835642/ref=sr_1_3?ie=UTF8&qid=1516560864&sr=8-3&keywords=prospecting)
-- [The Challenger Sale](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355/ref=sr_1_1?ie=UTF8&qid=1516740978&sr=8-1&keywords=the+challenger+sale)
-- [The Challenger Customer](https://www.amazon.com/Challenger-Customer-Selling-Influencer-Multiply/dp/1591848156/ref=sr_1_3?ie=UTF8&qid=1516740978&sr=8-3&keywords=the+challenger+sale)
-- [Smart Calling: Eliminate the Fear, Failure, and Rejection from Cold Calling](https://www.amazon.com/Smart-Calling-Eliminate-Failure-Rejection-ebook/dp/B00C2BR56W)
-- [Sales EQ: How Ultra High Preformers Leverage Sales-Specific Emotional Intelligence to Close the Complex Deal](https://www.amazon.com/Sales-Performers-Sales-Specific-Emotional-Intelligence/dp/B073HH4WPR/ref=sr_1_36?ie=UTF8&qid=1516560951&sr=8-36&keywords=prospecting)
-- [High Profit Prospecting: Powerful Strategies to Find the Best Leads and Drive Breakthrough Sales Results](https://www.amazon.com/High-Profit-Prospecting-Powerful-Strategies-Breakthrough/dp/0814437761/ref=sr_1_4?ie=UTF8&qid=1516560899&sr=8-4&keywords=prospecting)
-- [New Sales. Simplified.: The Essential Handbook for Prospecting and New Business Development](https://www.amazon.com/New-Sales-Simplified-Prospecting-Development-ebook/dp/B0094J7S9Y/ref=sr_1_2?ie=UTF8&qid=1516560864&sr=8-2&keywords=prospecting)
-- [Hacker News](https://news.ycombinator.com/)
-- [Martin Fowler](https://martinfowler.com/)
-- [The New Stack](https://thenewstack.io/)
-- [Top 13 DevOps Blogs You Should Be Reading](https://stackify.com/top-devops-blogs/)
+- [Video: Time Management for Sales Development Success](https://www.youtube.com/watch?v=bA_xdjwAfZM&feature=youtu.be/index.html.md)
+- [Video: How to Boost Your Business Acumen](https://www.youtube.com/watch?v=-h6XciVfraI/index.html.md)
+- [Video: Business Acumen for Sales Professionals](https://www.youtube.com/watch?v=XRt9RIvxUTA/index.html.md)
+- [Fanatical Prospecting](https://www.amazon.com/Fanatical-Prospecting-Jeb-Blount/dp/8126560053/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=/index.html.md)
+- [Predictable Revenue](https://www.amazon.com/Predictable-Revenue-Business-Practices-Salesforce-com/dp/0984380213/index.html.md)
+- [Predictable Prospecting: How to Radically Increase for B2B Sales Pipeline](https://www.amazon.com/Predictable-Prospecting-Radically-Increase-Pipeline/dp/1259835642/ref=sr_1_3?ie=UTF8&qid=1516560864&sr=8-3&keywords=prospecting/index.html.md)
+- [The Challenger Sale](https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355/ref=sr_1_1?ie=UTF8&qid=1516740978&sr=8-1&keywords=the+challenger+sale/index.html.md)
+- [The Challenger Customer](https://www.amazon.com/Challenger-Customer-Selling-Influencer-Multiply/dp/1591848156/ref=sr_1_3?ie=UTF8&qid=1516740978&sr=8-3&keywords=the+challenger+sale/index.html.md)
+- [Smart Calling: Eliminate the Fear, Failure, and Rejection from Cold Calling](https://www.amazon.com/Smart-Calling-Eliminate-Failure-Rejection-ebook/dp/B00C2BR56W/index.html.md)
+- [Sales EQ: How Ultra High Preformers Leverage Sales-Specific Emotional Intelligence to Close the Complex Deal](https://www.amazon.com/Sales-Performers-Sales-Specific-Emotional-Intelligence/dp/B073HH4WPR/ref=sr_1_36?ie=UTF8&qid=1516560951&sr=8-36&keywords=prospecting/index.html.md)
+- [High Profit Prospecting: Powerful Strategies to Find the Best Leads and Drive Breakthrough Sales Results](https://www.amazon.com/High-Profit-Prospecting-Powerful-Strategies-Breakthrough/dp/0814437761/ref=sr_1_4?ie=UTF8&qid=1516560899&sr=8-4&keywords=prospecting/index.html.md)
+- [New Sales. Simplified.: The Essential Handbook for Prospecting and New Business Development](https://www.amazon.com/New-Sales-Simplified-Prospecting-Development-ebook/dp/B0094J7S9Y/ref=sr_1_2?ie=UTF8&qid=1516560864&sr=8-2&keywords=prospecting/index.html.md)
+- [Hacker News](https://news.ycombinator.com/index.html.md/index.html.md)
+- [Martin Fowler](https://martinfowler.com/index.html.md/index.html.md)
+- [The New Stack](https://thenewstack.io/index.html.md/index.html.md)
+- [Top 13 DevOps Blogs You Should Be Reading](https://stackify.com/top-devops-blogs/index.html.md/index.html.md)
 
 ## BDR & SDR Team Lead
 
 ### Weekly 1:1
 - Current progress of onboarding program, if applicable
-- Mental check-in (winning & success)
+- Mental check-in (winning & success/index.html.md)
 - Dashboard update & metrics overview
 - Current prioritization & goals
-- Coaching - email strategy, tools, campaigns, cadence, best practices (review recordings, if applicable)
+- Coaching - email strategy, tools, campaigns, cadence, best practices (review recordings, if applicable/index.html.md)
 - Review goals at the account level and personal level
 - Follow up on action items from past meetings
 - Upcoming events/campaigns that can be leveraged
@@ -207,7 +207,7 @@ More info about why this skill is so helpful to the tanuki is explained in the f
 ## Asking questions
 
 Don't hesitate to ping one of your colleagues with a question, or someone on the team who specializes in what you're searching for. Everyone is happy to help, and it's better to get your work done faster with your team, than being held up at a road block.
-- [Who to Talk to for What](/handbook/product/#who-to-talk-to-for-what)
+- [Who to Talk to for What](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#who-to-talk-to-for-what/index.html.md)
 
 ## Referring People to the Sales and Business Development Teams
 
@@ -229,35 +229,35 @@ Best,
 
 {:toc}
 
-[Video: Welcome to the Business Development Team](https://www.youtube.com/watch?v=dGbyVPSz9qY)
+[Video: Welcome to the Business Development Team](https://www.youtube.com/watch?v=dGbyVPSz9qY/index.html.md)
 
 ## BDR Standards
-- Meet monthly quota of Sales Accepted Opportunities (SAOs)
+- Meet monthly quota of Sales Accepted Opportunities (SAOs/index.html.md)
 - Strategize to develop the proper qualifying questions for all types of prospective customers.
 - Be able to identify where a prospective customer is in their buying cycle and take appropriate action to help them along their journey towards becoming a customer.
 - Have a sense of urgency - faster response time directly influences conversion rates.
-- Generate Sales Accepted Opportunities (SAOs)
+- Generate Sales Accepted Opportunities (SAOs/index.html.md)
 - Work lead records within Salesforce
 - Maintain sense of ownership over data integrity & consistent activity logging
 - Do not touch any lead that has activity on it within the last 60 days by a different BDR.
 
 ### Flow
-![BDR Process Flow](/images/handbook/marketing/bdrFlow.png){: .shadow}
+![BDR Process Flow](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/marketing/bdrFlow.png/index.html.md){: .shadow}
 
 It is imperative that you have an understanding of the following concepts to work effectively. Please be sure to review the following resources:
 
-[Glossary](/handbook/business-ops/#glossary)
+[Glossary](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#glossary/index.html.md)
 
-[Customer Lifecycle](/handbook/business-ops/#customer-lifecycle/)
+[Customer Lifecycle](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#customer-lifecycle/index.html.md/index.html.md)
 
-[Lead Management](/handbook/business-ops/#lead-management)
+[Lead Management](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#lead-management/index.html.md)
 
-[Video: Lead/Contact Management - Disposition Status](https://www.youtube.com/watch?v=lLHax2VPqdE&feature=youtu.be)
+[Video: Lead/Contact Management - Disposition Status](https://www.youtube.com/watch?v=lLHax2VPqdE&feature=youtu.be/index.html.md)
 
-[Rules of Engagement](/handbook/business-ops/#rules-of-engagement)
+[Rules of Engagement](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#rules-of-engagement/index.html.md)
 
 ## BDR Lead Research
-[Video: Lead Research/Management in Salesforce](https://www.youtube.com/watch?v=rlPj7ZN61_0)   
+[Video: Lead Research/Management in Salesforce](https://www.youtube.com/watch?v=rlPj7ZN61_0/index.html.md)   
 Researching leads is an important first step. Not only can you leverage the information to build a rapport, but it will ensure data integrity.
 
 **Personalized message research help and example:**
@@ -283,15 +283,15 @@ Three things in three minutes about the Organization, Industry, and Prospect
    *  Marketo Sales Insight
      * Interesting Moments
      * Web Activity
-     * Emails (sent from Marketo)
+     * Emails (sent from Marketo/index.html.md)
 
 **LinkedIn Sales Navigator**
-* Confirm [Sales Segmentation](/handbook/business-ops/#segmentation) by determining `Total Employee` count for buiness.
+* Confirm [Sales Segmentation](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#segmentation/index.html.md) by determining `Total Employee` count for buiness.
 * Person Summary
 * Does anything stand out that is relevant to their needs as an organization?
 * Have they published any articles that would be worth referencing?
 * What is the lead’s role and how does that affect your messaging?
-   * [Buyer personas](/handbook/marketing/marketing-sales-development/sdr/#gitlab-buyer)
+   * [Buyer personas](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/marketing-sales-development/sdr/#gitlab-buyer/index.html.md)
 * Previous work
    * Any Gitlab Customers that you can reference?
 * Are they connected to anyone at GitLab for a possible introduction?
@@ -299,11 +299,11 @@ Three things in three minutes about the Organization, Industry, and Prospect
 **Company Website**
 - Mission Statement
 - Press Releases/Newsroom
-- (ctrl F) search for keywords
+- (ctrl F/index.html.md) search for keywords
 
 ## BDR Lead Management
 Please be sure to update the following fields to ensure accuaracy:
-- First and Last name (be sure this is capalitalized)
+- First and Last name (be sure this is capalitalized/index.html.md)
 - Title
 - Total Employee count
 - Sales Segmentation
@@ -319,7 +319,7 @@ Please be sure to update the following fields to ensure accuaracy:
  
 - - End user company name/address:
 - - End user contact/email address:
-[Template in outreach](https://app1a.outreach.io/templates/814https://app1a.outreach.io/templates/814)
+[Template in outreach](https://app1a.outreach.io/templates/814https://app1a.outreach.io/templates/814/index.html.md)
 - Create new lead record with end user details
 - - Ensure that all notes are copied over to new lead.
 - Determine who the opportunity will be routed to based on the end user details
@@ -328,26 +328,26 @@ Please be sure to update the following fields to ensure accuaracy:
 At GitLab, the top performing BDRs consistently follow up, experiment with a mix of calls, personalized emails, and non-traditional touch points in their prospecting cadence.
 
 ### Live Chat
-We use a live chat tool - [Drift](https://help.drift.com/getting-started/drift-agent-training-guide) - to facilitate two-way conversations with website visitors. As a BDR, you are expected to be active on Drift during your shift, with the exception of those times when you have to walk away or are taking a break. It is important to maintain a sense of urgency while watching the chat queue, sure to not miss any incoming inquiries.
+We use a live chat tool - [Drift](https://help.drift.com/getting-started/drift-agent-training-guide/index.html.md) - to facilitate two-way conversations with website visitors. As a BDR, you are expected to be active on Drift during your shift, with the exception of those times when you have to walk away or are taking a break. It is important to maintain a sense of urgency while watching the chat queue, sure to not miss any incoming inquiries.
 
-See also: [Drift Starter Guide for Sales Teams](https://help.drift.com/getting-started/228660-the-ultimate-drift-starter-guide-for-sales-teams)
+See also: [Drift Starter Guide for Sales Teams](https://help.drift.com/getting-started/228660-the-ultimate-drift-starter-guide-for-sales-teams/index.html.md)
 
 #### Drift Best Practices
-You can see who else is online by viewing the [GitLab Team Profile](https://gitlabteam.drift.com/).
+You can see who else is online by viewing the [GitLab Team Profile](https://gitlabteam.drift.com/index.html.md/index.html.md).
 
 Notification settings:
-- Go to `Browser Preferences` and select “Only conversations I’m in”.
+- Go to `Browser Preferences` and select “Only conversations I’m in�.
 - Desktop notifications will pop up every time you are added to the conversation.
 
-When you are logged in and ready to chat, change your status to active by clicking “Turn off Away mode”
+When you are logged in and ready to chat, change your status to active by clicking “Turn off Away mode�
 
 Pushing Conversation to Salesforce.com:
-- Closing conversation when lead is qualified pushes conversation to Salesforce.com (either a new lead is created or conversation is attached to existing record).
+- Closing conversation when lead is qualified pushes conversation to Salesforce.com (either a new lead is created or conversation is attached to existing record/index.html.md).
 - If you want to follow up with the site visitor, close the conversation, find record in SFDC and update necessary information.
 
 Logging off:
 - Go through all open conversations, mark the chats `Unqualified` if you are not following up with the site visitor, and close the conversation.
-- “Set yourself to away” and close out window.
+- “Set yourself to away� and close out window.
 
 Conversation flow:
 - Be helpful, but don’t allow yourself to become technical support. Refer to support as a paid feature, if necessary. 
@@ -355,14 +355,14 @@ Conversation flow:
 - If the record is already assigned in Salesforce, alert the record owner and have them join the conversation, if possible.
 
 Minor notes:
-- If you leave the Drift page in your web browser, do not use the “back” button to return. The page will not be current. Follow a link or a bookmark. Be sure to hit the refresh button if you choose to use the “back” button. 
+- If you leave the Drift page in your web browser, do not use the “back� button to return. The page will not be current. Follow a link or a bookmark. Be sure to hit the refresh button if you choose to use the “back� button. 
 - Drift conversations can be shared with others by copying the URL of the selected chat.
 
 
 ### Email
 Tips
 - Studies show that Executives read emails in the morning
-- Expect to be forwarded to the right person (Always ask)
+- Expect to be forwarded to the right person (Always ask/index.html.md)
 - Keep emails 90 words or less
 - Break into readable stanzas
 - Always be specific and tailored
@@ -373,31 +373,31 @@ Tips
 3. Opening stanza
     - Make it about them, not about you
 4. Benefit and value proposition
-5. Call to action (CTA)
+5. Call to action (CTA/index.html.md)
     - Offer available times for a meeting/call
     - Create urgency
 
 ### Working with Trials
-During a trial, a prospect is automatically enrolled into a Marketo nurture stream for both self-hosted and SaaS products. The content of the nurture differs between a self-hosted Enterprise and a SaaS trial. Details of the self-hosted Enterprise Nuture can be found in this [Google presentation](https://docs.google.com/presentation/d/1KSAZFwz3nvSTIXOP8urGWW6dJWhtpawVKFcaoFLDPdg/edit#slide=id.g2ae1ad1112_0_22) (must be signed into GitLab account to view). Details of SaaS trial are being finalized and will be added to the handbook in near future. 
+During a trial, a prospect is automatically enrolled into a Marketo nurture stream for both self-hosted and SaaS products. The content of the nurture differs between a self-hosted Enterprise and a SaaS trial. Details of the self-hosted Enterprise Nuture can be found in this [Google presentation](https://docs.google.com/presentation/d/1KSAZFwz3nvSTIXOP8urGWW6dJWhtpawVKFcaoFLDPdg/edit#slide=id.g2ae1ad1112_0_22/index.html.md) (must be signed into GitLab account to view/index.html.md). Details of SaaS trial are being finalized and will be added to the handbook in near future. 
 
-You have access to and are expected to use (and customize) the [Enterprise master sequences](https://app1a.outreach.io/sequences?smart_view=202) in Outreach for measureable follow up to self-hosted Enterprise trial records.
-[Automated-NORAM](https://app1a.outreach.io/sequences/1166)
-[Automated-EMEA](https://app1a.outreach.io/sequences/1168)
-[Personalized, w/Phone-NORAM](https://app1a.outreach.io/sequences/1281)
-[Personalized, w/out Phone-NORAM](https://app1a.outreach.io/sequences/1280)
+You have access to and are expected to use (and customize/index.html.md) the [Enterprise master sequences](https://app1a.outreach.io/sequences?smart_view=202/index.html.md) in Outreach for measureable follow up to self-hosted Enterprise trial records.
+[Automated-NORAM](https://app1a.outreach.io/sequences/1166/index.html.md)
+[Automated-EMEA](https://app1a.outreach.io/sequences/1168/index.html.md)
+[Personalized, w/Phone-NORAM](https://app1a.outreach.io/sequences/1281/index.html.md)
+[Personalized, w/out Phone-NORAM](https://app1a.outreach.io/sequences/1280/index.html.md)
 
 ### BDR Calling
-[Video: Best Practices for Opening Calls](https://www.youtube.com/watch?v=jR1RGSBHo5Q&feature=youtu.be)
+[Video: Best Practices for Opening Calls](https://www.youtube.com/watch?v=jR1RGSBHo5Q&feature=youtu.be/index.html.md)
 
-[Video: Best Practices for Asking Questions](https://www.youtube.com/watch?v=Lv4nozScm-M)
+[Video: Best Practices for Asking Questions](https://www.youtube.com/watch?v=Lv4nozScm-M/index.html.md)
 
 - Call about them, not about you
 - Be confident and passionate
 - Aim for every role but focus on technical decision makers
 - Ask for time
-- Focus on your endgame: Sales Accepted Opportunities (SAO)
+- Focus on your endgame: Sales Accepted Opportunities (SAO/index.html.md)
 - Make it easy to say yes
-- Obtain a commitment - [Video: Best Practices for Closing for Appointments](https://www.youtube.com/watch?v=FfUfmguwki4&feature=youtu.be)
+- Obtain a commitment - [Video: Best Practices for Closing for Appointments](https://www.youtube.com/watch?v=FfUfmguwki4&feature=youtu.be/index.html.md)
 
 ### BDR Prospecting Call Structure
 - Introduction
@@ -409,21 +409,21 @@ You have access to and are expected to use (and customize) the [Enterprise maste
 - Commitments
 
 ### Warm Prospecting Call Example
-Purpose: To qualify leads faster and more accurately (Sales Acceptance Criteria) than in an email exchange.
+Purpose: To qualify leads faster and more accurately (Sales Acceptance Criteria/index.html.md) than in an email exchange.
 
 Process: In your reply message to set up/initiate a call, ask a few of your normal BDR questions to prep for the call. To save a step in emails include your Calendly link so leads may schedule the call directly.
 
-    “Hi (lead name), this is (BDR) from GitLab. How are you today?”
+    “Hi (lead name/index.html.md), this is (BDR/index.html.md) from GitLab. How are you today?�
 
-    “Great, is now still a good time to talk about (primary issue)?”
+    “Great, is now still a good time to talk about (primary issue/index.html.md)?�
 
 After you’ve established the conversation is good to move forward, ask questions and guide the conversation in a way that enables the lead to tell you what their issue/problem is while also providing answers to the sales acceptance criteria. Your primary role is to gather information, and decide more appropriately how to provide assistance and/or qualify the lead for a call with an AE.
 
-    “Great (lead name), thank you for sharing that information. I have a better feel now for how to move forward with your request/issue. I’m going to follow-up with an email recapping what we discussed, send over that documentation I promised and get you in touch with (account executive)”
+    “Great (lead name/index.html.md), thank you for sharing that information. I have a better feel now for how to move forward with your request/issue. I’m going to follow-up with an email recapping what we discussed, send over that documentation I promised and get you in touch with (account executive/index.html.md)�
 
 ### Qualifying
-[Video: Best Practices for Closing for Appointments](https://www.youtube.com/watch?v=FfUfmguwki4&feature=youtu.be)  
-Your goal is to generate Sales Accepted Opportunities (SAOs) by gathering all pertinent information needed for an Account Executive to take action. Some examples of sales qualification questions can be found [here](/handbook/sales-qualification-questions/).
+[Video: Best Practices for Closing for Appointments](https://www.youtube.com/watch?v=FfUfmguwki4&feature=youtu.be/index.html.md)  
+Your goal is to generate Sales Accepted Opportunities (SAOs/index.html.md) by gathering all pertinent information needed for an Account Executive to take action. Some examples of sales qualification questions can be found [here](https://github.com/isamu-isozaki/teamai_test/tree/master/sales-qualification-questions/index.html.md/index.html.md).
 
 ## BDR Compensation and Quota
 
@@ -434,12 +434,12 @@ Actions for obtaining results will be prescribed and measured, but are intention
 
 - Team and individual quotas are based on GitLab's revenue targets
 - Quotas will be made known by having each BDR sign a participant form that clearly lays out quarterly quotas that match the company's revenue plan
-- Bonuses are based solely on sales accepted opportunities generated. Guidelines for a [sales accepted opportunity](/handbook/business-ops/#criteria-for-sales-accepted-opportunity-sao)
+- Bonuses are based solely on sales accepted opportunities generated. Guidelines for a [sales accepted opportunity](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#criteria-for-sales-accepted-opportunity-sao/index.html.md)
 - Compensation will be paid monthly by the end of the following month.
 
 There is an accelerator for BDRs who deliver over their SAO quota. SAOs are paid out based on progressive tiers of quota attainment:
 
-* Base tier, 0-100%: Base Rate Payment (Monthly Variable @ Target/quota)
+* Base tier, 0-100%: Base Rate Payment (Monthly Variable @ Target/quota/index.html.md)
 * Accelerator 1, 101%-200%: 1.1 times Base Rate Payment in excess of Quota
 * Accelerator 2, > 200%: 1.5 times Base Rate Payment in excess of Accelerator 1
 * There is no floor
@@ -475,17 +475,17 @@ The goal of the SMB Customer Advocate team is to support SMB prospects and custo
 
 ## How to SDR
 
-[Video: Welcome to the GitLab Sales Development Team](https://www.youtube.com/watch?v=ESZtmKUn9QY&feature=youtu.be)
+[Video: Welcome to the GitLab Sales Development Team](https://www.youtube.com/watch?v=ESZtmKUn9QY&feature=youtu.be/index.html.md)
 
-As an Outbound Sales Development Representative (SDR), you will be responsible for one of the most difficult and important parts of growing a business: outbound prospecting. You play a crucial role that helps bridge the gap between sales and marketing. You will be tasked with generating sales accepted opportunities within our large account segment.
+As an Outbound Sales Development Representative (SDR/index.html.md), you will be responsible for one of the most difficult and important parts of growing a business: outbound prospecting. You play a crucial role that helps bridge the gap between sales and marketing. You will be tasked with generating sales accepted opportunities within our large account segment.
 
-Getting started, you'll work closely with your Strategic Account Leader (SAL) to strategize which accounts to focus on as well as the potential entry points into those accounts. From there you will work on your own to further research and understanding the account, their business, their initiatives and other related details. Next you will hunt for and identify prospects that have a role in making software development tooling decisions as well as the various avenues through which you could communicate with these prospects. Utilizing all of this research you’ll then strategically communicate GitLab's value with your prospects, as well as the value of taking a meeting with GitLab for a product overview.
+Getting started, you'll work closely with your Strategic Account Leader (SAL/index.html.md) to strategize which accounts to focus on as well as the potential entry points into those accounts. From there you will work on your own to further research and understanding the account, their business, their initiatives and other related details. Next you will hunt for and identify prospects that have a role in making software development tooling decisions as well as the various avenues through which you could communicate with these prospects. Utilizing all of this research you’ll then strategically communicate GitLab's value with your prospects, as well as the value of taking a meeting with GitLab for a product overview.
 
 
 ### SDR Expectations
 
-[Video: SDR Expectations & Metrics](https://www.youtube.com/watch?v=h2zd8BYQwhM)
-* Meet monthly quota of Sales Accepted Opportunities (SAOs)
+[Video: SDR Expectations & Metrics](https://www.youtube.com/watch?v=h2zd8BYQwhM/index.html.md)
+* Meet monthly quota of Sales Accepted Opportunities (SAOs/index.html.md)
 * Exceptional Salesforce hygiene, logging all prospecting activity, opportunity creation
 * Maintaining a high sense of autonomy to focus on what's most important; created and sales accepted opportunities
 * Attendance in each initial qualifying meeting created - documenting notes and communicating with your SAL after the meeting
@@ -493,7 +493,7 @@ Getting started, you'll work closely with your Strategic Account Leader (SAL) to
 
 ### Working with Account Executives
 
-Strategic Account Executives (SALs) receive support from the Outbound SDR team. Meeting cadence consist of the following:
+Strategic Account Executives (SALs/index.html.md) receive support from the Outbound SDR team. Meeting cadence consist of the following:
 
 - **Initial kick-off meeting**: Time - 1 hour; Discuss strategy, accounts, and schedules
 - **Weekly Status Meeting**: Time - 30 minutes; Discuss initial meetings, opportunities, and prospecting strategy
@@ -501,16 +501,16 @@ Strategic Account Executives (SALs) receive support from the Outbound SDR team. 
 
 Additional ad-hoc meetings may be scheduled in addition to the above.
 
-Strategic Account Leaders (SALs) have direct impact on the Outbound SDR's success. It is very important to form a strong partnership to as you begin your prospecting efforts. The SALs you work with will know a lot about the accounts you are prospecting into, so be sure to communicate regularly to ensure you are as effective as possible.
+Strategic Account Leaders (SALs/index.html.md) have direct impact on the Outbound SDR's success. It is very important to form a strong partnership to as you begin your prospecting efforts. The SALs you work with will know a lot about the accounts you are prospecting into, so be sure to communicate regularly to ensure you are as effective as possible.
 
 ### Preparing for Field Events
 
-Book face to face meetings at [Field Events](/handbook/marketing/marketing-sales-development/field-marketing/#event-outreach) 
+Book face to face meetings at [Field Events](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/marketing-sales-development/field-marketing/#event-outreach/index.html.md) 
 
 ## SDR Compensation and Quota
 
 SDR’s total compensation is based on two key metrics:
-* Sales Accepted Opportunities (SAOs)
+* Sales Accepted Opportunities (SAOs/index.html.md)
 * Closed won business from SAOs - 1% commission for any closed won opportunity produced, **so as long as the rep is employed as a SDR by GitLab.**
 
 Quota is based solely on SAOs. Think of the 1% commission on opportunities you source that a sales person subsequently closes and wins as an added bonus. To be paid on your closed won business, your activity should clearly depict that your prospecting work sourced the opportunity.
@@ -527,8 +527,8 @@ There is an accelerator for SDRs who deliver over their SAO quota. The accelerat
 
 Below are reports from Salesforce that GitLab leadership uses to see all the Outbound created and sales accepted opportunities. If you believe an opportunity you sourced is not reflected in the reporting, notify your manager.
 
-* [Outbound SDR created opportunities](https://na34.salesforce.com/00O61000003nmhe)
-* [Outbound SDR sales accepted opportunities](https://na34.salesforce.com/00O61000003nmhU?dbw=1)
+* [Outbound SDR created opportunities](https://na34.salesforce.com/00O61000003nmhe/index.html.md)
+* [Outbound SDR sales accepted opportunities](https://na34.salesforce.com/00O61000003nmhU?dbw=1/index.html.md)
 
 **SDRs will also be measured on the following:**
 
@@ -592,19 +592,19 @@ Three things in three minutes about the Organization, Industry, Prospect
   * Mission statement
   * Press releases/Newsroom
   * Major IT Initiatives
-  * (ctrl F) search for keywords
+  * (ctrl F/index.html.md) search for keywords
   * Navigate to "Jobs" page and look for job description for developers, look what tools they require to hire a developer, this will give you and idea of how their tool stack can look like.
 
 ## Outbound Prospecting - The Outreach
-At GitLab, the top performing SDRs consistently make and send out a high volume of phone calls and personalized emails in their prospecting efforts. Social Selling and general creativity around prospecting activities is highly encouraged and often leads to more success. In example; SDRs will all be provided a license to Vidyard [(download it here)](https://www.vidyard.com/govideo/).
+At GitLab, the top performing SDRs consistently make and send out a high volume of phone calls and personalized emails in their prospecting efforts. Social Selling and general creativity around prospecting activities is highly encouraged and often leads to more success. In example; SDRs will all be provided a license to Vidyard [(download it here/index.html.md)](https://www.vidyard.com/govideo/index.html.md/index.html.md).
 
 In the spirit of GitLab's vision: "Everyone can contribute", GitLab SDR's will be expected lead, participate and contribute in regular discussions around new creative ways to engage our prospective customers. When calling into Europe, be mindful of GDPR and only email contacts whose `GDPR Compliant` boxes are checked in SFDC; Also, all Discover.Org contacts are GDPR opt in. 
 
-[Video: Sample Vidyard Video for a prospect](https://share.vidyard.com/watch/HyoPfVvUJtpduNSXYtbQgP)
+[Video: Sample Vidyard Video for a prospect](https://share.vidyard.com/watch/HyoPfVvUJtpduNSXYtbQgP/index.html.md)
 
-[Video: Best Practices for Opening Calls](https://www.youtube.com/watch?v=jR1RGSBHo5Q&feature=youtu.be)
+[Video: Best Practices for Opening Calls](https://www.youtube.com/watch?v=jR1RGSBHo5Q&feature=youtu.be/index.html.md)
 
-[Video: Best Practices for Asking Questions](https://www.youtube.com/watch?v=Lv4nozScm-M)
+[Video: Best Practices for Asking Questions](https://www.youtube.com/watch?v=Lv4nozScm-M/index.html.md)
 
 ### Cold Calling
 
@@ -628,7 +628,7 @@ With all the technology available to you as a SDR here at GitLab there really is
 * Obtain the commitment, ask for the meeting, come prepared with a few times off hand that work for you and be specific
 
 ### SDR Objection Handling
-[Video: Objection Handling Techniques](https://www.youtube.com/watch?v=Q_RnXedP0JI)
+[Video: Objection Handling Techniques](https://www.youtube.com/watch?v=Q_RnXedP0JI/index.html.md)
 
 **Dealing with rejection over the phone**
 * You will be told "no" a lot. Don't let this bother you, ask yourself after every call; "What could I have done better or differently?" Then gather yourself and approach the next call.
@@ -637,13 +637,13 @@ With all the technology available to you as a SDR here at GitLab there really is
 **3 No Rule**
 
 **A- Approach/Intro**
-* Hi (prospect's name), this is (your name) calling with GitLab
+* Hi (prospect's name/index.html.md), this is (your name/index.html.md) calling with GitLab
     * ...I know you weren't expecting my call... so I will be brief OR ...do you have a few minutes?
     * ...Did I catch you at an okay time?
     * ...have you hear of GitLab?
 
-**B- Brief Initial Benefit Statement (The Why)**
-* I recently (read/saw/spoke to/understand) that (something you found in your pre call research)...
+**B- Brief Initial Benefit Statement (The Why/index.html.md)**
+* I recently (read/saw/spoke to/understand/index.html.md) that (something you found in your pre call research/index.html.md)...
     * The purpose of my call is...
     * ...While I have you on the phone, I had a couple of quick questions...
 
@@ -653,17 +653,17 @@ With all the technology available to you as a SDR here at GitLab there really is
     * "Yes"
         * Where did you hear about it?
         * Have you used it before?
-    * What are you using for... (topic of your initial benefit statement)?
+    * What are you using for... (topic of your initial benefit statement/index.html.md)?
     * What do you like about X tool?
     * Anything you would change about X tool if you could?
 
 **D- Why Now?**
 * After you have found an area to add value to:
-    * Give initial benefit statement (focusing on how we can help them, give examples, share case studies)
+    * Give initial benefit statement (focusing on how we can help them, give examples, share case studies/index.html.md)
     * Recommend next steps based on identified need, pain, and goals
     * Be confident, assumptive, and consultative
 
-**E- Obtaining the commitment** - [Video: Best Practices for Closing for Appointments](https://www.youtube.com/watch?v=FfUfmguwki4&feature=youtu.be)
+**E- Obtaining the commitment** - [Video: Best Practices for Closing for Appointments](https://www.youtube.com/watch?v=FfUfmguwki4&feature=youtu.be/index.html.md)
 * Meeting first - If they object, bring up the need, pain and goals that you have identified, reposition yourself and ask again if they could get X value, would it be worth a 5-10 minute call?
 * Why not?
     * if still a "no" suggest they attend or watch a recorded webinar on our product

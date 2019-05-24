@@ -7,9 +7,9 @@ This short quiz is about general aspects related to GitLab. They are open questi
 
 1. What is the difference between GitLab Core and GitLab's paid tiers?
 
-1. What is the meaning of “on-premises software”?
+1. What is the meaning of “on-premises software�?
 
-1. What does “open source” mean?
+1. What does “open source� mean?
 
 1. What is the difference between GitLab and GitLab.com?
 

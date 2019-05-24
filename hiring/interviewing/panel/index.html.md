@@ -13,7 +13,7 @@ title: "Panel Interviews"
 
 When a candidate gets the opportunity to interview with more than one member of
 the hiring team at once, this is called a _panel_ interview (as they speak with
-a panel of interviewers). For candidates, this can be a benefit as they get to
+a panel of interviewers/index.html.md). For candidates, this can be a benefit as they get to
 meet with more members of the team in a shorter time frame, which means they
 spend less time scheduling and attending interviews. For interviewers, this
 means that they get to work together to learn more about a candidate and can

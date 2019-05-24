@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Idea to Production (i2p) Demo"
+title: "Idea to Production (i2p/index.html.md) Demo"
 ---
 
 # On this page
@@ -22,24 +22,24 @@ software development and operations over time. But for most teams, getting this
 tooling right is incredibly difficult.
 
 This demonstration will highlight [GitLab’s single platform for the complete
-DevOps lifecycle](/direction/#scope), from idea to
+DevOps lifecycle](/direction/#scope/index.html.md), from idea to
 production, through issues, planning, merge request, CI, CD, and monitoring.
 
-![](handbook/sales/devops-loop.svg)
+![](handbook/sales/devops-loop.svg/index.html.md)
 
 If you encounter issues replicating this demo on GKE or on your own Kubernetes
 cluster please [open an
-issue](https://gitlab.com/charts/charts.gitlab.io/issues/new). We're still
+issue](https://gitlab.com/charts/charts.gitlab.io/issues/new/index.html.md). We're still
 working to improve this demo further, please see [all open idea-to-production
-issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&utf8=%E2%9C%93&label_name%5B%5D=idea-to-production).
+issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&utf8=%E2%9C%93&label_name%5B%5D=idea-to-production/index.html.md).
 
-A [deep dive on CI/CD](#cicd-deep-dive) is also detailed, along with a video demonstration of the flow.
+A [deep dive on CI/CD](#cicd-deep-dive/index.html.md) is also detailed, along with a video demonstration of the flow.
 
 # Preparation
 
-> * Disable desktop notifications (on a Mac, top-right corner, option click).
+> * Disable desktop notifications (on a Mac, top-right corner, option click/index.html.md).
 > * Open up new browser window so the audience doesn’t see all your other open tabs.
-> * Resize your browser window to something reasonable for sharing. 1280x720 is a good option. [Here](720p.scpt)'s a handy Applescript if you're on a Mac and using Chrome. Add it to your User Scripts folder and how Applescript in your menu bar, and it'll be really easy to trigger.
+> * Resize your browser window to something reasonable for sharing. 1280x720 is a good option. [Here](720p.scpt/index.html.md)'s a handy Applescript if you're on a Mac and using Chrome. Add it to your User Scripts folder and how Applescript in your menu bar, and it'll be really easy to trigger.
 > * Consider just sharing web browser window so the audience isn’t distracted by notes or other windows.
 > * If displaying full-screen, go to 'Displays' settings, Resolution: Scaled, Larger text.
 > * Consider opening this page on an iPad that has screen lock disabled.
@@ -48,21 +48,21 @@ A [deep dive on CI/CD](#cicd-deep-dive) is also detailed, along with a video dem
 
 There are four options:
 
-1. [Log in at gitlab.i2p.online](https://gitlab.i2p.online) (for GitLab sales people)
-1. [Set up a cluster on Google Kubernetes Engine (GKE)](../gke-setup/)
-1. [set up a cluster on Azure Container Service (ACS)](../acs-setup/)
-1. [Offline local demo environment with Minikube](https://gitlab.com/charts/charts.gitlab.io/blob/add-minikube-support/minikube.md)
+1. [Log in at gitlab.i2p.online](https://gitlab.i2p.online/index.html.md) (for GitLab sales people/index.html.md)
+1. [Set up a cluster on Google Kubernetes Engine (GKE/index.html.md)](../gke-setup/index.html.md/index.html.md)
+1. [set up a cluster on Azure Container Service (ACS/index.html.md)](../acs-setup/index.html.md/index.html.md)
+1. [Offline local demo environment with Minikube](https://gitlab.com/charts/charts.gitlab.io/blob/add-minikube-support/minikube.md/index.html.md)
 
-If you need to use a license, GitLab team members have access to [license.gitlab.com](https://license.gitlab.com). You can generate a license
-there to use in your demo, using the [manual creation option](https://license.gitlab.com/licenses/new). Please keep the users count low and the expiration date sometime in the near feature, so that if the license
+If you need to use a license, GitLab team members have access to [license.gitlab.com](https://license.gitlab.com/index.html.md). You can generate a license
+there to use in your demo, using the [manual creation option](https://license.gitlab.com/licenses/new/index.html.md). Please keep the users count low and the expiration date sometime in the near feature, so that if the license
 is ever leaked, there would be little benefit to anybody using it who shouldn't be.
 
 <!--### Enable Auto DevOps
 
 > * Log in as administrator
-> * Go to Admin Area (wrench icon)
+> * Go to Admin Area (wrench icon/index.html.md)
 > * Click on `Settings`
-> * Under `Continuous Integration and Deployment`, click on `Enabled Auto DevOps (Beta) for projects by default`
+> * Under `Continuous Integration and Deployment`, click on `Enabled Auto DevOps (Beta/index.html.md) for projects by default`
 > * Click `Save`
 > * Log out as administrator-->
 
@@ -71,7 +71,7 @@ is ever leaked, there would be little benefit to anybody using it who shouldn't 
 ## Cleanup
 
 > * Delete previous GitLab groups you made last time
-> * Delete previous Kubernetes namespace for projects (`kubectl delete namespace minimal-ruby-app-<project-id>`)
+> * Delete previous Kubernetes namespace for projects (`kubectl delete namespace minimal-ruby-app-<project-id>`/index.html.md)
 > * Delete previous Mattermost team or at least leave Mattermost team
 
 ## Create a user
@@ -81,9 +81,9 @@ is ever leaked, there would be little benefit to anybody using it who shouldn't 
 Now let's register a new user in our GitLab server.
 
 > * Click `Register`
-> * Create a user with your name and email address (no verification sent)
+> * Create a user with your name and email address (no verification sent/index.html.md)
 
-## Create a group (optional, if showing Chat) <!-- Maybe re-use to show how groups work instead of for Mattermost -->
+## Create a group (optional, if showing Chat/index.html.md) <!-- Maybe re-use to show how groups work instead of for Mattermost -->
 
 We've got GitLab running and we're logged in. Since we'll want to work as a
 team, we'll create a GitLab group. Groups allow you to organize projects into
@@ -93,7 +93,7 @@ unique name.
 
 > * Click hamburger menu in top-left corner > Groups
 > * Click `New Group`
-> * Give the group a unique name, perhaps the name of the company you're demoing to, or a made up name (all lowercase, no spaces or special characters other than `-`)
+> * Give the group a unique name, perhaps the name of the company you're demoing to, or a made up name (all lowercase, no spaces or special characters other than `-`/index.html.md)
 > * Change Visibility level to `Public`
 > * Click `Create group`
 
@@ -120,7 +120,7 @@ domain.
 > * Go to `Settings > CI/CD`
 > * Expand `Auto DevOps`
 > * Check the box `Default to Auto DevOps pipeline`
-> * Change domain to `i2p.online` (or the base domain you are using)
+> * Change domain to `i2p.online` (or the base domain you are using/index.html.md)
 > * Leave the default of `Continuous deployment to production`
 > * Click `Save changes`
 
@@ -130,7 +130,7 @@ CI/CD pipeline.
 
 Great, that completes our setup.
 
-## Project permissions (optional)
+## Project permissions (optional/index.html.md)
 
 Okay, so everything we need to bring an application from idea to production is
 set up. But let's assume you want to safeguard your source code before handing
@@ -151,9 +151,9 @@ Permissions, merge request approvals, and protected branches help you build
 quality control into your development process so you can confidently hand GitLab
 over to your developers to get started on turning their ideas into a reality.
 
-# Idea to Production (main demo)
+# Idea to Production (main demo/index.html.md)
 
-## Issue (Plan)
+## Issue (Plan/index.html.md)
 
 Let's create our first issue, starting from an issue board.
 
@@ -163,7 +163,7 @@ Let's create our first issue, starting from an issue board.
 > * `Submit issue`
 > * Click `X` to close issue if needed
 
-## Board (Plan)
+## Board (Plan/index.html.md)
 
 Inspiration is perishable, so let's pick this one up right away. Since this is
 our first time, we have to add a couple columns here to match our workflow.
@@ -178,7 +178,7 @@ because we want to resolve this issue right now.
 
 > * Drag issue from `Backlog` to `Doing`
 
-## Commit (Create)
+## Commit (Create/index.html.md)
 
 Now let’s get coding! I'll click through to the issue and create a new merge
 request. This creates a new branch for me, starting with the issue number to
@@ -193,7 +193,7 @@ files I can see it's basically just Hello World, but with some random timings to
 make monitoring more interesting. I'm going to go ahead and update the message
 and remove the TODO comment using the WebIDE.
 
-> * Click on branch name (e.g. `1-make-homepage-prettier`)
+> * Click on branch name (e.g. `1-make-homepage-prettier`/index.html.md)
 > * Click on `server.rb`
 > * Click `WebIDE` button
 
@@ -213,11 +213,11 @@ request started on this branch I'll just commit to the existing branch.
 
 > * Double-click on `server.rb` to move it to `Staged changes`
 > * For the commit message type `Added HTML`
-> * Make sure `Commit to <your branch name> branch` is selected (eg. Commit to 1-make-homepage-prettier branch)
+> * Make sure `Commit to <your branch name> branch` is selected (eg. Commit to 1-make-homepage-prettier branch/index.html.md)
 > * Click the `Commit` button
 > * *If popup asks to show notifications, click Allow*
 
-## Build Stage (Verify)
+## Build Stage (Verify/index.html.md)
 
 After the commit, we can see in the WebIDE that it automatically kicked off the
 CI/CD Pipeline that will test our contributed code. We can see the pipeline contains many stages including Build, Test, Review, dynamic testing, and then Cleanup.
@@ -233,7 +233,7 @@ If we didn't have a Dockerfile, it would have used Heroku buildpacks to detect
 the language and framework and build an appropriate Docker image.
 
 ## Runner progress
-#### (optional: if CI/CD is taking a while)
+#### (optional: if CI/CD is taking a while/index.html.md)
 {:.no_toc}
 
 While it’s running, we can head back to our Kubernetes console to see that our
@@ -247,16 +247,16 @@ providing isolation.
 > * Change the Namespace drop-down to `minimal-ruby-app-<number>`
 > * Click on Pods
 
-## Test stage (Verify)
+## Test stage (Verify/index.html.md)
 
 Let's look at this same pipeline from a different view.
 
 > * Click the `< View jobs` button to get back to pipeline view
-> * Click the Pipeline `######` (should be a link) at the top of the panel
+> * Click the Pipeline `######` (should be a link/index.html.md) at the top of the panel
 
 In the Test stage we see six jobs...
 
-### Code Quality (Verify)
+### Code Quality (Verify/index.html.md)
 
 > * Click `code_quality`
 
@@ -264,22 +264,22 @@ The `code_quality` job, runs static analysis on your code to look for stylistic
 and other quality problems. Catching these types of problems early makes them
 100's of times cheaper to fix, and helps keep technical debt away.
 
-### Container scanning (Security)
-##### (optional: requires GitLab Ultimate)
+### Container scanning (Security/index.html.md)
+##### (optional: requires GitLab Ultimate/index.html.md)
 {:.no_toc}
 
-> * Click back (to pipeline view)
+> * Click back (to pipeline view/index.html.md)
 > * Click `container_scanning`
 
 The `container_scanning` job analyzes your application environments (your
-containers) for known security vulnerabilities. This makes sure that your
+containers/index.html.md) for known security vulnerabilities. This makes sure that your
 application is running in as secure an environment as possible from the start.
 
-### Dependency scanning (Security)
-##### (optional: requires GitLab Ultimate)
+### Dependency scanning (Security/index.html.md)
+##### (optional: requires GitLab Ultimate/index.html.md)
 {:.no_toc}
 
-> * Click back (to pipeline view)
+> * Click back (to pipeline view/index.html.md)
 > * Click `dependency_scanning`
 
 The `dependency_scanning` job finds and reports on security vulnerabilities in
@@ -287,11 +287,11 @@ the libraries your application is dependent on. This catches reliance on
 vulnerable libraries and provides the opportunity to correct them before
 development gets too far.
 
-### License management (Verify)
-##### (optional: requires GitLab Ultimate)
+### License management (Verify/index.html.md)
+##### (optional: requires GitLab Ultimate/index.html.md)
 {:.no_toc}
 
-> * Click back (to pipeline view)
+> * Click back (to pipeline view/index.html.md)
 > * Click `license_management`
 
 The `license_management` job analyzes your application dependencies and
@@ -299,34 +299,34 @@ highlights the presence of licenses you don't want to use, or new ones that
 need a decision. This catches reliance on libraries with unwanted licenses
 early, before it is more costly to change.
 
-### Static Application Security Testing (Security)
-##### (optional: requires GitLab Ultimate)
+### Static Application Security Testing (Security/index.html.md)
+##### (optional: requires GitLab Ultimate/index.html.md)
 {:.no_toc}
 
-> * Click back (to pipeline view)
+> * Click back (to pipeline view/index.html.md)
 > * Click `sast`
 
 The `sast` job runs static application security testing on your code to
 look for known security vulnerabilities. Catching security vulnerabilities early
 means less work to resolve the issues, less costs, and safer code from the start.
 
-### Test (Verify)
+### Test (Verify/index.html.md)
 
-> * Click back (to pipeline view)
+> * Click back (to pipeline view/index.html.md)
 > * Click `test`
 
 The `test` job detects the language used, again using Heroku buildpacks, and runs
 the language appropriate tests you've defined. In this case it's Ruby, so it
 runs `rake test`.
 
-## Review (Create)
+## Review (Create/index.html.md)
 
 ### Review apps
 
 When the tests pass, it automatically creates a temporary review app in our
 Kubernetes cluster.
 
-> * Go Back (to pipeline view)
+> * Go Back (to pipeline view/index.html.md)
 > * Click on `Review`
 
 Here we see a bunch of steps it’s doing automatically for us with the highlight
@@ -361,7 +361,7 @@ removed the TODO. If we made things worse, it would show up here as well.
 And there's a new line for the security scanning, showing that no security
 vulnerabilities were detected.
 
-### Debugging (Terminal)
+### Debugging (Terminal/index.html.md)
 
 Now if there were any problems, for example differences between development and
 production, and you don't want to keep testing changes by pushing them to source
@@ -369,16 +369,16 @@ control, we could debug those problems right here. By clicking the web terminal
 button we get a command prompt in the same container as our application.
 
 > * Click on `review/1-make-homepage-prettier`
-> * Click Terminal button (on the upper right, 1st on right)
+> * Click Terminal button (on the upper right, 1st on right/index.html.md)
 
 All our files are here. Let's edit the server.rb file.
 
 > * `ls`
 > * `vi server.rb`
-> * i (to insert)
+> * i (to insert/index.html.md)
 > * Update text to `Corrected Hello World!`
-> * esc (to go back to normal mode)
-> * ZZ (to save and close)
+> * esc (to go back to normal mode/index.html.md)
+> * ZZ (to save and close/index.html.md)
 
 Now we’ve saved the changes, let's restart the server.
 
@@ -386,7 +386,7 @@ Now we’ve saved the changes, let's restart the server.
 
 And now we can view the web page live to see how we like the changes.
 
-> * Click external URL link on top right (2nd from right)
+> * Click external URL link on top right (2nd from right/index.html.md)
 
 ### Code review
 
@@ -411,7 +411,7 @@ the `master` branch.
 > * Check `Remove source branch`
 > * Click `Merge`
 
-## Production (Package & Release)
+## Production (Package & Release/index.html.md)
 
 > * Click on `CI/CD > Pipelines`
 > * Click on top pipeline
@@ -428,14 +428,14 @@ Going to the Environments page, I see production listed here and the last deploy
 happened less than a minute ago. And I can easily click through to see what it
 looks like.
 
-> * Click external URL link (left-most button)
+> * Click external URL link (left-most button/index.html.md)
 
 There we go! We've got our new formatting changes; all the way from idea to
 production!
 
 > * Close production app tab
 
-## Scaling and Deploy Boards (Configure) (optional: requires GitLab EE)
+## Scaling and Deploy Boards (Configure/index.html.md) (optional: requires GitLab EE/index.html.md)
 
 Now, there’s more to this page. Here I see the deploy board for `production`.
 Right now it's only showing a single pod, but let’s go and scale that up. I’ll
@@ -456,7 +456,7 @@ Now let’s go back. And I can redeploy.
 Soon we’ll see the deploy board update in realtime as the fleet rolls out, and
 we can wait a bit to see the deploy finish.
 
-## Monitoring (Monitor)
+## Monitoring (Monitor/index.html.md)
 
 So that's a high level status of the deploy, but how about monitoring the
 ongoing health of your app environments? Clicking on the graph icon, I see
@@ -471,7 +471,7 @@ vs. simply reacting to them. Imagine if your application monitoring tool could
 help you avoid pushing poor-performing code in the first place, saving your
 business future downstream costs? That's exactly where we are heading.
 
-## Closing the loop (optional)
+## Closing the loop (optional/index.html.md)
 
 Let's close the loop here and go back to our merge request. Since it's already
 been merged, we have to look for it in the right tab.
@@ -486,7 +486,7 @@ further and show feedback about your application's performance, right on the
 merge request, telling you how much your memory usage changed before and after
 the merge request was deployed.
 
-## Custom pipeline - staging and canary (optional: requires GitLab EE)
+## Custom pipeline - staging and canary (optional: requires GitLab EE/index.html.md)
 
 So that covers Auto DevOps from build, test, code quality, review app, deploy to
 production, and monitoring. Pretty awesome. But what if you want to do something
@@ -554,7 +554,7 @@ altogether, we’ve got you covered.
 
 > * Close production tab
 
-## Feedback (Cycle Analytics) (optional)
+## Feedback (Cycle Analytics/index.html.md) (optional/index.html.md)
 
 To help you spot bottlenecks in your development process, GitLab has a built-in
 dashboard that tracks how long it takes the team to move from idea to
@@ -571,22 +571,22 @@ This is great for managers looking to better understand their company's release
 cycle time, which is critical to staying competitive and responding to
 customers and changing market needs.
 
-## Instance Monitoring (optional)
+## Instance Monitoring (optional/index.html.md)
 
 Not only does Prometheus monitor your apps, but it monitors the GitLab instance
 itself. Let's go to the Prometheus dashboard.
 
-> * Visit Prometheus `https://prometheus.i2p.online`  (Change the domain to match the domain used for your GitLab installation)
+> * Visit Prometheus `https://prometheus.i2p.online`  (Change the domain to match the domain used for your GitLab installation/index.html.md)
 
 Let’s look at a couple simple queries that show how your GitLab instance is
 performing. Here’s our CPU usage:
 
-> * Copy `1 - rate(node_cpu{mode="idle"}[5m])` into the Expression bar; hit enter.
+> * Copy `1 - rate(node_cpu{mode="idle"}[5m]/index.html.md)` into the Expression bar; hit enter.
 > * Click Graph
 
 And then memory usage:
 
-> * Copy `(1 - ((node_memory_MemFree + node_memory_Cached) / node_memory_MemTotal)) * 100` into the Expression Bar; hit enter.
+> * Copy `(1 - ((node_memory_MemFree + node_memory_Cached/index.html.md) / node_memory_MemTotal/index.html.md)/index.html.md) * 100` into the Expression Bar; hit enter.
 
 ## Conclusion
 

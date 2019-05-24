@@ -21,7 +21,7 @@ Let's take a more in-depth look at GitLab CI/CD pipelines.
 
 Let's start at the top with configuring CI and setting up any required integrations.
 
-### Connecting to a Repository (Mirroring)
+### Connecting to a Repository (Mirroring/index.html.md)
 
 Now, we've already installed GitLab earlier so we will continue on to connecting our source code repository. The vast majority of our customers utilize our built-in Git repository functionality, due to it's great feature set and seamless integration with CI/CD. However for those would like to utilize a different SCM tool, you can connect any Git based repository by simply configuring mirroring.
 
@@ -29,7 +29,7 @@ Now, we've already installed GitLab earlier so we will continue on to connecting
 
 We'll get started with our built-in repository and a simple Java app which is composed to two parts. A Java library and a front-end service which depends on that library to respond to users with a simple greeting.
 
-### Integration with Agile Planning Tools (JIRA & Slack)
+### Integration with Agile Planning Tools (JIRA & Slack/index.html.md)
 
 Similar to the repository, GitLab also includes a powerful set of planning tools as you saw earlier. However we also have great integration options here as well, for example tools like JIRA and Slack. Let's see how these are configured now.
 
@@ -41,7 +41,7 @@ Enabling Slack notification and ChatOps commands are similarly easy. For notific
 
 > Project Settings > Integrations > Slack Notifications
 
-### Working with `.gitlab-ci.yml` (Versioned, Ways to edit)
+### Working with `.gitlab-ci.yml` (Versioned, Ways to edit/index.html.md)
 
 > Repository
 
@@ -53,7 +53,7 @@ Before we do that though, let's just talk briefly about the various options for 
 
 Let's now take a closer look at this file, and how you can define the pipeline and integrate with a wide variety of tools.
 
-### Settings in `.gitlab-ci.yml` (Self Service, Bash script, Templates)
+### Settings in `.gitlab-ci.yml` (Self Service, Bash script, Templates/index.html.md)
 
 > Click on the `.gitlab-ci.yml` file to view
 
@@ -66,13 +66,13 @@ Next we start to define our stages and jobs. In GitLab CI, a Pipeline is made up
 
 The stages keyword defines the order the stages should execute in. So our flow will be: build, test, generate docs, release, and then deploy.
 
-#### Build Stage (Maven, Bash scripting)
+#### Build Stage (Maven, Bash scripting/index.html.md)
 
 We then start to define our jobs, or the actions we want to perform.
 
 Our first job is to build our library, which we utilize Maven for. You can see here we simply invoke Maven, as we would as if we were running it on our machines. That is because the script you see here, is actually just Bash script. This means provides a great amount of flexibility, because you can now automate anything you would normally do on your machine.
 
-#### Test Stage (2 jobs, code coverage output, artifacts)
+#### Test Stage (2 jobs, code coverage output, artifacts/index.html.md)
 
 After we built our library, we are now going to test it.
 
@@ -80,15 +80,15 @@ Our test stage includes two jobs: unit tests and static analysis with codeclimat
 
 While that is happening, we will also be running static analysis with codeclimate. Here we override the default image, to utilize the official Docker image. We use that to then execute run Docker-in-Docker, to execute the codeclimate image to analyze our source. Once that is done, we retrieve our JSON report and persist it as an artifact.
 
-#### Doc Stage (Generate, Artifacts)
+#### Doc Stage (Generate, Artifacts/index.html.md)
 
 Here, we are simply generating our javadocs and again retaining them as an artifact.
 
-#### Release Stage (Protected Variable)
+#### Release Stage (Protected Variable/index.html.md)
 
 Now that we have tested our library, we are ready to release it. We are going to use Maven again to publish our library out to our Packagecloud server. Now you are paying really close attention, you will see we are using a variable we did not define above. That is because this is a credential token, which should not be checked into the repository. Instead, we add this as a Protected Variable in our project settings, which only administrators can view.
 
-#### Deploy Stage (Pages, Cross-Project Pipelines)
+#### Deploy Stage (Pages, Cross-Project Pipelines/index.html.md)
 
 Finally we have our last stage, deploy, which includes two jobs.
 
@@ -96,7 +96,7 @@ Our Pages job is slightly unique, in that this is a special job that works in ta
 
 Now for our last job, recall that our Java app was made up of two components: this library and a front-end service which used it. At this point, we've confirmed that all of our tests pass which is a good start. But what about downstream projects that utilize this? Well this job kicks off what we refer to as a cross-project pipeline. We take a stock alpine image, install curl, then use it to trigger the webhook to start a new front-end service pipeline. Confirming downstream projects are not negatively affected by upstream changes is as easy as a few lines of YML.
 
-#### Wrap up (Self-service: no plugins, Flexible: Bash script, Templates)
+#### Wrap up (Self-service: no plugins, Flexible: Bash script, Templates/index.html.md)
 
 As you can see, this supports our larger goals of GitLab: scalability, flexibility, and self-service:
 * A developer can integrate with any tool they need, without having to worry about installing plugins or involving the administrators. They can simply provide the required container or VM to run the script in, or install their own runner on a machine with the associated requirements.
@@ -104,7 +104,7 @@ As you can see, this supports our larger goals of GitLab: scalability, flexibili
 * Moving into the Part 2, you can see integrating with build automation tools like Maven is similarly straight forward and easy.
 * We also have a collection of templates which can be used to help users get started.
 
-### Deep Tool Integration & Intelligence (Code Climate, Code Coverage, JIRA Issue)
+### Deep Tool Integration & Intelligence (Code Climate, Code Coverage, JIRA Issue/index.html.md)
 
 Now we already showed how easy it is to execute unit tests and static analysis, but our integration goes a lot deeper. I have a pending merge request ready for me to review, so lets take a look.
 
@@ -132,7 +132,7 @@ By committing a change to master we now have a new pipeline running, let's take 
 
 We can now see a real-time overview of our pipeline as it progresses. Our build stage just completed, and you can now see our two test stages executing in parallel.  Let's take a closer look at our unit test job.
 
-### Unit Tests Job (Maven, Code Coverage, Artifacts)
+### Unit Tests Job (Maven, Code Coverage, Artifacts/index.html.md)
 
 > Click on `unit tests` job
 
@@ -140,7 +140,7 @@ As before, we get a live look at the build log as it is being executed by our Ru
 
 Now let's go take a look at our codequality job.
 
-### Code Climate Job (Docker, Artifact)
+### Code Climate Job (Docker, Artifact/index.html.md)
 
 > Click on `codeclimate` job from right pane
 
@@ -152,7 +152,7 @@ Going back to pipeline overview, we can check back in on our progress.
 
 Our release job is now executing, lets see how that is progressing.
 
-### Release Job (Protected Variable, Maven deploy)
+### Release Job (Protected Variable, Maven deploy/index.html.md)
 
 We're now ready to publish our library to our packagecloud server, utilizing Maven. Remember we had utilized a protected variable for this, to ensure the secure token was not committed into the repository.
 
@@ -162,11 +162,11 @@ And that's it, our library is now available for others to consume.
 
 > Go back to pipeline overview
 
-### Pages Job (as necessary to kill time for success notifications)
+### Pages Job (as necessary to kill time for success notifications/index.html.md)
 
 In our Pages job, we are leveraging the artifacts we collected in our earlier stages. Here, we simply copy them into a single directory structure, and persist them in a new artifact. Our GitLab Pages service will take over from here to copy our code coverage and documentation to our static site. Note this works with any static site generator as well.
 
-### Notifications - Success: Browser, Slack, Favicon, Email (off by default)
+### Notifications - Success: Browser, Slack, Favicon, Email (off by default/index.html.md)
 
 As you can see from our notifications, our pipeline has succeeded. In the event you didn't catch them all during that flurry, let's review them quickly:
 
@@ -180,7 +180,7 @@ As you can see from our notifications, our pipeline has succeeded. In the event 
 
 > Go back to pipeline overview
 
-### Cross Project Pipelines (Environment Screen, Registry)
+### Cross Project Pipelines (Environment Screen, Registry/index.html.md)
 
 Let's check in and see how our Cross Project Pipeline is doing, for our front-end service.
 
@@ -205,7 +205,7 @@ Here we can a view of all the containers we currently have pushed to the registr
 
 Aside from an integrated UI, one of the key benefits of integrating the registry is the unified authentication architecture. Instead of having to manage credentials and security on your own, GitLab makes is extremely simple. We provide a simple environment variable to access the registry which is valid for as long as the job is executing.
 
-### Pipeline Wrap-up (flexible, self-service)
+### Pipeline Wrap-up (flexible, self-service/index.html.md)
 
 So that's our "Happy Path". With just a few lines of YML we accomplished:
 
@@ -229,7 +229,7 @@ We'll commit this to a new branch, and create a new Merge Request.
 
 > Commit to new branch, create new Merge Request
 
-### Failed Merge Request (MWPS, GitLab, Slack, Favicon, Email)
+### Failed Merge Request (MWPS, GitLab, Slack, Favicon, Email/index.html.md)
 
 Since we've now created a new branch, we have a new Pipeline running. Now if I am the reviewer and already checked out the changes, I can simply click on our Merge When Pipeline Succeeds button. This will automatically merge the issue as long as we have a good pipeline. However if it fails and the developer needs to make a further change, it will of course have to get re-reviewed. This is a great way to save some time for your reviewers, so they aren't waiting until a pipeline complete before moving on.
 
@@ -241,14 +241,14 @@ Uh oh, as you can tell from the notifications it looks like our tests failed. In
 
 Let's quickly review the notifications we received:
 * GitLab itself sent a browser notification, indicating the failed pipeline
-* With our Slack integration, we received an alert there as well. (Show Slack)
+* With our Slack integration, we received an alert there as well. (Show Slack/index.html.md)
 * If you take a look, our favicons also updated to indicate an errors
 * And finally since this was a failed pipeline, we received an email alert as well
 
 > Show email tab
 > Return to the job log for the unit tests
 
-#### Failed Merge Follow up (New Issue, New Todo)
+#### Failed Merge Follow up (New Issue, New Todo/index.html.md)
 
 As you can see we have a wide array of ways to inform users that their pipeline failed. But what is at least as important as notifications, is follow up.
 
@@ -260,7 +260,7 @@ This way it's easier for users to go about their day, with less repetition, and 
 
 So that's a quick review of what we would call the "Negative Path". Let's take a look at some of the available options for reviewing pipeline performance.
 
-## Monitoring CI (Pipeline History, CI Monitoring with Prometheus)
+## Monitoring CI (Pipeline History, CI Monitoring with Prometheus/index.html.md)
 
 > Click on Pipelines tab for the list of all pipelines
 
@@ -274,7 +274,7 @@ But that isn't the only way to get an understanding of what the CI system is cur
 
 Here you can see a wide variety of metrics, ranging from the number of jobs in each state to how many parallel jobs a given runner is executing. All of these metrics are available not just on SaaS, but also self-managed as well.
 
-## Analytics (Charts, Static Analysis, Code Coverage, Cycle Analytics, APM)
+## Analytics (Charts, Static Analysis, Code Coverage, Cycle Analytics, APM/index.html.md)
 
 GitLab also provides methods to understand the health of the CI pipelines for a particular job as well. We have a dedicated analytics page we call Charts, which shows additional information for each project.
 
@@ -289,7 +289,7 @@ And we've already taken a look at some of the other analytics services we offer 
 * Code coverage parsing
 * and cycle analytics, for team health and efficiency.
 
-## GitLab Runner (Shared, Specific, Autoscaling)
+## GitLab Runner (Shared, Specific, Autoscaling/index.html.md)
 
 Now I've mentioned our Runner a couple times, but we've been mostly looking at what it can do. Next we'll take a few minutes to talk about this important part of GitLab CI.
 
@@ -299,7 +299,7 @@ In our Pipelines settings page is where a developer can take a look at the Runne
 
 > Go to Settings, Pipelines.
 
-### Shared (Ease, Speed, Efficient Management)
+### Shared (Ease, Speed, Efficient Management/index.html.md)
 
 Shared runners are runners that have been provided by the administrators of the GitLab instance, we've been using one as you can see here. By allowing administrators to provide a shared pool, there are a number of benefits:
 
@@ -308,7 +308,7 @@ Shared runners are runners that have been provided by the administrators of the 
 
 But there are some cases where an administrator has not provided a shared pool, or they don't meet your needs.
 
-### Specific (Self-service, Install)
+### Specific (Self-service, Install/index.html.md)
 
 For these cases, we have the ability for any development team to connect their own Runners. They simply download the Runner, enter in the URL and key, and they are on their way.
 
@@ -323,7 +323,7 @@ During registration we configure a few aspects of the runner:
 * Name that we want to appear on the Runner page
 * And then any tags we want to specify. Tags allow you to uniquely identify runners with certain properties, for example here we can set `osx` and `xcode8` to identify what we have installed. These are then specified in the `.gitlab-ci.yml` for the job you want to run.
 
-### Runner Architecture (Shell/SSH, VM, Container, Auto-Scaling)
+### Runner Architecture (Shell/SSH, VM, Container, Auto-Scaling/index.html.md)
 
 The last choice we have to make is what mode of operation we want for our Runner. The simplest is Shell, where it executes the script on the machine and account it's installed on.
 
@@ -331,7 +331,7 @@ We then have support for working with images and containers, via virtual box, pa
 
 The last mode of operation, is what we call our auto-scaling runner. We support this on Docker Machine and Kubernetes, and here the Runner will elastically process jobs as needed to process the CI queue.
 
-### Wrap up (Self-service, Flexible, Scalable)
+### Wrap up (Self-service, Flexible, Scalable/index.html.md)
 
 And that's it for the configuration, we just start our Runner and it is ready to process jobs.
 
@@ -350,6 +350,6 @@ Last, is scalability. A handful of auto-scaling runners on GitLab.com routinely 
 
 The final area we wanted to discuss was GitLab Pages. As you saw earlier with our Pipeline, we pushed our javadocs and code coverage reports here with just a few lines of YML. This site is then hosted by GitLab at a specific domain, making it easy to publish technical content or even entire websites with CI.
 
-## Wrap (Flexible: Bash it, script it. Self-service: runners, no plugins. Scalable: SaaS scale CI)
+## Wrap (Flexible: Bash it, script it. Self-service: runners, no plugins. Scalable: SaaS scale CI/index.html.md)
 
 To summarize, GitLab CI is flexible. If you can bash it, you can automate it. Self service runners, no plugins. And SaaS scale CI, with auto-scaling.

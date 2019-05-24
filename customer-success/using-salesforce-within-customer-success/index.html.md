@@ -11,9 +11,9 @@ title: "Using Salesforce within Customer Success"
 
 On an account view in Salesforce, there is a Customer Success section, with the following fields:
 
-* Health Score - A field to record the overall customer health (details TBD on this)
+* Health Score - A field to record the overall customer health (details TBD on this/index.html.md)
 * GitLab Customer Success Project - Where you enter the URL of the project created using the template described above
-* Customer Slack Channel - A field to record Slack channel(s) used for internal and external customer collaboration. If a channel is internal, make sure it follows the naming convention"#organisation-name-internal"
+* Customer Slack Channel - A field to record Slack channel(s/index.html.md) used for internal and external customer collaboration. If a channel is internal, make sure it follows the naming convention"#organisation-name-internal"
 * Solutions Architect - The Solutions Architect aligned with the acccount
 * Technical Account Manager	- The Technical Account Manager aligned with the acccount
 
@@ -33,20 +33,20 @@ The Onboarding object is a way for the Customer Success team to track and manage
 
 ##### Fields:
 
-* Purchase date (date field, automatically populated, editable)
-* Onboarding start date (date field, manually populated, editable)
-* Onboarding finish date (date field, manually populated, editable)
-* Onboarding status (picklist) - Not started (default), Scheduled, In Progress, Completed 
-* Days of onboarding count (like the POC object, not hidden)
-* Gemstone type (automatically populated, but editable picklist) - Diamond, Pearl, Sapphire, Ruby, Quartz
-* General onboarding notes (text field)
+* Purchase date (date field, automatically populated, editable/index.html.md)
+* Onboarding start date (date field, manually populated, editable/index.html.md)
+* Onboarding finish date (date field, manually populated, editable/index.html.md)
+* Onboarding status (picklist/index.html.md) - Not started (default/index.html.md), Scheduled, In Progress, Completed 
+* Days of onboarding count (like the POC object, not hidden/index.html.md)
+* Gemstone type (automatically populated, but editable picklist/index.html.md) - Diamond, Pearl, Sapphire, Ruby, Quartz
+* General onboarding notes (text field/index.html.md)
 
 #### Compulsory fields after status is set to Completed
 
 * Onboarding experience survey sent? y/N checkbox
 * Onboarding experience survey results received? y/N checkbox
-* Onboarding experience score (picklist of 1-5) (decided by TAM if no survey results received)
-* Onboarding takeaways - how could we have done better? (text field)
+* Onboarding experience score (picklist of 1-5/index.html.md) (decided by TAM if no survey results received/index.html.md)
+* Onboarding takeaways - how could we have done better? (text field/index.html.md)
 
 #### Gemstone Automations
 
@@ -73,11 +73,11 @@ else
 = quartz
 ```
 
-PLease visit [this page](https://about.gitlab.com/handbook/customer-success/tam/#customer-onboarding) for more information on Gemstones.
+PLease visit [this page](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/tam/#customer-onboarding/index.html.md) for more information on Gemstones.
 
-### Executive Business Review (EBR) objects
+### Executive Business Review (EBR/index.html.md) objects
 
-EBR objects allow the Technical Account Managers to track and measure the success of Executive Business Reviews held (or not held) with customers each year.
+EBR objects allow the Technical Account Managers to track and measure the success of Executive Business Reviews held (or not held/index.html.md) with customers each year.
 
 In order to appropriately track and create Executive Business Review Objects please follow the instructions below:
 
@@ -90,15 +90,15 @@ Note: If the EBR Date changes, please see below for handling this situation in o
 
 #### Creating any successive EBR's and handling "Declined" or "Cancelled" EBR's
 
-* In order to create any successive EBR's (anything besides the first EBR), DO NOT us the the 'New' button as this will cause errors with tracking. Instead, after the completion, cancellation or declined invite of an EBR, update the `EBR Success` to the appropriate value. This will automatically create the next EBR for the account 90 days after the `EBR Date` for the current EBR (ensuring that there is one EBR per quarter). 
+* In order to create any successive EBR's (anything besides the first EBR/index.html.md), DO NOT us the the 'New' button as this will cause errors with tracking. Instead, after the completion, cancellation or declined invite of an EBR, update the `EBR Success` to the appropriate value. This will automatically create the next EBR for the account 90 days after the `EBR Date` for the current EBR (ensuring that there is one EBR per quarter/index.html.md). 
 
 A number of fields will also auto populate making the creation process of new EBR's much more efficient.
 
 #### Tracking the performance of EBR's
 
 * There are currently two picklist fields in order to provide tracking for EBR's:
-    * `EBR Status` - This field shows the scheduling status of the EBR. This should be used to help monitor workflow (Scheduled vs Not Started) and also to track cancellations and declined EBR's as well as completed EBR's that were actually held.
-    * `EBR Success` - This field tracks the overall success of the EBR with the default set to `Incomplete`. This field should only be updated once the EBR is held OR after a cancellation or declined EBR. This tracks what the  Technical Account Manager believes was the outcome of the EBR (or if it was declined or Cancelled).
+    * `EBR Status` - This field shows the scheduling status of the EBR. This should be used to help monitor workflow (Scheduled vs Not Started/index.html.md) and also to track cancellations and declined EBR's as well as completed EBR's that were actually held.
+    * `EBR Success` - This field tracks the overall success of the EBR with the default set to `Incomplete`. This field should only be updated once the EBR is held OR after a cancellation or declined EBR. This tracks what the  Technical Account Manager believes was the outcome of the EBR (or if it was declined or Cancelled/index.html.md).
 * `Declined` vs `Cancelled` - The main differnce between a Declined EBR and a Cancelled EBR is dependant on how it is handled. 
 
 For example, if a customer pushes to only have two EBR's a year, then two of the EBR's each year should be labeled as Declined. If an EBR is successfully scheduled but then for whatever reason the customer or GitLab has to cancel the EBR, then this value should be chosen.
@@ -110,25 +110,25 @@ Handling EBR Date Changes:
 #### Linking EBR's to Opportunities: 
 * Although all EBR's can be associated to an Opportunity, not all EBR's necessarily need to be associated to an opportunity. Only the four latest EBR's should be related to an upcoming opportunity. 
 
-For example, If there is an upcoming opportunity in Q4 2019 then the only EBR's that should be related to this Opportunity should be the following EBR's, Q1-2019-EBR, Q2-2019-EBR, Q3-2019-EBR & Q4-2019-EBR (Assuming that the Q4 EBR took place before the opportunity close date).
+For example, If there is an upcoming opportunity in Q4 2019 then the only EBR's that should be related to this Opportunity should be the following EBR's, Q1-2019-EBR, Q2-2019-EBR, Q3-2019-EBR & Q4-2019-EBR (Assuming that the Q4 EBR took place before the opportunity close date/index.html.md).
 
 * To link an Opportunity to and EBR use the "New EBR-Opportunity Associations" Button that is located above the "EBR-Opportunity Associations" related list. This is done on either the Opportunity you would like to associate the EBR with, or the EBR that you want to associate with the Opportunity. 
 
 Scroll down to find the "EBR-Opportunity Associations" related list on the layout and click on "New EBR-Opportunity Associations" Button. From there, search and select the appropriate Opportunity and EBR that need to be associated with one another and save the record. 
 
-### Statement of Work (SOW) objects
+### Statement of Work (SOW/index.html.md) objects
 
 SOW objects in Salesforce are used to track the progress of our SOW's that are agreed upon with our customers. These SOW's describe the professional services that Gitlab will deliver to our client. As this is related to a billable service that we are extending to our clients all SOW's must be related to an appropriate Opportunity and an Account. 
 
-The Opportunity that each SOW is associated with will contain information relevant to the Opportunity (Amount, IACV etc.) while the SOW itself will house notes, details and monitor the progress of the SOW (Go Live Date, Kick Off Date etc.). If a client would like to move forward with many professional services at once then all of these services would be encapsulated and related through one Opportunity and one SOW. 
+The Opportunity that each SOW is associated with will contain information relevant to the Opportunity (Amount, IACV etc./index.html.md) while the SOW itself will house notes, details and monitor the progress of the SOW (Go Live Date, Kick Off Date etc./index.html.md). If a client would like to move forward with many professional services at once then all of these services would be encapsulated and related through one Opportunity and one SOW. 
 
-If an existing client, who previously purchased professional services from Gitlab, would like to purchase addition professional services than a new Opportunity and SOW would be created in Salesforce. Review our section in the [handbook](/handbook/sales/#when-to-create-an-opportunity) about creating new opportunities if you have any questions around the Opportunity creation process.  
+If an existing client, who previously purchased professional services from Gitlab, would like to purchase addition professional services than a new Opportunity and SOW would be created in Salesforce. Review our section in the [handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/#when-to-create-an-opportunity/index.html.md) about creating new opportunities if you have any questions around the Opportunity creation process.  
 
 In order to track the contacts that are associated with a SOW, we utilize the SOW-Contact Association list. This can be accessed by navigating to the SOW page layout and locating the SOW-Contact Association related list. From there you can create a new association by looking up the contact that is associated with this SOW. Multiple contacts can be associated with a single SOW. 
 
-### Proof of Concept (POC) objects
+### Proof of Concept (POC/index.html.md) objects
 
-Please visit [this page](https://about.gitlab.com/handbook/sales/POC/) for POC documentation.
+Please visit [this page](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/sales/POC/index.html.md/index.html.md) for POC documentation.
 
 ## Salesforce - Customer Success Automations
 

@@ -11,7 +11,7 @@ title: "Distribution Team Triage"
 
 ## Common links
 
-* [Engineering Team Triage](/handbook/engineering/issue-triage/)
+* [Engineering Team Triage](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/issue-triage/index.html.md/index.html.md)
 
 ## Triaging Issues
 
@@ -25,7 +25,7 @@ Note: An issue that has been assigned to a user, but has no milestone, is not tr
 
 #### Issue severity
 
-See the [CE documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#severity-labels) for an explanation of the severity labels.
+See the [CE documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#severity-labels/index.html.md) for an explanation of the severity labels.
 
 #### Label glossary
 
@@ -42,7 +42,7 @@ Issues for triaging can be identified using the following criteria:
     * `awaiting feedback`
     * `for scheduling`
 
-Such issues can be listed using the [issues filter](https://gitlab.com/gitlab-org/omnibus-gitlab/issues?assignee_id=0&milestone_title=No+Milestone&scope=all&sort=created_date&state=opened)
+Such issues can be listed using the [issues filter](https://gitlab.com/gitlab-org/omnibus-gitlab/issues?assignee_id=0&milestone_title=No+Milestone&scope=all&sort=created_date&state=opened/index.html.md)
 
 ### Process
 
@@ -58,14 +58,14 @@ triage duty can be summarized as follows
    `awaiting feedback` label was added and no response was received from
    submitter. Check out the issue list with `awaiting feedback` label for such
    issues and close them with the ["for issues with no reply"
-   response](#for-issues-with-no-reply).
+   response](#for-issues-with-no-reply/index.html.md).
 1. Check out the issues to be triaged and assign appropriate labels to them.
    While it is normal for some issues to demand a bit of research to get to the
    bottom, do keep in mind issue triaging need not end up in issue resolution.
    Triaging is intended only to identify and classify issues so that appropriate
    action can be taken on them, based on priority.
 1. If an issue doesn't fall directly under the domain of omnibus-gitlab (for
-   example, needs changes to gitlab-rails application), move the issue to the
+   example, needs changes to gitlab-rails application/index.html.md), move the issue to the
    appropriate issue tracker and add the team label which may be the most
    appropriate. If you can't identify which project's tracker should the issue
    reside or which team's label should be applied, you can ask for Quality
@@ -75,16 +75,16 @@ triage duty can be summarized as follows
    project, but is more of a request for help for
    installing/configuring/troubleshooting a GitLab instance, close the issue
    using the ["problems not related to package installation and
-   configuration" response](#for-problems-not-related-to-package-installation-and-configuration).
+   configuration" response](#for-problems-not-related-to-package-installation-and-configuration/index.html.md).
 1. If an issue doesn't have all necessary information to successfully triage the
    issue, request the information using the ["issues that lack enough
-   information" response](#for-issues-that-lack-enough-information) and
+   information" response](#for-issues-that-lack-enough-information/index.html.md) and
    add the `awaiting feedback` label.
 1. If an issue couldn't be triaged in reasonable time, add the `needs investigation`
    label to it.
 1. If an issue is identified as a valid one, make it partially triaged by
    assigning `For Scheduling` label so that it gets scheduled for one of the
-   upcoming milestones (or even `Backlog` milestone). Also apply the severity
+   upcoming milestones (or even `Backlog` milestone/index.html.md). Also apply the severity
    labels as applicable.
 1. Once an issue is triaged, either partially or fully, add the link to that
    issue as a comment to the meta issue. Preferably in the format of
@@ -124,7 +124,7 @@ If someone is asking for support in the omnibus-gitlab project, point them to th
 ```
 Provided description seems to point to this issue not being related to this project. This can be the case when installation and `gitlab-ctl reconfigure` run went without issues, but your GitLab instance is still giving 500 error page with an error in the log.
 
-For this reason, I will close this issue and you can check on how to find further help at the [GitLab website](/getting-help/).
+For this reason, I will close this issue and you can check on how to find further help at the [GitLab website](/getting-help/index.html.md/index.html.md).
 
 /close
 ```

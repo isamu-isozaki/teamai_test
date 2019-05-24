@@ -21,7 +21,7 @@ Ask any of the administrators to give you access to the GitHost UI. Within the U
 You will need to request SSH access to the GitHost production box. For this, please send a chat message to an admin with your Public Key and ask to be added to the authorized_keys of the githost user.
 
 ### Documentation
-The latest GitHost Administration docs can be found [here](https://dev.gitlab.org/gitlab/GitHost/blob/master/doc/README.md).
+The latest GitHost Administration docs can be found [here](https://dev.gitlab.org/gitlab/GitHost/blob/master/doc/README.md/index.html.md).
 
 ### Performance problems on older/smaller instances
 
@@ -52,11 +52,11 @@ This grandfather and discount period expires on December 30, 2017.
 
 Instances on the following plans are eligible for the discount:
 
-- ["Developer (Discontinued)" (ID: 1)](https://githost.io/admin/plans/1)
-- ["Startup (Discontinued)" (ID: 2)](https://githost.io/admin/plans/2)
-- ["Business (Discontinued)" (ID: 3)](https://githost.io/admin/plans/3)
-- ["Base (Discontinued)" (ID: 4)](https://githost.io/admin/plans/4)
-- ["Developer Plus (Discontinued)" (ID: 7)](https://githost.io/admin/plans/7)
+- ["Developer (Discontinued/index.html.md)" (ID: 1/index.html.md)](https://githost.io/admin/plans/1/index.html.md)
+- ["Startup (Discontinued/index.html.md)" (ID: 2/index.html.md)](https://githost.io/admin/plans/2/index.html.md)
+- ["Business (Discontinued/index.html.md)" (ID: 3/index.html.md)](https://githost.io/admin/plans/3/index.html.md)
+- ["Base (Discontinued/index.html.md)" (ID: 4/index.html.md)](https://githost.io/admin/plans/4/index.html.md)
+- ["Developer Plus (Discontinued/index.html.md)" (ID: 7/index.html.md)](https://githost.io/admin/plans/7/index.html.md)
 
 Please note that the plan names may overlap with some other plans that currently
 exist, or were more recently discontinued. That is why the plan ID is also
@@ -67,8 +67,8 @@ if the user gets the discount.
 
 When customers request an upgrade at the discounted rate, first check if an
 existing private discounted plan exists. For example, at the time of this
-writing we have a 'Startup (40% Off)' ($48/month) and 'Developer Plus (40% Off)'
-($21/month) plans. If the appropriate plan exists, resize the customer's instance
+writing we have a 'Startup (40% Off/index.html.md)' ($48/month/index.html.md) and 'Developer Plus (40% Off/index.html.md)'
+($21/month/index.html.md) plans. If the appropriate plan exists, resize the customer's instance
 to the plan. The customer cannot do this themselves because the plans are private
 and will not show up in the list for them.
 

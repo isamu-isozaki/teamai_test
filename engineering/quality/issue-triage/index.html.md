@@ -13,12 +13,12 @@ title: "Issue Triage"
 
 ## Common Links
 
-- [**Public Issue Tracker (for GitLab CE)**](https://gitlab.com/gitlab-org/gitlab-ce);
+- [**Public Issue Tracker (for GitLab CE/index.html.md)**](https://gitlab.com/gitlab-org/gitlab-ce/index.html.md);
   please use confidential issues for topics that should only be visible to team members at GitLab.
 - Chat channels; we use our chat internally as a realtime communication tool:
-  - [#triage](https://gitlab.slack.com/messages/triage): general triage team channel.
-  - [#gitlab-issue-feed](https://gitlab.slack.com/messages/gitlab-issue-feed) - Feed of all GitLab-CE issues
-  - [#support-tracker-feed](https://gitlab.slack.com/messages/support-tracker-feed) - Feed of the GitLab.com Support Tracker
+  - [#triage](https://gitlab.slack.com/messages/triage/index.html.md): general triage team channel.
+  - [#gitlab-issue-feed](https://gitlab.slack.com/messages/gitlab-issue-feed/index.html.md) - Feed of all GitLab-CE issues
+  - [#support-tracker-feed](https://gitlab.slack.com/messages/support-tracker-feed/index.html.md) - Feed of the GitLab.com Support Tracker
 
 ## Issue Triage
 
@@ -30,5 +30,5 @@ This page indexes resources that Developers working on issue triage may find use
 
 ## Resources
 
-* [Issue Triage Policies](/handbook/engineering/issue-triage/)
-* [Onboarding](/handbook/engineering/quality/issue-triage/onboarding/)
+* [Issue Triage Policies](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/issue-triage/index.html.md/index.html.md)
+* [Onboarding](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/quality/issue-triage/onboarding/index.html.md/index.html.md)

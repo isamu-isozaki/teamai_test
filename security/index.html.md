@@ -5,8 +5,8 @@ title: Security Best Practices
 
 ## Other Security Topics
 
-- [Security Team handbook](/handbook/engineering/security/)
-- [Security questions from customers, and their answers](/security)
+- [Security Team handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/security/index.html.md/index.html.md)
+- [Security questions from customers, and their answers](/security/index.html.md)
 
 ## On this page
 {:.no_toc}
@@ -27,9 +27,9 @@ title: Security Best Practices
    need to memorize this Master Password.
    - Do not let your password manager store the **master password**. It is okay to
       store the login.
-   - For more information, review the [Getting Started guide](https://support.1password.com/explore/team-member/)
-   and view [this video](https://youtu.be/2cFWk0sBgyM) that guides you through the sign-up process.
-   - For account administrators, review the [admin guide](https://support.1password.com/explore/teams-admin/).
+   - For more information, review the [Getting Started guide](https://support.1password.com/explore/team-member/index.html.md/index.html.md)
+   and view [this video](https://youtu.be/2cFWk0sBgyM/index.html.md) that guides you through the sign-up process.
+   - For account administrators, review the [admin guide](https://support.1password.com/explore/teams-admin/index.html.md/index.html.md).
 1. **Never reuse** a password you use on a company account, not for another
    GitLab service nor for a personal account.
 1. Use 1Password to [generate strong passwords] for any new accounts. In the Password Generator, increase the default password length.
@@ -42,16 +42,16 @@ title: Security Best Practices
    During onboarding you should be added to all relevant Individual services
    by default.
    1. **Individual services** (created manually per person, such as our Google
-     accounts): keep your credentials to yourself by storing them in your
+     accounts/index.html.md): keep your credentials to yourself by storing them in your
      'Personal' vault in the GitLab 1Password team account.
-   1. **OAuth services** (authentication through GitLab or Google accounts, such as for grafana).
+   1. **OAuth services** (authentication through GitLab or Google accounts, such as for grafana/index.html.md).
    1. **Single services** (services that don't allow individual accounts or
-   where it is too expensive): store the credentials in an appropriate company
-   1Password vault ('Team' or otherwise) so that your colleagues can sign in
+   where it is too expensive/index.html.md): store the credentials in an appropriate company
+   1Password vault ('Team' or otherwise/index.html.md) so that your colleagues can sign in
    using the same credentials.
 1. If 2FA should be on for the new user account, make sure to store recovery codes in the login, and use [1Password TOTP].
 1. If you need to give more people access to credentials
-[move them](https://discussions.agilebits.com/discussion/comment/133692/#Comment_133692)
+[move them](https://discussions.agilebits.com/discussion/comment/133692/#Comment_133692/index.html.md)
 to a vault that they can access. Never duplicate or export credentials! If needed put
 them in the **Team** vault that the whole company can access or make a
 suggestion to create a new vault in the "1Password Shared Folders" Google Sheet.
@@ -62,7 +62,7 @@ responsibilities change.
 vault or other password store. 1Password should be the only password
 vault used for teams. Team passwords should not be duplicated or placed in
 personal password vaults where they can potentially be exposed to compromise.
-1. When asked security questions (what is your favorite pet, etc.) do not answer
+1. When asked security questions (what is your favorite pet, etc./index.html.md) do not answer
 truthfully since that is easy to research. Make up an answer and write both the
 question and answer in 1Password. Consider using the Password Generator function
 in 1Password for this.
@@ -76,15 +76,15 @@ in 1Password for this.
    join that. Managing a dozen groups is simpler than managing hundreds of
    individual access settings.
 1. Note for the 1Password admins that handle requests: when adding an _individual_
-to a vault (instead of to a group that has access to that vault), make sure that
+to a vault (instead of to a group that has access to that vault/index.html.md), make sure that
 the permissions are restricted to not allow "Export Item". There is not
  a way of setting that as the default. It is also better to add people to a
 _group_  that has the access they need, instead of individual vaults.
-1. If you're missing an appropriate vault [make a comment in the relevant cell](https://support.google.com/docs/answer/6033474?hl=en) in the
+1. If you're missing an appropriate vault [make a comment in the relevant cell](https://support.google.com/docs/answer/6033474?hl=en/index.html.md) in the
    "1Password Shared Folders" Google Sheet.
 1. Refer to the items with NAME_OF_SITE credentials in VAULT_NAME. For example:
    "for access please see the AOL credentials in the Luddite vault".
-1. Do not allow your web browser (e.g. Chrome, Safari) to store passwords when
+1. Do not allow your web browser (e.g. Chrome, Safari/index.html.md) to store passwords when
 prompted. This presents an unnecessary risk and is redundant as 1Password should
 serve as the sole password management application.
 1. Use Watchtower to find passwords that need to be changed. Watchtower tells
@@ -92,40 +92,40 @@ users about password breaches and other security problems on the websites they
 have saved in 1Password Teams, so users can take action. This is not something
 account administrators can review for team members, so it is up to you to enable!
 Enable Watchtower by going to your 1Password app and then to **Preferences > Watchtower**.
-1. Use the ["Security Audit"](https://i.agilebits.com/dt/Blank_Skitch_Document_18FB0234.png)
+1. Use the ["Security Audit"](https://i.agilebits.com/dt/Blank_Skitch_Document_18FB0234.png/index.html.md)
 functionality of 1Password to reveal repeated passwords, weak passwords, and so
 forth - and then fix them.
-1. Enable two-factor authentication (2FA) with [1Password TOTP] for your [Google](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome), [Slack](https://get.slack.help/hc/en-us/articles/204509068-Set-up-two-factor-authentication), [GitLab.com](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#enabling-2fa), and dev.gitlab.org accounts. `Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and GitLab.`
-1. When traveling, consider using 1Password in "Travel Mode", see more on that [below](#travel-mode).
-1. You can also consider using a [Yubikey](/2016/06/22/gitlab-adds-support-for-u2f/) with GitLab.
+1. Enable two-factor authentication (2FA/index.html.md) with [1Password TOTP] for your [Google](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome/index.html.md), [Slack](https://get.slack.help/hc/en-us/articles/204509068-Set-up-two-factor-authentication/index.html.md), [GitLab.com](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#enabling-2fa/index.html.md), and dev.gitlab.org accounts. `Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and GitLab.`
+1. When traveling, consider using 1Password in "Travel Mode", see more on that [below](#travel-mode/index.html.md).
+1. You can also consider using a [Yubikey](/2016/06/22/gitlab-adds-support-for-u2f/index.html.md/index.html.md) with GitLab.
 1. Use **Full-Disk Encryption** on your work computer and phone. Mac users may<a name="encrypt-home-folder"></a>
-   use [FileVault] (for details, refer to [Apple Support](https://support.apple.com/en-in/HT204837))
+   use [FileVault] (for details, refer to [Apple Support](https://support.apple.com/en-in/HT204837/index.html.md)/index.html.md)
    and GNU/Linux users may use LUKS (for the basic idea, refer to the
-   [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Dm-crypt)).
+   [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Dm-crypt/index.html.md)/index.html.md).
    Closing the lid of your laptop, and thus suspending it to RAM, does NOT
    protect you, even if your hard drive is encrypted. Power off your computer
-   completely (don’t just suspend it) when you think it’s at risk of falling
+   completely (don’t just suspend it/index.html.md) when you think it’s at risk of falling
    into someone else’s hands, like right before going through customs when
    entering a new country. This defends against memory-based attacks. Read more
-   on the matter in [this article](https://theintercept.com/2015/04/27/encrypting-laptop-like-mean/).
+   on the matter in [this article](https://theintercept.com/2015/04/27/encrypting-laptop-like-mean/index.html.md/index.html.md).
 1. Set up a screen saver with **password lock** on your laptop. The timeout
    can depend on how you use your laptop.
 1. Never leave your unlocked computer **unattended**. Activate the screensaver,
    lock the desktop, or close the lid.
 1. If you backup your computer make sure the backup drive is encrypted and use a strong password.
-1. For backups on macOS (OSX) follow this tutorial: [How to use Time Machine](https://support.apple.com/en-us/HT201250)
-1. **Report** suspect situations to an officer of the company. Or use the [panic button](#panic-email).
+1. For backups on macOS (OSX/index.html.md) follow this tutorial: [How to use Time Machine](https://support.apple.com/en-us/HT201250/index.html.md)
+1. **Report** suspect situations to an officer of the company. Or use the [panic button](#panic-email/index.html.md).
 1. If you have security **suggestion**, create an issue on the
-[security issue tracker](https://gitlab.com/gitlab-com/security/issues/)
+[security issue tracker](https://gitlab.com/gitlab-com/security/issues/index.html.md/index.html.md)
 and ping the security team. New security best practices and processes should be
 added to the [company call agenda].
-1. If you receive a security report of any kind (issue, customer ticket, etc.)
+1. If you receive a security report of any kind (issue, customer ticket, etc./index.html.md)
 never **dismiss** it as invalid. Please bring it to the attention of the
-[Security Team](/handbook/engineering/security), and follow the steps outlined on
+[Security Team](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/security/index.html.md), and follow the steps outlined on
 that team's handbook page.
-1. Do not **forward** company emails (@gitlab.com) to a non-company email address.
+1. Do not **forward** company emails (@gitlab.com/index.html.md) to a non-company email address.
 1. Do not click on links in emails you did not request yourself (requested
-   password reset is OK, anything else is suspect).
+   password reset is OK, anything else is suspect/index.html.md).
    **Exception:** During the onboarding process you may receive account
    registration emails for various services GitLab uses. Before clicking these
    links confirm with People Operations that they initialized the process.
@@ -135,8 +135,8 @@ that team's handbook page.
    addresses to ensure everyone is aware of the threat.
 1. If you get strange emails personally or other things related to security feel
 free to ask our security people for help,
-[they might be aiming for the company](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b).
-1. The CEO will not send you an [email to wire cash], a text message to ask for gift cards, or anything else that feels like [CEO fraud](https://www.knowbe4.com/ceo-fraud). Feel free to verify any
+[they might be aiming for the company](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b/index.html.md).
+1. The CEO will not send you an [email to wire cash], a text message to ask for gift cards, or anything else that feels like [CEO fraud](https://www.knowbe4.com/ceo-fraud/index.html.md). Feel free to verify any
    unusual requests with a video call.
 1. Only sign in to various services from trusted devices. Public computers are
 not as trustworthy as personal ones. Team members should be sure to only sign in
@@ -144,12 +144,12 @@ to their accounts from trusted computers.
 1. During offboarding, your 1Password account is deleted, which includes the
 **Personal** vault in the GitLab team account. If you want to keep your personal
 passwords, please copy/move them to your **Primary** vault which you will have
-if you signed up for an [individual account](#1password-private-use) before
+if you signed up for an [individual account](#1password-private-use/index.html.md) before
 joining the GitLab Team account.
 1. We will configure applications of which we store the passwords in 1Password
-to [not periodically reset passwords](https://www.ncsc.gov.uk/articles/problems-forcing-regular-password-expiry).
+to [not periodically reset passwords](https://www.ncsc.gov.uk/articles/problems-forcing-regular-password-expiry/index.html.md).
 1. Do not install software with many known security vulnerabilities (as
-  [listed in the handbook](/handbook/tools-and-tips/#do-not-use)). When in doubt,
+  [listed in the handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/#do-not-use/index.html.md)/index.html.md). When in doubt,
   do not install until after checking with the team by discussing in an issue,
   and then document the verdict in the handbook.
 
@@ -159,7 +159,7 @@ to [not periodically reset passwords](https://www.ncsc.gov.uk/articles/problems-
 [Google Authenticator]: https://support.google.com/accounts/answer/1066447?hl=en
 [FileVault]: https://support.apple.com/en-us/HT204837
 [company call agenda]: https://docs.google.com/document/d/1JiLWsTOm0yprPVIW9W-hM4iUsRxkBt_1bpm3VXV4Muc/edit
-[0-day attack]: https://en.wikipedia.org/wiki/Zero-day_(computing)
+[0-day attack]: https://en.wikipedia.org/wiki/Zero-day_(computing/index.html.md)
 [email to wire cash]: http://blog.centrify.com/ceo-fraud-business-email-compromise/
 
 ## 1Password Guide
@@ -173,7 +173,7 @@ for every site for which you have a login.
 Following this guide, it will be helpful to understand a few terms we'll be
 using throughout.
 
-- **App:** A native 1Password application (OSX, iOS, Windows, Android).
+- **App:** A native 1Password application (OSX, iOS, Windows, Android/index.html.md).
 - **Extension:** A web browser extension/plugin that communicates with the
   **App** to provide access to your passwords securely without leaving the
   browser.
@@ -183,11 +183,11 @@ using throughout.
 ### 1Password
 
 1Password can be used in two different ways - as a standalone application
-(by purchasing a standalone license) or as a hosted service (by subscribing).
+(by purchasing a standalone license/index.html.md) or as a hosted service (by subscribing/index.html.md).
 GitLab uses 1Passwords for Teams which is a hosted service.
 
 If you want to use 1Password for your private passwords not related to your work
-at GitLab, [there are a few options](#1password-private-use).
+at GitLab, [there are a few options](#1password-private-use/index.html.md).
 
 ### 1Password for Teams
 
@@ -220,12 +220,12 @@ version.
 1. Download and install the 1Password [OSX app].
 1. Launch the app.
 1. Click "Sign in to your 1Password account" button. If there is no such button
-please follow the instructions for [updating 1Password](#1password-update).
+please follow the instructions for [updating 1Password](#1password-update/index.html.md).
 
 Now you'll need the **Emergency Kit** PDF that 1Password told you to save when
 you registered your **Teams** account. Note: Store the Emergency Kit safely.
 Store a copy of the Emergency Kit on a USB flash drive or print a copy and store
-it in a vault at home or safe deposit box — somewhere not online or accessible
+it in a vault at home or safe deposit box � somewhere not online or accessible
 by anyone other than yourself.
 
 If you saved it as a digital PDF file:
@@ -241,7 +241,7 @@ If you printed the PDF:
 1. For **Account Key** enter the Account Key from your Emergency Kit
 1. For **Email Address** enter your `@gitlab.com` email
 1. For **Master Password** enter the password to your **Teams** account (*not*
-   the password you created above when you chose "I'm a new user")
+   the password you created above when you chose "I'm a new user"/index.html.md)
 
 After the Team is added, you should see some notifications about vaults being
 added to 1Password. By default you'll have **Team** and **Personal**, and
@@ -255,10 +255,10 @@ the GitLab Team to a 1Password app" section.*
 
 1. At the prompt, choose "I'm a new user". *Note:* This is one source of
    confusion. "I created my Teams account, I'm not new!" Just go with it.
-1. Enter a master password, confirmation, and hint. This can (and should) be
+1. Enter a master password, confirmation, and hint. This can (and should/index.html.md) be
    different from the password you used for our **Teams** account. This password
    gates access to your **local, private** Vault on your computer and/or phone.
-1. Skip over the remaining dialogs (syncing, newsletter, etc.)
+1. Skip over the remaining dialogs (syncing, newsletter, etc./index.html.md)
 1. You should now have an empty vault called **Primary**.
 
 Because the Teams feature is not available in your current version of 1Password,
@@ -276,7 +276,7 @@ we need to update the app to the latest version:
 
 Click the **Vault Selector** in the upper-left corner of the window:
 
-![Vault Selector](/handbook/security/1password-vault-selector.png)
+![Vault Selector](https://github.com/isamu-isozaki/teamai_test/tree/master/security/1password-vault-selector.png/index.html.md)
 
 **Team** is a vault that everyone on the GitLab Teams account has access to,
 both read and write.
@@ -284,49 +284,49 @@ both read and write.
 **Personal** is your *hosted, private* vault that is part of the
 GitLab 1Password for Teams account. Since the Personal vault is part of the
 GitLab Teams account, it should be thought of as company property (like the
-@gitlab.com email account), however the vault *can not* be viewed by anyone
+@gitlab.com email account/index.html.md), however the vault *can not* be viewed by anyone
 else on the team, including admins. If you choose to store truly personal
 information in the Personal vault, it opens up the possibility that you would
 be separated from this information if you offboard. Such truly personal
 information is therefore better to store in your **Primary** vault, which is
 associated with you instead of with the GitLab Teams account, assuming that you
-added an [individual account](#1password-for-your-private-passwords).
+added an [individual account](#1password-for-your-private-passwords/index.html.md).
 
 ### Browser Extension
 
-Go to [Browser extensions](https://agilebits.com/onepassword/extensions) and
+Go to [Browser extensions](https://agilebits.com/onepassword/extensions/index.html.md) and
 install the extension for whatever browser you're using. You *should not* need a
 beta version here.
 
 With the extension installed, you should be able to go to a site that has
 credentials stored in our Team vault and log in:
 
-![Mailchimp Login](/handbook/security/1password-login.gif)
+![Mailchimp Login](https://github.com/isamu-isozaki/teamai_test/tree/master/security/1password-login.gif/index.html.md)
 
 ---
 
 If you don't see the site listed in the results window, make sure you're using
 the correct vault:
 
-![Vault switching](/handbook/security/1password-vault-change.gif)
+![Vault switching](https://github.com/isamu-isozaki/teamai_test/tree/master/security/1password-vault-change.gif/index.html.md)
 
 ### Saving Logins
 
 When 1Password detects a login form submission, it may ask if you want to save
 the login with a dialog like this:
 
-![Save login](/handbook/security/1password-save-login.png)
+![Save login](https://github.com/isamu-isozaki/teamai_test/tree/master/security/1password-save-login.png/index.html.md)
 
 If you do want to save it, make sure the appropriate **Vault** is selected
 first.
 
 ### Several accounts and unlocking the app
 
-Please refer to [1Password FAQ](https://support.1password.com/faq/#i-have-several-accounts-and-vaults-which-password-do-i-use-to-unlock-1password).
+Please refer to [1Password FAQ](https://support.1password.com/faq/#i-have-several-accounts-and-vaults-which-password-do-i-use-to-unlock-1password/index.html.md).
 
 If you are planning to use both the GitLab team account and a separate
 individual account you should first add your separate individual account to the
-app first (Preferences > Accounts). By doing this you will be able to unlock
+app first (Preferences > Accounts/index.html.md). By doing this you will be able to unlock
 the 1Password app using the Master Password of the individual account.
 
 If you were using 1Password before joining GitLab, and you receive a prompt
@@ -342,16 +342,16 @@ This makes it less likely for a security breach to occur. You can purchase a
 standalone license or start an individual subscription. While under the GitLab
 team subscription, it is also possible to create and use a 'Personal' vault
 (same features of a standalone license, without the cost, but you will lose
-access if you go through offboarding).
+access if you go through offboarding/index.html.md).
 
 Please bear in mind that if you decide to purchase a standalone license or
 create a personal local vault, your data is stored only in a local folder on
 your computer. You can optionally sync this folder to Dropbox or iCloud (if you
-are using a Mac/iOS) to make it available on your phone's 1Password app, or on
+are using a Mac/iOS/index.html.md) to make it available on your phone's 1Password app, or on
 another computer.
 
 Signing up for a subscription seems to be the solution now recommended by
-AgileBits (the company behind 1Password).
+AgileBits (the company behind 1Password/index.html.md).
 
 To create a personal local vault:
 
@@ -359,17 +359,17 @@ To create a personal local vault:
 1. Go to **Advanced**
 1. Under **Local Vaults**, check **Allow creation of vaults outside of 1Password accounts**
 1. Enter your Master Password
-1. A new local vault (**Primary**) is created outside the GitLab team account
+1. A new local vault (**Primary**/index.html.md) is created outside the GitLab team account
 1. If you want to set up sync for your new local vault, go to **Preferences > Sync**
 
 ### Two Factor Authentication and Time-based One Time Passwords
 
-There are several ways to get your Two Factor Authentication (2FA) codes.
+There are several ways to get your Two Factor Authentication (2FA/index.html.md) codes.
 You can get them sent via SMS or use an app like Google Authenticator to
 generate them. 1Password provides an alternative solution that does not
 require using your smartphone: 1Password Time-based One Time Passwords
-(TOTP). 2FA codes are displayed directly in the 1Password app running on your
-laptop (note: this can not be set up via 1password browser extension or 1password web app).
+(TOTP/index.html.md). 2FA codes are displayed directly in the 1Password app running on your
+laptop (note: this can not be set up via 1password browser extension or 1password web app/index.html.md).
 
 To enable TOTP for a saved account:
 
@@ -377,14 +377,14 @@ To enable TOTP for a saved account:
 1. Go to the item for which you want to set up TOTP
 1. Click **Edit** in the bottom right corner
 1. Click 3 dots icon
-   ![3 little dots](/handbook/security/1password-totp.png)
+   ![3 little dots](https://github.com/isamu-isozaki/teamai_test/tree/master/security/1password-totp.png/index.html.md)
 1. Select **One-Time Password**
 1. Click QR code icon that appeared
 1. Scan QR code using the transparent window
 1. Click **Save**
 1. 2FA code should be displayed now
 
-Please refer to demo video [1password TOPT setup](https://support.1password.com/one-time-passwords/)
+Please refer to demo video [1password TOPT setup](https://support.1password.com/one-time-passwords/index.html.md/index.html.md)
 
 Please refer to the [1Password blog] for more information on how TOTP works.
 
@@ -421,7 +421,7 @@ one of our developers, uses 1Password:
 > Even my 1Password for Teams account information is stored in my personal
 > **Primary** vault, with the Emergency Kit PDF as a secure attachment:
 
-> ![Teams Login](/handbook/security/1password-teams-login.png)
+> ![Teams Login](https://github.com/isamu-isozaki/teamai_test/tree/master/security/1password-teams-login.png/index.html.md)
 
 > I have no idea what the password is. I've never actually typed it. And that's
 > the idea.
@@ -430,7 +430,7 @@ one of our developers, uses 1Password:
 {: #travel-mode}
 
 When traveling with a device that has access to the GitLab 1Password vaults, be
-sure to [enable Travel Mode](https://support.1password.com/travel-mode/) in 1Password. Travel Mode removes copies of any
+sure to [enable Travel Mode](https://support.1password.com/travel-mode/index.html.md/index.html.md) in 1Password. Travel Mode removes copies of any
 1Password vaults that are not tagged as "safe for travel" from your mobile devices.
 None of the GitLab team vaults are marked as safe for travel so you will need
 to either create a dedicated travel vault or mark your personal vault as safe for
@@ -484,30 +484,30 @@ If you hover your mouse cursor over a link in Google Chrome it will show you
 the link destination in the status bar at the bottom left corner of your browser
 window.
 
-![Hover Example](/images/phishing/hover-status-bar-example-chrome.png)
+![Hover Example](/images/phishing/hover-status-bar-example-chrome.png/index.html.md)
 
 In Safari the status bar must be enabled to view the true link destination
-(View -> Show Status Bar).
+(View -> Show Status Bar/index.html.md).
 
 Some examples or methods used to trick users into entering sensitive data into
 phishing forms include:
 
-* Using HTTP(S) with a hostname that begins with the name of a trusted
+* Using HTTP(S/index.html.md) with a hostname that begins with the name of a trusted
 site but ends with a malicious site.
 
-![Malicious Domain](/images/phishing/malicious-domain.png)
+![Malicious Domain](/images/phishing/malicious-domain.png/index.html.md)
 
 * Using a username or password inside the request that corresponds to the name
 of a trusted domain and assuming the viewer won't view the whole URL.
 
-![Trick Username](/images/phishing/username-password.png)
+![Trick Username](/images/phishing/username-password.png/index.html.md)
 
-* Using a data URI scheme instead of HTTP(S) is a particularly devious means of
+* Using a data URI scheme instead of HTTP(S/index.html.md) is a particularly devious means of
 tricking users. Data schemes allow the embedding of an entire web page inside
 the URI itself. Data schemes will not show the typical green lock in the address
 bar of a browser that is customarily associated with a verified SSL connection.
 
-![Data Scheme](/images/phishing/data-scheme.png)
+![Data Scheme](/images/phishing/data-scheme.png/index.html.md)
 
 When viewing the source of an HTML email it is important to remember that the
 text inside the "HREF" field is the actual link destination/target and the text
@@ -523,7 +523,7 @@ that signify a validated SSL service. This icon alone is not enough to verify th
 authenticity of a website, however the lack of the green icon does mean you
 should never enter sensitive data into that website.
 
-![Green Lock Example](/images/phishing/green-lock-example.png)
+![Green Lock Example](/images/phishing/green-lock-example.png/index.html.md)
 
 ### What to do if you suspect an email is a phishing attack
 
@@ -570,13 +570,13 @@ Copy this checklist into a confidential issue.
 
 ```
 - [ ] Password Access and Rotation
-   - [ ] Suspend 1Password account. (All responders to `panic@` should be members of the "Panic@ Responders" group in 1Password which has the rights to suspend and recover user accounts).
+   - [ ] Suspend 1Password account. (All responders to `panic@` should be members of the "Panic@ Responders" group in 1Password which has the rights to suspend and recover user accounts/index.html.md).
    - [ ] Take screenshot of what groups / vaults the individual had access to. This facilitates the next step.
-   - [ ] Coordinate or actively change sensitive shared passwords. In particular sysadmin access passwords for GitLab.com Infrastructure (ssh, chef user/key, discuss others).
+   - [ ] Coordinate or actively change sensitive shared passwords. In particular sysadmin access passwords for GitLab.com Infrastructure (ssh, chef user/key, discuss others/index.html.md).
 - [ ] Block Google account
 - [ ] Block Slack account
-- [ ] Block [dev.GitLab.org account](https://dev.gitlab.org/admin/users).
-- [ ] Remove GitLab.com account from the [gitlab-org group](https://gitlab.com/groups/gitlab-org/group_members)
+- [ ] Block [dev.GitLab.org account](https://dev.gitlab.org/admin/users/index.html.md).
+- [ ] Remove GitLab.com account from the [gitlab-org group](https://gitlab.com/groups/gitlab-org/group_members/index.html.md)
 - [ ] Block access to hackerone.com
 - [ ] Block access to Tweetdeck
 ```

@@ -43,10 +43,10 @@ that you observe the following:
    find a peer, Director, or other member of the team willing to moderate.
 1. **Emotions are not only _allowed_ in retrospectives, they should be
    encouraged.** Emotional language ("I was angry when...," "It made me sad
-   that...") not only helps convey intensity, it also helps expose issues that
+   that..."/index.html.md) not only helps convey intensity, it also helps expose issues that
    may have been difficult to sort out otherwise. Make sure all participants
    know they are free to express their feelings, although we do expect them to
-   stay consistent with our [values](/handbook/values).
+   stay consistent with our [values](https://github.com/isamu-isozaki/teamai_test/tree/master/values/index.html.md).
 1. **When possible, all parties should be present.** No one should have to worry
    about sharing concerns or experiences because another party isn't there to
    represent their side of the story. This includes stakeholders outside of the
@@ -75,11 +75,11 @@ team, we recommend something that follows this general pattern:
    review. Ensure everyone understands the rest of the agenda.
 1. **Gather data** - don't try to draw any conclusions up front, simply
    collect facts. This can be done by constructing a timeline, soliciting
-   impressions ("what made you mad, sad, or glad in this iteration?," etc.), or
+   impressions ("what made you mad, sad, or glad in this iteration?," etc./index.html.md), or
    any other number of fact collecting exercises.
 1. **Generate insights** - now that you have all of the facts, try to work
    together to identify patterns or causal relationships (because we did
-   _x_, _y_ happened).
+   _x_, _y_ happened/index.html.md).
 1. **Decide what to do** - with the insights firmly in hand, it should be
    fairly easy to identify action items for the team. This could be things
    to change with our process, it could be things to experiment with in the
@@ -96,7 +96,7 @@ team, we recommend something that follows this general pattern:
 Right now we are leaving it to individual Engineering Managers how they would
 like to collect retrospective notes - GitLab issues, Google docs, etc. After the
 retrospective is complete, the Manager has until the public retrospective call
-(shortly after the 22nd every month) to make relevant notes from the retrospective
+(shortly after the 22nd every month/index.html.md) to make relevant notes from the retrospective
 public. Teams are encouraged to link to these notes from their team page in the
 handbook.
 
@@ -105,5 +105,5 @@ handbook.
 We recommend the following resources if you'd like to learn more about running
 effective retrospectives:
 
-1. [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
-1. [The Human Side of Post Mortems](https://www.oreilly.com/webops-perf/free/the-human-side-of-postmortems.csp)
+1. [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/index.html.md)
+1. [The Human Side of Post Mortems](https://www.oreilly.com/webops-perf/free/the-human-side-of-postmortems.csp/index.html.md)

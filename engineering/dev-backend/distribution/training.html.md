@@ -11,7 +11,7 @@ title: "Distribution Team Training"
 
 ## Common links
 
-* [Distribution Team Handbook](/handbook/engineering/dev-backend/distribution/)
+* [Distribution Team Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/dev-backend/distribution/index.html.md/index.html.md)
 
 ## Purpose
 
@@ -53,12 +53,12 @@ training other team members.
 
 ## Training Listings
 
-- DIS001 [GitLab Pivotal Cloud Foundry Tile](https://youtu.be/oo2p6WtHhG4)
-- DIS002 [GitLab Terraform Module](https://youtu.be/JbbKq0UrDec)
-- DIS003 [Kubernetes](https://youtu.be/Po8vUvoiMYU)
-- DIS004 [Omnibus](https://youtu.be/m89NHLhTMj4)
-- DIS005 [PG HA](https://youtu.be/2Uz2piFLp7k)
-- DIS006 [GitLab QA project](https://youtu.be/Ym159ATYN_g)
+- DIS001 [GitLab Pivotal Cloud Foundry Tile](https://youtu.be/oo2p6WtHhG4/index.html.md)
+- DIS002 [GitLab Terraform Module](https://youtu.be/JbbKq0UrDec/index.html.md)
+- DIS003 [Kubernetes](https://youtu.be/Po8vUvoiMYU/index.html.md)
+- DIS004 [Omnibus](https://youtu.be/m89NHLhTMj4/index.html.md)
+- DIS005 [PG HA](https://youtu.be/2Uz2piFLp7k/index.html.md)
+- DIS006 [GitLab QA project](https://youtu.be/Ym159ATYN_g/index.html.md)
 
 ### FAQ
 

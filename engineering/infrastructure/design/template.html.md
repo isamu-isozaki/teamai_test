@@ -17,7 +17,7 @@ this and the risks of not doing it. Briefly provide one or more potential approa
 ## Design
 
 Describe the chosen approach (i.e., its architecture, technology selection and other relevant design
-information) to implement the idea or solve the problem. Be as specific as you think is necessary.
+information/index.html.md) to implement the idea or solve the problem. Be as specific as you think is necessary.
 
 ### Implementation Considerations
 
@@ -27,7 +27,7 @@ Outline how the solution will be tested.
 
 #### GitLab.com and Self-managed
 
-Describe how this solution is expected to work (or not) on both GitLab.com and self-managed.
+Describe how this solution is expected to work (or not/index.html.md) on both GitLab.com and self-managed.
 
 ### Operational Considerations
 
@@ -42,7 +42,7 @@ Describe how the implemented solution will be monitored.
 
 ### Additional Considerations
 
-List any additional considerations that may play a role in the design (for instance, licensing).
+List any additional considerations that may play a role in the design (for instance, licensing/index.html.md).
 
 ### Alternatives
 

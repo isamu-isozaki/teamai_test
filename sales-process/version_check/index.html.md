@@ -9,7 +9,7 @@ title: "GitLab Version Check"
 - TOC
 {:toc}
 
-[Blog post about version check: /2015/05/07/version-check/](/2015/05/07/version-check/)
+[Blog post about version check: /2015/05/07/version-check/](/2015/05/07/version-check/index.html.md/index.html.md)
 
 ## What is the functionality of the GitLab Version Check?
 

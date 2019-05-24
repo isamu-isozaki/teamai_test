@@ -9,23 +9,23 @@ title: "Sales Training"
 - TOC
 {:toc}
 
-### Customer Success (CST) Courses
+### Customer Success (CST/index.html.md) Courses
 
 **Explainer Videos**
 
-- CST201 [GitHub.com vs. GitLab](https://www.youtube.com/watch?v=ZdmDJFPNQuI&index=1&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP)
-- CST202 [Hosting Gitlab in the Cloud](https://www.youtube.com/watch?v=1OLCDtUkw0Q&index=2&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP)
-- CST203 [Integrating Atlassian and GitLab](https://www.youtube.com/watch?v=o7pnh9tY5LY&index=3&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP)
-- CST204 [GitLab Maintenance and Support](https://www.youtube.com/watch?v=X8jsj59b4vk&index=4&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP)
-- CST205 [We already use JIRA, so shouldn't we go with BitBucket?](https://www.youtube.com/watch?v=-JRab22h9Dg&index=5&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP)
-- CST206 [Traditional DevOps Dasiy Chain](https://www.youtube.com/watch?v=YHznYB275Mg)
+- CST201 [GitHub.com vs. GitLab](https://www.youtube.com/watch?v=ZdmDJFPNQuI&index=1&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP/index.html.md)
+- CST202 [Hosting Gitlab in the Cloud](https://www.youtube.com/watch?v=1OLCDtUkw0Q&index=2&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP/index.html.md)
+- CST203 [Integrating Atlassian and GitLab](https://www.youtube.com/watch?v=o7pnh9tY5LY&index=3&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP/index.html.md)
+- CST204 [GitLab Maintenance and Support](https://www.youtube.com/watch?v=X8jsj59b4vk&index=4&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP/index.html.md)
+- CST205 [We already use JIRA, so shouldn't we go with BitBucket?](https://www.youtube.com/watch?v=-JRab22h9Dg&index=5&list=PLFGfElNsQthbFw3QxWjoTsDMoLmZx1SbP/index.html.md)
+- CST206 [Traditional DevOps Dasiy Chain](https://www.youtube.com/watch?v=YHznYB275Mg/index.html.md)
 
 
-### 5 Signs You're Talking At (Not Talking To) Your Prospects <a name="signs"></a>
+### 5 Signs You're Talking At (Not Talking To/index.html.md) Your Prospects <a name="signs"></a>
 
-You’d think that for a salesperson, talking a lot about their product would be the best way to win a deal. After all, how can prospects decide to buy (or not) unless they know what they’re paying for?
+You’d think that for a salesperson, talking a lot about their product would be the best way to win a deal. After all, how can prospects decide to buy (or not/index.html.md) unless they know what they’re paying for?
 
-Yet one of sales’ biggest ironies is that the more you talk about your product, the less likely you are to actually sell it. While speaking with your prospects is absolutely necessary to close sales, it’s all too easy to slip from talking to them into talking at them. The five signs below are easy-to-spot indicators that it’s time to let your prospect take center stage.
+Yet one of sales� biggest ironies is that the more you talk about your product, the less likely you are to actually sell it. While speaking with your prospects is absolutely necessary to close sales, it’s all too easy to slip from talking to them into talking at them. The five signs below are easy-to-spot indicators that it’s time to let your prospect take center stage.
 
 #### 1. You talk for more than half of each conversation.
 In general, listening is more valuable to salespeople than talking. It’s the best, and in the early stages of a sales conversation, the only way to assess your prospect’s business pain, whether they’re being truthful, and their level of proficiency in implementing your product.
@@ -46,7 +46,7 @@ Of course, eventually you’ll have to talk more than you ask. Once you get a cl
 Dive deep into areas that are important for your prospect and make sure to clarify anything you don’t understand. This style lends itself to a slower sales process than showing up with a pitch ready, but you’ll set yourself up for success in the long run by building a foundational understanding of your prospect from day one.
 
 #### 3. Your prospect isn’t engaging with you.
-You (hopefully) wouldn’t continue to send email after email after email to a prospect who’d never opened or responded to a single message. And that principle applies to conversations as well.
+You (hopefully/index.html.md) wouldn’t continue to send email after email after email to a prospect who’d never opened or responded to a single message. And that principle applies to conversations as well.
 
 If your prospect’s gone quiet, there’s a reason. Maybe they’re confused. Maybe you started talking about something completely irrelevant to their situation. Maybe you’re just not leaving them any opportunity to respond or ask questions.
 
@@ -74,15 +74,15 @@ Dr. Robert Cialdini's theory of influence from his book "Influence: The Psycholo
 
 In a sales conversation this principle can be used to influence the direction and outcome of a conversation from the very beginning.
 For example if a prospect signs up for a free trial, you can initiate the conversation by offering help with potential issues or questions and making sure the prospect has received the relevant information from the trial confirmation mail, e.g. the license key.
-Nearly everyone of us has experienced a situation where a confirmation email didn't arrive or went to the spam folder. So by starting the conversation with a favor, the prospect will feel obligated to take the time to reply and answer your [open-ended question](#art).
-The principle of reciprocity is also reason why [sales emails should always provide value to a customer](#insanely).
+Nearly everyone of us has experienced a situation where a confirmation email didn't arrive or went to the spam folder. So by starting the conversation with a favor, the prospect will feel obligated to take the time to reply and answer your [open-ended question](#art/index.html.md).
+The principle of reciprocity is also reason why [sales emails should always provide value to a customer](#insanely/index.html.md).
 Here are a few examples about how to start a conversation with a prospect who started a trial:
 
 Hi [prospect] and thanks for your interest in GitLab.
 
 In case you didn't see the email from our license app, I've attached a copy of your trial license key. Let me know if you need help installing or configuring GitLab.
 
-Perhaps let me know what's driving your interest, what you're looking to validate during the trial period and how we can help you (demo, docs technical support etc).
+Perhaps let me know what's driving your interest, what you're looking to validate during the trial period and how we can help you (demo, docs technical support etc/index.html.md).
 
 Cheers,
 
@@ -104,7 +104,7 @@ Best regards,
 
 ### 6 Ways to Make Your Sales Email Insanely Valuable to Prospects <a name="insanely"></a>
 
-The “just checking in” sales email isn’t just ineffective -- it’s also selfish.
+The “just checking in� sales email isn’t just ineffective -- it’s also selfish.
 
 Reps who send these types of emails aren’t offering any value. They’re trying to force or persuade buyers into replying to their message and making a purchase on the rep’s preferred timeline.
 
@@ -196,24 +196,24 @@ If you’re not sure what I mean, just give me a shout. Great post, by the way. 
 All the best,
 
 #### 6. Just respond.
-Simply responding to a question, voicemail, tweet, or email is the easiest way of all to provide value. And keep in mind that you don’t have to give the final answer right away. A simple “I’m looking into this for you” will assure the prospect that you’re on the case.
+Simply responding to a question, voicemail, tweet, or email is the easiest way of all to provide value. And keep in mind that you don’t have to give the final answer right away. A simple “I’m looking into this for you� will assure the prospect that you’re on the case.
 
-The value of responding quickly extends beyond solving specific problems. According to Sprout Social, 26% of customers who don’t hear back from a company take to social media to post negative comments. Remember the importance of good reviews? Responding quickly plays a major role in prospects’ perception of your business.
+The value of responding quickly extends beyond solving specific problems. According to Sprout Social, 26% of customers who don’t hear back from a company take to social media to post negative comments. Remember the importance of good reviews? Responding quickly plays a major role in prospects� perception of your business.
 
 Email subject: thanks for the question!
 
 Hey [prospect],
 
-Thanks for getting in touch. That’s a great question, and I’m glad you asked. I’m in the middle of a few meetings this morning, but I’ve sent your question along to our support experts (cc’d on this email). They’ll be able to help, and I’ll follow up with you at the end of the day.
+Thanks for getting in touch. That’s a great question, and I’m glad you asked. I’m in the middle of a few meetings this morning, but I’ve sent your question along to our support experts (cc’d on this email/index.html.md). They’ll be able to help, and I’ll follow up with you at the end of the day.
 
 Thanks again! If anything else comes up, please let me know.
 
 All the best,
 
 
-As author Michael Port recently wrote, “Give away so much value that you think you've given too much -- and then give more.”
+As author Michael Port recently wrote, “Give away so much value that you think you've given too much -- and then give more.�
 
-Sales reps need to understand that the modern buyer is busy and doesn’t have time for “just checking in” emails. Strive to offer buyers an instant ROI with each and every message you send.
+Sales reps need to understand that the modern buyer is busy and doesn’t have time for “just checking in� emails. Strive to offer buyers an instant ROI with each and every message you send.
 
 Every word you say during a sales process is important. Every conversation you have is an opportunity to drive the process forward or derail it. With this in mind, it’s crucial to make sure these conversations count.
 
@@ -228,11 +228,11 @@ So if ignoring the question and hoping it goes away doesn’t work, what does? W
 
 Say three short words:
 
-“I don’t understand.”
+“I don’t understand.�
 
-While some reps might be afraid to say these words and reveal a chink in their “trusted advisor” armor, let me make the case for why this is the best option when you’re truly stumped.
+While some reps might be afraid to say these words and reveal a chink in their “trusted advisor� armor, let me make the case for why this is the best option when you’re truly stumped.
 
-#### “I don’t understand” allows you to clarify.
+#### “I don’t understand� allows you to clarify.
 Understanding exactly what your prospect is saying allows you to avoid deal-disrupting miscommunications down the road. With this opening, the prospect can explain the question further so you can gather as much information as possible before responding.
 
 #### "I don't understand" provides an opportunity to follow up.
@@ -245,16 +245,16 @@ From now on you’ll know how to properly inform prospects seeking similar infor
 Recent studies suggest that being honest makes you more likable. Instead of feeling like you don’t know what you’re talking about, a prospect will likely be impressed with a sales rep who admits that they don’t understand something. This proves your honesty and your willingness to be up front.
 
 #### "I don't understand" enables you to ask better questions.
-Instead of just moving on to the next part of the call, use “I don’t understand” to gather more information about your prospect and gain insight on how to refine your questions. Asking the right questions can help prospects paint a clear picture of their business, their plan, and their pain. With additional information, you can adjust your strategy to fit exactly what the buyer is looking for.
+Instead of just moving on to the next part of the call, use “I don’t understand� to gather more information about your prospect and gain insight on how to refine your questions. Asking the right questions can help prospects paint a clear picture of their business, their plan, and their pain. With additional information, you can adjust your strategy to fit exactly what the buyer is looking for.
 
-#### “I don’t understand” prompts them to use their own words.
-Instead of trying to rephrase the prospect’s question for them, prompting them with “I don’t understand” gives the prospect the freedom to explain their situation and pain point in their own words. The rep can now get insight into how this prospect views their pain points, which is incredibly valuable when trying to tailor a solution and sell value.
+#### “I don’t understand� prompts them to use their own words.
+Instead of trying to rephrase the prospect’s question for them, prompting them with “I don’t understand� gives the prospect the freedom to explain their situation and pain point in their own words. The rep can now get insight into how this prospect views their pain points, which is incredibly valuable when trying to tailor a solution and sell value.
 
-Saying “I don’t understand” on a sales call isn’t the end of the world. Sales reps can strategically use this phrase to uncover a prospect’s meaning and give a genuine response. Remember, the prospect isn’t going to have all the answers. It’s okay if you don’t either. Put the focus on the relationship and providing value, and you’ll be okay.
+Saying “I don’t understand� on a sales call isn’t the end of the world. Sales reps can strategically use this phrase to uncover a prospect’s meaning and give a genuine response. Remember, the prospect isn’t going to have all the answers. It’s okay if you don’t either. Put the focus on the relationship and providing value, and you’ll be okay.
 
 Understand?
 
-### 6 Questions Sales Reps Should (But Don’t) Ask Themselves Before Sending an Email <a name="questions"></a>
+### 6 Questions Sales Reps Should (But Don’t/index.html.md) Ask Themselves Before Sending an Email <a name="questions"></a>
 Few things top getting off on the right foot with a prospect. When you and the buyer connect off the bat, making the sale just comes naturally.
 
 And where does that first impression happen? More often than not, online, with the first email you send. So here are a few things to ask yourself before you reach out to prospects for the first time to ensure your message will make a great first impression.
@@ -274,7 +274,7 @@ With an average response rate of 1.7%, the cold email is clearly losing its effe
 
 Why? It lacks context. Today, we all screen our calls and emails. If we’re unfamiliar with the person reaching out to us, we’ll probably ignore them.
 
-If the prospect doesn’t recognize your name, their initial reaction might be to hit the “report spam” button on your email. In sales, this a less-than-ideal outcome.
+If the prospect doesn’t recognize your name, their initial reaction might be to hit the “report spam� button on your email. In sales, this a less-than-ideal outcome.
 
 So instead of this person seeing your name for the first time in their inbox, aim to become familiar online first. To create rapport with a person before the first email, connect with them on social media, comment on a blog post they’ve written, or reach out to a mutual connection and ask for an introduction. All three of these techniques give you a chance to spark a discussion and make your name familiar.
 
@@ -310,7 +310,7 @@ Here are some examples of calls-to-action reps can include in their sales emails
 
 The introductory email sets the tone for the relationship. Before you reach out, ask yourself these six questions to determine whether or not you’re fully prepared to send that email. If you can’t answer all of these questions, hit the reset button and get back to the drawing board.
 
-### Bill Cates from Hubspot wrote [a great article about "The Art of Asking Open-Ended Questions.”](http://blog.hubspot.com/sales/the-art-of-asking-open-ended-questions) <a name="art"></a>  Here are some highlights.
+### Bill Cates from Hubspot wrote [a great article about "The Art of Asking Open-Ended Questions.”](http://blog.hubspot.com/sales/the-art-of-asking-open-ended-questions/index.html.md) <a name="art"></a>  Here are some highlights.
 
 High-value questions bring value to the conversation and creates a learning experience for you and your prospect/client.  
 
@@ -325,7 +325,7 @@ Here are some open-ended, high-value questions that reps can ask their prospects
 * What are the top priorities in your business at the moment?
 * What are some of the best decisions you’ve made related to ____________?
 * How are you feeling about your current situation related to _____________?
-* If we were meeting five (10, 20) years from today, what must happen for you to feel good about your situation related to ___________?
+* If we were meeting five (10, 20/index.html.md) years from today, what must happen for you to feel good about your situation related to ___________?
 * What opportunities do you see on your horizon?
 * What challenges do you see in making this happen?
 * If we were to work together on this, what are the top two or three outcomes you’d like to see?
@@ -358,13 +358,13 @@ There are a multitude of ways to avoid autopilot. By giving the presentation bef
 #### 4. Dodging questions.
 Dodging questions after a sales presentation is a bad idea because it doesn’t allow the audience to clarify information, and according to 24Slides, can weaken your credibility. When prospects aren’t able to have specific questions answered, they can’t learn about what matters most to them. Instead of leaving the presentation feeling great about the product, the prospect is likely to leave with more questions than answers, which defeats the whole purpose of the presentation.
 
-While reps might have a fear of answering questions after a presentation, it’s important to open the floor to the audience. Reps who take the extra time to answer tough questions can showcase what it’s like to work with them on an ongoing basis and the commitment they have to their prospects and customers. And remember, if you’re truly unsure, there’s nothing wrong with saying “I don’t understand” and moving forward.
+While reps might have a fear of answering questions after a presentation, it’s important to open the floor to the audience. Reps who take the extra time to answer tough questions can showcase what it’s like to work with them on an ongoing basis and the commitment they have to their prospects and customers. And remember, if you’re truly unsure, there’s nothing wrong with saying “I don’t understand� and moving forward.
 
 A sales presentation can be tricky to master. Reps can give 1,000 of them but still have an off day every once in awhile. By focusing on reversing some bad habits, reps can ensure their prospects enjoy their presentations and find it valuable.
 
 ### Persistent or Just Plain Pushy? 7 Sales Behaviors Decoded <a name="behaviors"></a>
 
-When was the last time you called a prospect and they said, “I’m so glad you called! I love salespeople!”?
+When was the last time you called a prospect and they said, “I’m so glad you called! I love salespeople!�?
 
 Probably never.
 
@@ -386,7 +386,7 @@ In sales, the line between pushiness and persistence can be hard to walk.  Here 
 
 * Pushy: Pitching immediately without providing context on who you are and why you're calling
 
-* Persistent: Providing a reason for your call (ideally the prospect's previous activity or a referral) and offerign to help.
+* Persistent: Providing a reason for your call (ideally the prospect's previous activity or a referral/index.html.md) and offerign to help.
 
 ##### NURTURING
 
@@ -424,7 +424,7 @@ Recognize that there’s a fine line between being annoying and tenacious. The s
 
 ### A Two-Step Formula for Handling Pricing Objections <a name="objections"></a>
 
-Below is a proven two-step formula that can help you handle any pricing (or any other) objection, for those times when your ounce of prevention may not be 100% foolproof….
+Below is a proven two-step formula that can help you handle any pricing (or any other/index.html.md) objection, for those times when your ounce of prevention may not be 100% foolproof….
 
 #### Step 1: Count to three!
 
@@ -442,9 +442,9 @@ Whenever a client tells you your price is too high, just breathe and be quiet. Y
 
 #### Step 2: Ask questions.
 
-Step 2 is to ask questions. You can ask up to three questions before you have to answer an objection – provided you ask the right questions in the right way.
+Step 2 is to ask questions. You can ask up to three questions before you have to answer an objection � provided you ask the right questions in the right way.
 
-The key is to acknowledge what the customer is saying and then offer them a compliment before asking your question. For example, try saying something like “I appreciate you asking that,” “that’s a really great question,” “I understand how you feel” or “good point, I never thought about that!”
+The key is to acknowledge what the customer is saying and then offer them a compliment before asking your question. For example, try saying something like “I appreciate you asking that,� “that’s a really great question,� “I understand how you feel� or “good point, I never thought about that!�
 
 Including a nice warm statement in front of your question will encourage your customer to answer it, because they will feel like you are giving them something first. The compliment is a gift. It makes them feel that they are special, that you are paying attention to them and that you truly care about them, and they will be more likely to respond in kind.
 
@@ -452,7 +452,7 @@ Which questions to ask?
 
 Once you’ve paid the client a compliment, ask them a question that is both direct and phrased to elicit more information. The following are some responses you can use to answer a few of the more common objections.
 
-##### OBJECTION: “Your price is too high!”
+##### OBJECTION: “Your price is too high!�
 
 ##### RESPONSES:
 
@@ -488,17 +488,17 @@ Once you’ve paid the client a compliment, ask them a question that is both dir
 
 Another option for asking questions is to use the ECHO technique.
 
-The echo technique is simply the art of taking the last word (or last important word) in a client’s sentence and turning it into a question.
+The echo technique is simply the art of taking the last word (or last important word/index.html.md) in a client’s sentence and turning it into a question.
 
-Whenever a client says “I need a discount,” look them squarely in the eye and say “discount?” Ninety-nine times out of a hundred, the customer either tells the rep exactly what they need to do from a price and terms point of view to move the deal forward, or offers alternatives to the pricing model that will make both parties happy.
+Whenever a client says “I need a discount,� look them squarely in the eye and say “discount?� Ninety-nine times out of a hundred, the customer either tells the rep exactly what they need to do from a price and terms point of view to move the deal forward, or offers alternatives to the pricing model that will make both parties happy.
 
 What could be simpler than that!
 
 ### Price Objections - The Script that Always Closes <a name="script"></a>
 
-You hear it all the time – if your price is higher than your competition you’re told to “build value." You’re instructed to stress the quality, the warranty, the features, etc. But your prospects have heard all that before, haven’t they? Want a better way?
+You hear it all the time � if your price is higher than your competition you’re told to “build value." You’re instructed to stress the quality, the warranty, the features, etc. But your prospects have heard all that before, haven’t they? Want a better way?
 
-Let’s face it – prospects will often buy from people they like, know, or trust. Your enthusiasm for your product or service is also a big factor in getting your prospects to place an order with you as well. Knowing this, I’ve often used the following script to not only build value in my product or service, but also to build value in myself. Here’s what to say:
+Let’s face it � prospects will often buy from people they like, know, or trust. Your enthusiasm for your product or service is also a big factor in getting your prospects to place an order with you as well. Knowing this, I’ve often used the following script to not only build value in my product or service, but also to build value in myself. Here’s what to say:
 
 If your prospects says, “I can get cheaper," or “Well the XYZ company has something similar or for less money," or anything like that, say:
 
@@ -508,9 +508,9 @@ If your prospects says, “I can get cheaper," or “Well the XYZ company has so
 
 “If there was a better product or company for you to be doing business with I’d be there and we’d be talking about that. But there isn’t.
 
-“Bottom line – if you want the best overall value, results, and experience, then do what I do did – choose GitLab – You’ll always be glad you did. Now, do you want to start with the X size order or would the Y size order be better?"
+“Bottom line � if you want the best overall value, results, and experience, then do what I do did � choose GitLab � You’ll always be glad you did. Now, do you want to start with the X size order or would the Y size order be better?"
 
-This technique builds value in the most important part of any sales transaction — you and your belief in your product or service. Use it each time you get the price/competition objection and watch your sales and confidence growth.
+This technique builds value in the most important part of any sales transaction � you and your belief in your product or service. Use it each time you get the price/competition objection and watch your sales and confidence growth.
 
 ### 5 B2B Sales Call Techniques That Get More Meetings <a name="techniques"></a>
 
@@ -520,37 +520,37 @@ To put it simply, every other sales activity is leading up to one thing: a phone
 
 #### 1. Show Maximum Respect
 
-Many of your calls are no doubt scheduled in advance, but some aren’t. Near the beginning of unscheduled calls, ask this one simple question: “Have I caught you at a bad time?” You’ll be surprised how few people say yes. That’s because by simply asking the question, you’re conveying that you’re a thoughtful and respectful human being.
+Many of your calls are no doubt scheduled in advance, but some aren’t. Near the beginning of unscheduled calls, ask this one simple question: “Have I caught you at a bad time?� You’ll be surprised how few people say yes. That’s because by simply asking the question, you’re conveying that you’re a thoughtful and respectful human being.
 
 #### 2. Justify the Call
 
-Before even dialing, imagine your prospect asking you, “Why are you calling me?” (with the emphasis on the word "me"). If you can answer that question eloquently and convincingly, then you’re bound to add value during the call.
+Before even dialing, imagine your prospect asking you, “Why are you calling me?� (with the emphasis on the word "me"/index.html.md). If you can answer that question eloquently and convincingly, then you’re bound to add value during the call.
 
-For example, “I’m calling because we’re in the same beekeeping LinkedIn group, and I noticed you asked whether any group members could recommend a good supplier.” Or, with a repeat customer, “You’ve ordered four cedar hives from us in the past, so I thought you’d want to know that we released a brilliant new model.”
+For example, “I’m calling because we’re in the same beekeeping LinkedIn group, and I noticed you asked whether any group members could recommend a good supplier.� Or, with a repeat customer, “You’ve ordered four cedar hives from us in the past, so I thought you’d want to know that we released a brilliant new model.�
 
 #### 3. Verify the Role
 
 One of the keys to B2B sales is reaching out directly to the person whose job/career/life your product will improve. As a sales rep, you’ll do research to ensure that you’re calling the right person. But because people change roles all the time, you should verify this up front as well, even if you’ve talked to the person in the past.
 
-For example, “Just to make sure, you’re still involved in managing beekeeping operations -- do I have that right?” You’ll be surprised how often people will respond with something like, “Actually, I changed roles, but I’d be happy to intro you to the person who’s doing it now.”
+For example, “Just to make sure, you’re still involved in managing beekeeping operations -- do I have that right?� You’ll be surprised how often people will respond with something like, “Actually, I changed roles, but I’d be happy to intro you to the person who’s doing it now.�
 
 #### 4. Personalize
 
-For best results, use public information to find common ground that helps you to connect as a person. For example, “I noticed that we’re both connected to Jack White. Great guy, and an incredible guitarist. How’d you meet?”
+For best results, use public information to find common ground that helps you to connect as a person. For example, “I noticed that we’re both connected to Jack White. Great guy, and an incredible guitarist. How’d you meet?�
 
-Alternatively, you can reference prior engagement. For example, “I saw that you downloaded our bee relocation cheat sheet, and I wondered if our mobile cedar hives might be a good investment for you.”
+Alternatively, you can reference prior engagement. For example, “I saw that you downloaded our bee relocation cheat sheet, and I wondered if our mobile cedar hives might be a good investment for you.�
 
 #### 5. Verify Compatibility
 
-As is often the case in B2B sales, you may have a technology, size, or geography requirement. You’re obviously going to research compatibility ahead of the call, but you also need to verify it before you waste anyone’s time. For example, “Just so you know, our new hive frames are only compatible with WBC hives. Would that be an issue for you?”
+As is often the case in B2B sales, you may have a technology, size, or geography requirement. You’re obviously going to research compatibility ahead of the call, but you also need to verify it before you waste anyone’s time. For example, “Just so you know, our new hive frames are only compatible with WBC hives. Would that be an issue for you?�
 
-If there’s one common thread in all these tips, it’s that the most successful sales reps put their customers’ needs first. Add value, be honest and respectful, and offer information -- not a sales pitch. If you can put all of these sales call techniques into use, you’ll be crushing your meeting quota in no time.
+If there’s one common thread in all these tips, it’s that the most successful sales reps put their customers� needs first. Add value, be honest and respectful, and offer information -- not a sales pitch. If you can put all of these sales call techniques into use, you’ll be crushing your meeting quota in no time.
 
-### Dan Tyre wrote [a great article about "How to Create a Sales Plan"](http://blog.hubspot.com/sales/ultimate-guide-creating-sales-plan?utm_campaign=blog-rss-emails&utm_source=hs_email&utm_medium=email&utm_content=26033406)<a name="buyingplan"></a>.  Here are some highlights.
+### Dan Tyre wrote [a great article about "How to Create a Sales Plan"](http://blog.hubspot.com/sales/ultimate-guide-creating-sales-plan?utm_campaign=blog-rss-emails&utm_source=hs_email&utm_medium=email&utm_content=26033406/index.html.md)<a name="buyingplan"></a>.  Here are some highlights.
 
 First, I would like to change our thinking from being a sales plan to a buying plan.  This puts us in the mindset of the buyer and helps us use words focused on them and not us. The purpose of a buying plan is to help the process move forward.  To avoid inertia.  Time kills deals so we putting a plan in place that moves the conversation and process forward is essential.
 
-To determine if you need a buying plan at all or how comprehensive it should be, you fist need to understand the sophisitication of your buyer.  A good question to ask is: “Have you bought a similar product before?”
+To determine if you need a buying plan at all or how comprehensive it should be, you fist need to understand the sophisitication of your buyer.  A good question to ask is: “Have you bought a similar product before?�
 
 This question is crucial. If this is the first time they’ve ever bought something like your offering, your plan needs to outline how to buy in the first place. You’ll need to walk them through how to get internal buy-in and how to evaluate if your product is a good solution, working closely with them throughout.
 
@@ -593,13 +593,13 @@ This question is crucial. If this is the first time they’ve ever bought someth
 
 4. Define the purchasing process by asking questions like the ones below.
     * Who needs to be involved in the actual purchase -- signing contracts, approving budgets, etc.?
-    * Does the purchase require an RFI (request for information), an RFQ (request for quotation), or any other documentation you’ll be responsible for coordinating?
+    * Does the purchase require an RFI (request for information/index.html.md), an RFQ (request for quotation/index.html.md), or any other documentation you’ll be responsible for coordinating?
     * Does Legal need to get involved?
     * If additional documentation or reviews are needed, how long will those processes take?
 
 ### 73 Insightful "How" Sales Questions That Get Buyers Talking <a name="73"></a>
 
-Art Sobczak wrote a great article on [73 Insightful "How" Sales Questions That Get Buyers Talking](http://blog.hubspot.com/sales/how-sales-questions?utm_campaign=blog-rss-emails&utm_source=hs_email&utm_medium=email&utm_content=28057486)
+Art Sobczak wrote a great article on [73 Insightful "How" Sales Questions That Get Buyers Talking](http://blog.hubspot.com/sales/how-sales-questions?utm_campaign=blog-rss-emails&utm_source=hs_email&utm_medium=email&utm_content=28057486/index.html.md)
 
 These HOW questions are broken down into categories
 
@@ -612,20 +612,20 @@ These HOW questions are broken down into categories
 
 ### 25 Phrases That Signal a Prospect Is Ready to Buy <a name="25-phrases"></a>
 
-Aja Frost wrote an insightful article on [25 Phrases That Signal a Prospect Is Ready to Buy](http://blog.hubspot.com/sales/phrases-signal-prospect-is-ready-to-buy?utm_campaign=Sales+Blog+-+Manual+Emails&utm_source=hs_email&utm_medium=email&utm_content=36014993#sm.00000thjdio2kmcx3y923dyo5fe5u)
+Aja Frost wrote an insightful article on [25 Phrases That Signal a Prospect Is Ready to Buy](http://blog.hubspot.com/sales/phrases-signal-prospect-is-ready-to-buy?utm_campaign=Sales+Blog+-+Manual+Emails&utm_source=hs_email&utm_medium=email&utm_content=36014993#sm.00000thjdio2kmcx3y923dyo5fe5u/index.html.md)
 
 As Aja points out, salespeople get happy ears and interpret the buyers response and interest as something not true and inaccurate.  The key is to understand is your buyer in the consideration phase or the buying phase.  This article
 calls out buying phrases that are committal.  Which phrases are you hearing?  Vague, abstract, no-committal.  If so, then your buyer is in the consideration stage and not buying.  Or is your buyer asking you or making very specific references to their interest in purchasing?  
 
 Quiz: Which phrase is a signal that the prospect is ready to buy?
-  1. “That seems like it could be helpful.” or
-  1. “This tool would help us do X faster.”
+  1. “That seems like it could be helpful.� or
+  1. “This tool would help us do X faster.�
 
-Answer is “This tool would help us do X faster.”.  Read the article to gain more insight and to help you translate what the customer is really asking and to tame our happy ears.
+Answer is “This tool would help us do X faster.�.  Read the article to gain more insight and to help you translate what the customer is really asking and to tame our happy ears.
 
 ### 11 Sales Negotiation Mistakes You Might Be Making <a name="11-mistakes"></a>
 
-Leslie Ye wrote an article on [11 Sales Negotiation Mistakes You Might Be Making](http://blog.hubspot.com/sales/sales-negotiation-mistakes?utm_campaign=Sales+Blog+-+Manual+Emails&utm_source=hs_email&utm_medium=email&utm_content=36093761#sm.00000thjdio2kmcx3y923dyo5fe5u)
+Leslie Ye wrote an article on [11 Sales Negotiation Mistakes You Might Be Making](http://blog.hubspot.com/sales/sales-negotiation-mistakes?utm_campaign=Sales+Blog+-+Manual+Emails&utm_source=hs_email&utm_medium=email&utm_content=36093761#sm.00000thjdio2kmcx3y923dyo5fe5u/index.html.md)
 
 Even the best negotiators fall victim to one of these mistakes from time to time.  Here is a list of the 11 mistakes with point 4, 5, and 10 resonating with me.
 

@@ -22,5 +22,5 @@ contribution to a project you were working on. The merge request is
 self-contained, so you shouldn't need to look elsewhere in the project.
 
 This technical interview is a 1-hour video call and screen sharing session with
-the interviewer(s), where they will ask you to walk them through your review,
+the interviewer(s/index.html.md), where they will ask you to walk them through your review,
 and where you will also write some code to improve the merge request.

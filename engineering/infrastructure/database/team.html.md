@@ -21,7 +21,7 @@ The Database team focuses on improving performance, reliability, and availabilit
 * Assisting other developers by answering database related questions and reviewing database related changes.
 * Documenting tools, monitoring, and database best practices in order to share as much knowledge as possible.
 
-For further details, see the [current vacancy for a Database Engineer](/job-families/engineering/database-engineer/).
+For further details, see the [current vacancy for a Database Engineer](/job-families/engineering/database-engineer/index.html.md/index.html.md).
 
 ## The First Month
 
@@ -29,7 +29,7 @@ During your first month at GitLab as a database engineer or specialist we expect
 
 ## After The First Month
 
-After the first month (depending on how fast you get started this might take less than a month) we expect you to start focusing on work for a specific functional group. Currently the following groups are available:
+After the first month (depending on how fast you get started this might take less than a month/index.html.md) we expect you to start focusing on work for a specific functional group. Currently the following groups are available:
 
 * Discussion: everything related to issues, merge requests, labels, etc.
 * CI/CD: everything related to GitLab CI, Kubernetes, Auto DevOps, etc.
@@ -50,31 +50,31 @@ To make it easier to find your way around you can find a list of useful or impor
 
 As a database specialist the following tools can be very helpful:
 
-* [Private Grafana](https://dashboards.gitlab.net/): for both application and system level performance data.
-* [Performance Bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html): type `pb` in GitLab and a bar with performance metrics will show up at the top of the page. This tool is especially useful for viewing the queries executed and their timings.
-* [Sherlock](https://docs.gitlab.com/ee/development/profiling.html#sherlock): a tool similar to the performance bar but meant for development environments. Sherlock is able to show backtraces and the output of `EXPLAIN ANALYZE` for executed queries. Enable by starting Rails with `env ENABLE_SHERLOCK=1 bundle exec rails s`.
+* [Private Grafana](https://dashboards.gitlab.net/index.html.md/index.html.md): for both application and system level performance data.
+* [Performance Bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html/index.html.md): type `pb` in GitLab and a bar with performance metrics will show up at the top of the page. This tool is especially useful for viewing the queries executed and their timings.
+* [Sherlock](https://docs.gitlab.com/ee/development/profiling.html#sherlock/index.html.md): a tool similar to the performance bar but meant for development environments. Sherlock is able to show backtraces and the output of `EXPLAIN ANALYZE` for executed queries. Enable by starting Rails with `env ENABLE_SHERLOCK=1 bundle exec rails s`.
 * <https://explain.depesz.com/> for visualizing the output of `EXPLAIN ANALYZE`.
 
 ### Dashboards
 
-The following (private) Grafana dashboard are important / useful for database specialists:
+The following (private/index.html.md) Grafana dashboard are important / useful for database specialists:
 
-* [PostgresSQL Overview](https://dashboards.gitlab.net/dashboard/db/postgresql-overview)
-* [PostgresSQL Tuple Statistics](https://dashboards.gitlab.net/dashboard/db/postgresql-tuple-statistics)
-* [Transaction Overview](https://dashboards.gitlab.net/dashboard/db/transaction-overview?orgId=1)
-* [Rails Controllers](https://dashboards.gitlab.net/dashboard/db/rails-controllers?orgId=1)
+* [PostgresSQL Overview](https://dashboards.gitlab.net/dashboard/db/postgresql-overview/index.html.md)
+* [PostgresSQL Tuple Statistics](https://dashboards.gitlab.net/dashboard/db/postgresql-tuple-statistics/index.html.md)
+* [Transaction Overview](https://dashboards.gitlab.net/dashboard/db/transaction-overview?orgId=1/index.html.md)
+* [Rails Controllers](https://dashboards.gitlab.net/dashboard/db/rails-controllers?orgId=1/index.html.md)
 
 ### Documentation
 
 Basically everything under <https://docs.gitlab.com/ee/development/README.html#databases>, but the following guides in particular are important:
 
-* [What requires downtime?](https://docs.gitlab.com/ee/development/what_requires_downtime.html)
-* [Adding database indexes](https://docs.gitlab.com/ee/development/adding_database_indexes.html)
-* [Post Deployment Migrations](https://docs.gitlab.com/ee/development/post_deployment_migrations.html)
-* [Background Migrations](https://docs.gitlab.com/ee/development/background_migrations.html)
-* [SQL Migration Style Guide](https://docs.gitlab.com/ee/development/migration_style_guide.html)
-* [SQL Query Guidelines](https://docs.gitlab.com/ee/development/sql.html)
-* [Infrastructure runbooks and documentation](https://gitlab.com/gitlab-com/runbooks#postgresql)
+* [What requires downtime?](https://docs.gitlab.com/ee/development/what_requires_downtime.html/index.html.md)
+* [Adding database indexes](https://docs.gitlab.com/ee/development/adding_database_indexes.html/index.html.md)
+* [Post Deployment Migrations](https://docs.gitlab.com/ee/development/post_deployment_migrations.html/index.html.md)
+* [Background Migrations](https://docs.gitlab.com/ee/development/background_migrations.html/index.html.md)
+* [SQL Migration Style Guide](https://docs.gitlab.com/ee/development/migration_style_guide.html/index.html.md)
+* [SQL Query Guidelines](https://docs.gitlab.com/ee/development/sql.html/index.html.md)
+* [Infrastructure runbooks and documentation](https://gitlab.com/gitlab-com/runbooks#postgresql/index.html.md)
 
 For various other development related guides refer to <https://docs.gitlab.com/ee/development/README.html>.
 
@@ -82,10 +82,10 @@ For various other development related guides refer to <https://docs.gitlab.com/e
 
 We recommend you join at least the following Slack channels:
 
-* [#database](https://gitlab.slack.com/messages/database)
-* [#development](https://gitlab.slack.com/messages/development)
-* [#performance](https://gitlab.slack.com/messages/performance)
-* [#production](https://gitlab.slack.com/messages/production)
+* [#database](https://gitlab.slack.com/messages/database/index.html.md)
+* [#development](https://gitlab.slack.com/messages/development/index.html.md)
+* [#performance](https://gitlab.slack.com/messages/performance/index.html.md)
+* [#production](https://gitlab.slack.com/messages/production/index.html.md)
 
 Don't try to keep up with everything as some of these channels can see a lot of activity, instead just idle there in case somebody needs you. The most important channel is `#database`.
 
@@ -107,7 +107,7 @@ There are four main repositories database engineers work in:
 We also primarily use the following labels:
 
 * "database": for anything database related.
-* Performance labels "P1-4" and severity labels "S1-4" for estimating the priority of an issue. See [Availability and Performance Priority Labels](/handbook/engineering/performance/#performance-labels) and [CONTRIBUTING.md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#bug-priority-labels) for more information. In short: P1 is the most important, P4 the least.
+* Performance labels "P1-4" and severity labels "S1-4" for estimating the priority of an issue. See [Availability and Performance Priority Labels](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/performance/#performance-labels/index.html.md) and [CONTRIBUTING.md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#bug-priority-labels/index.html.md) for more information. In short: P1 is the most important, P4 the least.
 * "performance": for performance related issues and merge requests.
 * "OKR-DB": issues to be completed in the current OKR.
 
@@ -117,7 +117,7 @@ To make it easier to work we have the following issue boards:
 
 * [GitLab.org OKR Issue Board][okr-issue-board]: this board lists all the issues we should complete in the current OKR.
 * [GitLab.com OKR Issue Board][okr-infra-issue-board]: this board lists all the infrastructure issues that we should complete in the current OKR.
-* [GitLab.org Database Issue Board][db-issue-board]: this board lists all database related issues (regardless of the OKR they belong to).
+* [GitLab.org Database Issue Board][db-issue-board]: this board lists all database related issues (regardless of the OKR they belong to/index.html.md).
 
 ### Creating Issues
 
@@ -142,7 +142,7 @@ The work to be done is planned with the database team. When planning try to plan
 
 We also use these issues to document what we're working on and to communicate status.
 
-The format of the issue bodies is fairly straightforward: for every database specialist there is a checklist referring to other issues (perhaps with some brief info) to perform, which are checked off as work is completed. Checklists can be created using the following Markdown:
+The format of the issue bodies is fairly straightforward: for every database specialist there is a checklist referring to other issues (perhaps with some brief info/index.html.md) to perform, which are checked off as work is completed. Checklists can be created using the following Markdown:
 
 ```markdown
 * [ ] This is an item on my checklist
@@ -159,7 +159,7 @@ To prevent yourself from getting buried in unread notifications it's best to adj
 
 * Set the "Global notification level" setting in <https://gitlab.com/profile/notifications> to "Disabled".
 * Make sure "Receive notifications about your own activity" is unchecked.
-* Disable notifications for the "gl-infra" group if you are a member, unless you are interested in getting notifications whenever somebody mentions `@gl-infra` (which can happen quite a lot).
+* Disable notifications for the "gl-infra" group if you are a member, unless you are interested in getting notifications whenever somebody mentions `@gl-infra` (which can happen quite a lot/index.html.md).
 
 Using this setup you will _not_ get any Email notifications. TODOs are still created but _only_ if somebody mentions your username or a group you are a member of.
 

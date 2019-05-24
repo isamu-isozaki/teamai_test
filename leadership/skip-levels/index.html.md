@@ -10,7 +10,7 @@ title: "Skip level meetings"
 
 ## The purpose of skip level meetings
 
-While [1-1s](/handbook/leadership/1-1) facilitate communication between a team
+While [1-1s](https://github.com/isamu-isozaki/teamai_test/tree/master/leadership/1-1/index.html.md) facilitate communication between a team
 member and their manager, skip levels should facilitate communication between a
 team member and their manager's manager. These meetings between a senior leader
 in the company and their "skips" serve to promote communication across the
@@ -31,7 +31,7 @@ skip level meetings:
    choose to organize them more frequently is at your discretion, and likely
    impacted by the number of skips you have.
 1. Skip level meetings can be conducted one-on-one or in groups of no more than
-   10-15 (to encourage participation). You may prefer one approach over the
+   10-15 (to encourage participation/index.html.md). You may prefer one approach over the
    other, or if you have too many skips one-on-one meetings may not be feasible.
 1. If you're able to do one-on-one skip levels, we recommend the first meeting
    with each skip be similar to a coffee chat - a free-form discussion with the
@@ -47,12 +47,12 @@ skip level meetings:
    shared several times in several ways before they are communicated
    effectively.
 1. Skip level meetings can also be a great place to solicit feedback from your
-   skips. [SKS questions](https://en.wikipedia.org/wiki/SKS_process), among
+   skips. [SKS questions](https://en.wikipedia.org/wiki/SKS_process/index.html.md), among
    other feedback mechanisms, make solid agenda items.
 
 ## Other Resources
 
-* [Skip Levels](https://www.manager-tools.com/2006/04/skip-levels) podcasts on
+* [Skip Levels](https://www.manager-tools.com/2006/04/skip-levels/index.html.md) podcasts on
   Manager-Tools
 * [The Art of the Skip Level
-  Meeting](https://www.linkedin.com/pulse/art-skip-level-meeting-scott-boulton%2C-chrp-5948801065834024960/)
+  Meeting](https://www.linkedin.com/pulse/art-skip-level-meeting-scott-boulton%2C-chrp-5948801065834024960/index.html.md/index.html.md)

@@ -14,7 +14,7 @@ category: Shared Infrastructure
 
 ## Jenkins Server
 
-[Jenkins](https://jenkins.io/index.html) is an open source automation 
+[Jenkins](https://jenkins.io/index.html/index.html.md) is an open source automation 
 server which integrates with GitLab. To test and debug we've configured 
 a server.
 
@@ -103,7 +103,7 @@ https://wiki.jenkins-ci.org/display/JENKINS/Starting+and+Accessing+Jenkins
 for more details.
 
 Open Jenkins in your browser at http://localhost:8081 (using the port specified
-previously). Install any plugins, as necessary. Now that Jenkins is configured,
+previously/index.html.md). Install any plugins, as necessary. Now that Jenkins is configured,
 you can test using GDK or another local install of GitLab.
 
 > **Note:** Data is saved to `~/.jenkins/` by default. 

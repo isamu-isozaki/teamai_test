@@ -20,13 +20,13 @@ GitLab releases a new version every 22nd of each month, and announces it through
 
 Patch and security issues are addressed more often, whenever necessary.
 
-- For a list of release posts (both security and regular), check the
-  category [releases](/blog/categories/releases/).
-- For a list of features per release, check the [releases](/releases/).
+- For a list of release posts (both security and regular/index.html.md), check the
+  category [releases](/blog/categories/releases/index.html.md/index.html.md).
+- For a list of features per release, check the [releases](/releases/index.html.md/index.html.md).
 - For all named changes, check the changelog
-  for [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md)
-  and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md).
-- See also [release managers](/release-managers/).
+  for [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md/index.html.md)
+  and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md/index.html.md).
+- See also [release managers](/release-managers/index.html.md/index.html.md).
 
 ### Templates
 
@@ -35,11 +35,11 @@ these templates, and follow their instructions
 to insert content. Please make sure to use
 the most recent template available.
 
-- [Monthly release](#getting-started)
-- [Patch release](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/patch_release_blog_template.html.md)
-- [Security release](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
+- [Monthly release](#getting-started/index.html.md)
+- [Patch release](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/patch_release_blog_template.html.md/index.html.md)
+- [Security release](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md/index.html.md)
 
-For patch and security releases, please make sure to specify them in the title, add the correct [category](../#categories):
+For patch and security releases, please make sure to specify them in the title, add the correct [category](../#categories/index.html.md):
 
 - Patch releases:
   - `title: "GitLab Patch Release: x.x.x and x.x.x"`
@@ -54,18 +54,18 @@ For patch and security releases, please make sure to specify them in the title, 
 
 Monthly releases have an exclusive layout aiming to appraise the reader with the presentation of a new release every 22nd.
 
-**Note:** The new design for monthly release posts was [introduced](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/4780) in March 2017 with the release of [GitLab 9.0](/2017/03/22/gitlab-9-0-released/). The new layout was [introduced](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/5937) in May 2017 with the release of [GitLab 9.2](/2017/03/22/gitlab-9-2-released/).
+**Note:** The new design for monthly release posts was [introduced](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/4780/index.html.md) in March 2017 with the release of [GitLab 9.0](/2017/03/22/gitlab-9-0-released/index.html.md/index.html.md). The new layout was [introduced](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/5937/index.html.md) in May 2017 with the release of [GitLab 9.2](/2017/03/22/gitlab-9-2-released/index.html.md/index.html.md).
 
 ### Getting started
 
-To create a new monthly release post, add two files to the [about.GitLab.com repository](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/) (consider the release of GitLab X.Y, released in YYYY/MM/DD):
+To create a new monthly release post, add two files to the [about.GitLab.com repository](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/index.html.md/index.html.md) (consider the release of GitLab X.Y, released in YYYY/MM/DD/index.html.md):
 
 - A YAML data file, containing all the release post content
   - Into `data/release_posts/`, add a new file called `YYYY_MM_22_gitlab_X_Y_released.yml`
-  - Template ([latest version](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/YYYY_MM_DD_gitlab_x_y_released.yml))
+  - Template ([latest version](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/YYYY_MM_DD_gitlab_x_y_released.yml/index.html.md)/index.html.md)
 - A blog post file, containing the introduction and the blog post frontmatter information
   - Into `source/posts/`, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md`
-  - Template ([latest version](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md))
+  - Template ([latest version](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md/index.html.md)/index.html.md)
 
 **Important!** Please use the most recent templates for each of these files.
 {:.alert .alert-info .text-center}
@@ -77,82 +77,82 @@ Create a merge request with the introductory changes _before the kick off call_ 
 Set the title to "WIP: Release post - GitLab X.Y".
 
 Check "Remove source branch when merge request is accepted".
-Consider to check "Squash commits when merge request is accepted" only if there are too many commits that are useless (typos, styling, etc...).
+Consider to check "Squash commits when merge request is accepted" only if there are too many commits that are useless (typos, styling, etc.../index.html.md).
 
 The branch name must be `release-X-Y`.
 
 Please use the release post template for your MR:
 
-![release post MR template](release-post-mr-template.png){:.shadow}
+![release post MR template](release-post-mr-template.png/index.html.md){:.shadow}
 
 **Important**: all the files related to the release process, including `data/features.yml`, `data/mvps.yml` and `source/includes/hello-bar.html.haml` must be committed in this MR.
 {:.alert .alert-info}
 
 #### Authorship
 
-Each month a Product Manager or a Technical Writer will lead the release post, as defined in the [Release Post Scheduling page](managers/).
+Each month a Product Manager or a Technical Writer will lead the release post, as defined in the [Release Post Scheduling page](managers/index.html.md/index.html.md).
 
 The author is accountable for:
-- Creating the [merge request](#merge-request)
-- Writing the [performance improvements](#performance-improvements) section
-- Choosing the [MVP](#mvp), writing the post section, and updating `data/mvps.yml`
-- Adding the [cover image](#cover-image) and the [social sharing image](#social-sharing-image)
-- Updating the home page banner (`source/includes/hello-bar.html.haml`)
-- Making sure all the features listed in the [direction](/direction/)
+- Creating the [merge request](#merge-request/index.html.md)
+- Writing the [performance improvements](#performance-improvements/index.html.md) section
+- Choosing the [MVP](#mvp/index.html.md), writing the post section, and updating `data/mvps.yml`
+- Adding the [cover image](#cover-image/index.html.md) and the [social sharing image](#social-sharing-image/index.html.md)
+- Updating the home page banner (`source/includes/hello-bar.html.haml`/index.html.md)
+- Making sure all the features listed in the [direction](/direction/index.html.md/index.html.md)
 page are included in the post
-- @mentioning the [release manager](/release-managers/) to remind them
-to add the [upgrade barometer](#upgrade-barometer) section
-- Helping to solve all comments in the thread (bugging people on chat)
-- Making sure all images (png, jpg, and gifs) are smaller than 300 KB each
+- @mentioning the [release manager](/release-managers/index.html.md/index.html.md) to remind them
+to add the [upgrade barometer](#upgrade-barometer/index.html.md) section
+- Helping to solve all comments in the thread (bugging people on chat/index.html.md)
+- Making sure all images (png, jpg, and gifs/index.html.md) are smaller than 300 KB each
 - Ping the PMs on Slack asking for anything missing, wrong, or pending feedback
-- On the 16th (or the following workday), run the release post through an
+- On the 16th (or the following workday/index.html.md), run the release post through an
 automated spell and grammar check
-- Assigning the MR to the reviewers (tech writing team, marketing, VP Product)
+- Assigning the MR to the reviewers (tech writing team, marketing, VP Product/index.html.md)
 when it's ready for their reviews
 - Pull `master` into the release post on the 21st to make sure there are
-no merge conflicts (do not rebase, please do `git pull origin master`, then `:wq`)
+no merge conflicts (do not rebase, please do `git pull origin master`, then `:wq`/index.html.md)
 - Making sure we have the post **ready to merge two working days before the 22nd**
 - Merging the post on the 22nd (coordinate with the release manager in the
 `#releases` chat channel to only merge the post once deploy has completed
-and the packages published)
-- Posting on Social Media (Twitter/Facebook) or, in case you don't have access,
-coordinating with someone who has (e.g. Marcia, Erica, Rebecca, Emily vH)
+and the packages published/index.html.md)
+- Posting on Social Media (Twitter/Facebook/index.html.md) or, in case you don't have access,
+coordinating with someone who has (e.g. Marcia, Erica, Rebecca, Emily vH/index.html.md)
 - Adding any updates on the the release post process to the handbook
 
 #### Messaging lead
 
-Each month a Product Marketing Manager (PMM) will lead the messaging and positioning for
+Each month a Product Marketing Manager (PMM/index.html.md) will lead the messaging and positioning for
 the release post.
 
 The messaging lead is responsible for:
 
-- Deciding on the [top three features](#top-three-features)
-- Writing the blog post [introduction](#introduction)
-- Making sure all feature descriptions have [strong messaging](#messaging-review)
+- Deciding on the [top three features](#top-three-features/index.html.md)
+- Writing the blog post [introduction](#introduction/index.html.md)
+- Making sure all feature descriptions have [strong messaging](#messaging-review/index.html.md)
 
 ##### Top three features
 
 - PMM decides on the top 3
 - Get input from the PM team  
-- Join the monthly kick-off call (usually on the 8th, two months ahead of the release) and look at the direction page to get an opinion on what you think should be the top 3.
-- If you can’t make the kick-off call, review the [kick-off call agenda](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit)  
-- You can also look at the [direction page](/direction/) farther ahead of time to see what’s scheduled for that release.
-- The top 2-3 features get mentioned in the post title, and they are what you will write about in the [intro](#introduction).
+- Join the monthly kick-off call (usually on the 8th, two months ahead of the release/index.html.md) and look at the direction page to get an opinion on what you think should be the top 3.
+- If you can’t make the kick-off call, review the [kick-off call agenda](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit/index.html.md)  
+- You can also look at the [direction page](/direction/index.html.md/index.html.md) farther ahead of time to see what’s scheduled for that release.
+- The top 2-3 features get mentioned in the post title, and they are what you will write about in the [intro](#introduction/index.html.md).
 
 ##### Messaging review
 
 - The messaging lead should review the messaging for all of the features in the post and `features.yml`.
-- The release features are listed in a YAML data file linked as "Items" in the release post MR description. For example, see the [data file for GitLab 11.1](https://gitlab.com/gitlab-com/www-gitlab-com/blob/release-11-1/data/release_posts/2018_07_22_gitlab_11_1_released.yml)
+- The release features are listed in a YAML data file linked as "Items" in the release post MR description. For example, see the [data file for GitLab 11.1](https://gitlab.com/gitlab-com/www-gitlab-com/blob/release-11-1/data/release_posts/2018_07_22_gitlab_11_1_released.yml/index.html.md)
 - The order of features in this file is the order they appear in the blog post.  
 - More impactful features should be closer to the top of the blog post.  
-- Review the messaging for these features (e.g. are they only functional descriptions or do they describe the problem and how the feature solves it?)  
+- Review the messaging for these features (e.g. are they only functional descriptions or do they describe the problem and how the feature solves it?/index.html.md)  
     - Look at the issue and MR for the feature, they are linked in the YAML. Sometimes the issue description will include the value prop. Read the comments in the issue and MR for the feature, often users and customers will chime in with why they want a feature and what pain the lack of the feature is causing.
 - Leave comments for the PMs in the items file. Make sure to comment in the diff on the line that you are referring to so that the PM has the context and comments can be resolved appropriately.
-    - @mention the PM who owns the feature to ask, “what’s the pain point, what are the use cases for this feature?”
-    - See [writing about features](/handbook/product/#writing-about-features) as a guideline for what feature descriptions show have.
+    - @mention the PM who owns the feature to ask, “what’s the pain point, what are the use cases for this feature?�
+    - See [writing about features](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#writing-about-features/index.html.md) as a guideline for what feature descriptions show have.
 - The release post and `features.yml` can have the same or very similar content. E.g. same screen shot.
   - The tone of the release post is more about introducing the feature "we're happy to ship XYZ..."
-  - The tone of `features.yml` should be [evergreen](https://www.thebalancecareers.com/what-is-evergreen-content-definition-dos-and-don-ts-2316028) to appear on our website in various places.
+  - The tone of `features.yml` should be [evergreen](https://www.thebalancecareers.com/what-is-evergreen-content-definition-dos-and-don-ts-2316028/index.html.md) to appear on our website in various places.
 
 #### Stages of contribution
 
@@ -174,18 +174,18 @@ To be able to finish our work in time, with no rush, each stage will have its du
 
 To having the release post well written and ready in time for the release date, please set due dates for:
 
-- [General contributions](#general-contributions) from the Product Managers and
+- [General contributions](#general-contributions/index.html.md) from the Product Managers and
 the team: 6th working day before the 22nd
-- [Review](#review): 2nd working day before the 22nd
+- [Review](#review/index.html.md): 2nd working day before the 22nd
 
 The review should be completed until the 2nd working day before the 22nd, so that
 the 1st working day before the release should be left for fixes and small improvements.
 
 ### General contributions
 
-Added by the team until the 6th working day before the 22nd. Please fill all the [sections](#sections).
+Added by the team until the 6th working day before the 22nd. Please fill all the [sections](#sections/index.html.md).
 
-They are mostly added by the Product Managers, each filling up the sections they are [accountable for](/handbook/product/#who-to-talk-to-for-what).
+They are mostly added by the Product Managers, each filling up the sections they are [accountable for](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#who-to-talk-to-for-what/index.html.md).
 
 #### Accountability
 
@@ -193,16 +193,16 @@ They are mostly added by the Product Managers, each filling up the sections they
 make sure that:
 
 - all new features in this release are in the release post.
-- all the entries are correct and not missing (especially links to the documentation or feature webpages when available).
-- feature tier availability: all contain the [correct entry](#feature-availability).
+- all the entries are correct and not missing (especially links to the documentation or feature webpages when available/index.html.md).
+- feature tier availability: all contain the [correct entry](#feature-availability/index.html.md).
 - all primary features are accompanied by their images.
-- all new features are added to [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/features.md) _with a screenshot accompanying the feature_.
-  - all images are optimized (compressed with [ImageOptim](https://imageoptim.com) set to lossy 80%,
-[TinyPNG](https://tinypng.com/), or other tool of your preference) **and** smaller than 300KB.
+- all new features are added to [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/features.md/index.html.md) _with a screenshot accompanying the feature_.
+  - all images are optimized (compressed with [ImageOptim](https://imageoptim.com/index.html.md) set to lossy 80%,
+[TinyPNG](https://tinypng.com/index.html.md/index.html.md), or other tool of your preference/index.html.md) **and** smaller than 300KB.
   - if you are adding a gif, it should be compressed as much as possible and smaller than 300KB. If it's bigger than that, use a video instead.
 
 Write the description of every feature as you do to regular blog posts. Please write according to
-the [markdown guide](/handbook/product/technical-writing/markdown-guide/).
+the [markdown guide](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/index.html.md/index.html.md).
 
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
 **Important!** Make sure to merge `master` into the release post branch **before
@@ -218,9 +218,9 @@ Once the PMs have included everything they're accountable for, they should **che
 https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/6239#features
 ```
 
-![PMs check list](features-checklist.png){:.shadow}
+![PMs check list](features-checklist.png/index.html.md){:.shadow}
 
-By checking your item, you will make it clear to the author that you have done your part in time (during the general contributions stage) and you're waiting for review. If you don't check it, it's implicit that you didn't finish your part in time, despite that's the case or not.
+By checking your item, you will make it clear to the author that you have done your part in time (during the general contributions stage/index.html.md) and you're waiting for review. If you don't check it, it's implicit that you didn't finish your part in time, despite that's the case or not.
 
 #### Notes for PMs
 
@@ -236,29 +236,29 @@ Please respond to comments in the MR thread as soon as possible. We have a non-n
 
 Please add the `documentation_link` at the same time you add a feature block to the release post. When you leave it to add it later, you will probably forget it, the reviewer will ping you later on during the review stage, and you will have little time to write, get your MR reviewed, approved, merged, and available in docs.gitlab.com.
 
-Always link to the [EE version of GitLab docs](https://docs.gitlab.com/ee/) in the blog post, even if it is a CE feature.
+Always link to the [EE version of GitLab docs](https://docs.gitlab.com/ee/index.html.md/index.html.md) in the blog post, even if it is a CE feature.
 
 ## Monthly release blog post sections
 
-- [Introduction](#introduction)
-- [CTA buttons](#cta)
-- [MVP](#mvp)
-- [Features](#features)
-  - [Top feature](#top-feature)
-  - [Primary features](#primary-features)
-  - [Secondary features (improvements)](#improvements)
-  - [Illustrations](#illustrations) (screenshots, gifs, or videos)
+- [Introduction](#introduction/index.html.md)
+- [CTA buttons](#cta/index.html.md)
+- [MVP](#mvp/index.html.md)
+- [Features](#features/index.html.md)
+  - [Top feature](#top-feature/index.html.md)
+  - [Primary features](#primary-features/index.html.md)
+  - [Secondary features (improvements/index.html.md)](#improvements/index.html.md)
+  - [Illustrations](#illustrations/index.html.md) (screenshots, gifs, or videos/index.html.md)
   accompanying their respective features
-- [Performance improvements](#performance-improvements) (added as a secondary feature)
-- [Omnibus improvements](#omnibus-improvements) (added as a secondary feature)
-- [Upgrade barometer](#upgrade-barometer)
-- [Deprecations](#deprecations)
+- [Performance improvements](#performance-improvements/index.html.md) (added as a secondary feature/index.html.md)
+- [Omnibus improvements](#omnibus-improvements/index.html.md) (added as a secondary feature/index.html.md)
+- [Upgrade barometer](#upgrade-barometer/index.html.md)
+- [Deprecations](#deprecations/index.html.md)
 
 ### Introduction
 
 The messaging lead writes the introduction for the release post.
 
-Add the copy for the intro to the blog post file (`YYYY-MM-DD-gitlab-X-Y-released.html.md`), in regular markdown. This file linked at the top of the release post MR. E.g. [GitLab 11.2 blog post file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/release-11-2/source/posts/2018-08-22-gitlab-11-2-released.html.md)
+Add the copy for the intro to the blog post file (`YYYY-MM-DD-gitlab-X-Y-released.html.md`/index.html.md), in regular markdown. This file linked at the top of the release post MR. E.g. [GitLab 11.2 blog post file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/release-11-2/source/posts/2018-08-22-gitlab-11-2-released.html.md/index.html.md)
 
 ```md
 Introductory paragraph
@@ -268,7 +268,7 @@ Introduction
 
 The first paragraph is the one that catches the eyes of the reader, it should be punchy giving a summary of the most significant features. This first paragraph can then be used as a summary on the homepage and on social media. It should catch attention and cause the reader to want to read more.
 
-The following paragraphs should highlight the business value of top 3 features and link to the feature description (link using the feature headings' anchors). It's important to highlight the pain points solved and the value the feature provides.
+The following paragraphs should highlight the business value of top 3 features and link to the feature description (link using the feature headings' anchors/index.html.md). It's important to highlight the pain points solved and the value the feature provides.
 
 A final paragraph can give a shout out to additional features encouraging the reader to read the full release notes to learn about all the features have that shipped.
 
@@ -276,13 +276,13 @@ A final paragraph can give a shout out to additional features encouraging the re
 
 Examples of previous release post intros written by PMM:
 
- - [GitLab 10.8 released](/2018/05/22/gitlab-10-8-released/)
- - [GitLab 11.0 released](/2018/06/22/gitlab-11-0-released/)
- - [GitLab 11.1 released](/2018/07/22/gitlab-11-1-released/)
+ - [GitLab 10.8 released](/2018/05/22/gitlab-10-8-released/index.html.md/index.html.md)
+ - [GitLab 11.0 released](/2018/06/22/gitlab-11-0-released/index.html.md/index.html.md)
+ - [GitLab 11.1 released](/2018/07/22/gitlab-11-1-released/index.html.md/index.html.md)
 
 ### CTA
 
-Call-to-action buttons displayed at the end of the introduction. A CTA to the [events page](/events/) is added by default. Add webcasts, or custom buttons to this entry whenever necessary.
+Call-to-action buttons displayed at the end of the introduction. A CTA to the [events page](/events/index.html.md/index.html.md) is added by default. Add webcasts, or custom buttons to this entry whenever necessary.
 
 ```yaml
 cta:
@@ -301,12 +301,12 @@ mvp:
   fullname: Dosuken Shinya # full name
   gitlab: dosuken123 # gitlab.com username
   description: | # supports markdown. Please link to the MR with the MVP's contribution.
-    Dosuken extended our [Pipelines API](http://docs.gitlab.com/ee/api/pipelines.html#list-project-pipelines)
-    by [adding additional search attributes](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/9367).
+    Dosuken extended our [Pipelines API](http://docs.gitlab.com/ee/api/pipelines.html#list-project-pipelines/index.html.md)
+    by [adding additional search attributes](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/9367/index.html.md).
     This is a huge improvement to our CI API, for example enabling queries to easily return the latest
     pipeline for a specific branch, as well as a host of other possibilities. Dosuken also made a great
     contribution last release, laying the foundation for
-    [scheduled pipelines](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/10133). Thanks Dosuken!
+    [scheduled pipelines](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/10133/index.html.md). Thanks Dosuken!
 ```
 
 Suggestions should be ideally added along the month into the `#release-post` channel, as soon as you see a contribution, or a set of contributions that you think are great and should be taken into consideration for the choice. Every GitLab team member is encouraged to add suggestions to the channel, always linking to issues and merge requests.
@@ -315,14 +315,14 @@ Additionally, close to the release date, the release post author will request su
 
 Based on both discussions, the release post author will make a decision. They should not wait for consensus. There can only be one MVP.
 
-The MVP will be prized with a gift from GitLab, usually a swag pack. :)
+The MVP will be prized with a gift from GitLab, usually a swag pack. :/index.html.md)
 
 **Important**: remember to update `data/mvps.yml` with the new MVP.
 {:.alert .alert-info}
 
 ### Features
 
-The most relevant features of the release are included in the post by [product managers](/handbook/product/#who-to-talk-to-for-what). Classify the feature according to its relevance and to where you want to place it in the blog post:
+The most relevant features of the release are included in the post by [product managers](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#who-to-talk-to-for-what/index.html.md). Classify the feature according to its relevance and to where you want to place it in the blog post:
 
 #### Top feature
 
@@ -330,15 +330,15 @@ The most important feature of the release, mentioned right after the MVP section
 
 #### Primary features
 
-Features with higher impact, displayed in rows after the top feature, with an image next to its text. An image accompanying the description is required. A [video](#videos) can also be added to replace the image.
+Features with higher impact, displayed in rows after the top feature, with an image next to its text. An image accompanying the description is required. A [video](#videos/index.html.md) can also be added to replace the image.
 
-#### Secondary features (other improvements)
+#### Secondary features (other improvements/index.html.md)
 
 Relevant improvements in GitLab. Image is not required, but recommended.
 
 ### Feature blocks
 
-Use feature blocks to add features to the YAML data file. The layout will be applied automatically by Middleman's [templating system](/2016/06/10/ssg-overview-gitlab-pages-part-2/#template_engine).
+Use feature blocks to add features to the YAML data file. The layout will be applied automatically by Middleman's [templating system](/2016/06/10/ssg-overview-gitlab-pages-part-2/#template_engine/index.html.md).
 
 Feature blocks in the YAML data file contain the following entries, as exemplified below:
 
@@ -351,7 +351,7 @@ Feature blocks in the YAML data file contain the following entries, as exemplifi
   team: Secure
   issue_url: 'https://gitlab.com/gitlab-org/gitlab-ee/issues/2121'
   description: |
-    Lorem ipsum dolor sit amet, [consectetur adipisicing](#link) elit.
+    Lorem ipsum dolor sit amet, [consectetur adipisicing](#link/index.html.md) elit.
 ```
 
 #### Feature name
@@ -362,7 +362,7 @@ Use a short and strong name for all feature names.
 
 #### Feature Availability
 
-Use the following pattern to apply the correct badge to the feature (Core, Starter, Premium, Ultimate).
+Use the following pattern to apply the correct badge to the feature (Core, Starter, Premium, Ultimate/index.html.md).
 
 - `available_in`: availability of that feature in GitLab:
   - For GitLab Core, use `[core, starter, premium, ultimate]`
@@ -395,22 +395,22 @@ It can be, in this priority order:
 **Important**: always link to the EE documentation, even if the feature is available in CE.
 {:.alert .alert-info}
 
-Note: `documentation_text` was deprecated by [!13283](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/13283) for GitLab 11.2.
+Note: `documentation_text` was deprecated by [!13283](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/13283/index.html.md) for GitLab 11.2.
 
-#### Illustration (images, videos)
+#### Illustration (images, videos/index.html.md)
 
 - `image_url`: link to the image which illustrates that feature.
 Required for primary features, optional for secondary features and top feature.
-- `image_noshadow: true`: if an image (`image_url`) already has shadow
+- `image_noshadow: true`: if an image (`image_url`/index.html.md) already has shadow
 the entry `image_noshadow` will remove the shadow applied with CSS by default. Optional.
-- `video`: when present, overrides the image and displays the linked video instead. Use the [link for embed videos](/handbook/product/technical-writing/markdown-guide/#videos). Available for primary features only. For all other blocks, add it into the description entries.
+- `video`: when present, overrides the image and displays the linked video instead. Use the [link for embed videos](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/#videos/index.html.md). Available for primary features only. For all other blocks, add it into the description entries.
 
-Check the section **Adding Content** > [Illustrations](#illustrations) for more information.
+Check the section **Adding Content** > [Illustrations](#illustrations/index.html.md) for more information.
 
 #### Feature reporter
 
 - `reporter`: GitLab handle of the user adding the feature block to
-the release post (not the feature author).
+the release post (not the feature author/index.html.md).
 This should be the PM responsible for the feature, so in the review
 phase anyone knows who they have to ping in order to get clarifications.
 It is a required field.
@@ -418,7 +418,7 @@ It is a required field.
 #### Team
 
 - `team`: GitLab team that implemented the feature described in the item.
-This should be one of the values allowed for [Team labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#team-labels).
+This should be one of the values allowed for [Team labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#team-labels/index.html.md).
 With this field set, PMs can easily find anything that is related to their area, even if reported by other users.
 It is a required field.
 
@@ -428,7 +428,7 @@ It is a required field.
 and developed. Using this link the reviewer can check the status of the specific
 feature for consistency and additional references.
 It is a required field, but can be replaced with `mr_url`, `issueboard_url`, or `epic_url`.
-Always wrap links in single quotes (`'https://example.com'`).
+Always wrap links in single quotes (`'https://example.com'`/index.html.md).
 - `issueboard_url`: link to the issue board related to the feature. Not required, but available.
 - `mr_url`: link to the MR that introduced the feature. Not required, but available.
 - `epic_url`: link to the epic related to the feature. Not required, but available.
@@ -438,11 +438,11 @@ Always wrap links in single quotes (`'https://example.com'`).
 
 - `description: |`: add the feature's description in this entry.
 Make sure your cursor is in the line below the pipeline symbol `|` intended once.
-All `description` fields fully support [markdown](/handbook/product/technical-writing/markdown-guide/), the only thing you need to be worried about is respecting the indentation.
+All `description` fields fully support [markdown](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/index.html.md/index.html.md), the only thing you need to be worried about is respecting the indentation.
 
 ### Cover image license
 
-According to our [Blog handbook](/handbook/marketing/blog/#cover-image), it's necessary to provide the source of the cover image. Fill in the entry below to display this info at the very end of the blog post:
+According to our [Blog handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/#cover-image/index.html.md), it's necessary to provide the source of the cover image. Fill in the entry below to display this info at the very end of the blog post:
 
 ```yaml
 cover_img:
@@ -453,14 +453,14 @@ cover_img:
 
 ### Upgrade barometer
 
-Describes the information about upgrading GitLab to the new version. To be added by the [release manager](/release-managers/) during the [general contributions](#general-contributions) stage, who can ask for backend team leads' review. Should include the following info before the review starts (6th working day before the 22nd):
+Describes the information about upgrading GitLab to the new version. To be added by the [release manager](/release-managers/index.html.md/index.html.md) during the [general contributions](#general-contributions/index.html.md) stage, who can ask for backend team leads' review. Should include the following info before the review starts (6th working day before the 22nd/index.html.md):
 
 - How should the upgrade be done? Please detail.
 - Do we expect downtime? If so, how long will it take? Please detail.
 - Please detail migrations, post migrations, background migrations.
 - Are there any special cases, something important to note? Please detail.
 
-You can use the template presented in the [release post data file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/YYYY_MM_DD_gitlab_x_y_released.yml#L176).
+You can use the template presented in the [release post data file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/YYYY_MM_DD_gitlab_x_y_released.yml#L176/index.html.md).
 
 Note: It's important to have this section added with all the others, but, of course, it can be updated later if necessary.
 
@@ -478,7 +478,7 @@ Describes relevant performance improvements individually, when present. Otherwis
   description: |
     We are continuing to make great strides improving
     the performance of GitLab in every release.
-    [We're committed](/handbook/product/#performance) to not only
+    [We're committed](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#performance/index.html.md) to not only
     making individual instances of GitLab even faster,
     but also to greatly improving the performance of GitLab.com,
     an instance that has over 1 million users!
@@ -492,11 +492,11 @@ Don't forget to replace `X.Y` above with the current release!
 
 ### Omnibus improvements
 
-To be added by the [build Product Manager](/handbook/product/#performance) during the [general contributions](#general-contributions) stage.
+To be added by the [build Product Manager](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#performance/index.html.md) during the [general contributions](#general-contributions/index.html.md) stage.
 
 ### Extras
 
-If you need an extra block to convey important info, and it doesn't fit the other blog post sections, you can use the `extras` block, right before `deprecations` (in the release post YAML datafile):
+If you need an extra block to convey important info, and it doesn't fit the other blog post sections, you can use the `extras` block, right before `deprecations` (in the release post YAML datafile/index.html.md):
 
 ```yaml
 extras:
@@ -525,16 +525,16 @@ Describe the deprecations happening on that release or in upcoming releases. Let
 The due date is defined by the the removal of that feature. The field is required, and should be set as:
 
 - The date of the removal, e.g., "May 22nd, 2017", or
-- An upcoming release (_only_ if the release date in unknown), e.g., "GitLab 12.0", or
-- An estimation of the removal date, e.g., "January 22nd, 2019 (estimated)", or
-- An estimation of the removal release (_only_ if the release date in unknown), e.g., "GitLab 12.0 (estimated)"
+- An upcoming release (_only_ if the release date in unknown/index.html.md), e.g., "GitLab 12.0", or
+- An estimation of the removal date, e.g., "January 22nd, 2019 (estimated/index.html.md)", or
+- An estimation of the removal release (_only_ if the release date in unknown/index.html.md), e.g., "GitLab 12.0 (estimated/index.html.md)"
 
 ```yaml
 deprecations:
   - feature_name: Lorem ipsum dolor
     due: May 22nd, 2017 # example
     reporter: bikebilly # item author username
-    description: |  # example (supports markdown)
+    description: |  # example (supports markdown/index.html.md)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
 ```
@@ -545,12 +545,12 @@ For multiple deprecations, use multiple feature deprecation blocks:
 deprecations:
   - feature_name: Lorem ipsum dolor
     due: May 22nd, 2017 # example
-    description: |  # example (supports markdown)
+    description: |  # example (supports markdown/index.html.md)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
   - feature_name: Lorem ipsum dolor
     due: May 22nd, 2017. # example
-    description: |  # example (supports markdown)
+    description: |  # example (supports markdown/index.html.md)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
 ```
@@ -567,17 +567,17 @@ The due dates for each review can be found on the MR description.
 
 #### Content review
 
-The content review is performed by product manager leading the post (author),
+The content review is performed by product manager leading the post (author/index.html.md),
 who will check if everything is in place, and if there's nothing missing. Will
 also make suggestions, ask questions, and make sure all the comments are solved
-(ping people on Slack if necessary). Also, assure all items in the "general
+(ping people on Slack if necessary/index.html.md). Also, assure all items in the "general
 contributions" list presented in the MR description have been checked.
 
 The content team will follow with copyedit and check for grammar,
 spelling, and typos. Please follow the checklist in the MR description to
 guide you through the review.
 
-Lastly, the post should be reviewed by a Marketing team member (PMM, CMM)
+Lastly, the post should be reviewed by a Marketing team member (PMM, CMM/index.html.md)
 to evaluate wording and messaging.
 
 Follow the checklist on the MR description for every review item.
@@ -601,7 +601,7 @@ Give special attention to:
   - Category
   - Layout
 - Deadlinks
-- Social Sharing card (when published): validate with [Twitter Card Validator](https://cards-dev.twitter.com/validator) and [Facebook Debugger](https://developers.facebook.com/tools/debug/)
+- Social Sharing card (when published/index.html.md): validate with [Twitter Card Validator](https://cards-dev.twitter.com/validator/index.html.md) and [Facebook Debugger](https://developers.facebook.com/tools/debug/index.html.md/index.html.md)
 
 ##### Frontmatter
 
@@ -644,16 +644,16 @@ find relevant. Please follow the checklist in the MR description.
 
 ## Adding content
 
-For entries that support markdown, use regular [markdown Kramdown](/handbook/product/technical-writing/markdown-guide/), as we use for all blog posts and webpages on about.GitLab.com.
+For entries that support markdown, use regular [markdown Kramdown](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/index.html.md/index.html.md), as we use for all blog posts and webpages on about.GitLab.com.
 
 ### Illustrations
 
 #### Images
 
 - {:#alt} Make sure every image has an
-[alternative text](/handbook/product/technical-writing/markdown-guide/#image-alt-text)
-- {:#images-compressed} Each image should be compressed with [ImageOptim](https://imageoptim.com),
-[TinyPNG](https://tinypng.com/), or similar tool
+[alternative text](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/#image-alt-text/index.html.md)
+- {:#images-compressed} Each image should be compressed with [ImageOptim](https://imageoptim.com/index.html.md),
+[TinyPNG](https://tinypng.com/index.html.md/index.html.md), or similar tool
 - {:#image-size-limit} Each image should not surpass 300KB, gifs included
 - {:#application-screenshots} **Application screenshots**:
   - Make sure that the application screenshot captures the feature to make it immediately recognizable
@@ -661,31 +661,31 @@ For entries that support markdown, use regular [markdown Kramdown](/handbook/pro
   - Screenshots throughout the post should be harmonic and consistent in terms of their size and quality
   
 - {:#gifs} **Animated gifs**:
-  - If a gif isn't necessary, replace it with a static image (.png, .jpg)
+  - If a gif isn't necessary, replace it with a static image (.png, .jpg/index.html.md)
   - If an animation is necessary but the gif > 300KB, use a video instead
 - {:#cover-image} **Cover image**:
-use a unique cover image for every post, usually from [Unsplash](https://unsplash.com/), and add
-[the required copyright info](#cover-image-license) into the Yaml file.
+use a unique cover image for every post, usually from [Unsplash](https://unsplash.com/index.html.md/index.html.md), and add
+[the required copyright info](#cover-image-license/index.html.md) into the Yaml file.
 This image should be eyes-catching and inspiring. Suggested aspect ratio is 3:1 and resolution should be enough to be good-looking on big displays.
 - {:#image-shadow} **Image shadow**:
 when you add images though the text,
 make sure all images have the class shadow applied:
-  - `![image alt text](#img-url){:.shadow}`
+  - `![image alt text](#img-url/index.html.md){:.shadow}`
   - If the original image already has shadow applied, don't use `{:.shadow}`.
-  - If you're inserting the image in the YAML file via `image_url` entry, add the `image_noshadow: true` [entry](#feature-blocks) right after `image_url`.
+  - If you're inserting the image in the YAML file via `image_url` entry, add the `image_noshadow: true` [entry](#feature-blocks/index.html.md) right after `image_url`.
 - {:#social-sharing-image} **Social sharing image**:
-It's recommended to add a [social sharing image](../index.html#social-media-info)
+It's recommended to add a [social sharing image](../index.html#social-media-info/index.html.md)
 to the blog post. It is the image that will display on
 social media feeds whenever the link to the post is shared.
 It's a screenshot from the blog landing page zoomed in. Read the linked blog handbook
 for reference, and you can also watch a quick
-[video tutorial on how to do it](https://youtu.be/boGIpF-2gw8).
+[video tutorial on how to do it](https://youtu.be/boGIpF-2gw8/index.html.md).
 The image should be placed under `source/images/tweets/`
-and named after the post's filename (`gitlab-X-X-released.png`).
+and named after the post's filename (`gitlab-X-X-released.png`/index.html.md).
 
 #### Videos
 
-Every [video should wrapped into a figure tag](/handbook/product/technical-writing/markdown-guide/#videos), as in:
+Every [video should wrapped into a figure tag](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/#videos/index.html.md), as in:
 
 ```html
 <figure class="video_container">
@@ -695,7 +695,7 @@ Every [video should wrapped into a figure tag](/handbook/product/technical-writi
 
 The `<figure>` element is recommended for semantic SEO and the `video_container` class will assure the video is displayed responsively.
 
-Consult the [markdown guide](/handbook/product/technical-writing/markdown-guide/#videos) for the correct markdown markup to apply to different sources (YouTube, Google Drive, HTML video).
+Consult the [markdown guide](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/#videos/index.html.md) for the correct markdown markup to apply to different sources (YouTube, Google Drive, HTML video/index.html.md).
 
 For feature blocks, you can add a video instead of an image, by using the entry `video:`. If present, the feature section won't display any images, only the video. Example:
 
@@ -713,28 +713,28 @@ For feature blocks, you can add a video instead of an image, by using the entry 
 Understand how a release post is formed:
 
 - **Template:**
-  - [Layout (Haml) file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/layouts/release.haml):
+  - [Layout (Haml/index.html.md) file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/layouts/release.haml/index.html.md):
   creates a layout for the final HTML file, and requires the include file below.
-  - [Include (Haml) file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/release.html.haml):
+  - [Include (Haml/index.html.md) file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/release.html.haml/index.html.md):
   builds the content of the post applying custom styles. Its markup includes semantic SEO improvements.
 - **Content:**
-  - **YAML data file**: gathers the actual content for the blog post, except the introduction ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/YYYY_MM_DD_gitlab_x_y_released.yml), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/2017_05_22_gitlab_9_2_released.yml)).
-  - **Blog post file**: the blog post file, which holds the introduction of the blog post and its frontmatter ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/posts/2017-05-22-gitlab-9-2-released.html.md)).
+  - **YAML data file**: gathers the actual content for the blog post, except the introduction ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/YYYY_MM_DD_gitlab_x_y_released.yml/index.html.md), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/2017_05_22_gitlab_9_2_released.yml/index.html.md)/index.html.md).
+  - **Blog post file**: the blog post file, which holds the introduction of the blog post and its frontmatter ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md/index.html.md), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/posts/2017-05-22-gitlab-9-2-released.html.md/index.html.md)/index.html.md).
 
-The template files form the blog post, therefore, don't need to be changed every release. The content files are the ones to be added every release with its unique content, as described by the section [getting started](#getting-started).
+The template files form the blog post, therefore, don't need to be changed every release. The content files are the ones to be added every release with its unique content, as described by the section [getting started](#getting-started/index.html.md).
 
-To learn more how the templating system works, read through an overview on [Modern Static Site Generators](/2016/06/10/ssg-overview-gitlab-pages-part-2/).
+To learn more how the templating system works, read through an overview on [Modern Static Site Generators](/2016/06/10/ssg-overview-gitlab-pages-part-2/index.html.md/index.html.md).
 
 ### Release post merge request template
 
-The [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md) is our checklist for every release. Let's keep it up-to-date! :)
+The [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md/index.html.md) is our checklist for every release. Let's keep it up-to-date! :/index.html.md)
 
-### Release post managers (RPM)
+### Release post managers (RPM/index.html.md)
 
-To update the [release post managers](managers/), edit the data file below.
+To update the [release post managers](managers/index.html.md/index.html.md), edit the data file below.
 
-- **[Data YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_post_managers.yml)**: gathers the release post managers for every release (9.0 onwards).
-- **[Layout Haml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/blog/release-posts/managers/index.html.haml)**: simple handbook layout that pulls the data from the YAML file above.
+- **[Data YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_post_managers.yml/index.html.md)**: gathers the release post managers for every release (9.0 onwards/index.html.md).
+- **[Layout Haml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sourcehttps://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/managers/index.html.haml/index.html.md)**: simple handbook layout that pulls the data from the YAML file above.
 
 <style>
   pre { margin-bottom: 20px; }

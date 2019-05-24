@@ -23,7 +23,7 @@ If they have accepted it, they have access to GitLab.com and can delete their ac
 
 ______________
 
-### Service Agent Workflow (ZenDesk)
+### Service Agent Workflow (ZenDesk/index.html.md)
 
 1. Apply the **"Account::GDPR Deletion - GitLab.com"** Macro
 
@@ -55,13 +55,13 @@ Thanks for your understanding,
 ```
 ### Workflow for Requests submitted to: `gdpr-request@gitlab.com`
 
->Note: The following snippet is for reference **only**. Prefer the [issue template in the gdpr-request tracker](https://gitlab.com/gitlab-com/gdpr-request/blob/master/.gitlab/issue_templates/deletion-meta-issue.md)
+>Note: The following snippet is for reference **only**. Prefer the [issue template in the gdpr-request tracker](https://gitlab.com/gitlab-com/gdpr-request/blob/master/.gitlab/issue_templates/deletion-meta-issue.md/index.html.md)
 
 
 ```
 ## Related issue: ___
 
-1. [ ] Services Agent: Impersonate the user to verify the user has **not** accepted the GDPR terms or `TermAgreement.find_by(user_id: User.find_by!(username:'<username>'))`. (If they have accepted: stop and advise them how to delete their account themselves)
+1. [ ] Services Agent: Impersonate the user to verify the user has **not** accepted the GDPR terms or `TermAgreement.find_by(user_id: User.find_by!(username:'<username>'/index.html.md)/index.html.md)`. (If they have accepted: stop and advise them how to delete their account themselves/index.html.md)
 1. [ ] Services Agent: Verify that the `username` is associated with the originating email on GitLab.com
 1. [ ] Services Agent: Create a new *confidential* issue in the `gdpr-request` issue tracker with the originating email address as the title. 
    - [ ] Copy the contents of this workflow into it.
@@ -71,7 +71,7 @@ Thanks for your understanding,
    - [ ] Services Agent: Once you've contacted the account owner, add them as an assignee in this issue
    - [ ] Account owner: remove all records in SFDC pertaining to this account, when finished, remove the ~SFDC-removal tag
 1. [ ] JJ: Ensure that this email address is removed from all mailing lists and deleted from the database completely. Remove the ~email-list-removal tag.
-1. [ ] Services Agent: Tag a ZD admin to ensure that this email address (and associated tickets) are removed from ZenDesk
+1. [ ] Services Agent: Tag a ZD admin to ensure that this email address (and associated tickets/index.html.md) are removed from ZenDesk
    - [ ] ZD Admin: delete all user data in ZD and remove ~ZD-removal
 1. [ ] Services Agent: If the submitter has requested their data, discuss this with your manager before proceeding
      - [ ] Create an ~"SE Escalation" to initiate an export and wait for it to be completed before proceeding
@@ -116,5 +116,5 @@ __________________
 
 **Macros**
 
-* [Account::GDPR Deletion - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360027176693)
+* [Account::GDPR Deletion - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360027176693/index.html.md)
 

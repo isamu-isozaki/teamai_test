@@ -17,5 +17,5 @@ After purchase of a Premium Support subscription is completed, take the followin
    - Email address of the primary contact person is mandatory.
    - Domain name where email requests will come from is required for proper Zendesk routing.
 - If not already communicated, Sales or the Account Manager will inform the customer they are being enrolled in the full Premium Support service level.
-- Open an issue in the [Customer Success](https://gitlab.com/gitlab-com/customer-success/sa-service-desk/issues) project.
+- Open an issue in the [Customer Success](https://gitlab.com/gitlab-com/customer-success/sa-service-desk/issues/index.html.md) project.
    - Apply the _Premium support onboarding_ template, mark the issue confidential, and follow the steps outlined.

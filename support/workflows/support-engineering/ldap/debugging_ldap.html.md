@@ -19,7 +19,7 @@ This assumes an omnibus installation.
 ______________
 
 
-See LDAP troubleshooting in docs - [View Docs](http://docs.gitlab.com/ee/administration/auth/ldap.html#troubleshooting)
+See LDAP troubleshooting in docs - [View Docs](http://docs.gitlab.com/ee/administration/auth/ldap.html#troubleshooting/index.html.md)
 
 **Testing the LDAP server**
 
@@ -83,17 +83,17 @@ EOS
 + **-s** = Search scope
    + GitLab config value: None
    + Default is **sub**
-   + Using `sub "(objectclass=*)` will return "all" objects
+   + Using `sub "(objectclass=*/index.html.md)` will return "all" objects
 
 **Get all LDAP objects for baseDN**
 
 ```bash
 ldapsearch -D "cn=admin,dc=ldap-testing,dc=mrchris,dc=me" \
 -w Password -p 389 -h 127.0.0.1 \
--b "dc=ldap-testing,dc=mrchris,dc=me" -s sub "(objectclass=*)"
+-b "dc=ldap-testing,dc=mrchris,dc=me" -s sub "(objectclass=*/index.html.md)"
 ```
 
-#### LDAP Error messages (`production.log`)
+#### LDAP Error messages (`production.log`/index.html.md)
 
 ##### Could not find member DNs for LDAP group
 
@@ -161,13 +161,13 @@ This indicates a syntax error with one of the configured DNs. Check the followin
 1. Check the console for sync output
 
 
-**Removing exclusive lease** - Testing (valid for 8.6 to 8.9)
+**Removing exclusive lease** - Testing (valid for 8.6 to 8.9/index.html.md)
 
 This is used to force an instant sync of LDAP for testing purposes. 
 
 1. Edit any LDAP settings required
 1. Edit `vi /opt/gitlab/embedded/service/gitlab-rails/lib/gitlab/ldap/group_sync.rb`
-1. Comment out the exclusive lease section *(lines may differ in releases)* - [View code](https://gitlab.com/gitlab-org/gitlab-ee/blob/5c8b211c7b8746ec6d5697e495ddb68f2ac08dd7/lib/gitlab/ldap/group_sync.rb#L70-73) 
+1. Comment out the exclusive lease section *(lines may differ in releases/index.html.md)* - [View code](https://gitlab.com/gitlab-org/gitlab-ee/blob/5c8b211c7b8746ec6d5697e495ddb68f2ac08dd7/lib/gitlab/ldap/group_sync.rb#L70-73/index.html.md) 
 1. Run a reconfigure `sudo gitlab-ctl reconfigure` **This will restart GitLab**
 1. Launch GitLab rails console `gitlab-rails console`
 1. Execute `Gitlab::LDAP::GroupSync.execute`
@@ -185,7 +185,7 @@ This is used to force an instant sync of LDAP for testing purposes.
 2. Create a new adapter instance
         
     ```ruby
-    adapter = Gitlab::LDAP::Adapter.new('ldapmain')
+    adapter = Gitlab::LDAP::Adapter.new('ldapmain'/index.html.md)
     ```
    
 3. Find a group by common name. Replace **UsersLDAPGroup** with the common name to search.
@@ -193,14 +193,14 @@ This is used to force an instant sync of LDAP for testing purposes.
    1. **GitLab 8.11 >**
 
         ```ruby
-        group =  EE::Gitlab::LDAP::Group.find_by_cn('UsersLDAPGroup', adapter)
+        group =  EE::Gitlab::LDAP::Group.find_by_cn('UsersLDAPGroup', adapter/index.html.md)
         ```
 
 
    1. **GitLab < 8.10**
 
         ```ruby
-        group =  Gitlab::LDAP::Group.find_by_cn('UsersLDAPGroup', adapter)
+        group =  Gitlab::LDAP::Group.find_by_cn('UsersLDAPGroup', adapter/index.html.md)
         ```   
 
 4. Check `member_dns`

@@ -26,10 +26,10 @@ title: "Accounts Receivable and Cash"
 1. In Zuora, scroll down to transactions and click "Create Bill Run."
 1. It is important to find the subscription start date in Salesforce and enter it in the "Target Date for this bill run" field in Zuora. The invoice date should be today's date.
 1. Once these dates agree, click "Create Bill Run."
-1. On the following screen, select the bill run that was just created (the bill run files begin with BR- followed by a set of numbers).
+1. On the following screen, select the bill run that was just created (the bill run files begin with BR- followed by a set of numbers/index.html.md).
 1. Scroll down and click on the invoice that was just generated. The PDF file will be at the bottom of the page.
 1. Open the PDF file and review every field of the invoice for accuracy.
-1. Once the review is complete, close the invoice and click “Post Invoice.”
+1. Once the review is complete, close the invoice and click “Post Invoice.�
 1. Proceed to bill the remaining subscriptions.
 
 At this point the invoicing process is complete. Now, continue on to the Cash Receipt posting process for those invoices that were paid by credit card.
@@ -42,7 +42,7 @@ At this point the invoicing process is complete. Now, continue on to the Cash Re
 Follow this procedure if the customer paid by credit card.
 You may recall from the invoicing process that there was still a balance due when saving the invoice.  The following steps will record the payment and remove the balance due.
 
-1. Login to Stripe dashboard and click on Payments under Transactions (left hand side). You will see a listing of the latest Stripe transactions listed by amount, Recurly transaction, name, date, and time. There is also an option to filter the report by clicking on XXX at the top left. Click on XXX to export to excel. This will give you a workbook area and also a breakdown of the fees which we will work on later.
+1. Login to Stripe dashboard and click on Payments under Transactions (left hand side/index.html.md). You will see a listing of the latest Stripe transactions listed by amount, Recurly transaction, name, date, and time. There is also an option to filter the report by clicking on XXX at the top left. Click on XXX to export to excel. This will give you a workbook area and also a breakdown of the fees which we will work on later.
 1. In NetSuite, click on the "Transactions" tab on the left.
     * Click on the orange "OPEN INVOICES " tab. This will bring up all open invoices listed by date, invoice #, customer, etc.
 1. Match invoice #s  between the Stripe dashboard and NetSuite. If you click on a transaction in the Stripe dashboard, it will take you to a screen that shows more detail, including the invoice # being paid. You can work your way from the bottom up.
@@ -64,7 +64,7 @@ You may recall from the invoicing process that there was still a balance due whe
       * Fill the "Account #1" entry with "Credit Card Transaction fees".
       * Fill the "Debits" entry with the value from the Stripe report that was exported. The value will be the sum of "Column I" in the Stripe report, which is the fee amount. Be sure to only sum the rows which you just posted payments for.
       * Leave the "Credits" entry empty.
-      * Fill the "Description" entry with "To record credit card transaction fees for period (enter the date range for the transactions posted)".
+      * Fill the "Description" entry with "To record credit card transaction fees for period (enter the date range for the transactions posted/index.html.md)".
       * Leave the "Name" entry empty.
       * Fill the "Class" entry with "Sales".
     * Account #2 Entry
@@ -86,15 +86,15 @@ Post a journal entry:
 1. Fill the "Debit Account" with "Comerica Checking - GitLab Inc."
 1. Leave "Name" blank.
 1. Leave "Class" blank.
-1. Fill the "Description" with "To record Stripe transfer (date of transfer)".
+1. Fill the "Description" with "To record Stripe transfer (date of transfer/index.html.md)".
 1. Click "Save".
 
 
-### Posting a payment from a “bank customer”
+### Posting a payment from a “bank customer�
 
 In Netsuite:
-1. Click on the “+” sign.
-1. Click on “Receive Payment” under Customers.
+1. Click on the �+� sign.
+1. Click on “Receive Payment� under Customers.
 1. Fill the "Payment Date" with the date payment was received.
 1. Fill the "Payment Method" choose from the dropdown menu.
 1. Fill the "Reference No." with the check # or bank reference # from incoming wire.
@@ -115,7 +115,7 @@ In Netsuite:
 1. A refund request has been received by e-mail or refund opportunity in SFDC.
 1. Log in to Zuora.
 1. Search for the invoice that needs to be refunded.
-1. On the invoice screen, scroll down to "Transaction(s) associated to this Invoice" and click on the payment associated to the invoice to be refunded.
+1. On the invoice screen, scroll down to "Transaction(s/index.html.md) associated to this Invoice" and click on the payment associated to the invoice to be refunded.
 1. On the payment screen, click on more and click on "Refund this payment."
 1. Create the refund.
 1. An auto-generated e-mail will be sent to the customer that the refund has been processed.

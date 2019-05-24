@@ -1,9 +1,9 @@
 ---
 layout: markdown_page
-title: "GitLab BV (Netherlands) Benefits"
+title: "GitLab BV (Netherlands/index.html.md) Benefits"
 ---
 
-Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
+Can't find what you're looking for? Try the main [People Operations page](https://github.com/isamu-isozaki/teamai_test/tree/master/people-operations/index.html.md).
 
 ## On this page
 {:.no_toc}
@@ -17,19 +17,19 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ## Vacation Money
 
-Dutch employees get the customary month of vacation money in the month of May. This pay is built into offers as well as our [compensation calculator](/handbook/people-operations/global-compensation/#compensation-calculator).
+Dutch employees get the customary month of vacation money in the month of May. This pay is built into offers as well as our [compensation calculator](https://github.com/isamu-isozaki/teamai_test/tree/master/people-operations/global-compensation/#compensation-calculator/index.html.md).
 
 ## Medical
 
-In the Netherlands every citizen is obliged to have at least a basic health insurance package (basisverzekering) with an health insurance company. If you do not have health insurance, you can be fined by the Sociale Verzekeringsbank.
+In the Netherlands every citizen is obliged to have at least a basic health insurance package (basisverzekering/index.html.md) with an health insurance company. If you do not have health insurance, you can be fined by the Sociale Verzekeringsbank.
 
 ## Pension
 
-State pension (AOW) is standard and will be paid out at retirement age. There is no additional pension scheme through GitLab.
+State pension (AOW/index.html.md) is standard and will be paid out at retirement age. There is no additional pension scheme through GitLab.
 
 ## 30% Tax Ruling
 
-Eligible employees may apply for the 30% Tax Ruling. More information can be found on our [Visas](/handbook/people-operations/visas/#30-ruling-in-the-netherlands ) page.
+Eligible employees may apply for the 30% Tax Ruling. More information can be found on our [Visas](https://github.com/isamu-isozaki/teamai_test/tree/master/people-operations/visas/#30-ruling-in-the-netherlands /index.html.md) page.
 
 ## GitLab B.V. Netherlands Leave Policy
 
@@ -42,7 +42,7 @@ Eligible employees may apply for the 30% Tax Ruling. More information can be fou
   - After your partner has given birth you are entitled to up to two days of paid paternity leave.
 
 * Statutory Parental leave
-  - Employees who have children under the age of eight are entitled to take unpaid parental leave. In the case of a family with more than one child under the age of eight, that right is applicable for each child. The number of hours' leave is thirteen times the weekly working hours (65 days for full-time employment). However, no more than half of the number of weekly working hours can be taken each week.
+  - Employees who have children under the age of eight are entitled to take unpaid parental leave. In the case of a family with more than one child under the age of eight, that right is applicable for each child. The number of hours' leave is thirteen times the weekly working hours (65 days for full-time employment/index.html.md). However, no more than half of the number of weekly working hours can be taken each week.
 
 People Ops will consult with HRSavvy to ensure that the statute is met.
 

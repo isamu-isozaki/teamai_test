@@ -20,17 +20,17 @@ perspective as much as we can. As such, we start by defining Service
 Level Objectives below and document what service levels we currently aim
 to maintain for GitLab.com.
 
-Also see the [database team organization page](/handbook/engineering/infrastructure/database/team.html).
+Also see the [database team organization page](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/database/team.html/index.html.md).
 
 ## Database SLOs
 
-We use [Service Level Objects](https://en.wikipedia.org/wiki/Service_level_objective) (SLOs) to reason about the performance and
+We use [Service Level Objects](https://en.wikipedia.org/wiki/Service_level_objective/index.html.md) (SLOs/index.html.md) to reason about the performance and
 reliability aspects of the database. We think of SLOs as "commitments by
 the architects and operators that guide the design and operations of the
 system to meet those commitments."[^1]
 
 This list is by no means complete and we're just about to define SLOs
-and document them here. See [#147](https://gitlab.com/gitlab-com/database/issues/147).
+and document them here. See [#147](https://gitlab.com/gitlab-com/database/issues/147/index.html.md).
 
 ### Backup and Recovery
 
@@ -42,20 +42,20 @@ In backup and recovery, there are two SLOs:
 | `DB-DR-RETENTION`  | 7 days       | The number of days we keep backups for recovery purposes. |
 
 The backup strategy is to take a daily snapshot of the full database
-(basebackup) and store this in AWS S3. Additionally, we capture the
+(basebackup/index.html.md) and store this in AWS S3. Additionally, we capture the
 write-ahead log data in S3 to be able to perform point-in-time recovery
-(PITR) using one of the basebackups.
+(PITR/index.html.md) using one of the basebackups.
 
 For `DB-DR-TTR` we need to consider worst-case scenarios with the
 latest backup being 24 hours old. Hence recovery time includes the time
 it takes to perform PITR to recover from archive to a certain point in
-time (right before the disaster).
+time (right before the disaster/index.html.md).
 
 We are able to recover to any point in time within the last `DB-DR-RETENTION` days.
 
 ### High Availability
 
-For [GitLab.com we maintain availability](/handbook/engineering/infrastructure/production/#gitlabcom) above 99.95%. For the PostgreSQL database,
+For [GitLab.com we maintain availability](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/production/#gitlabcom/index.html.md) above 99.95%. For the PostgreSQL database,
 we define the following SLOs:
 
 | SLO            | Level       | Definition |
@@ -70,13 +70,13 @@ queries from the application while maintaining other database SLOs.
 We allocate a downtime budget of 45 minutes per month for planned downtimes,
 although we strive to keep downtime as low as possible. The downtime
 budget can be used to introduce change to the system. If the budget is
-used up (planned or unplanned), we stop introducing change and focus on
-availability (similar to SRE [error budgets](https://landing.google.com/sre/book/chapters/embracing-risk.html)).
+used up (planned or unplanned/index.html.md), we stop introducing change and focus on
+availability (similar to SRE [error budgets](https://landing.google.com/sre/book/chapters/embracing-risk.html/index.html.md)/index.html.md).
 
 As for `DB-HA-PERF`, 99% of queries should finish below 200ms.
 
 With `DB-HA-LOSS` we require an upper bound on replication lag. A write
 on the primary is considered at risk as long as it has not been
-replicated to a secondary (or to the PITR archive).
+replicated to a secondary (or to the PITR archive/index.html.md).
 
 [^1]: From "Database Reliability Engineering", O'Reilly Media, 2017

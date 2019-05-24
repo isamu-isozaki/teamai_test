@@ -14,16 +14,16 @@ title: "Account Management"
 {:toc}
 
 ### Role & Responsiblities
-See the [Account Manager role description](/job-families/sales/account-manager/)
+See the [Account Manager role description](/job-families/sales/account-manager/index.html.md/index.html.md)
 
 ### Useful Links
-- [Demo scripts](/handbook/product/i2p-demo)
-- [On-boarding of premium support clients](/handbook/customer-success/account-management/premium_support_on-boarding/)
-- [How to engage a Solutions Architect](/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect)
-- [Account Mapping and Expansion](/handbook/customer-success/account-management/account-expansion/)
+- [Demo scripts](https://github.com/isamu-isozaki/teamai_test/tree/master/product/i2p-demo/index.html.md)
+- [On-boarding of premium support clients](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/account-management/premium_support_on-boarding/index.html.md/index.html.md)
+- [How to engage a Solutions Architect](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect/index.html.md)
+- [Account Mapping and Expansion](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/account-management/account-expansion/index.html.md/index.html.md)
 
 ## Customer Roles
-There are two roles assigned to account coverage - Account Manager (AM) and [Technical Account Managers (TAM)](/handbook/customer-success/tam).  For definitions of the account size, refer to [market segmentation](/handbook/sales#market-segmentation) which is based on the _Potential EE Users_ field on the account.
+There are two roles assigned to account coverage - Account Manager (AM/index.html.md) and [Technical Account Managers (TAM/index.html.md)](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/tam/index.html.md).  For definitions of the account size, refer to [market segmentation](https://github.com/isamu-isozaki/teamai_test/tree/master/sales#market-segmentation/index.html.md) which is based on the _Potential EE Users_ field on the account.
 
 - Strategic: Sr. Account Executive closed deal and stays on account for growth and renewal.
 - Large: Sr. Account Executive closed deal and stays on account for growth and renewal.
@@ -32,23 +32,23 @@ There are two roles assigned to account coverage - Account Manager (AM) and [Tec
 
 ## Customer On-boarding Checklist
 
-1.	**Welcome!** â€” Welcome the customer aboard GitLab, introduce yourself and your purpose within the company and how you will support them throughout the relationship with the business and what they can expect from you. Provide the introduction to support and how to obtain support "For enterprise, Enterprise Edition receives next business day support via e-mail. Please submit your support request through the [support web form](https://gitlab.zendesk.com/hc/en-us/requests/new).
-2.	**Personal introduction** â€” (2-5 days) Create a task in Salesforce to conduct a personal introduction to your new account contacts. This should be quick and informal phone call, this is not an opportunity for discovery but an outreach for you to build rapport and open lines for communication.
-3.	**Installation follow-up** â€” (7-10 days) Create a task in Salesforce to follow-up on the installation, was it successful did they have encounter any issues, were the issues self resolved by using documentation or was the help of support required. This time is a good opportunity to share with the customer the vision of [GitLab "Idea to Production"](https://youtu.be/ZRcWCWatdas) YouTube video.
-4.	**Education** â€” (20-30 days) Create a task in Salesforce for product education. Remind your customer that our releases are on the 22nd of each month per our [Direction](/direction/). Depending on your timing of this correspondence you may inform them of any major enhancements that have been released or are about to be released.
-5.	**Discovery** â€” (60 days) Now that your customer has had some time and experience using GitLab, set out to discover the need for EE features and products by running through [EE Product Qualification Questions](/handbook/EE-Product-Qualification-Questions/).
-6.	**Check-in** â€” (90 days) Create a task in salesforce for check-in with customer. Ask if the customer has any outstanding issues. Do they have any feature requests?  This is also an opportunity to identify if there has been any changes in the organization, or an opportunity for further user adoption for their goals. For a status check, also identify that key decision makers and license contacts are still current.  
-7.	**Outlook** â€” (6 months) Same as 90 day Check-in task, additionally discuss what the customer roadmap and outlook looks like for the next 6 months. What can we expect in terms terms of growth, what does the customer expect in terms of our product and offerings.
-8.	**Renewal/Expansion** â€” (10 months) Check in with the customer and let them know they are soon due for renewal. Are there any changes to who is responsible for the renewal or otherwise? Good time to ask about their team growth to see if they need more seats.  Good time to educate and develop need for GitLab Products.
-9.	**Renewal** â€” (11 months) Check in with the customer if they have not yet renewed, if there are any blockers to renewal or any changes to expect.
-10.	**Renewal** â€” (12 months) Follow up with the customer, if we have lost their renewal discover the reasons why we did not succeed and if any changes can be made or improved. If they have moved to another solution, which and why?
-11. **Expansion** â€”  For Strategic Deals, an [Account Expansion Template](/handbook/account-management/account-expansion/) should be created.
+1.	**Welcome!** â€ Welcome the customer aboard GitLab, introduce yourself and your purpose within the company and how you will support them throughout the relationship with the business and what they can expect from you. Provide the introduction to support and how to obtain support "For enterprise, Enterprise Edition receives next business day support via e-mail. Please submit your support request through the [support web form](https://gitlab.zendesk.com/hc/en-us/requests/new/index.html.md).
+2.	**Personal introduction** â€ (2-5 days/index.html.md) Create a task in Salesforce to conduct a personal introduction to your new account contacts. This should be quick and informal phone call, this is not an opportunity for discovery but an outreach for you to build rapport and open lines for communication.
+3.	**Installation follow-up** â€ (7-10 days/index.html.md) Create a task in Salesforce to follow-up on the installation, was it successful did they have encounter any issues, were the issues self resolved by using documentation or was the help of support required. This time is a good opportunity to share with the customer the vision of [GitLab "Idea to Production"](https://youtu.be/ZRcWCWatdas/index.html.md) YouTube video.
+4.	**Education** â€ (20-30 days/index.html.md) Create a task in Salesforce for product education. Remind your customer that our releases are on the 22nd of each month per our [Direction](/direction/index.html.md/index.html.md). Depending on your timing of this correspondence you may inform them of any major enhancements that have been released or are about to be released.
+5.	**Discovery** â€ (60 days/index.html.md) Now that your customer has had some time and experience using GitLab, set out to discover the need for EE features and products by running through [EE Product Qualification Questions](https://github.com/isamu-isozaki/teamai_test/tree/master/EE-Product-Qualification-Questions/index.html.md/index.html.md).
+6.	**Check-in** â€ (90 days/index.html.md) Create a task in salesforce for check-in with customer. Ask if the customer has any outstanding issues. Do they have any feature requests?  This is also an opportunity to identify if there has been any changes in the organization, or an opportunity for further user adoption for their goals. For a status check, also identify that key decision makers and license contacts are still current.  
+7.	**Outlook** â€ (6 months/index.html.md) Same as 90 day Check-in task, additionally discuss what the customer roadmap and outlook looks like for the next 6 months. What can we expect in terms terms of growth, what does the customer expect in terms of our product and offerings.
+8.	**Renewal/Expansion** â€ (10 months/index.html.md) Check in with the customer and let them know they are soon due for renewal. Are there any changes to who is responsible for the renewal or otherwise? Good time to ask about their team growth to see if they need more seats.  Good time to educate and develop need for GitLab Products.
+9.	**Renewal** â€ (11 months/index.html.md) Check in with the customer if they have not yet renewed, if there are any blockers to renewal or any changes to expect.
+10.	**Renewal** â€ (12 months/index.html.md) Follow up with the customer, if we have lost their renewal discover the reasons why we did not succeed and if any changes can be made or improved. If they have moved to another solution, which and why?
+11. **Expansion** â€  For Strategic Deals, an [Account Expansion Template](https://github.com/isamu-isozaki/teamai_test/tree/master/account-management/account-expansion/index.html.md/index.html.md) should be created.
 
 ## Customer Engagement
 
-When there is a new assigned account/customer to engage, start with the [Checklist](#customer-on-boarding-checklist) by sending a formal request for an informal introduction. Prior to this, become familiar with information about the customer's role within the company, how GitLab brings value to their organization, and any feedback or outstanding issues they may currently have.
+When there is a new assigned account/customer to engage, start with the [Checklist](#customer-on-boarding-checklist/index.html.md) by sending a formal request for an informal introduction. Prior to this, become familiar with information about the customer's role within the company, how GitLab brings value to their organization, and any feedback or outstanding issues they may currently have.
 
-Ensure that your contact records are populated with as much information as possible for data integrity. It is important to gather details and verify accuracy as early as possible. Utilize previous correspondence or additional resources such as [LinkedIn](https://www.linkedin.com/) for your core data.
+Ensure that your contact records are populated with as much information as possible for data integrity. It is important to gather details and verify accuracy as early as possible. Utilize previous correspondence or additional resources such as [LinkedIn](https://www.linkedin.com/index.html.md/index.html.md) for your core data.
 
 1. Title
 2. Role
@@ -69,23 +69,23 @@ So, you got a response! Now what?
 Create an entry in the **Feedback** section of Salesforce at any time input is received on an account.
 
 **Issues**
-* Request the GitLab ID for your customer and create a new issue where necessary. In the [CE Issue Tracker](https://gitlab.com/gitlab-org/gitlab-ce/issues) apply the `customer` or `customer+` (if qualified) label.  The same labels are also in the [EE Issue Tracker](https://gitlab.com/gitlab-org/gitlab-ee/issues).
+* Request the GitLab ID for your customer and create a new issue where necessary. In the [CE Issue Tracker](https://gitlab.com/gitlab-org/gitlab-ce/issues/index.html.md) apply the `customer` or `customer+` (if qualified/index.html.md) label.  The same labels are also in the [EE Issue Tracker](https://gitlab.com/gitlab-org/gitlab-ee/issues/index.html.md).
 * If there is good business justification for an existing issue, you can advocate on behalf of the customer.
-* If the customer has a support query, log a [Zendesk](https://support.gitlab.com) ticket on their behalf for the Support team to address.
+* If the customer has a support query, log a [Zendesk](https://support.gitlab.com/index.html.md) ticket on their behalf for the Support team to address.
 
-Continue with the [Checklist](#customer-on-boarding-checklist), and follow any other interaction that may arise.
+Continue with the [Checklist](#customer-on-boarding-checklist/index.html.md), and follow any other interaction that may arise.
 
 ### Unsuccessful Customer Engagement
 You've sent your customer introduction and they do not reply. To reduce chances for unsuccessful engagement and the overall onboarding, exhaust other outreach beyond a personal introduction by deploying some of the product focused tasks below.
 * Send a 'Keep in Touch' request in Salesforce or through Outreach.
-* Create or use templates in salesforce (access via: my settings > email > email templates > customer success folder) to educate customers about Geo, File Lock and latest releases or [blog posts](/blog/).
-* For some situations, request a submission through the [Customer Feedback](https://docs.google.com/a/gitlab.com/forms/d/17D8FZSqcw2SQeHxiru2tAN9EXZiixGYgzhdgrSxlbt4) form.
-* Check the non-responsive customer's license version, let them know the benefits of the [latest release](/blog/) from the blog.
+* Create or use templates in salesforce (access via: my settings > email > email templates > customer success folder/index.html.md) to educate customers about Geo, File Lock and latest releases or [blog posts](/blog/index.html.md/index.html.md).
+* For some situations, request a submission through the [Customer Feedback](https://docs.google.com/a/gitlab.com/forms/d/17D8FZSqcw2SQeHxiru2tAN9EXZiixGYgzhdgrSxlbt4/index.html.md) form.
+* Check the non-responsive customer's license version, let them know the benefits of the [latest release](/blog/index.html.md/index.html.md) from the blog.
 
 _Tip, use HTML format for your emails - Salesforce will let you know if your recipient has read your email._
 
 ## Using Cases in Salesforce
-As mentioned in the [Sales Handbook](/handbook/sales/), there are multiple email addresses that will create a Case record in Salesforce.
+As mentioned in the [Sales Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/index.html.md/index.html.md), there are multiple email addresses that will create a Case record in Salesforce.
 
 ### New Business Inquiries
 * `Sales@`: this is an inquiry from a prospect requesting information on GitLab's services.
@@ -105,29 +105,29 @@ The following are the different types of renewal notifications from Zuora. Renew
 
 ## Types of Inquiries and How to Handle Them
 * **Request to Renew**
-  * Direct the customer to the [web portal](http://customers.gitlab.com/) to renew their subscription **OR**
+  * Direct the customer to the [web portal](http://customers.gitlab.com/index.html.md/index.html.md) to renew their subscription **OR**
   * The AM or AE manually creates a renewal quote via Z-Quotes to be sent via email.
 * **Request to Add Users or Product**
-  * Direct the customer to the [web portal](http://customers.gitlab.com/) to add seats/products their subscription **OR**
+  * Direct the customer to the [web portal](http://customers.gitlab.com/index.html.md/index.html.md) to add seats/products their subscription **OR**
   * The AM or AE manually creates an upsell quote via Z-Quotes to be sent via email.
 * **Update Billing Information**
   * Reassign the Case to GitLab AP and they will update Zuora with the new information.
 * **Request for Refund or Erroneous Subscription Created**
   * Assignee responds to customer inquiry and creates an opportunity in Salesforce.
   * The Opportunity should be the original name of the opportunity with "- REFUND" appended to the end.
-  * The amount must be negative. For example, if the refund or credit is a charge of 390.00, then the refund amount must be -390.00 for ($390.00).
+  * The amount must be negative. For example, if the refund or credit is a charge of 390.00, then the refund amount must be -390.00 for ($390.00/index.html.md).
   * Enter notes in the Description field on the opportunity as to why the customer is requesting a refund/credit.
   * Submit the opportunity for approval.
   * The approval will go to Finance and Sales Operations, and once approved, Finance will refund/credit the account in Zuora.
   * Finance will inform the AM, who will then relay to the customer that the refund/credit has been processed.
 * **Request to Combine Multiple Subscriptions or Accounts**
-  * Assignee responds and works with Francis or Wilson to resolve (inform both).
+  * Assignee responds and works with Francis or Wilson to resolve (inform both/index.html.md).
 * **Unable to access account via web portal**
   * Assignee responds and works with Ruben to resolve.
 * **Other Inquiry Types**
   * Reassign to Francis Aquino.
 
 ## Other Account Management Topics
-- [Why the AM is Becoming the Lebron James of the Modern Sales Org](http://www.saleshacker.com/why-the-am-is-becoming-the-lebron-james-of-the-modern-sales-org/)
-- [How to Succeed at Key Account Management](https://hbr.org/2012/07/how-to-succeed-at-key-account)
-- [Develop and Nurture Your Relationships to Drive Renewals and Increase Upsells](https://business.linkedin.com/sales-solutions/blog/sales-reps/2017/05/develop-and-nurture-your-relationships-to-drive-renewals-and-inc)
+- [Why the AM is Becoming the Lebron James of the Modern Sales Org](http://www.saleshacker.com/why-the-am-is-becoming-the-lebron-james-of-the-modern-sales-org/index.html.md/index.html.md)
+- [How to Succeed at Key Account Management](https://hbr.org/2012/07/how-to-succeed-at-key-account/index.html.md)
+- [Develop and Nurture Your Relationships to Drive Renewals and Increase Upsells](https://business.linkedin.com/sales-solutions/blog/sales-reps/2017/05/develop-and-nurture-your-relationships-to-drive-renewals-and-inc/index.html.md)

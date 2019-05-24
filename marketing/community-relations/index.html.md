@@ -15,5 +15,5 @@ The Community Relations organization includes Community Advocacy and Code Contri
 
 Community Relations Handbooks:
 
-- [Community Advocacy](/handbook/marketing/community-relations/community-advocacy/)
-- [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/)
+- [Community Advocacy](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/community-relations/community-advocacy/index.html.md/index.html.md)
+- [Code Contributor Program](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/community-relations/code-contributor-program/index.html.md/index.html.md)

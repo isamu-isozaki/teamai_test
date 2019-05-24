@@ -21,13 +21,13 @@ our counsel and CISO approve.
 ## Workflow
 
 ### Incoming Subpoena or other legal request
-If a subpoena or other legal request not covered by another workflow (e.g. DMCA or GDPR)
+If a subpoena or other legal request not covered by another workflow (e.g. DMCA or GDPR/index.html.md)
 
 1. CC `legal@gitlab.com`
 1. Respond to the ticket:
 
 ```
-Your request has been received and forwarded to our legal department (legal@gitlab.com) who will review this request.
+Your request has been received and forwarded to our legal department (legal@gitlab.com/index.html.md) who will review this request.
 
 Please direct any follow-up or additional queries of this nature directly to the legal team by using the email address legal@gitlab.com.
 
@@ -35,8 +35,8 @@ This ticket will be marked as "Solved"
 ```
 1. Mark the ticket as "Solved"
 
-### Incoming [Information Request](https://gitlab.com/gitlab-com/support/services/services-internal/blob/master/.gitlab/issue_templates/information_request.md)
-In response to a subpoena, someone from legal may create an [Information Request](https://gitlab.com/gitlab-com/support/services/services-internal/blob/master/.gitlab/issue_templates/information_request.md). 
+### Incoming [Information Request](https://gitlab.com/gitlab-com/support/services/services-internal/blob/master/.gitlab/issue_templates/information_request.md/index.html.md)
+In response to a subpoena, someone from legal may create an [Information Request](https://gitlab.com/gitlab-com/support/services/services-internal/blob/master/.gitlab/issue_templates/information_request.md/index.html.md). 
 - Assign the issue to yourself to note that you'll be taking end-to-end ownership of it.
 - If you need more details, feel free to ask clarifying questions in the issue or take it to a call.
 

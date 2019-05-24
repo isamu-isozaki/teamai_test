@@ -29,12 +29,12 @@ title: "GitLab Positioning FAQ"
     - 4 times more cost effective
     - Community of 1,000 developers contributing to updates that are pushed on the 22nd of every month
 1. So if you just want SCM, why not go with the open source edition of GitLab?
-1. For the **entire** software development lifecycle, see [Is it similar to GitHub?](/comparison/)
+1. For the **entire** software development lifecycle, see [Is it similar to GitHub?](/comparison/index.html.md/index.html.md)
 
 ### Our company uses GitHub.com for all open source projects, so why should we use GitLab Enterprise Edition on-premises and not GitHub Enterprise?
 
-1. With GitLab Enterprise Edition you can use [Repository Mirroring](https://docs.gitlab.com/ee/workflow/repository_mirroring.html) to mirror your open source projects from GitHub.com to your on premises GitLab server. Alternatively, if you want to have a public mirror of your GitLab project, you can now do so effortlessly using mirroring. GitHub Enterprise does not have mirroring.
-1. Open source projects have different needs than projects developed on-premises by organizations. GitLab was built specifically for use by organizations on-premises and so has more features specific to the enterprise such as 5 levels of [permissions](https://docs.gitlab.com/ee/permissions/permissions.html), and the ability to install on a variety of operating systems.
+1. With GitLab Enterprise Edition you can use [Repository Mirroring](https://docs.gitlab.com/ee/workflow/repository_mirroring.html/index.html.md) to mirror your open source projects from GitHub.com to your on premises GitLab server. Alternatively, if you want to have a public mirror of your GitLab project, you can now do so effortlessly using mirroring. GitHub Enterprise does not have mirroring.
+1. Open source projects have different needs than projects developed on-premises by organizations. GitLab was built specifically for use by organizations on-premises and so has more features specific to the enterprise such as 5 levels of [permissions](https://docs.gitlab.com/ee/permissions/permissions.html/index.html.md), and the ability to install on a variety of operating systems.
 1. Unlike other Git management solutions which can have different project views etc, GitHub and GitLab are very similar in features and functionality as well as the workflow they support. Their URL’s and API’s are also similar, so developers will quickly become familiar with GitLab.
 
 ### GitLab is winning enterprise
@@ -43,7 +43,7 @@ title: "GitLab Positioning FAQ"
 1. GitLab enterprise key features:
     - Most installed on-premises Git solution - GitLab is used by over 100,000 organisations worldwide, on their own servers.
     - GitLab handles huge repositories well - Big repository? No problem. GitLab is built to handle very large repositories.
-    - Access to the server - You have complete control of the server/instance, so you can install additional software (intrusion detection, performance monitoring, etc.) and view log files on the server itself.
+    - Access to the server - You have complete control of the server/instance, so you can install additional software (intrusion detection, performance monitoring, etc./index.html.md) and view log files on the server itself.
     - Pricing - we are much more cost effective.
 
 ### I use Bitbucket.  What can GitLab offer me?
@@ -71,7 +71,7 @@ title: "GitLab Positioning FAQ"
     - Perforce customers can pay via a perpetual license fee up-front with an annual Support and Maintenance fee or they can purchase via an annual subscription fee.
     - GitLab’s new LFS feature addresses the need to provide storage for large binary files, which is a need of many Perforce clients leveraging Git. This is a must-have feature for companies in the video, hardware, and gaming space.
     - GitLab has partnered with Perforce as a reseller.
-    - GitLab channel managers should be proactive in identifying companies that are using Perforce Helix and work with Perforce account executives in developing a plan to move them to using GitSwarm EE (or at a minimum GitSwarm CE).
+    - GitLab channel managers should be proactive in identifying companies that are using Perforce Helix and work with Perforce account executives in developing a plan to move them to using GitSwarm EE (or at a minimum GitSwarm CE/index.html.md).
     - Many long-term Perforce customers are in the process of evaluating Git solutions for certain user segments within their organizations and this is good time to support Perforce in proactively building a relationship during the early evaluation stages.
 
 ### We’re already using GitLab CE for free. Why should we upgrade?
@@ -115,7 +115,7 @@ title: "GitLab Positioning FAQ"
 1. Want to start using GitLab? You can easily import your repositories from Bitbucket, GitHub, Gitorious, or anywhere else, all in batch!
 1. Migrating SVN to GitLab
     - https://docs.gitlab.com/ee/workflow/importing/migrating_from_svn.html
-    - SVN stands for Subversion and is a version control system (VCS). Git is a distributed version control system.
+    - SVN stands for Subversion and is a version control system (VCS/index.html.md). Git is a distributed version control system.
 
 ### Why aren’t you using a GPL license?
 

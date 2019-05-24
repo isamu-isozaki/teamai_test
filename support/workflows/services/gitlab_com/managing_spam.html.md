@@ -39,7 +39,7 @@ The Akismet filter may also flag false positives and prevent a user from
 creating issues. The contents of the flagged issue get stored in the spam logs,
 which is only accessible to admin users. From time to time, we may need to
 submit the flagged issue as "ham" (e.g. when a user lodges a complaint on the
-Support Tracker about not being able to create issues). Currently, there are
+Support Tracker about not being able to create issues/index.html.md). Currently, there are
 no notifications whenever an entry is flagged, so this needs to be monitored
 periodically. To flag an issue as ham:
 
@@ -53,4 +53,4 @@ periodically. To flag an issue as ham:
 At times GitLab.com can appear overrun by specific types of spam. Spammers often
 target public snippets, projects, issues, and merge requests for advertising
 their wares. Details on more advanced spam fighting techniques can be found in
-the [internal GitLab-only Spam Fighting Google Doc](https://docs.google.com/document/d/1V0X2aYiNTZE1npzeqDvq-dhNFZsEPsL__FqKOMXOjE8).
+the [internal GitLab-only Spam Fighting Google Doc](https://docs.google.com/document/d/1V0X2aYiNTZE1npzeqDvq-dhNFZsEPsL__FqKOMXOjE8/index.html.md).

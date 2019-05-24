@@ -4,4 +4,4 @@ title: 15-minute Standup
 category: Internal
 ---
 
-See [Standing Calls](/handbook/customer-success/implementation-engineering/workflows/project_execution/calls.html)
+See [Standing Calls](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/implementation-engineering/workflows/project_execution/calls.html/index.html.md)

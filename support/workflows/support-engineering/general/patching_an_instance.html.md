@@ -29,7 +29,7 @@ $ gitlab-ctl restart
 To revert the patch, use the `.orig` files the `patch` program generates.
 
 **Note**: this process only applies to the Rails application (the gitlab-ce or
-gitlab-ee repository). Other components may need additional steps.
+gitlab-ee repository/index.html.md). Other components may need additional steps.
 
 **Note**: a merge request for current master may not apply cleanly to the
 version the customer is using, and a merge request from CE may not apply cleanly

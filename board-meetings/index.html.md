@@ -12,7 +12,7 @@ title: "Board of Directors"
 ## Board Meeting Process
 
 1. The CFO is responsible for scheduling the meeting, preparing the agenda and recording minutes.
-1. Collaborate on public webpages such as [/strategy](/strategy/) as much as possible.
+1. Collaborate on public webpages such as [/strategy](/strategy/index.html.md/index.html.md) as much as possible.
 1. Financial information and other non public items go into a shared Google Sheet and/or Google Presentation.
 1. The CFO will send a reminder to those who are requested to prepare materials two weeks in advance of the meeting.
 1. Final draft presentations are due one week prior to the meeting.
@@ -35,9 +35,9 @@ title: "Board of Directors"
 	1. Q4 Meeting: 2018-11-01
 
 EA shall ensure that there is one invite for all attendees that includes the following:
-Exact meeting time blocked (ie: Start at 9am PST, End at 5pm PST)
+Exact meeting time blocked (ie: Start at 9am PST, End at 5pm PST/index.html.md)
 Zoom Link
-Agenda (the agenda should also include the zoom link at the top)
+Agenda (the agenda should also include the zoom link at the top/index.html.md)
 
 Make sure to:
 Determine which participants will be attending remotely and in-person to ensure there is enough room.
@@ -49,6 +49,6 @@ We will have one board member per quarter conduct an AMA session with the GitLab
 
 ## References
 
-1. [AVC post](http://avc.com/2016/02/do-you-want-better-board-meetings-then-work-the-phone/)
-1. [AVC comment](http://avc.com/2016/02/do-you-want-better-board-meetings-then-work-the-phone/#comment-2489615046)
-1. [Techcrunch article](http://techcrunch.com/2016/02/01/1270130/)
+1. [AVC post](http://avc.com/2016/02/do-you-want-better-board-meetings-then-work-the-phone/index.html.md/index.html.md)
+1. [AVC comment](http://avc.com/2016/02/do-you-want-better-board-meetings-then-work-the-phone/#comment-2489615046/index.html.md)
+1. [Techcrunch article](http://techcrunch.com/2016/02/01/1270130/index.html.md/index.html.md)

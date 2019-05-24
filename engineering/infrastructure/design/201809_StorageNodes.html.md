@@ -9,16 +9,16 @@ title: "Design: Storage Nodes"
 - TOC
 {:toc}
 
-Issue: [`infra/5088`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/5088)
+Issue: [`infra/5088`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/5088/index.html.md)
 
 # Idea/Problem Statement
 
 We currently have a fleet of 20 storage nodes where Git data is stored, which requires access to
 a POSIX-compliant file system. These nodes have about 16TB of storage each and they run on EXT4
 file systems. While we use mirroring to address potential faults on the storage subsystem of these
-nodes (e.g., for underlying device failures), we do not have a strategy to protect against other
-failure modes (e.g., file system corruption, involuntary deletions) or disaster recovery (e.g.,
-complete loss of data, tho Geo does cover this). We also lack the ability to use the data in these
+nodes (e.g., for underlying device failures/index.html.md), we do not have a strategy to protect against other
+failure modes (e.g., file system corruption, involuntary deletions/index.html.md) or disaster recovery (e.g.,
+complete loss of data, tho Geo does cover this/index.html.md). We also lack the ability to use the data in these
 systems for testing in a safe manner, which is desirable to be able to validate GitLab against its
 large data set.
 
@@ -27,7 +27,7 @@ large data set.
 GitLab's storage architecture for Git data implements a simple and boring approach by using standalone
 storage nodes running the Gitaly service. At a very basic level, the application uses a project lookup
 table to determine which storage node contains a given project. This approach is highly performant
-(especially once NFS was removed), avoids some of the inherent complexities of running a distributed
+(especially once NFS was removed/index.html.md), avoids some of the inherent complexities of running a distributed
 file system, and keeps the design and its associated components simple and manageable.
 
 The proposal entails switching the storage nodes to use the ZFS file system, which is a mature file 
@@ -52,10 +52,10 @@ The use of regularly and frequently scheduled snapshots can be used to protect a
 deletions. Depending on the circumstances of the deletion, data can be recovered selectively by
 manual copying from a snapshot to a live file system, or a live file system can be rolled back 
 to a specific snapshot. Snapshots are instantaneous, and prior experience has shown ZFS’s ability
-to hold hundreds or thousands of snapshots in a single file system (available storage permitting). 
+to hold hundreds or thousands of snapshots in a single file system (available storage permitting/index.html.md). 
 While cloud providers offer snapshot capabilities, these work below the file system, and thus 
 cannot guarantee the consistency of the file system when snapshots are taken (which could be worked
-around with tooling).
+around with tooling/index.html.md).
 
 #### Disaster Recovery
 
@@ -71,7 +71,7 @@ nodes themselves can be useful in extreme cases.
 There is a strong desire to be able to do testing with production data. ZFS clones can be used to 
 provide this data for testing in a safe fashion as follows: a snapshot of a file system is created, and
 from this snapshot, a clone can be instantiated. The live file system and the clone share the data 
-contained in the clone. The clone stores changes to the clone itself (additions, deletions, updates) 
+contained in the clone. The clone stores changes to the clone itself (additions, deletions, updates/index.html.md) 
 without affecting the data in the live file system. When testing is completed, the snapshot and the 
 clone can be discarded, returning the storage they consumed during their use.
 
@@ -101,7 +101,7 @@ allow us to model workloads. Additionally, we should test:
  * Setup snapshots and clones to model the creation and teardown of testing environments
  * Setup a parallel staging environment where we can start measuring the performance for the database and the staging file servers.
  * Setup a dedicated shard for a subset of internal repositories before we role this out for new customers.
- * Compare latency histograms for real-world workloads from ext4 control and zfs experimental volumes (Proposal: eBPF + Prometheus eBPF exporter)
+ * Compare latency histograms for real-world workloads from ext4 control and zfs experimental volumes (Proposal: eBPF + Prometheus eBPF exporter/index.html.md)
 
 #### GitLab.com and Self-Managed
 
@@ -116,33 +116,33 @@ consider is how to migrate existing installations from their current file system
 ZFS Chef cookbooks exist for ZFS on Linux: https://github.com/biola/chef-zfs_linux, and we will
 likely have to invest in automation to manage ZFS file systems in relation to Gitaly shards. 
 Tooling will be necessary to manage snapshots and clones, especially in relation to testing 
-environments. Project recovery tooling (from snapshots) is also necessary to ease the process.
+environments. Project recovery tooling (from snapshots/index.html.md) is also necessary to ease the process.
 
 #### Monitoring
 
 Monitoring ZFS is not unlike monitoring other file systems (latency and iowait being some of the
-most important metrics to keep track of). Additionally, ZFS will produce events when devices fail. 
+most important metrics to keep track of/index.html.md). Additionally, ZFS will produce events when devices fail. 
 Metrics on scrub and resilver runs should be collected. If we were to use remote replication, lag
 times are critical in meeting SLAs, which need to be established.
 
 ## Additonal Considerations
 
 In the past, questions have been raised related to ZFS license, which is CDDL, with products under
-the GPLv2 (such as the Linux kernel). Canonical took the first step towards addressing this issue in
+the GPLv2 (such as the Linux kernel/index.html.md). Canonical took the first step towards addressing this issue in
 2016, shipping ZFS as a Linux module. Some references regarding this issue include:
 
- * [*ZFS Licensing and Linux*](http://blog.dustinkirkland.com/2016/02/zfs-licensing-and-linux.html)
- * [*Are GPLv2 and CDDL incompatible?*](https://blog.hansenpartnership.com/are-gplv2-and-cddl-incompatible/)
+ * [*ZFS Licensing and Linux*](http://blog.dustinkirkland.com/2016/02/zfs-licensing-and-linux.html/index.html.md)
+ * [*Are GPLv2 and CDDL incompatible?*](https://blog.hansenpartnership.com/are-gplv2-and-cddl-incompatible/index.html.md/index.html.md)
 
 The Software Freedom Conservancy has an opposing viewpoint on this matter:
 
- * [GPL Violations Related to Combining ZFS and Linux](https://sfconservancy.org/blog/2016/feb/25/zfs-and-linux/)
+ * [GPL Violations Related to Combining ZFS and Linux](https://sfconservancy.org/blog/2016/feb/25/zfs-and-linux/index.html.md/index.html.md)
 
 # Alternatives
 
 Alternatives considered include:
 
-#### LVM Snapshots (ext4, XFS)
+#### LVM Snapshots (ext4, XFS/index.html.md)
 
 LVM provides support for the creation of logical volume snapshots. As such, these take place below
 the file system level, which requires the file system be temporarily quiesced so as to be able to take
@@ -157,17 +157,17 @@ creation is quick, so this should not generally be a significant issue.
 As ZFS provides fully integrated volume manager and file system functionality, this process is far simpler
 and less disruptive. In some respects, ZFS adheres to the principle of building the simplest and most 
 boring solution for the problem at hand, with the additional benefit of providing added functionality 
-(such as end-to-end checksums, clones and remote replication) that is highly desirable and fully integrated. 
+(such as end-to-end checksums, clones and remote replication/index.html.md) that is highly desirable and fully integrated. 
 
 #### Ceph
 
->The Ceph Filesystem (CephFS) is a POSIX-compliant filesystem that uses a Ceph Storage Cluster to store
+>The Ceph Filesystem (CephFS/index.html.md) is a POSIX-compliant filesystem that uses a Ceph Storage Cluster to store
 its data. The Ceph filesystem uses the same Ceph Storage Cluster system as Ceph Block Devices, Ceph Object
-Storage with its S3 and Swift APIs, or native bindings (librados).
+Storage with its S3 and Swift APIs, or native bindings (librados/index.html.md).
 
 Ceph is an entirely different beast from single-host file systems such as XFS or ZFS. In some respects,
 it creates a monolith at the storage layer through a distributed file system (and Ceph does this in elegant
-ways). It is far from a simple solution, and some of its core functionality (such as object storage) is 
+ways/index.html.md). It is far from a simple solution, and some of its core functionality (such as object storage/index.html.md) is 
 simply of no use to GitLab, given Git requires POSIX semantics. It is a non-trivial solution for something
-that the Gitaly architecture already solves (project sharding).
+that the Gitaly architecture already solves (project sharding/index.html.md).
 

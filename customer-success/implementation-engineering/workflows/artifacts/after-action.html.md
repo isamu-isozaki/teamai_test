@@ -18,7 +18,7 @@ This report tempalte should be used for
 * Training After Action Report
 
 ## Using Template
-1. Create new issue in the [Professional Services project](https://gitlab.com/gitlab-com/customer-success/professional-services/issues/new)
+1. Create new issue in the [Professional Services project](https://gitlab.com/gitlab-com/customer-success/professional-services/issues/new/index.html.md)
 1. Select "After Action Report" template
 1. Fill out the various details.
 

@@ -4,7 +4,7 @@ title: Sign-off
 category: Project Execution
 ---
 
-After the SOW has been completed, the customer will need to sign a Project sign off document.  This should be sent by the TAM or the IE involved, and then forwarded to Finance as part of the [financial-wrapup workflow](/handbook/customer-success/implmentation-engineering/workflows/internal/financial-wrapup.html).
+After the SOW has been completed, the customer will need to sign a Project sign off document.  This should be sent by the TAM or the IE involved, and then forwarded to Finance as part of the [financial-wrapup workflow](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/implmentation-engineering/workflows/internal/financial-wrapup.html/index.html.md).
 
 To send a Project Sign off document:
 
@@ -34,7 +34,7 @@ Manager, Professional Services
    * Go to the "Add from Contact" and click on the search icon.
    * Enter the contact's first and last name.
    * Click on the contact's name.
-   * Click "Add Participant" (**Important**)
+   * Click "Add Participant" (**Important**/index.html.md)
    * Confirm the contact has been added.
 10. Click Next
 11. Go to the Related Notes and Attachments drop down and select the previous-signed SOW. **Important:** Please wait for the system to load. Once loaded, you will see the document on the screen.

@@ -1,16 +1,16 @@
 ---
 layout: markdown_page
-title: “Accrued Liabilities Policy”
+title: “Accrued Liabilities Policy�
 ---
 ## Accrued Liabilities Policy
 
 #### Purpose
-To provide clear guidance concerning the identification and recording of items included in GitLab’s accrued and other liability accounts. The purpose of monthly accrual processes is to allocate expenses to the proper accounting period and match expenses with related revenues. At the close of each month, accrual processes ensure that all expenses related to that month are correctly included in the company's financial statements. Additionally, this policy establishes standards and guidelines for ensuring that GitLab accounts for monthly accruals in a manner that is compliant with management's objectives and generally accepted accounting principles (GAAP). This policy applies to GitLab and all subsidiaries.
+To provide clear guidance concerning the identification and recording of items included in GitLab’s accrued and other liability accounts. The purpose of monthly accrual processes is to allocate expenses to the proper accounting period and match expenses with related revenues. At the close of each month, accrual processes ensure that all expenses related to that month are correctly included in the company's financial statements. Additionally, this policy establishes standards and guidelines for ensuring that GitLab accounts for monthly accruals in a manner that is compliant with management's objectives and generally accepted accounting principles (GAAP/index.html.md). This policy applies to GitLab and all subsidiaries.
 
 #### Identification
 We require that all expenses be recorded, to the greatest degree practical, in the period they are incurred. The accrual process should be completed on a monthly basis to ensure liabilities are recorded accurately in their respective periods.
 
-The following items should be accrued monthly as necessary (note: this list is not all-inclusive):
+The following items should be accrued monthly as necessary (note: this list is not all-inclusive/index.html.md):
 - Accounts Payable:
 	* Contracts: Amounts due under contracts, including retainer fees. These items should be recorded as they become billable.
 	* Professional Fees: This liability includes audit, legal, consulting and other professional fees.

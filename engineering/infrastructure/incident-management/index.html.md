@@ -11,11 +11,11 @@ title: "Incident Management"
 
 # Incidents
 
-Incidents are **anomalous conditions** that result in **service degradation** or **outage** and require intervention (human or automated) to restore service to full operational status in the shortest amount of time possible. The primary goal of incident management is to organize chaos into swift incident resolution. To that end, incident management requires well defined roles for all resources involved, control points to manage the flow of both resolution path and information, active and effective communication to notify the appropriate stakeholders about the status of an incident and its resolution, and post-mortem, root-cause analysis and introspective analysis procedures.
+Incidents are **anomalous conditions** that result in **service degradation** or **outage** and require intervention (human or automated/index.html.md) to restore service to full operational status in the shortest amount of time possible. The primary goal of incident management is to organize chaos into swift incident resolution. To that end, incident management requires well defined roles for all resources involved, control points to manage the flow of both resolution path and information, active and effective communication to notify the appropriate stakeholders about the status of an incident and its resolution, and post-mortem, root-cause analysis and introspective analysis procedures.
 
 ## Incident Severities
 
-Incident severities encapsulate the impact of an incident and scope the resources allocated to handle it. Detailed definitions must be provided for each severity, and these definitions must be reevaluated as new circumstances become known. Incident management uses our standarized severity definitions, which can be found under [`CONTRIBUTION.MD`](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#severity-impact-guidance).
+Incident severities encapsulate the impact of an incident and scope the resources allocated to handle it. Detailed definitions must be provided for each severity, and these definitions must be reevaluated as new circumstances become known. Incident management uses our standarized severity definitions, which can be found under [`CONTRIBUTION.MD`](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#severity-impact-guidance/index.html.md).
 
 * Sev1 and Sev2 incidents cannot be considered closed until GitLab.com has been fully operational, onine, stable and performant for 30 minutes after the incident was resolved.
 * When a closed Sev2 or Sev3 incident is followed by another Sev2 or Sev3 incident within 3 hours, the latter incidents are automatically upgraded to Sev2 incidents.
@@ -30,9 +30,9 @@ Incident severities encapsulate the impact of an incident and scope the resource
 | **Role** | **Definition and Examples** |
 | -------- | ------------------------|
 | `IMOC`   | **Incident Manager** |
-|          | The **Incident Manager** is the tactical leader of the incident response team, and it must not be the person doing the technical work resolving the incident. The IMOC assembles the Incident Team, evaluates data (technical and otherwise) coming from team members, evaluates technical direction of incident resolution and coordinates troubleshooting efforts, and is responsible for documentation and debriefs after the incident.|
+|          | The **Incident Manager** is the tactical leader of the incident response team, and it must not be the person doing the technical work resolving the incident. The IMOC assembles the Incident Team, evaluates data (technical and otherwise/index.html.md) coming from team members, evaluates technical direction of incident resolution and coordinates troubleshooting efforts, and is responsible for documentation and debriefs after the incident.|
 | `CMOC`   | **Communications Manager** |
-|          | The **Communications Manager** is the communications leader of the incident response team. The focus of the Incident Team is on resolving the incident as quickly as possible. However, there is a critical need to disseminate information to appropriate stakeholders, including employees, eStaff, and end users. For Sev1 (and possibly Sev2) incidents, this is a dedicated role. Otherwise, IMOC can handle communications.|
+|          | The **Communications Manager** is the communications leader of the incident response team. The focus of the Incident Team is on resolving the incident as quickly as possible. However, there is a critical need to disseminate information to appropriate stakeholders, including employees, eStaff, and end users. For Sev1 (and possibly Sev2/index.html.md) incidents, this is a dedicated role. Otherwise, IMOC can handle communications.|
 | `OCIT`   | **On-Call + Incident Team** |
 |          | The Incident Team is primarily composed of the on-call person. However, the Incident Manager can call in additional resources as necessary.|
 
@@ -52,13 +52,13 @@ Furthermore, avoiding information overload is necessary to keep every stakeholde
 
 To that end, we will have:
 
-* a dedicated incident bridge (zoom call) for all incidents.
+* a dedicated incident bridge (zoom call/index.html.md) for all incidents.
 * a dedicated `#incident` channel, since `#production` contains sizeable amounts of information and it takes effort to filter out non-relevant items. This is particularly important for the incident team, which must be focused on technical information to resolve the incident. While `#incident` is an open channel and anyone is free to join, we will encourage people to use other channels to communicate with the IMOC.
-* periodic updates intended to the various audiences at place (CMOC handles this):
-  * End-users (Twitter)
+* periodic updates intended to the various audiences at place (CMOC handles this/index.html.md):
+  * End-users (Twitter/index.html.md)
   * eStaff
   * Support staff
   * Employees at large
-* [a dedicated repo for issues related to Production](https://gitlab.com/gitlab-com/production) separate from the queue that holds Infrastructures’s workload: namely, issues for incidents and changes.
+* [a dedicated repo for issues related to Production](https://gitlab.com/gitlab-com/production/index.html.md) separate from the queue that holds Infrastructures’s workload: namely, issues for incidents and changes.
 
 

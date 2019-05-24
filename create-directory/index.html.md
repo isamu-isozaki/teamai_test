@@ -9,7 +9,7 @@ title: "How to create a directory"
 - TOC
 {:toc}
 
-To create a directory in your project, you need to use your [shell](https://docs.gitlab.com/ee/gitlab-basics/basic-git-commands.html). You can learn how to [start using Git on the command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) and the [command line basic commands](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html) before reading this documentation.
+To create a directory in your project, you need to use your [shell](https://docs.gitlab.com/ee/gitlab-basics/basic-git-commands.html/index.html.md). You can learn how to [start using Git on the command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html/index.html.md) and the [command line basic commands](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html/index.html.md) before reading this documentation.
 
 The following are the basic steps to create a directory through your shell:
 
@@ -23,7 +23,7 @@ Download the latest changes in the project, so that you work on an up-to-date co
 git pull
 ```
 
-Create a branch (remember you can't add spaces, you need to use a hyphen or underscore):
+Create a branch (remember you can't add spaces, you need to use a hyphen or underscore/index.html.md):
 ```
 git checkout -b NAME-OF-BRANCH
 ```
@@ -58,12 +58,12 @@ Go back one directory or file:
 cd ../
 ```
 
-View the changes you've made (it's important to be aware of what's happening and what's the status of your changes):
+View the changes you've made (it's important to be aware of what's happening and what's the status of your changes/index.html.md):
 ```
 git status
 ```
 
-Add the changes to later commit (you'll be able to see your changes in red when you type "git status"):
+Add the changes to later commit (you'll be able to see your changes in red when you type "git status"/index.html.md):
 ```
 git add CHANGES
 ```

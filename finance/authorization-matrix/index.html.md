@@ -2,16 +2,16 @@
 layout: markdown_page
 title: "Authorization Matrix"
 ---
-For instruction on how to get approval to purchase goods or services see our [Procure to Pay Process](/handbook/finance/procure-to-pay/).
+For instruction on how to get approval to purchase goods or services see our [Procure to Pay Process](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/procure-to-pay/index.html.md/index.html.md).
 
-Our process for signing any contract is documented in [/handbook/signing-legal-documents/](/handbook/signing-legal-documents/). 
+Our process for signing any contract is documented in [https://github.com/isamu-isozaki/teamai_test/tree/master/signing-legal-documents/](https://github.com/isamu-isozaki/teamai_test/tree/master/signing-legal-documents/index.html.md/index.html.md). 
 
 ## Authorization Matrix
 
 <table border="1">
   <tr>
     <td></td>
-    <td colspan="4" align="center"><b>Functional Approval<sup>(4)</sup></b></td>
+    <td colspan="4" align="center"><b>Functional Approval<sup>(4/index.html.md)</sup></b></td>
     <td colspan="3" align="center"><b>Financial Approval</b></td>
   </tr>
   <tr>
@@ -33,8 +33,8 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1)</sup></td>
-    <td>Approves<sup>(2)</sup></td>
+    <td>Approves <sup>(1/index.html.md)</sup></td>
+    <td>Approves<sup>(2/index.html.md)</sup></td>
     <td></td>
   </tr>
   <tr>
@@ -61,8 +61,8 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td>above $100K</td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1)</sup></td>
-    <td>Approves<sup>(2)</sup></td>
+    <td>Approves <sup>(1/index.html.md)</sup></td>
+    <td>Approves<sup>(2/index.html.md)</sup></td>
     <td></td>
     <td>Approves</td>
     <td></td>
@@ -76,8 +76,8 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1)</sup></td>
-    <td>Approves<sup>(2)</sup></td>
+    <td>Approves <sup>(1/index.html.md)</sup></td>
+    <td>Approves<sup>(2/index.html.md)</sup></td>
     <td></td>
   </tr>
   <tr>
@@ -104,8 +104,8 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td>above $100K</td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1)</sup></td>
-    <td>Approves<sup>(2)</sup></td>
+    <td>Approves <sup>(1/index.html.md)</sup></td>
+    <td>Approves<sup>(2/index.html.md)</sup></td>
     <td></td>
     <td>Approves</td>
     <td></td>
@@ -119,8 +119,8 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1)</sup></td>
-    <td>Approves<sup>(2)</sup></td>
+    <td>Approves <sup>(1/index.html.md)</sup></td>
+    <td>Approves<sup>(2/index.html.md)</sup></td>
     <td></td>
   </tr>
   <tr>
@@ -147,8 +147,8 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td>above $100K</td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1)</sup></td>
-    <td>Approves<sup>(2)</sup></td>
+    <td>Approves <sup>(1/index.html.md)</sup></td>
+    <td>Approves<sup>(2/index.html.md)</sup></td>
     <td></td>
     <td>Approves</td>
     <td></td>
@@ -273,7 +273,7 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td></td>
   </tr>
   <tr>
-    <td>Increases (Budgeted)</td>
+    <td>Increases (Budgeted/index.html.md)</td>
     <td></td>
     <td>Approves</td>
     <td></td>
@@ -283,7 +283,7 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td></td>
   </tr>
   <tr>
-    <td>Increases (Not Budgeted)</td>
+    <td>Increases (Not Budgeted/index.html.md)</td>
     <td></td>
     <td></td>
     <td>Approves</td>
@@ -327,7 +327,7 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves<sup>(3)</sup></td>
+    <td>Approves<sup>(3/index.html.md)</sup></td>
     <td></td>
     <td></td>
     <td></td>
@@ -478,7 +478,7 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
     <td></td>
   </tr>
   <tr>
-    <td colspan="4">Decisions to file a lawsuit or accept an injunction or consent decree (other than collection of receivables in due course)</td>
+    <td colspan="4">Decisions to file a lawsuit or accept an injunction or consent decree (other than collection of receivables in due course/index.html.md)</td>
     <td>Approves</td>
     <td></td>
     <td></td>
@@ -516,10 +516,10 @@ Our process for signing any contract is documented in [/handbook/signing-legal-d
 
 **Notes/Comments**:  
 
-- (1) If in Plan  
-- (2) If Not Included in Company Plan
-- (3) Approved by Compensation Committee (or Board if no Compensation Committee)
-- (4) Approval from [function](https://about.gitlab.com/team/structure/#table) responsible for supporting associated objectives and goals 
+- (1/index.html.md) If in Plan  
+- (2/index.html.md) If Not Included in Company Plan
+- (3/index.html.md) Approved by Compensation Committee (or Board if no Compensation Committee/index.html.md)
+- (4/index.html.md) Approval from [function](https://about.gitlab.com/team/structure/#table/index.html.md) responsible for supporting associated objectives and goals 
 
 ## Banking Controls
 

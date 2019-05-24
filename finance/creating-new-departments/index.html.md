@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: “Creating New Departments”
+title: “Creating New Departments�
 ---
 
 ## On this page

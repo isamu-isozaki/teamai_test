@@ -13,7 +13,7 @@ title: "Set up your own test OpenShift Origin instance for the Idea to Productio
 {:.no_toc}
 
 This document is meant to outline a simple way of setting up an OpenShift Origin
-test box for demonstrating our Idea to Production [demo](/handbook/sales/idea-to-production-demo/).
+test box for demonstrating our Idea to Production [demo](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/idea-to-production-demo/index.html.md/index.html.md).
 
 
 ## Hardware and OS Requirements
@@ -28,8 +28,8 @@ If you do not have a supported operating system, or enough machine resources, yo
 can provision a Linux machine in the cloud to run your setup on.
 
 Tested on:
- - [Digital Ocean](https://www.digitalocean.com/): `16 GB RAM / 8 CPUs`
- - [Amazon EC2](https://aws.amazon.com/ec2/): `t2.xlarge`
+ - [Digital Ocean](https://www.digitalocean.com/index.html.md/index.html.md): `16 GB RAM / 8 CPUs`
+ - [Amazon EC2](https://aws.amazon.com/ec2/index.html.md/index.html.md): `t2.xlarge`
 
  You need to have ports `8443` and `80` open to the public for TCP traffic.
 
@@ -42,7 +42,7 @@ In order to run the demo, you need to install Docker, the OC Client Tools, and o
 
 You will need to install Docker on your OpenShift machine if you have not installed it already.
 
-The best way to install Docker is by going to their [official installation instructions](https://docs.docker.com/engine/installation/)
+The best way to install Docker is by going to their [official installation instructions](https://docs.docker.com/engine/installation/index.html.md/index.html.md)
 and following the install instructions for your OpenShift machine's operating system.
 
 The installation steps should walk you through running Docker's Hello World app.
@@ -99,7 +99,7 @@ Configure the Docker daemon with an insecure registry parameter of `172.30.0.0/1
    sudo systemctl restart docker
    ```
 
-For troubleshooting these steps refer to the [OpenShift cluster up docs](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md#linux)
+For troubleshooting these steps refer to the [OpenShift cluster up docs](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md#linux/index.html.md)
 
 #### Insecure Local Registry on Mac
 
@@ -111,7 +111,7 @@ Once Docker is running, add an insecure registry of `172.30.0.0/16`:
  - Enter `172.30.0.0/16` and press return
  - Click on Apply and Restart
 
-For troubleshooting these steps refer to the [OpenShift cluster up docs](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md#macos-with-docker-for-mac)
+For troubleshooting these steps refer to the [OpenShift cluster up docs](https://github.com/openshift/origin/blob/master/docs/cluster_up_down.md#macos-with-docker-for-mac/index.html.md)
 
 On the Mac you will also need to make sure you have enabled Docker to access enough CPU and RAM resources.
 THis can be done from the Preferences windows, and you need at least 4 CPUs and 10GB of RAM.
@@ -119,7 +119,7 @@ THis can be done from the Preferences windows, and you need at least 4 CPUs and 
 ### Install the OC Client Tools
 
 The OC client tools are released with OpenShift Origin and are located on Origin's
-[GitHub Releases Page](https://github.com/openshift/origin/releases)
+[GitHub Releases Page](https://github.com/openshift/origin/releases/index.html.md)
 
 We will be running the Demo using the latest stable release of OpenShift Origin. Currently *1.3.2*
 
@@ -152,7 +152,7 @@ To install the tools, run the following from a terminal on the OpenShift host ma
      cd openshift-origin-client-tools-*
      sudo chflags nohidden /private
      sudo echo pwd >> /private/etc/paths.d/origin-paths
-     export PATH=$(pwd):$PATH
+     export PATH=$(pwd/index.html.md):$PATH
      ```
 
 1. Test that the tools are on your path:
@@ -176,7 +176,7 @@ script. We will use it to provision some storage, and update user permissions on
 the cluster to allow the demo to run.
 
 In case you are not running our setup script, and instead already have a OpenShift
-cluster setup. We have outlined what the script does [below](#gitlab-plugin-install-source) so you can make similar
+cluster setup. We have outlined what the script does [below](#gitlab-plugin-install-source/index.html.md) so you can make similar
 changes to your cluster.
 
 1. Get the setup script, in a new directory from your terminal:
@@ -198,16 +198,16 @@ changes to your cluster.
 
     ```
     cd omnibus-gitlab-*
-    echo "export PATH=$(pwd)/docker/openshift/oc-cluster-wrapper:\$PATH" >> ~/.bashrc
-    export PATH=$(pwd)/docker/openshift/oc-cluster-wrapper:$PATH
+    echo "export PATH=$(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper:\$PATH" >> ~/.bashrc
+    export PATH=$(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper:$PATH
     ```
 
   - Mac:
 
     ```
     cd omnibus-gitlab-*
-    sudo echo $(pwd)/docker/openshift/oc-cluster-wrapper >> /private/etc/paths.d/origin-paths
-    export PATH=$(pwd)/docker/openshift/oc-cluster-wrapper:$PATH
+    sudo echo $(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper >> /private/etc/paths.d/origin-paths
+    export PATH=$(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper:$PATH
     ```
 
 1. Test that the script is on your path:
@@ -270,7 +270,7 @@ Then login to OpenShift using username: `developer` password: `developer`
    oc-cluster plugin-install gitlab
    ```
 
-   You can read up on what happens during the plugin-install [below](#gitlab-plugin-install-source).
+   You can read up on what happens during the plugin-install [below](#gitlab-plugin-install-source/index.html.md).
 
 This will output a link to the template you can use for the OpenShift demo. It will also
 output the two hostnames you will need to populate the demo with.
@@ -279,7 +279,7 @@ output the two hostnames you will need to populate the demo with.
 
 The output from the previous step should have given you the link to the template.
 
-The rest of the demo process can be mostly followed from the [Demo Script](/handbook/sales/idea-to-production-demo/)
+The rest of the demo process can be mostly followed from the [Demo Script](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/idea-to-production-demo/index.html.md/index.html.md)
 But you will want to use the template link provided from our setup script.
 
 Which is: `https://gitlab.com/gitlab-org/omnibus-gitlab/raw/i2ptest/docker/openshift/idea-2-prod-template.json`
@@ -357,7 +357,7 @@ The create volume command used looks like:
 ```
 function create-volume {
   [ $# -lt 1 ] && echo "volumename is required" && exit 1
-  local __profile=$(cat $OPENSHIFT_HOME_DIR/active_profile)
+  local __profile=$(cat $OPENSHIFT_HOME_DIR/active_profile/index.html.md)
   local __volume=$1
   local __size=${2:-"10Gi"}
   local __path=${3:-$OPENSHIFT_HOME_DIR/profiles/${__profile}/volumes/${__volume}}

@@ -56,5 +56,5 @@ We've intentionally crafted our hiring and recruiting practices to align with th
 * Give every candidate a response
 * Document the hiring process and keep it updated
 * Share insights and hiring achievements often and with everyone
-* Provide honest and kind feedback when asked (try to separate the interview from the decision, and from the feedback)
+* Provide honest and kind feedback when asked (try to separate the interview from the decision, and from the feedback/index.html.md)
 * Share hiring plans internally and announce opening positions before publishing

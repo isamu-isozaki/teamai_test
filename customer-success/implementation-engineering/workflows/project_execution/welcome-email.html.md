@@ -4,7 +4,7 @@ title: Welcome E-mail
 category: Project Execution
 ---
 
-This welcome e-mail will be sent by the [Manager, Implementation Services]() to introduce the customer to our Implementation Engineering team and the concept of a GitLab implementation.
+This welcome e-mail will be sent by the [Manager, Implementation Services](/index.html.md) to introduce the customer to our Implementation Engineering team and the concept of a GitLab implementation.
 
 ## E-mail Template
 
@@ -17,7 +17,7 @@ The most important next step in our process together is to identify key personne
 
 The team members from [Customer Name] that will need to be identified to kick off the project include:
 * GitLab Champion - this individual will be the champion for GitLab at your organization
-* A GitLab Administrator(s) â€“ this user or users will be the key lead for implementation decision making, system build, system management and aiding in coordinating resources from [Customer Name].
+* A GitLab Administrator(s/index.html.md) â€ this user or users will be the key lead for implementation decision making, system build, system management and aiding in coordinating resources from [Customer Name].
 * Technical POC - this user or users will help the GitLab Implementation Engineering team gain the necessary technical resources and access to aid your team in the GitLab implementation
 * Additional Stakeholders - please also identify any other stakeholders such as business and product stakeholders.
 

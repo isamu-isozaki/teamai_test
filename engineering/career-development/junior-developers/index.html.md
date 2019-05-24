@@ -18,7 +18,7 @@ skills. Specifically, this means that a good Junior candidate:
 - Is a good fit for our company values
 - Demonstrates strong talent as a developer, even if their skills/experience are
   limited (that is, they show aptitude for problem solving, systems thinking,
-  etc.)
+  etc./index.html.md)
 - Has a strong learning mindset
 - Is missing requisite skills/experience for an Intermediate position that can
   be learned in 6-24 months of on-the-job experience
@@ -72,10 +72,10 @@ working to progress in their career.
 ## Promotion
 
 Promotion for Junior Developers should happen along the same lines as [promotion
-for any other Developer](/handbook/engineering/career-development#promotion).
+for any other Developer](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/career-development#promotion/index.html.md).
 While the coaching plan should help facilitate this promotion, it should not
 be viewed as a "promotion checklist" - that is, there is no guarantee that
 completion of a coaching plan will result in a promotion, nor is full completion
 of a coaching plan a prerequisite for promotion (although it should obviously be
-a factor in making that decision).
+a factor in making that decision/index.html.md).
 

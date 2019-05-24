@@ -3,7 +3,7 @@ layout: markdown_page
 title: Gitter
 ---
 
-Back in March of 2017, we proudly announced that [GitLab acquired Gitter](/2017/03/15/gitter-acquisition/). As mentioned
+Back in March of 2017, we proudly announced that [GitLab acquired Gitter](/2017/03/15/gitter-acquisition/index.html.md/index.html.md). As mentioned
 in that blog post, we are working on open-sourcing Gitter for everyone's
 benefit!
 
@@ -13,11 +13,11 @@ complete the open-sourcing effort.
 
 ### Resources
 
-- Gitter [main webapp repo](https://gitlab.com/gitlab-org/gitter/webapp). It's
+- Gitter [main webapp repo](https://gitlab.com/gitlab-org/gitter/webapp/index.html.md). It's
 not open yet, but it soon will be.
 - Infrastructure of Gitter
    - Search Google Drive for "Gitter Infrastructure" for a description /
    training. This is open to GitLab team members, but will be deprecated when
    Gitter is open-sourced.
-   - Gitter [infrastructure repo](https://gitlab.com/gitterHQ/devops/). It's
+   - Gitter [infrastructure repo](https://gitlab.com/gitterHQ/devops/index.html.md/index.html.md). It's
    not open yet, since it contains infrastructure secrets.

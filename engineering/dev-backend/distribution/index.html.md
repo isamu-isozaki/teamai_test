@@ -11,7 +11,7 @@ title: "Distribution"
 ## Common links
 
 * [Distribution team issue tracker][issue tracker]
-* [Slack chat channel](https://gitlab.slack.com/archives/distribution)
+* [Slack chat channel](https://gitlab.slack.com/archives/distribution/index.html.md)
 
 ## Mission
 
@@ -51,7 +51,7 @@ outreach.
 
 Distribution team is responsible for:
 
-1. The [installation](/installation/), [update](/update/), and [upgrade](/upgrade/) pages.
+1. The [installation](/installation/index.html.md/index.html.md), [update](/update/index.html.md/index.html.md), and [upgrade](/upgrade/index.html.md/index.html.md) pages.
 1. The omnibus-gitlab installation package.
   * Installation using package is simple, quick, secure and protects the data integrity.
 1. A cloud native installation method.
@@ -59,9 +59,9 @@ Distribution team is responsible for:
 1. Build and own the infrastructure used for creating the various installation methods.
   * Provision and maintain GitLab CI runners used for making above mentioned installation methods.
 1. Ensure that GitLab can be installed for self-managed installations and GitLab.com.
-1. [Maintaining infrastructure](#infrastructure-and-maintenance) used for work.
-1. [Triaging issues](triage.html) in all owned [projects](#projects).
-1. Creating [training sessions](training.html).
+1. [Maintaining infrastructure](#infrastructure-and-maintenance/index.html.md) used for work.
+1. [Triaging issues](triage.html/index.html.md) in all owned [projects](#projects/index.html.md).
+1. Creating [training sessions](training.html/index.html.md).
 
 ## Team objectives
 
@@ -97,7 +97,7 @@ Based on team responsibilities, the following objectives apply:
   we can maintain visibility into most frequently reported bugs or requested features. Not everything reported will be resolved, however
   _all_ of the reports should be triaged. This also applies to mentions in GitLab CE/EE repositories on issues with `Distribution` label.
 * Every Distribution team member is responsible for creating a training session for the rest of the team.
-  See the page on [team training](training.html) for details.
+  See the page on [team training](training.html/index.html.md) for details.
 * GitLab.com is last on this list, but is first in importance. When team that manages GitLab.com creates an issue, the item should
   be raised up directly to the team Engineering Manager and Product Manager. While these issues are important, we don't necessarily need
   to provide a complete solution right away, but we need to work with the other team on providing a path forward with their request.
@@ -106,19 +106,19 @@ Based on team responsibilities, the following objectives apply:
 
 | Name | Location | Description |
 | -------- | -------- |
-| Omnibus GitLab | [gitlab-org/omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) | Build Omnibus packages with HA support for LTS versions of all major Linux operating systems such as Ubuntu, Debian, CentOS/RHEL, OpenSUSE, SLES |
-| Docker All in one GitLab image | [gitlab-org/omnibus-gitlab/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker) | Build Docker images for GitLab CE/EE based on the omnibus-gitlab package |
-| GitLab Helm Chart | [charts/gitlab](https://gitlab.com/charts/gitlab) | Cloud Native GitLab Helm Charts |
-| Docker images for GitLab Helm Chart | [gitlab-org/build/CNG](https://gitlab.com/gitlab-org/build/CNG) | Individual images used by GitLab Helm Charts |
-| GitLab Helm Chart operator | [gitlab-org/distribution/gitlab-operator](https://gitlab.com/gitlab-org/distribution/gitlab-operator) | Support project for GitLab Helm Charts, performing various tasks such as zero downtime upgrade |
-| Kubernetes Helm Charts index | [charts/charts.gitlab.io](https://gitlab.com/charts/charts.gitlab.io) | Helm charts repository index |
-| AWS images | [AWS marketplace](https://aws.amazon.com/marketplace/pp/B071RFCJZK?qid=1493819387811&sr=0-1&ref_=srh_res_product_title) | AWS image based on the omnibus-gitlab package |
-| Kubernetes helm charts | [Official Helm Charts](https://github.com/kubernetes/charts) | Application definitions for Kubernetes Helm based on the omnibus-gitlab package |
-| GitLab provisioner | [gitlab-org/distribution/gitlab-provisioner](https://gitlab.com/gitlab-org/distribution/gitlab-provisioner) | Creates a GitLab HA installation using Ansible and Terraform |
-| GitLab PCF tile | [gitlab.com/gitlab-pivotal](https://gitlab.com/gitlab-pivotal) | One click installation of GitLab in Pivotal Cloud Foundry based on the omnibus-gitlab package |
-| GitLab Terraform configuration | [gitlab-terraform](https://gitlab.com/gitlab-terraform) | Terraform configuration for various cloud providers |
-| Omnibus GitLab Builder | [GitLab Omnibus Builder](https://gitlab.com/gitlab-org/gitlab-omnibus-builder) | Create environment containing build dependencies for the omnibus-gitlab package |
-| Upgrade time metrics | [Upgrade time metrics page on GL Pages](https://gitlab-org.gitlab.io/omnibus-gitlab/upgrade-metrics.html) | Stores the result of calculation of time needed for upgrade between versions in chart form. Backed by Google sheets. Hosted using GL Pages |
+| Omnibus GitLab | [gitlab-org/omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab/index.html.md) | Build Omnibus packages with HA support for LTS versions of all major Linux operating systems such as Ubuntu, Debian, CentOS/RHEL, OpenSUSE, SLES |
+| Docker All in one GitLab image | [gitlab-org/omnibus-gitlab/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker/index.html.md) | Build Docker images for GitLab CE/EE based on the omnibus-gitlab package |
+| GitLab Helm Chart | [charts/gitlab](https://gitlab.com/charts/gitlab/index.html.md) | Cloud Native GitLab Helm Charts |
+| Docker images for GitLab Helm Chart | [gitlab-org/build/CNG](https://gitlab.com/gitlab-org/build/CNG/index.html.md) | Individual images used by GitLab Helm Charts |
+| GitLab Helm Chart operator | [gitlab-org/distribution/gitlab-operator](https://gitlab.com/gitlab-org/distribution/gitlab-operator/index.html.md) | Support project for GitLab Helm Charts, performing various tasks such as zero downtime upgrade |
+| Kubernetes Helm Charts index | [charts/charts.gitlab.io](https://gitlab.com/charts/charts.gitlab.io/index.html.md) | Helm charts repository index |
+| AWS images | [AWS marketplace](https://aws.amazon.com/marketplace/pp/B071RFCJZK?qid=1493819387811&sr=0-1&ref_=srh_res_product_title/index.html.md) | AWS image based on the omnibus-gitlab package |
+| Kubernetes helm charts | [Official Helm Charts](https://github.com/kubernetes/charts/index.html.md) | Application definitions for Kubernetes Helm based on the omnibus-gitlab package |
+| GitLab provisioner | [gitlab-org/distribution/gitlab-provisioner](https://gitlab.com/gitlab-org/distribution/gitlab-provisioner/index.html.md) | Creates a GitLab HA installation using Ansible and Terraform |
+| GitLab PCF tile | [gitlab.com/gitlab-pivotal](https://gitlab.com/gitlab-pivotal/index.html.md) | One click installation of GitLab in Pivotal Cloud Foundry based on the omnibus-gitlab package |
+| GitLab Terraform configuration | [gitlab-terraform](https://gitlab.com/gitlab-terraform/index.html.md) | Terraform configuration for various cloud providers |
+| Omnibus GitLab Builder | [GitLab Omnibus Builder](https://gitlab.com/gitlab-org/gitlab-omnibus-builder/index.html.md) | Create environment containing build dependencies for the omnibus-gitlab package |
+| Upgrade time metrics | [Upgrade time metrics page on GL Pages](https://gitlab-org.gitlab.io/omnibus-gitlab/upgrade-metrics.html/index.html.md) | Stores the result of calculation of time needed for upgrade between versions in chart form. Backed by Google sheets. Hosted using GL Pages |
 
 ## Public by default
 
@@ -130,7 +130,7 @@ All work carried out by the Distribution team is public. Some exceptions apply:
 * Work has legal implications - Unless legal details can be omitted from the work.
 
 Some of the team work is carried out on our development server at `dev.gitlab.org`.
-[Infrastructure overview document](https://docs.gitlab.com/omnibus/release/README.html#infrastructure) lists the reasons.
+[Infrastructure overview document](https://docs.gitlab.com/omnibus/release/README.html#infrastructure/index.html.md) lists the reasons.
 
 Unless your work is related to the security, all other work is carried out in projects on `GitLab.com`.
 If you need to submit a sensitive issue, please use confidential issues.
@@ -153,10 +153,10 @@ using the appropriate issue template in the same issue tracker.
 ## Work Resources
 
 General resources available to developers are listed in the
-[Engineering handbook](/handbook/engineering/#resources).
+[Engineering handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/#resources/index.html.md).
 
 In the Distribution team specifically, everyone should have access to the `testground`
-project on [Google Cloud Platform](https://console.cloud.google.com/). If you
+project on [Google Cloud Platform](https://console.cloud.google.com/index.html.md/index.html.md). If you
 don't have access, ask the team lead by creating issue in
 [Distribution team issue tracker][issue tracker] and label it `Access Request`.
 
@@ -165,7 +165,7 @@ don't have access, ask the team lead by creating issue in
 As part of the team responsibilities, team owns maintenance of infrastructure
 used for day to day work.
 For list of nodes and description of the maintenance tasks, see the
-[infastructure and maintenance](maintenance.html) page.
+[infastructure and maintenance](maintenance.html/index.html.md) page.
 
 ## How to work with Distribution
 
@@ -194,7 +194,7 @@ If you need to do `install`, `update`, `make`, `mkdir`, `mv`, `cp`, `chown`,
 `chmod`, do compilation or configuration change in any part of GitLab stack, you
 need to reach out to the Distribution team for opinion as early as possible.
 
-This will allow us to schedule appropriately the changes (if any) we have to make
+This will allow us to schedule appropriately the changes (if any/index.html.md) we have to make
 to the packages.
 
 If a change is reported late in the release cycle or not reported at all,

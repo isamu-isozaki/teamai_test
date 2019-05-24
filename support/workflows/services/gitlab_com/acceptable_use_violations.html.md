@@ -20,10 +20,10 @@ category: GitLab.com
 
 ```
 1. [ ] Determine if we need to set a specific limit to prevent this type of abuse.
-1. [ ] If we do decide to add a limit, communicate it [here](/gitlab-com/)
+1. [ ] If we do decide to add a limit, communicate it [here](/gitlab-com/index.html.md/index.html.md)
 1. [ ] Determine what to do to make sure users abide by the limit, if a GitLab
    feature is required to enforce this automatically, create a feature request,
-   probably on [EE](https://gitlab.com/gitlab-org/gitlab-ee/issues)
+   probably on [EE](https://gitlab.com/gitlab-org/gitlab-ee/issues/index.html.md)
 1. [ ] Determine what to do with the current users, if nothing, stop here,
    if we will be asking them to take action or have data deleted, please follow
    the user data deletion checklist carefully.

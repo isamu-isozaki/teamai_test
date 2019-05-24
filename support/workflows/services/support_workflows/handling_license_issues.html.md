@@ -21,7 +21,7 @@ ______________
 
 ##### Workflow
 
-1. Login into [Salesforce](https://login.salesforce.com/) using the generic
+1. Login into [Salesforce](https://login.salesforce.com/index.html.md/index.html.md) using the generic
 email. Password is stored in 1Password.
 1. Salesforce will email a login code to the generic email. Login to this
 email account and retrieve this code. Password is stored in 1Password.

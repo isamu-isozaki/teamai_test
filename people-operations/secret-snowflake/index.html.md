@@ -15,12 +15,12 @@ We will be organizing a Secret Snowflake in 2017!
 
 How does this work?:
 - To participate join #secret-snowflake in slack by November 24, 2017.
-- You'll receive an email to enroll in Secret Snowflake. Click the red link within the email to be taken to the platform where you can list your wishes. Enter your address (please add this as a wishlist item with the format Address: " "), and then find out who you will ship a present to. There are ads surrounding the wishlist section of the page. Please make sure to avoid those ads as you do not need to click any further to login. It is also helpful to add a website or link to your wishlist that allows for easy/cost effective international shipping. If you have any issues shipping the present to your buddy, feel free to reach out to @brittany in Slack to assist in finding a local retailer.  
+- You'll receive an email to enroll in Secret Snowflake. Click the red link within the email to be taken to the platform where you can list your wishes. Enter your address (please add this as a wishlist item with the format Address: " "/index.html.md), and then find out who you will ship a present to. There are ads surrounding the wishlist section of the page. Please make sure to avoid those ads as you do not need to click any further to login. It is also helpful to add a website or link to your wishlist that allows for easy/cost effective international shipping. If you have any issues shipping the present to your buddy, feel free to reach out to @brittany in Slack to assist in finding a local retailer.  
 - Get a present, and ship it!
-  * The budget is € 20 for the gift (excluding shipping), paid out of pocket.
+  * The budget is € 20 for the gift (excluding shipping/index.html.md), paid out of pocket.
 - Wait for your present to arrive.
 - Finally! It arrived! Unpack it, take a picture, and thank your match in the #secret-snowflake channel on Slack to let them know that the gift has been received!
-- Perfectly content, you wait until next year to participate again... :)
+- Perfectly content, you wait until next year to participate again... :/index.html.md)
 - If you have not received your gift by January 15th, or are unsure if your match received the gift you sent, please reach out to People Ops.
 
 Note: By participating in Secret Snowflake you grant your match access to your address via People Ops.
@@ -34,15 +34,15 @@ Rules/guidelines:
 - Get that person a gift and ship this gift to him/her
   - This should be done so it arrives before Christmas
     - Or you can ship it on the 22nd of December :shipit:
-- The budget is € 20 for the gift (excluding shipping), paid out of pocket.
+- The budget is € 20 for the gift (excluding shipping/index.html.md), paid out of pocket.
 - You'll post a picture of your gift in #random, to thank your secret Santa!
-- Perfectly content, you wait until next year to participate again... :)
+- Perfectly content, you wait until next year to participate again... :/index.html.md)
 
 ##### F.A.Q.
 
 > But I have this super duper awesome gift idea and its over the budget
 
-Well, this really depends on the situation and the fact that you actually have this question means you're probably not over budget by €2. ;)
+Well, this really depends on the situation and the fact that you actually have this question means you're probably not over budget by €2. ;/index.html.md)
 
 > I found this amazing, best gift ever and its under budget?
 

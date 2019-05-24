@@ -1,9 +1,9 @@
 ---
 layout: markdown_page
-title: "GitLab Lyra (India) Benefits"
+title: "GitLab Lyra (India/index.html.md) Benefits"
 ---
 
-Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
+Can't find what you're looking for? Try the main [People Operations page](https://github.com/isamu-isozaki/teamai_test/tree/master/people-operations/index.html.md).
 
 ## On this page
 {:.no_toc}
@@ -15,7 +15,7 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ## Specific to India based employees
 
-All of the benefits listed below are administered and managed by [Lyra Infosystems](http://lyrainfo.com/). As part of the onboarding process Lyra will reach out to team members in their first week to arrange setup and enrollment.  Should you have any questions about these benefits please contact hr@lyrainfo.com or the People Operations Team at GitLab who are also very happy to assist.
+All of the benefits listed below are administered and managed by [Lyra Infosystems](http://lyrainfo.com/index.html.md/index.html.md). As part of the onboarding process Lyra will reach out to team members in their first week to arrange setup and enrollment.  Should you have any questions about these benefits please contact hr@lyrainfo.com or the People Operations Team at GitLab who are also very happy to assist.
 
 ## Medical Benefits
 
@@ -38,6 +38,6 @@ LYRA is also able to provide financial assistance to employees, where employees 
   - If employee wishes to extend her maternity leave, she shall make a written request to her Reporting Manager and People Operations with a valid justification. In such situation Reporting Manager and People Operations will review the case and inform employee to utilize her SL, CL and PLs for payable days OR / up to a maximum of 4 weeks from 90th day with loss of pay.
 
 * Statutory Paternity Leave:  
-  - All confirmed male employees are eligible for availing Paternity Leave not exceeding 3 consecutive working days (excluding holidays) up to 2 children. These leaves are paid leaves.
+  - All confirmed male employees are eligible for availing Paternity Leave not exceeding 3 consecutive working days (excluding holidays/index.html.md) up to 2 children. These leaves are paid leaves.
 
 People Ops will consult with Lyra to ensure that the statute is met.

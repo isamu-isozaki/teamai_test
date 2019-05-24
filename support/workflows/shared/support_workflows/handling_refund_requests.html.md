@@ -14,14 +14,14 @@ category: Support Workflows
 
 ##### Overview
 
-Use this workflow when there's a refund request (or other query that Account Receivable)
+Use this workflow when there's a refund request (or other query that Account Receivable/index.html.md)
 would own.
 
 ---
 ##### Workflow
 1. Verify their current subscription status
 1. Determine whether they are 
-   [eligible for a refund](/terms/)
+   [eligible for a refund](/terms/index.html.md/index.html.md)
 >**Note:** *There may be special circumstances where we may be able to request a refund 
 outside of the eligibility window - if you believe a case qualifies for this, CC a manager for approval.*
 1. Determine the reason that they're cancelling and requesting a refund. 

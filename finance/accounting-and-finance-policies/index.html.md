@@ -16,13 +16,13 @@ title: "Accounting and Finance Policies"
 This page contains GitLab's accounting and finance policies.
 
 ### Assets
-- [Capital Assets](/handbook/finance/capital-assets-policy/)
-- [Investment Policy](/handbook/finance/investment-policy/)
-- [Prepaid Expenses](/handbook/finance/prepaid-expense-policy/)
+- [Capital Assets](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/capital-assets-policy/index.html.md/index.html.md)
+- [Investment Policy](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/investment-policy/index.html.md/index.html.md)
+- [Prepaid Expenses](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/prepaid-expense-policy/index.html.md/index.html.md)
 
 ### Liabilities
-- [Accrued Liabilities](/handbook/finance/accrued-liabilities-policy/)
-- [Procure-to-Pay](/handbook/finance/procure-to-pay/)
+- [Accrued Liabilities](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/accrued-liabilities-policy/index.html.md/index.html.md)
+- [Procure-to-Pay](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/procure-to-pay/index.html.md/index.html.md)
  
 ### Equity
-- [Foreign Currency Translation Policy](/handbook/finance/foreign-currency-translation-policy/)
+- [Foreign Currency Translation Policy](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/foreign-currency-translation-policy/index.html.md/index.html.md)

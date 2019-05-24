@@ -9,13 +9,13 @@ title: Issue Triage
 - TOC
 {:toc}
 
-GitLab believes in [Open Development][open-development], and we encourage the community to file issues and open merge requests for our projects on [GitLab.com](https://gitlab.com/groups/gitlab-org). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and severity.
+GitLab believes in [Open Development][open-development], and we encourage the community to file issues and open merge requests for our projects on [GitLab.com](https://gitlab.com/groups/gitlab-org/index.html.md). Their contributions are valuable, and we should handle them as effectively as possible. A central part of this is triage - the process of categorization according to type and severity.
 
 Any GitLab team member can triage issues. Keeping the number of un-triaged issues low is essential for maintainability, and is our collective responsibility. Consider triaging a few issues around your other responsibilities, or scheduling some time for it on a regular basis.
 
 ## Triaging Issues
 
-Initial triage involves (at a minimum) labelling an issue appropriately, so un-triaged issues can be discovered by searching for issues without any labels.
+Initial triage involves (at a minimum/index.html.md) labelling an issue appropriately, so un-triaged issues can be discovered by searching for issues without any labels.
 
 Follow one of these links:
 
@@ -24,18 +24,18 @@ Follow one of these links:
 * [GitLab Omnibus][omnibus-issues-query]
 * [GitLab.com Support Tracker][support-issues-query]
 
-Pick an issue, with preference given to the oldest in the list, and evaluate it with a critical eye, bearing the [policies](#policies) below in mind. Some questions to ask yourself:
+Pick an issue, with preference given to the oldest in the list, and evaluate it with a critical eye, bearing the [policies](#policies/index.html.md) below in mind. Some questions to ask yourself:
 
 * Do you understand what the issue is describing?
-* What labels apply? Particularly consider [team, subject, and type](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels) labels.
+* What labels apply? Particularly consider [team, subject, and type](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels/index.html.md) labels.
 * How critical does it seem? Does it need to be escalated to a lead or the VP of engineering?
 * Would the `security` label be appropriate?
 * Should it be made confidential? It's usually the case for `security` issues or
   issues that contain private information.
 
-Apply each label that seems appropriate. Issues with a security impact should be treated specially - see the [security disclosure process](/handbook/support/channels/#security-disclosures).
+Apply each label that seems appropriate. Issues with a security impact should be treated specially - see the [security disclosure process](https://github.com/isamu-isozaki/teamai_test/tree/master/support/channels/#security-disclosures/index.html.md).
 
-If the issue seems unclear - you aren't sure which labels to apply - ask the requestor to clarify matters for you. Keep our [user communication guidelines](/handbook/communication/#user-communication-guidelines) in mind at all times, and commit to keeping up the conversation until you have enough information to complete triage.
+If the issue seems unclear - you aren't sure which labels to apply - ask the requestor to clarify matters for you. Keep our [user communication guidelines](https://github.com/isamu-isozaki/teamai_test/tree/master/communication/#user-communication-guidelines/index.html.md) in mind at all times, and commit to keeping up the conversation until you have enough information to complete triage.
 
 Check for duplicates! Searching for some keywords in the issue should give you a short list of possibilities to scan through. Check both open and closed issues, as it may be a duplicate of a solved problem.
 
@@ -43,19 +43,19 @@ Consider whether the issue is still valid. Especially for older issues, a `bug` 
 
 Be sure to check cross-reference notes from other issues or merge requests, they are a great source of information! For instance, by looking at a cross-referenced merge request, you could see a "Picked into `8-13-stable`, will go into `8.13.6`." which would mean that the issue is fixed since the version `8.13.6`.
 
-If the issue meets the requirements, it may be appropriate to make a [scheduling request](/handbook/engineering/workflow/#scheduling-issues) - use your judgement!
+If the issue meets the requirements, it may be appropriate to make a [scheduling request](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/#scheduling-issues/index.html.md) - use your judgement!
 
 You're done! The issue has all appropriate labels, and may now be in the backlog, closed, awaiting scheduling, or awaiting feedback from the requestor. Pick another, if you've got the time.
 
 ### Issue Labels
 
-Please read on the existing labels that we use at [GitLab Workflow Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels)
+Please read on the existing labels that we use at [GitLab Workflow Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels/index.html.md)
 
 ## Issue Triage Practices
 
 We're enforcing some of the policies automatically in [triage-ops](
-https://gitlab.com/gitlab-org/quality/triage-ops), using
-[@gitlab-bot](https://gitlab.com/gitlab-bot) user. However we can't automate
+https://gitlab.com/gitlab-org/quality/triage-ops/index.html.md), using
+[@gitlab-bot](https://gitlab.com/gitlab-bot/index.html.md) user. However we can't automate
 everything. In this section we'll describe some of the practices we're
 doing manually.
 
@@ -90,17 +90,17 @@ Sort by "Author: your username" and close any issues which you know have been fi
 
 ### Questions/support issues
 
-If it's a question, or something vague that can't be addressed by the development team for whatever reason, close it and direct them to the relevant support resources we have (e.g. our Discourse forum or emailing Support).
+If it's a question, or something vague that can't be addressed by the development team for whatever reason, close it and direct them to the relevant support resources we have (e.g. our Discourse forum or emailing Support/index.html.md).
 
 ### New labels
 
-If you notice a common pattern amongst various issues (e.g. a new feature that doesn't have a dedicated label yet), suggest adding a new label in chat.
+If you notice a common pattern amongst various issues (e.g. a new feature that doesn't have a dedicated label yet/index.html.md), suggest adding a new label in chat.
 
 Douwe is the "Label King", make sure he approves of a label before adding it. This way we don't have a bunch of repetitive/unused/inconsistent labels.
 
 ## Events
 
-We also hold regular, quarterly events where the Community, Core Team Members and Team Members can contribute to tackling some of our open issues. Please see [the dedicated page](/community/issue-bash) for further information and upcoming event dates
+We also hold regular, quarterly events where the Community, Core Team Members and Team Members can contribute to tackling some of our open issues. Please see [the dedicated page](/community/issue-bash/index.html.md) for further information and upcoming event dates
 
 ## Notes
 

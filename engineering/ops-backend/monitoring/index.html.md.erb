@@ -13,7 +13,7 @@ title: "Monitoring Team"
 
 ## Common links
 
-* [Slack channel](https://gitlab.slack.com/archives/g_monitor)
+* [Slack channel](https://gitlab.slack.com/archives/g_monitor/index.html.md)
 
 ## Vision
 
@@ -28,11 +28,11 @@ We work collaboratively and transparently and we will contribute as much of our 
 
 ## Team members
 
-<%= direct_team(manager_role: 'Engineering Manager, Monitor') %>
+<%= direct_team(manager_role: 'Engineering Manager, Monitor'/index.html.md) %>
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Monitor/, direct_manager_role: 'Engineering Manager, Monitor') %>
+<%= stable_counterparts(role_regexp: /[,&] Monitor/, direct_manager_role: 'Engineering Manager, Monitor'/index.html.md) %>
 
 ## Responsibilities
 {: #monitoring}
@@ -42,7 +42,7 @@ The monitoring team is responsible for:
 * Packaging these tools to enable all customers to manage their instances easily and completely
 * Building integrated monitoring solutions for customers apps into GitLab, including: metrics, logging, and tracing
 
-This team maps to [Monitor](/handbook/product/categories/#monitor).
+This team maps to [Monitor](https://github.com/isamu-isozaki/teamai_test/tree/master/product/categories/#monitor/index.html.md).
 
 ## How to work with Monitoring
 
@@ -55,15 +55,15 @@ Recommended process for adding new metrics:
 1. Open an issue in the desired project outlining the new metrics desired
 1. Label with the ~Monitoring label, and ping @gl-monitoring for initial review
 1. During implementation consider:
-  1. The Prometheus [naming](https://prometheus.io/docs/practices/naming/) and [instrumentation](https://prometheus.io/docs/practices/instrumentation/) guidelines
+  1. The Prometheus [naming](https://prometheus.io/docs/practices/naming/index.html.md/index.html.md) and [instrumentation](https://prometheus.io/docs/practices/instrumentation/index.html.md/index.html.md) guidelines
   1. Impact on cardinality and performance of Prometheus
   1. Whether any alerts should be created
 1. Assign to an available Monitoring team reviewer
 
 ## Repos we own or use
-* [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
-* [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee) - Where much of the user facing code lives
-* [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io), where a lot of the packaging related work goes on. (We ship GitLab fully instrumented along with a Prometheus instance)
+* [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/prometheus-client-mmap/index.html.md) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
+* [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/index.html.md) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/index.html.md) - Where much of the user facing code lives
+* [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab/index.html.md) and [Charts](https://gitlab.com/charts/charts.gitlab.io/index.html.md), where a lot of the packaging related work goes on. (We ship GitLab fully instrumented along with a Prometheus instance/index.html.md)
 
 ## Team Calendar
-We use the [**Monitoring Team**](https://calendar.google.com/calendar/embed?src=gitlab.com_1lc2dqin1h1t60qh6rfr2ce198%40group.calendar.google.com) calendar to communicate when team members are traveling, attending conferences, and taking time off. If you do not have the appropriate access to the [**Monitoring Team**](https://calendar.google.com/calendar/embed?src=gitlab.com_1lc2dqin1h1t60qh6rfr2ce198%40group.calendar.google.com) calendar, please raise it in the `#g_monitor` channel on Slack and someone will share it with you.
+We use the [**Monitoring Team**](https://calendar.google.com/calendar/embed?src=gitlab.com_1lc2dqin1h1t60qh6rfr2ce198%40group.calendar.google.com/index.html.md) calendar to communicate when team members are traveling, attending conferences, and taking time off. If you do not have the appropriate access to the [**Monitoring Team**](https://calendar.google.com/calendar/embed?src=gitlab.com_1lc2dqin1h1t60qh6rfr2ce198%40group.calendar.google.com/index.html.md) calendar, please raise it in the `#g_monitor` channel on Slack and someone will share it with you.

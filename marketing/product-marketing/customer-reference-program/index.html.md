@@ -22,21 +22,21 @@ The goals of the Gitlab Customer Reference Program include:
 
 ### Customer Reference Types
 Some examples of the types of assets we'd use as customer references once we have approval from the customer:
-* Logo (The ability to name a company as a customer and use their logo in our marketing materials)
-* Live sales reference (both calls and possible in-person)
+* Logo (The ability to name a company as a customer and use their logo in our marketing materials/index.html.md)
+* Live sales reference (both calls and possible in-person/index.html.md)
 * Website content
   * Case studies
   * Blog posts
   * Videos
   * Podcasts
   * Usage quotes
-* Event speakers (At industry, third-party and company events)
+* Event speakers (At industry, third-party and company events/index.html.md)
 * References for analysts and press
-* Quotes (can be attributable with approval or anonymous)
-* Anecdotes (short "snackable" stories, can be attributable with approval or anonymous) Read [GitLab's customer anecdotes](#customer-anecdotes).
+* Quotes (can be attributable with approval or anonymous/index.html.md)
+* Anecdotes (short "snackable" stories, can be attributable with approval or anonymous/index.html.md) Read [GitLab's customer anecdotes](#customer-anecdotes/index.html.md).
 
 ### Customer Case Studies
-The most recent customer case studies are found on the [GitLab customer's page.](https://about.gitlab.com/customers/)
+The most recent customer case studies are found on the [GitLab customer's page.](https://about.gitlab.com/customers/index.html.md/index.html.md)
 When we build case studies, we need to have quantifiable metrics and business value to help describe how GitLab helped a customer achieve a signficant business result.  Below are a sample of KPIs / dimensions we need to find in a good case study.
 
 **Faster**
@@ -59,8 +59,8 @@ If a proposed customer case study doesn't have at least one metric to include, t
 
 #### Publishing to the website
 
-1.	Start by creating a `.yml` file in `/data/case_studies` directory under Marketing site repo (www-gitlab-com project).
-2.	Keep the name of file same as company name (this is not mandatory but it is easier to manage), for eg; if company name is "Foobar", create a file as `/data/case_studies/foobar.yml`.
+1.	Start by creating a `.yml` file in `/data/case_studies` directory under Marketing site repo (www-gitlab-com project/index.html.md).
+2.	Keep the name of file same as company name (this is not mandatory but it is easier to manage/index.html.md), for eg; if company name is "Foobar", create a file as `/data/case_studies/foobar.yml`.
 3.	Once created, add contents of the file using this sample Case Study template, and then update the values of each property based on case study details, remember, do NOT change property names.
 4.	Once this file is added, you'll need to restart marketing site server by first closing it using Ctrl+C and then running bundle exec middleman again.
 5.	When the server is started, you can view generated Case Study page in your local instance of marketing site under the URL, for eg; http://localhost:4567/customers/foobar.
@@ -68,9 +68,9 @@ If a proposed customer case study doesn't have at least one metric to include, t
 
 ### Customer references collection
 
-Today, we don't have a central collection for customer service, but we are starting to build one. For now we are capturing customer stories in an issue. If you have a customer story or anecdote [leave a comment on issue 1834](https://gitlab.com/gitlab-com/marketing/general/issues/1834).
+Today, we don't have a central collection for customer service, but we are starting to build one. For now we are capturing customer stories in an issue. If you have a customer story or anecdote [leave a comment on issue 1834](https://gitlab.com/gitlab-com/marketing/general/issues/1834/index.html.md).
 
-To initiate a formal case study process, follow the process listed [here](https://about.gitlab.com/handbook/marketing/marketing-sales-development/content/case-studies/)
+To initiate a formal case study process, follow the process listed [here](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/marketing/marketing-sales-development/content/case-studies/index.html.md/index.html.md)
 
 ### Reference Program Process
 1. Adding a new reference customer
@@ -79,17 +79,17 @@ To initiate a formal case study process, follow the process listed [here](https:
 Key info needed:
 		- Industry / Vertical
 		- Region/Geo
-    - Tier (core, starter, premium, ultimate)
-    - [GitLab Use Case] (https://about.gitlab.com/handbook/use-cases/)
-    - Customer Segment (strategic, large, smb)
-    - Deployment size (licenses)
-    - Customer Story (why GitLab, key metrics, etc)
+    - Tier (core, starter, premium, ultimate/index.html.md)
+    - [GitLab Use Case] (https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/use-cases/index.html.md/index.html.md)
+    - Customer Segment (strategic, large, smb/index.html.md)
+    - Deployment size (licenses/index.html.md)
+    - Customer Story (why GitLab, key metrics, etc/index.html.md)
     - Who did we beat?<br>
  	 3. AE Introduces CRM to customer
 		- Describe the Customer Reference program
     - Describe the types of reference activities and gauge their interest
 		- Gauge their interest participation level
-     4. Update Customer Reference Spreadsheet (and record in SFDC) with details from interview to make sure the customer is identified as a potential reference and their desired activity level. 
+     4. Update Customer Reference Spreadsheet (and record in SFDC/index.html.md) with details from interview to make sure the customer is identified as a potential reference and their desired activity level. 
 
 ### Sample Interview Questions/topics
     * What led you to GitLab, what problems were you trying to solve?
@@ -164,7 +164,7 @@ We hosted a dinner for customers and prospects to mingle with each other and sha
 
 **Deliver value faster** 
 
-Pinterest is not a GitLab customer, but uses Kubernetes together with Jenkins. Because there's no [native kubernetes integration](/kubernetes) for Jenkins they needed to dedicate a [team of 4 spending 6 months](https://kubernetes.io/case-studies/pinterest/) to build a custom system to control access managment and allow teams to to self-serve builds. This is functionality that comes out of the box on day one with GitLab. 
+Pinterest is not a GitLab customer, but uses Kubernetes together with Jenkins. Because there's no [native kubernetes integration](/kubernetes/index.html.md) for Jenkins they needed to dedicate a [team of 4 spending 6 months](https://kubernetes.io/case-studies/pinterest/index.html.md/index.html.md) to build a custom system to control access managment and allow teams to to self-serve builds. This is functionality that comes out of the box on day one with GitLab. 
 
 **Adoption at an incredible pace**
 
@@ -190,18 +190,18 @@ A large media company recently stated that GitLab is the best architected applic
 
 ### Customer Case Studies
 
-#### [Ticketmaster - 15x faster build time](https://about.gitlab.com/2017/06/07/continous-integration-ticketmaster/)
+#### [Ticketmaster - 15x faster build time](https://about.gitlab.com/2017/06/07/continous-integration-ticketmaster/index.html.md/index.html.md)
 Ticketmaster is a global event ticketing leader with one of the world's top five e-commerce sites, getting almost 27 million monthly unique visitors. Ticketmaster was using Jenkins for continuous integration. Weighed down by plug-ins and legacy development, their pipeline was taking 2 hours to complete. After getting stuck late on a friday night waiting for the build to complete, their ops team began exploring other options. They were able to run their pipeline on GitLab CI/CD in 8 minutes for a 15x increase.
 
-#### [Axway - 26x faster release cycles](https://about.gitlab.com/customers/axway/)
-Axway, is a global enterprise software company with over €300 million in yearly revenue. Axway wanted to adopt DevOps practices but their legacy Subversion toolchain was blocking them. By moving from Subversion to Git using GitLab as their Source Code Management (SCM) solution they were able to implement DevOps integrating GitLab into tools like JIRA, for issue management and Jenkins for continuous integration. They increased demployents from once-a-year to every two weeks.
+#### [Axway - 26x faster release cycles](https://about.gitlab.com/customers/axway/index.html.md/index.html.md)
+Axway, is a global enterprise software company with over €300 million in yearly revenue. Axway wanted to adopt DevOps practices but their legacy Subversion toolchain was blocking them. By moving from Subversion to Git using GitLab as their Source Code Management (SCM/index.html.md) solution they were able to implement DevOps integrating GitLab into tools like JIRA, for issue management and Jenkins for continuous integration. They increased demployents from once-a-year to every two weeks.
 
-#### [Paessler - 120X increased QA efficiency](https://about.gitlab.com/customers/paessler/)
+#### [Paessler - 120X increased QA efficiency](https://about.gitlab.com/customers/paessler/index.html.md/index.html.md)
 Paessler AG provides the award-winning PRTG Network Monitoring software used by over 150,000 IT administrators in more than 170 countries. QA engineers were manually testing software with a routine set of tasking taking an hour to complete. By implementing GitLab pipelines they were able to automate QA tasks requiring only 3 minutes of effort for a 120x efficiency increase.
 
-#### [Equinix - increased DevOps agility](https://about.gitlab.com/customers/equinix/)
+#### [Equinix - increased DevOps agility](https://about.gitlab.com/customers/equinix/index.html.md/index.html.md)
 Equinix is a leading global data center company. Their client-side development teams are responsible for building software products and business critical applications,  increase development speed, self-serviceability, and ship fixes and features quickly. Equinix needed a version control and continuous integration tool for distributed workflows to support globally distributed development teams.
 
-#### [Other customer case studies](https://about.gitlab.com/customers/)
+#### [Other customer case studies](https://about.gitlab.com/customers/index.html.md/index.html.md)
 
 

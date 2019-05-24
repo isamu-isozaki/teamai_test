@@ -11,7 +11,7 @@ title: Learning and Development
 
 ## Introduction
 
-Welcome to the Learning & Development (L&D) page at GitLab! L&D is an essential part of any organization's growth, success and overall business strategy. We want to support the development of our GitLabbers' competencies, skills and knowledge by providing them with the tools they need and also the opportunities to progress their own personal and professional development.  
+Welcome to the Learning & Development (L&D/index.html.md) page at GitLab! L&D is an essential part of any organization's growth, success and overall business strategy. We want to support the development of our GitLabbers' competencies, skills and knowledge by providing them with the tools they need and also the opportunities to progress their own personal and professional development.  
 
 ## What is Career Development
 
@@ -54,14 +54,14 @@ Additional Questions to Think About
 
 External Resources some with no cost
 
-Stanford's Centre for Professional Development - (http://scpd.stanford.edu/home)
-Yale Open Courseware - (https://oyc.yale.edu/)
-MIT Open Courseware - (https://ocw.mit.edu/index.htm)
-Notre Dame Open Courseware - (https://www.edx.org/school/notredamex)
+Stanford's Centre for Professional Development - (http://scpd.stanford.edu/home/index.html.md)
+Yale Open Courseware - (https://oyc.yale.edu/index.html.md/index.html.md)
+MIT Open Courseware - (https://ocw.mit.edu/index.htm/index.html.md)
+Notre Dame Open Courseware - (https://www.edx.org/school/notredamex/index.html.md)
 
 iTunes Career Podcasts - An example of a leadership podcast
 
-Dose of Leadership with Richard Rierson - Authentic & Courageous Leadership Development  (https://www.stitcher.com/podcast/dose-of-leadership-podcast)
+Dose of Leadership with Richard Rierson - Authentic & Courageous Leadership Development  (https://www.stitcher.com/podcast/dose-of-leadership-podcast/index.html.md)
 
 ## Career Mapping and Development
 {:#career-mapping-and-development}
@@ -69,27 +69,27 @@ Dose of Leadership with Richard Rierson - Authentic & Courageous Leadership Deve
 We have started this process at GitLab by defining Junior, Senior and Staff advancement levels. Career Mapping helps GitLabbers to understand and develop the skills they need to achieve their goals, giving them clear criteria.  
 Mapping helps managers and leaders internally develop the skills and knowledge they need to achieve future business goals. The key to this is to identify the key skills, knowledge, and abilities needed to master each level. Another essential tool is a career development plan, here are some examples:
 
- - [UX Team Example](https://docs.google.com/spreadsheets/d/1GugUY_vPMERSP7QvQ7kaUrsaFn84YFipQtPZ1f5i_Q4/edit#gid=1712199154)
-- [Career Plan](https://docs.google.com/document/d/1hJIzMnVhEz3X4k24oAwNnlgGhBeQ518Cps9kLVRRoWQ/edit)
-- [Template  - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587)
-- [career plan template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html)
+ - [UX Team Example](https://docs.google.com/spreadsheets/d/1GugUY_vPMERSP7QvQ7kaUrsaFn84YFipQtPZ1f5i_Q4/edit#gid=1712199154/index.html.md)
+- [Career Plan](https://docs.google.com/document/d/1hJIzMnVhEz3X4k24oAwNnlgGhBeQ518Cps9kLVRRoWQ/edit/index.html.md)
+- [Template  - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587/index.html.md)
+- [career plan template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html/index.html.md)
 
-Managers should discuss career development at least once a month at the [1:1](/handbook/leadership/1-1/) and then support their team members with creating a plan to help them achieve their career goals. If you would to know more about this please checkout the [career mapping course video](https://www.youtube.com/watch?v=YoZH5Hhygc4)
+Managers should discuss career development at least once a month at the [1:1](https://github.com/isamu-isozaki/teamai_test/tree/master/leadership/1-1/index.html.md/index.html.md) and then support their team members with creating a plan to help them achieve their career goals. If you would to know more about this please checkout the [career mapping course video](https://www.youtube.com/watch?v=YoZH5Hhygc4/index.html.md)
 
 
 ## Language Courses
 
 If you have any language courses you would like to recommend or links to websites please add them to this section.
 
- - [The 8 Best Interactive Websites for Adults to Learn English](https://www.fluentu.com/blog/english/best-websites-to-learn-english/)
+ - [The 8 Best Interactive Websites for Adults to Learn English](https://www.fluentu.com/blog/english/best-websites-to-learn-english/index.html.md/index.html.md)
 
 There is also a way to practice foreign languages and ask for advice in several Slack channels, each dedicated to a specific language. You can find all these channels by searching for channels starting with #lang. If you're missing a channel for your target language, feel free to create one and mention it in #general so that fellow gitlabbers can join too!
 
 ## Common Ground: Harassment Prevention for Managers
 
-All managers will be sent an invitation link from people ops to complete [this training](/courses/) using [Will Interactive's LMS](https://learning.willinteractive.com/). Once you receive the email please do the following:
+All managers will be sent an invitation link from people ops to complete [this training](/courses/index.html.md/index.html.md) using [Will Interactive's LMS](https://learning.willinteractive.com/index.html.md/index.html.md). Once you receive the email please do the following:
 
-1. Underneath the green **Sign In** box, click on the **Sign Up Now** link (also in green) which is right after *Don't have an account?*
+1. Underneath the green **Sign In** box, click on the **Sign Up Now** link (also in green/index.html.md) which is right after *Don't have an account?*
 1. Enter in your name and email address
 1. Create a password
 1. You may be sent a link to verify your account

@@ -6,7 +6,7 @@ category: General
 
 ## Sidekiq support
 
-With our subscription to Sidekiq, GitLab is in principle entitled to [one support request per quarter](https://github.com/mperham/sidekiq/wiki/Commercial-Support#priority-support).
+With our subscription to Sidekiq, GitLab is in principle entitled to [one support request per quarter](https://github.com/mperham/sidekiq/wiki/Commercial-Support#priority-support/index.html.md).
 
 To get assistance with issues relating to Sidekiq:
 

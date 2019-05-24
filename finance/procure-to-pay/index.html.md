@@ -6,7 +6,7 @@ title: "Procure to Pay"
 ## Procure to Pay Process
 
 ### Requirement Identification 
-Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money). However, any purchases requiring contracts must first be reviewed by legal then signed off by a member of the executive team. Be sure to also check out our guide on [Signing Legal Documents](/handbook/signing-legal-documents/). 
+Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/authorization-matrix/index.html.md/index.html.md) and guide to [Spending Company Money](https://github.com/isamu-isozaki/teamai_test/tree/master/spending-company-money/index.html.md). However, any purchases requiring contracts must first be reviewed by legal then signed off by a member of the executive team. Be sure to also check out our guide on [Signing Legal Documents](https://github.com/isamu-isozaki/teamai_test/tree/master/signing-legal-documents/index.html.md/index.html.md). 
 
 ### Approval Workflow
 #### Step 1: Request Contract from Vendor
@@ -15,17 +15,17 @@ Ask your vendor contact to send you a Word document of their contract with the b
 
 #### Step 2: Create a Confidential Issue
 
-Use the [Vendor Contract Approval Template](https://docs.google.com/document/d/1xVg0rQu7XIDkSVEbvYbxsU3mFcC1hEYfxHmy8__BVB8/edit?usp=sharing) to create a confidential issue in the Finance Issue Tracker. Use the Vendor Contract Legal Approval Template. Please fill out the form completely, with all requested information. Legal will not approve the request if the request is incomplete and missing information. 
+Use the [Vendor Contract Approval Template](https://docs.google.com/document/d/1xVg0rQu7XIDkSVEbvYbxsU3mFcC1hEYfxHmy8__BVB8/edit?usp=sharing/index.html.md) to create a confidential issue in the Finance Issue Tracker. Use the Vendor Contract Legal Approval Template. Please fill out the form completely, with all requested information. Legal will not approve the request if the request is incomplete and missing information. 
 
 #### Step 3: Authorizations
 
-Prior to requesting legal review, GitLabbers must get approval from other interested departments such as the department head of your department, finance (budgetary authorization) and in some cases security. 
+Prior to requesting legal review, GitLabbers must get approval from other interested departments such as the department head of your department, finance (budgetary authorization/index.html.md) and in some cases security. 
 
-1. Please consult the [Authorization Matrix](/handbook/finance/authorization-matrix/) to determine who must sign off on Functional Approval and Financial Approval.  
-2. Consult the [Data Classification Policy](https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit?usp=sharing) to understand whether your contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. 
+1. Please consult the [Authorization Matrix](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/authorization-matrix/index.html.md/index.html.md) to determine who must sign off on Functional Approval and Financial Approval.  
+2. Consult the [Data Classification Policy](https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit?usp=sharing/index.html.md) to understand whether your contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. 
 3. If you are purchasing new software/tools, you also need to get approval from Business Ops.  
   
-Assign the issue to the individuals responsible for the necessary authorizations. Authorizations can be completed concurrently. (Do not assign the issue to Legal or the Signer yet.) 
+Assign the issue to the individuals responsible for the necessary authorizations. Authorizations can be completed concurrently. (Do not assign the issue to Legal or the Signer yet./index.html.md) 
 
 After you have obtained Functional and Financial approval, as well as any Security or Business Ops approval necessary, you are ready to send the contract to Legal.
 
@@ -47,7 +47,7 @@ Send the signed pdf to the vendor through HelloSign.
 
 #### Step 6: Upload Fully Executed Contract to ContractWorks.
 
-You will need to [upload the signed pdf](https://www.contractworks.com/help/upload-a-document) into your department's folder and then use the Vendor Contract template to add tags. 
+You will need to [upload the signed pdf](https://www.contractworks.com/help/upload-a-document/index.html.md) into your department's folder and then use the Vendor Contract template to add tags. 
 
 For users who are uploading a contract for the first time assign the issue back to gl-legal-team and request a ContractWorks sign in. You will receive an invitation to log in and file your fully executed contract. Once credentialized, add your contracts to ContractWorks as soon as a contract has been signed by both parties.
 

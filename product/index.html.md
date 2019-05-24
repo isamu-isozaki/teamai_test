@@ -4,13 +4,13 @@ title: Product
 ---
 
 The document below talks about _how_ we do product at GitLab, not about _what_.
-For the _what_, see [Product Direction](/direction/).
+For the _what_, see [Product Direction](/direction/index.html.md/index.html.md).
 
 ## Where to reach product managers
 {:.no_toc}
 
-- [**Public Issue Tracker (for GitLab CE)**](https://gitlab.com/gitlab-org/gitlab-ce/issues); please use confidential issues for topics that should only be visible to team members at GitLab.
-- [**Chat channel**](https://gitlab.slack.com/archives/product); please use the `#product` chat channel for questions that don't seem appropriate for the issue tracker.
+- [**Public Issue Tracker (for GitLab CE/index.html.md)**](https://gitlab.com/gitlab-org/gitlab-ce/issues/index.html.md); please use confidential issues for topics that should only be visible to team members at GitLab.
+- [**Chat channel**](https://gitlab.slack.com/archives/product/index.html.md); please use the `#product` chat channel for questions that don't seem appropriate for the issue tracker.
 
 ## On this page
 {:.no_toc}
@@ -21,26 +21,26 @@ For the _what_, see [Product Direction](/direction/).
 ## Other pages related to Product
 {:.no_toc}
 
-* [Product Categories](/handbook/product/categories/)
-* [Release posts](/handbook/marketing/blog/release-posts/)
-* [Making Gifs](/handbook/product/making-gifs/)
-* [Data analysis](/handbook/product/data-analysis/)
-* [Technical Writing](/handbook/product/technical-writing/)
-* [Markdown Guide](/handbook/product/technical-writing/markdown-guide/)
-* [Demo](/handbook/marketing/product-marketing/demo/)
+* [Product Categories](https://github.com/isamu-isozaki/teamai_test/tree/master/product/categories/index.html.md/index.html.md)
+* [Release posts](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/index.html.md/index.html.md)
+* [Making Gifs](https://github.com/isamu-isozaki/teamai_test/tree/master/product/making-gifs/index.html.md/index.html.md)
+* [Data analysis](https://github.com/isamu-isozaki/teamai_test/tree/master/product/data-analysis/index.html.md/index.html.md)
+* [Technical Writing](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/index.html.md/index.html.md)
+* [Markdown Guide](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/index.html.md/index.html.md)
+* [Demo](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/demo/index.html.md/index.html.md)
 
 ## Who to talk to for what
 
 ### Who
 
-Please see the [Product Categories](/handbook/product/categories/) to know which product manager handles which category.
+Please see the [Product Categories](https://github.com/isamu-isozaki/teamai_test/tree/master/product/categories/index.html.md/index.html.md) to know which product manager handles which category.
 
 ### How
 
 If you have any product-related questions, comments, input, or otherwise, the
 product manager is the primary person you should talk to, _if creating an issue
 does not suffice_. Otherwise, [read this section on how to create an
-issue](/handbook/product/#how-to-submit-a-new-issue).
+issue](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#how-to-submit-a-new-issue/index.html.md).
 
 This includes, but is not limited to, features, bugs, and other changes that need
 to be prioritized, changed, discussed, or need more attention.
@@ -53,17 +53,17 @@ achieve this.
 Paid features fall under their respective PMs, not under one PM in particular.
 For instance, Service Desk falls under Victor, because it's part of our Issues.
 
-See our [product categories](/handbook/product/categories/) for how to map our product to product managers.
+See our [product categories](https://github.com/isamu-isozaki/teamai_test/tree/master/product/categories/index.html.md/index.html.md) for how to map our product to product managers.
 
 ### Technical Writing
 
 The Technical Writing team is responsible for:
 
-* [docs.gitlab.com](https://gitlab.com/gitlab-com/gitlab-docs)
+* [docs.gitlab.com](https://gitlab.com/gitlab-com/gitlab-docs/index.html.md)
 * CE docs
 * EE docs
 * Written technical tutorials which are in CE or EE docs
-  (video tutorials will come later).
+  (video tutorials will come later/index.html.md).
 
 We are there to assist developers in their documentation writing process by
 providing copy editing and reviewing services and are not responsible for
@@ -75,21 +75,21 @@ by creating topic index pages, improving organization, creating tutorials, etc.
 We manage our documentation tasks for CE and EE on the following issues boards
 which track labels beginning with `docs-`:
 
-* [CE Documentation Issue Board](https://gitlab.com/gitlab-org/gitlab-ce/boards/106589)
-* [EE Documentation Issue Board](https://gitlab.com/gitlab-org/gitlab-ee/boards/266349)
+* [CE Documentation Issue Board](https://gitlab.com/gitlab-org/gitlab-ce/boards/106589/index.html.md)
+* [EE Documentation Issue Board](https://gitlab.com/gitlab-org/gitlab-ee/boards/266349/index.html.md)
 
 ### Planning horizon
 
-1. [Mission](/strategy/#mission): generation
-1. [Strategy](/strategy/#sequence-): lustrum
-1. [Vision](/direction/product-vision/): year
-1. [Milestones](/direction/#future-releases): quarter (we have issues assigned to specific release milestone for a rolling 3 months)
-1. [Release](https://gitlab.com/gitlab-org/release-tools/blob/master/templates/monthly.md.erb): month (we try to not change the release that is started)
+1. [Mission](/strategy/#mission/index.html.md): generation
+1. [Strategy](/strategy/#sequence-/index.html.md): lustrum
+1. [Vision](/direction/product-vision/index.html.md/index.html.md): year
+1. [Milestones](/direction/#future-releases/index.html.md): quarter (we have issues assigned to specific release milestone for a rolling 3 months/index.html.md)
+1. [Release](https://gitlab.com/gitlab-org/release-tools/blob/master/templates/monthly.md.erb/index.html.md): month (we try to not change the release that is started/index.html.md)
 
 Inspired by:
 
-- First part of [Dear PMs, It's Time to Rethink Agile at Enterprise Startups](http://firstround.com/review/dear-pms-its-time-to-rethink-agile-at-enterprise-startups/)
-- [The Nearsighted Roadmap](https://medium.com/@jobv/the-nearsighted-roadmap-57fa57b5906a)
+- First part of [Dear PMs, It's Time to Rethink Agile at Enterprise Startups](http://firstround.com/review/dear-pms-its-time-to-rethink-agile-at-enterprise-startups/index.html.md/index.html.md)
+- [The Nearsighted Roadmap](https://medium.com/@jobv/the-nearsighted-roadmap-57fa57b5906a/index.html.md)
 
 ## How to work as/with product
 
@@ -104,7 +104,7 @@ together. It's a two-way street.
 
 In general terms, if you require something to happen with the product or if you
 need engineering staff for a particular change, you approach a PM.
-Preferably through creating an issue (the GitLab way), and mentioning them there.
+Preferably through creating an issue (the GitLab way/index.html.md), and mentioning them there.
 
 In the same vein, PMs are required to ask for feedback from the stakeholder of
 particular changes. If a change will affect GitLab.com and its maintenance, a
@@ -112,7 +112,7 @@ PM should proactively reach out to infrastructure engineers to help with the
 scope, design, and decisions regarding this change.
 
 It is then up to the PM to weigh all these inputs and decide on a
-[prioritization](#prioritization). It is to be expected that they are the best equipped to make this
+[prioritization](#prioritization/index.html.md). It is to be expected that they are the best equipped to make this
 prioritization, while also keeping in mind all goals of GitLab.
 
 ### Examples: A customer has a feature request
@@ -157,13 +157,13 @@ necessary changes for an upcoming release.
 
 ## How to share feedback
 
-Whenever you're sharing feedback on an issue (e.g. "Customer X wants this"), whether from a customer or directly from you,
+Whenever you're sharing feedback on an issue (e.g. "Customer X wants this"/index.html.md), whether from a customer or directly from you,
 please make sure to do the following:
 
 - Link to the source if possible
 - Provide context: if a customer wants this feature, include _why_ they are interested in this. If you don't know,
 make sure to ask or bring the relevant PM in contact with the customer
-- Include any further useful context (e.g. what kind of software is this customer building, or how big are they)
+- Include any further useful context (e.g. what kind of software is this customer building, or how big are they/index.html.md)
 - Be as specific as possible
 
 If a customer expresses interest by simply mentioning an issue number or e.g. "an integration with X",
@@ -185,26 +185,26 @@ completed in order:
 ### Prioritization: Ahead of kickoff
 
 1. Proper discovery has been done and requirements for the change are defined
-2. Engineering has been involved in the discovery process (FE, BE, UX, as needed)
+2. Engineering has been involved in the discovery process (FE, BE, UX, as needed/index.html.md)
 3. Technical architecture has been drafted and is agreed upon
 4. Scoping and splitting up into actionable issues has happened
 
 #### Ambitious Planning
 
-Here at GitLab, we are an [ambitious](#be-ambitious) company and this means we
+Here at GitLab, we are an [ambitious](#be-ambitious/index.html.md) company and this means we
 aim for big things with every release. The reality of taking chances and
 planning aspirationally means that we won't always be able to deliver everything
-that we wanted to try in every release, and similar to our [OKRs](/handbook/ceo/#three-levels-of-performance),
+that we wanted to try in every release, and similar to our [OKRs](https://github.com/isamu-isozaki/teamai_test/tree/master/ceo/#three-levels-of-performance/index.html.md),
 we believe this is a good thing. We don't want to shy away from challenging
 ourselves and always want to keep a sense of urgency, and aiming for more helps
-us do that. Also see [the importance of velocity](/handbook/engineering/#the-importance-of-velocity)
+us do that. Also see [the importance of velocity](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/#the-importance-of-velocity/index.html.md)
 
 ### Kickoff meeting
 
 #### Preparation
 
-1. Relevant issues are added to the [Kickoff doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing)
-   1. Product managers should add any issue that is marked ~direction and ~Deliverable for the upcoming milestone (no ~Stretch issues)
+1. Relevant issues are added to the [Kickoff doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing/index.html.md)
+   1. Product managers should add any issue that is marked ~direction and ~Deliverable for the upcoming milestone (no ~Stretch issues/index.html.md)
    1. Issues should report the tier they will be included in
 2. Issue descriptions are updated to include an introduction to the underlying
    problem, use cases, and a complete proposal. It should be easy to
@@ -213,7 +213,7 @@ us do that. Also see [the importance of velocity](/handbook/engineering/#the-imp
 
 #### Meeting
 
-1. We start the meeting by reminding anyone who may be watching the video/stream about how we [plan ambitiously](#ambitious-planning).
+1. We start the meeting by reminding anyone who may be watching the video/stream about how we [plan ambitiously](#ambitious-planning/index.html.md).
 2. Introduce the issues of your product category by explaining the problem and proposal of listed items.
 3. Share your screen to guide through the individual issues. If there is a UX design or mockup available, show it.
 
@@ -236,10 +236,10 @@ can also use other environments as needed, such as GitLab provisioned on Kuberne
 
 ## Communication
 
-- [**Public Issue Tracker (for GitLab Community Edition)**](https://gitlab.com/gitlab-org/gitlab-ce/issues)
-and [**for GitLab Enterprise Edition**](https://gitlab.com/gitlab-org/gitlab-ee/issues) - please use
+- [**Public Issue Tracker (for GitLab Community Edition/index.html.md)**](https://gitlab.com/gitlab-org/gitlab-ce/issues/index.html.md)
+and [**for GitLab Enterprise Edition**](https://gitlab.com/gitlab-org/gitlab-ee/issues/index.html.md) - please use
 confidential issues for topics that should only be visible to team members at GitLab.
-- [**Chat channel**](https://gitlab.slack.com/archives/product) - please use the
+- [**Chat channel**](https://gitlab.slack.com/archives/product/index.html.md) - please use the
 `#product` chat channels for questions that don't seem appropriate for the
 issue tracker or more generic chat channels.
 
@@ -251,7 +251,7 @@ working together.
 With every release of GitLab, we want to achieve each of the following goals.
 
 1. Improve GitLab's existing tools.
-1. Achieve [our vision](/direction/#vision) of a complete toolset.
+1. Achieve [our vision](/direction/#vision/index.html.md) of a complete toolset.
 1. Make our product more interesting for our customers through Products and
 EE exclusive features.
 
@@ -276,21 +276,21 @@ architectural changes and other changes required for ensuring GitLab's excellenc
 GitLab is designed and developed in a unique way.
 
 The direction for the GitLab product is spelled out on the
-[Direction page](/direction). This document provides lessons and heuristics on
+[Direction page](/direction/index.html.md). This document provides lessons and heuristics on
 how to design changes and new features. Our iterative process is demonstrated in
-a [blog post](/2017/01/04/behind-the-scenes-how-we-built-review-apps/).
+a [blog post](/2017/01/04/behind-the-scenes-how-we-built-review-apps/index.html.md/index.html.md).
 
-Much of our product philosophies are inspired by the [Ruby on Rails doctrine](http://rubyonrails.org/doctrine/) of ['Rails is omakase'](http://david.heinemeierhansson.com/2012/rails-is-omakase.html). I highly suggest reading these.
+Much of our product philosophies are inspired by the [Ruby on Rails doctrine](http://rubyonrails.org/doctrine/index.html.md/index.html.md) of ['Rails is omakase'](http://david.heinemeierhansson.com/2012/rails-is-omakase.html/index.html.md). I highly suggest reading these.
 
 ### TL;DR
 
-1. [Minimally Viable Change](#the-minimally-viable-change): Work in iterations
+1. [Minimally Viable Change](#the-minimally-viable-change/index.html.md): Work in iterations
 by implementing only the minimally viable change.
-1. [Convention over Configuration](#convention-over-configuration): Avoid
+1. [Convention over Configuration](#convention-over-configuration/index.html.md): Avoid
 configuration and make it work out of the box.
-1. [Be Ambitious](#be-ambitious): do things no one else is doing.
-1. [Do not mess with Flow](#simplicity): _frictionless_ from planning to monitoring. Avoid adding clicks.
-1. [Embrace the single application](#single-application): unlock the unique
+1. [Be Ambitious](#be-ambitious/index.html.md): do things no one else is doing.
+1. [Do not mess with Flow](#simplicity/index.html.md): _frictionless_ from planning to monitoring. Avoid adding clicks.
+1. [Embrace the single application](#single-application/index.html.md): unlock the unique
 benefits of a single application in early iterations.
 
 ### Product Principles
@@ -317,14 +317,14 @@ to the last 20% of the market, a minimally viable solution is _good enough_ for 
 - Further changes or enhancements to the change are driven by feedback from
 actual users. This is a much more informative mechanism than the intuition
 of a product person (though note that this doesn't mean we should just build
-whatever feedback tells us).
+whatever feedback tells us/index.html.md).
 
-The minimally viable change [should not be a broken feature](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp).
+The minimally viable change [should not be a broken feature](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp/index.html.md).
 
-![mvc.png](/handbook/product/mvc.png)
+![mvc.png](https://github.com/isamu-isozaki/teamai_test/tree/master/product/mvc.png/index.html.md)
 
 Virtually every new feature must be maintained forever (the standard for sunsetting a
-feature is very high). Creating a new feature means that GitLab has to continually manage the technical
+feature is very high/index.html.md). Creating a new feature means that GitLab has to continually manage the technical
 costs of maintenance of that feature. Making small changes with quick feedback loops reduces the risk
 of introducing a new feature where the value doesn't justify the long-term costs.
 
@@ -333,13 +333,13 @@ Make sure that the benefits gained by users from the new feature more than cover
 accounting for how frequently the new feature is used by users. In particular, the new feature
 should satisfy this inequality:
 
-`(benefits * frequency) / (tax * (1-frequency)) > 1`
+`(benefits * frequency/index.html.md) / (tax * (1-frequency/index.html.md)/index.html.md) > 1`
 
 Despite its minimal form, the change
 * always requires documentation
 * has to have its usage tracked from day 1 if the feature has a meaningful impact.
 
-[![xkcd.com](https://imgs.xkcd.com/comics/optimization.png)](https://xkcd.com/1691/)
+[![xkcd.com](https://imgs.xkcd.com/comics/optimization.png/index.html.md)](https://xkcd.com/1691/index.html.md/index.html.md)
 
 #### Convention over Configuration
 
@@ -367,7 +367,7 @@ It's a natural reaction to propose a big change to be configurable,
 as you worry it'll negatively affect certain users. However,
 by making a feature configurable, you've now created two problems.
 
-[![xkcd.com](https://imgs.xkcd.com/comics/standards.png)](https://xkcd.com/927/)
+[![xkcd.com](https://imgs.xkcd.com/comics/standards.png/index.html.md)](https://xkcd.com/927/index.html.md/index.html.md)
 
 Work on solutions that work for everyone, and that replace all
 previous solutions.
@@ -384,7 +384,7 @@ in a certain way. A very concrete example of this is the ability to disable
 pipelines. We believe that our integrated solution will give a superior user
 experience and we're motivated to encourage this behavior. For this reason, adding a
 configuration to allow disabling this permanently (be that in a template or
-instance-wide), is something that should be avoided.
+instance-wide/index.html.md), is something that should be avoided.
 
 Encourage favorable behaviors by limiting configuration.
 
@@ -392,23 +392,23 @@ Encourage favorable behaviors by limiting configuration.
 
 In addition to encouraging behavior by limiting the ability to toggle features,
 new features, when introduced, should default to turning things ON (if they are
-configurable at all).
+configurable at all/index.html.md).
 
 ##### Deciding on configurations
 
 Avoiding configurations is not always possible. When we have no choice,
 the secondary priority is to configure something in the GitLab
 interface. A configuration should only appear in a file (`gitlab.rb` or
-`gitlab.yml`) as a last resort.
+`gitlab.yml`/index.html.md) as a last resort.
 
 ##### Configuration in file
 
 There are two major configuration files available in GitLab. Adding configurations
 to either should be avoided as much as possible.
 
-- [`gitlab.yml`](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/config/gitlab.yml.example)
+- [`gitlab.yml`](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/config/gitlab.yml.example/index.html.md)
 is the configuration file used by the Rails application. This is where the domain is configured. Other configurations should be moved to the UI as much as possible and no new configurations should be added here.
-- [`gitlab.rb`](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/files/gitlab-config-template/gitlab.rb.template)
+- [`gitlab.rb`](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/files/gitlab-config-template/gitlab.rb.template/index.html.md)
 is the configuration file for Omnibus-GitLab. It acts not only as
 an abstraction of the configuration of `gitlab.yml` for GitLab-Rails, but also
 as the source for _all configurations_ for services included and managed within
@@ -420,7 +420,7 @@ services are on by default.
 Only add a configuration line to either of these configuration files if the
 feature or service cannot be fully disabled from the admin UI.
 
-[Convention over configuration is also listed in the CONTRIBUTING file in GitLab's repositories.](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#contribution-acceptance-criteria)
+[Convention over configuration is also listed in the CONTRIBUTING file in GitLab's repositories.](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#contribution-acceptance-criteria/index.html.md)
 
 #### Be Ambitious
 
@@ -434,7 +434,7 @@ That's why we're shipping merge conflict resolution, why we shipped built-in CI
 before anyone else, why we built a better static pages solution, and why
 we're able to compete.
 
-[![xkcd.com](https://imgs.xkcd.com/comics/squirrel_plan.png)](https://xkcd.com/1503/)
+[![xkcd.com](https://imgs.xkcd.com/comics/squirrel_plan.png/index.html.md)](https://xkcd.com/1503/index.html.md/index.html.md)
 
 #### Simplicity
 
@@ -451,12 +451,12 @@ issue. This means that every time that someone creates an issue they need
 to click once before resuming their normal action. This is unacceptable.
 A better solution is to add a link to the issue that points the user to this.
 
-[![xkcd.com](https://imgs.xkcd.com/comics/app.png)](https://xkcd.com/1174/)
+[![xkcd.com](https://imgs.xkcd.com/comics/app.png/index.html.md)](https://xkcd.com/1174/index.html.md/index.html.md)
 
 It's very hard to maintain flow with a lot of configurations and options.
 In cases where you want to enforce a certain behaviour, the most obvious step
 may be to add another step or action. This can be avoided by making the action
-work in parallel (like a link in the issue), encouraging rather than enforcing
+work in parallel (like a link in the issue/index.html.md), encouraging rather than enforcing
 certain behaviours.
 
 Also, we don't want users to be able to construct workflows that break GitLab or
@@ -483,7 +483,7 @@ degraded experience. The following are a few illustrative examples and best prac
 - Empty state designs should provide an immediate call to action, thus improving discoverability.
 - Once the UI area is no longer "empty", that design is no longer present and there is no harm to the user experience at all.
 
-![pipelines_empty_state.png](/handbook/product/pipelines_empty_state.png)
+![pipelines_empty_state.png](https://github.com/isamu-isozaki/teamai_test/tree/master/product/pipelines_empty_state.png/index.html.md)
 
 ##### Banners
 
@@ -521,7 +521,7 @@ it must persist, even across version upgrades.
 consistent and the user has zero chance of seeing that banner again.
 - A corollary is that banners should only be shown when a user is logged in.
 
-![pipelines_empty_state.png](/handbook/product/banner_customize_experience.png)
+![pipelines_empty_state.png](https://github.com/isamu-isozaki/teamai_test/tree/master/product/banner_customize_experience.png/index.html.md)
 
 ##### Navigation
 
@@ -531,7 +531,7 @@ feature or area of GitLab.
 - See example design below: There is a subtle pulsating blue dot to draw a user's attention.
 - This plants a seed in the user's mind that they can go and investigate that feature at a later time.
 - If at the current moment they don't want to be disturbed, they can just ignore it because it is only
-a slight visual disturbance (as compared to a banner which takes up more screen real estate).
+a slight visual disturbance (as compared to a banner which takes up more screen real estate/index.html.md).
 
 - The pulsating blue dot UI element should be dismissible, with the same dismissibility
 requirements as banners, for the same trust reasons discussed above.
@@ -539,7 +539,7 @@ requirements as banners, for the same trust reasons discussed above.
 access GitLab with.
 
 - In the same way that a page should not have more than one banner, the navigation should
-_not_ have more than one call to action (the blue dot in this case).
+_not_ have more than one call to action (the blue dot in this case/index.html.md).
 - We do not want to overload the user with too much noise.
 
 Back to the analogy. We're not going to bother our co-worker with 5 different cool new widgets at the same time.
@@ -548,12 +548,12 @@ Back to the analogy. We're not going to bother our co-worker with 5 different co
 GitLab having a prioritized list of blue dots stored in the backend.
 - It should show the highest priority blue dot that has not already been dismissed.
 
-![tooltip_boards.png](/handbook/product/tooltip_boards.png)
+![tooltip_boards.png](https://github.com/isamu-isozaki/teamai_test/tree/master/product/tooltip_boards.png/index.html.md)
 
 #### Single application
 
 GitLab is a single application, rather than a set of loosely connected
-components. This is a big advantage, [read why here](/handbook/product/single-application).
+components. This is a big advantage, [read why here](https://github.com/isamu-isozaki/teamai_test/tree/master/product/single-application/index.html.md).
 
 Consider opportunities to take advantage of this unique attribute in early
 iterations. Integrating features with different parts of the application can
@@ -576,57 +576,57 @@ creating a long-term roadmap. However, this is unwanted as it can restrict
 your flexibility and ability to respond to changing needs or feedback.
 
 Flow One offers an alternative. You draw out a workflow consisting of
-MVCs (that can be shipped individually). The workflow should only cover a
+MVCs (that can be shipped individually/index.html.md). The workflow should only cover a
 specific, narrow use-case, and nothing more.
 
 This means you:
 
 - avoid creating an inflexible, long-term plan
 - can more easily construct a full feature/ capability, which is more easily marketed
-- can provide context to each individual change ("we need this as part of X")
+- can provide context to each individual change ("we need this as part of X"/index.html.md)
 - can continue to ship MVCs
 - work concurrently on several items, non of which are blocking
 
 Flow One should cover the first iteration of a particular workflow.
 After this, individual MVCs can be introduced to expand the use-cases
 or loosen the assumptions (e.g. from a feature that can only be used
-if you're using feature branches, to one that works for other git strategies).
+if you're using feature branches, to one that works for other git strategies/index.html.md).
 
 ### Breadth over depth
 
-See our thoughts on breadth over depth [on our strategy page](/strategy/#breadth-over-depth).
+See our thoughts on breadth over depth [on our strategy page](/strategy/#breadth-over-depth/index.html.md).
 
 ### Prioritization
 
-As this document and the [direction page](/direction) shows,
+As this document and the [direction page](/direction/index.html.md) shows,
 there are a million things we want to do.
 So, how do we prioritize them and schedule things properly?
 Roughly speaking, we balance the following priorities:
 
 1. Security fixes and data-loss prevention
-1. Regression fixes (things that worked before including major performance regressions)
+1. Regression fixes (things that worked before including major performance regressions/index.html.md)
 1. New features, technical debt, community contributions, and all other improvements
 
-Issues like security come in [different severity levels](https://about.gitlab.com/handbook/engineering/security/#labels-and-confidentiality).
+Issues like security come in [different severity levels](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/engineering/security/#labels-and-confidentiality/index.html.md).
 Lower severity means a lower priority, at ~S4/~P4 their priority is no different then other feature proposal.
 
 Any new feature will have to meet the following requirements:
 
-1. It is [technically viable](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#contribution-acceptance-criteria)
+1. It is [technically viable](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#contribution-acceptance-criteria/index.html.md)
 1. The technical complexity is acceptable. We want to preserve our ability to make
 changes quickly in the future so we try to avoid complex code, complex data structures, and optional settings.
-1. It is orthogonal to other features (prevents overlap with current and future features).
+1. It is orthogonal to other features (prevents overlap with current and future features/index.html.md).
 1. The requirements are clear.
 1. It can be achieved within the scheduled milestone. Larger issues should be
 split up, so that individual steps can be achieved within a single milestone.
 
 New features are prioritized based on several factors:
 
-- Is it a top project from the [OKRs](/okrs/)?
-- Does it bring our [vision](/direction/#vision) closer to reality?
-- Does it help make our community safer though [moderation tools](https://gitlab.com/gitlab-org/gitlab-ce/issues/19313)?
+- Is it a top project from the [OKRs](/okrs/index.html.md/index.html.md)?
+- Does it bring our [vision](/direction/#vision/index.html.md) closer to reality?
+- Does it help make our community safer though [moderation tools](https://gitlab.com/gitlab-org/gitlab-ce/issues/19313/index.html.md)?
 - Is this something requested by many of our customers?
-- Does it help generate revenue for us through our [paid tiers](/handbook/product/#paid-tiers)? (i.e what is the impact on IACV?)
+- Does it help generate revenue for us through our [paid tiers](https://github.com/isamu-isozaki/teamai_test/tree/master/product/#paid-tiers/index.html.md)? (i.e what is the impact on IACV?/index.html.md)
 - Is it something we need ourselves?
 - Has it been much requested on the issue tracker?
 - Does it benefit a large portion of our users?
@@ -635,7 +635,7 @@ Every release of GitLab has to be better than the last. This means that
 bugs, regressions, security issues, and necessary performance and architecture changes always take up
 whatever capacity they require to ensure GitLab remains stable, secure and fast.
 
-We hope to realize our [vision](/direction/#vision),
+We hope to realize our [vision](/direction/#vision/index.html.md),
 while making sure we're building things that our customers want. In practice this means
 that we aim to ship features that align with our vision,
 but also solve problems our customers have. These features bring the product forward,
@@ -650,7 +650,7 @@ customers. Demand can also come internally, such as things that'll help GitLab a
 within a team or specifically drive business goals such as specific EE features.
 
 We take all priorities in account when planning and scheduling larger initiatives across the
-teams (such as: "we're integrating CI, so everyone has to contribute to this in some way").
+teams (such as: "we're integrating CI, so everyone has to contribute to this in some way"/index.html.md).
 Still, most changes are scheduled at a team-level, like: "make issues faster", or
 "add a new way to schedule pipelines".
 
@@ -659,19 +659,19 @@ Still, most changes are scheduled at a team-level, like: "make issues faster", o
 To make it clear with an example, the CI/CD team might ask:
 
 * What else is needed for the idea-to-production vision? Are there other APIs needed
-for ChatOps integration? Can we trigger manual actions via API? (e.g. [Environment-specific variables](https://gitlab.com/gitlab-org/gitlab-ce/issues/20367),
-and [show deployment activity](https://gitlab.com/gitlab-org/gitlab-ce/issues/19992))
+for ChatOps integration? Can we trigger manual actions via API? (e.g. [Environment-specific variables](https://gitlab.com/gitlab-org/gitlab-ce/issues/20367/index.html.md),
+and [show deployment activity](https://gitlab.com/gitlab-org/gitlab-ce/issues/19992/index.html.md)/index.html.md)
 * What moves us towards automatic deploys of `gitlab-ce`?
-* What moves the [CI/CD vision](/direction#ci--cd) forward?
-* Can we polish the existing feature set? (e.g. [#21126](https://gitlab.com/gitlab-org/gitlab-ce/issues/21126), [#18178](https://gitlab.com/gitlab-org/gitlab-ce/issues/18178), [Show builds in context of pipeline](https://gitlab.com/gitlab-org/gitlab-ce/issues/20863), [#5983](https://gitlab.com/gitlab-org/gitlab-ce/issues/5983), [#3976](https://gitlab.com/gitlab-org/gitlab-ce/issues/3976))
-* Can we speed up CI/CD pipelines? (e.g. sticky runners, [automatic parallelization](https://gitlab.com/gitlab-org/gitlab-ce/issues/21480))
-* What can we do to make customers happy? ([list](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&state=opened&utf8=âœ“&label_name%5B%5D=CI&label_name%5B%5D=customer))
-* What can we do to ship EE features for CI? (e.g. [gitlab-ee#933](https://gitlab.com/gitlab-org/gitlab-ee/issues/933))
+* What moves the [CI/CD vision](/direction#ci--cd/index.html.md) forward?
+* Can we polish the existing feature set? (e.g. [#21126](https://gitlab.com/gitlab-org/gitlab-ce/issues/21126/index.html.md), [#18178](https://gitlab.com/gitlab-org/gitlab-ce/issues/18178/index.html.md), [Show builds in context of pipeline](https://gitlab.com/gitlab-org/gitlab-ce/issues/20863/index.html.md), [#5983](https://gitlab.com/gitlab-org/gitlab-ce/issues/5983/index.html.md), [#3976](https://gitlab.com/gitlab-org/gitlab-ce/issues/3976/index.html.md)/index.html.md)
+* Can we speed up CI/CD pipelines? (e.g. sticky runners, [automatic parallelization](https://gitlab.com/gitlab-org/gitlab-ce/issues/21480/index.html.md)/index.html.md)
+* What can we do to make customers happy? ([list](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&state=opened&utf8=âœ&label_name%5B%5D=CI&label_name%5B%5D=customer/index.html.md)/index.html.md)
+* What can we do to ship EE features for CI? (e.g. [gitlab-ee#933](https://gitlab.com/gitlab-org/gitlab-ee/issues/933/index.html.md)/index.html.md)
 
 #### Milestones
 
 We schedule an issue by assigning it a milestone; for more on this see
-[Planning a Future Release](#planning-future-release).
+[Planning a Future Release](#planning-future-release/index.html.md).
 
 ### Naming features
 
@@ -679,12 +679,12 @@ Naming new features or renaming existing features is notoriously hard and sensit
 
 #### Factors in picking a name
 
-- It should clearly express what the feature is, in order to avoid the [AWS naming situation](https://www.expeditedssl.com/aws-in-plain-english).
-- It should follow [usability heuristics](http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design) when in doubt.
+- It should clearly express what the feature is, in order to avoid the [AWS naming situation](https://www.expeditedssl.com/aws-in-plain-english/index.html.md).
+- It should follow [usability heuristics](http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design/index.html.md) when in doubt.
 - It should be common in the industry.
 - It should not overlap with any other existing concepts in GitLab.
-- It should have as few words as possible (so people won't use a shortened name).
-- If you remove words from the name, it is still unique (helps to give it as few words as possible).
+- It should have as few words as possible (so people won't use a shortened name/index.html.md).
+- If you remove words from the name, it is still unique (helps to give it as few words as possible/index.html.md).
 
 #### Process
 
@@ -706,9 +706,9 @@ Some valid but not exclusive reasons are:
 ### No enforced workflows
 
 Enforced workflows should be avoided in GitLab. For example, there are three issue
-states (`Open`, `In Progress` (as of 10.2), and `Closed`), and any issue should be
+states (`Open`, `In Progress` (as of 10.2/index.html.md), and `Closed`/index.html.md), and any issue should be
 allowed to transition from one state to any other state
-without workflow restrictions. (Roles and permissions is a separate concern.)
+without workflow restrictions. (Roles and permissions is a separate concern./index.html.md)
 
 - Enforced workflows restrict GitLab to a smaller number of use cases, thus reducing the value of GitLab.
 - Enforced workflows require overhead to maintain in the product. Each new feature
@@ -716,13 +716,13 @@ must account for any existing enforced workflows.
 - We should trust our users to use GitLab responsibly, giving them freedom, instead
 of imposing enforced workflows that we think made sense at the time of design and implementation.
 
-[A comment on Hacker News](https://news.ycombinator.com/item?id=16056678) perfectly details what can go wrong when enforcing workflows:
+[A comment on Hacker News](https://news.ycombinator.com/item?id=16056678/index.html.md) perfectly details what can go wrong when enforcing workflows:
 
 "The down side for the true end-users, those who actually use the software day-to-day,
 is that most business processes are awful. If your experience is the hellish existence
 that I see strolled about on threads where JIRA comes up ...:
 
-1. Your admin(s) set it up once and hasn't bothered to iterate on those workflows.
+1. Your admin(s/index.html.md) set it up once and hasn't bothered to iterate on those workflows.
 1. The business mapped their autonomy stripping processes onto JIRA intentionally.
 I'd guess that most of your work experience is similar. Process stifled nonsense."
 
@@ -734,9 +734,9 @@ But that comment also specifies the advantage:
 
 We should ensure that GitLab makes it easy to help with enterprise workflows:
 
-- When starting a branch with an issue (number) we link it to the branch.
-- When merging an MR you automatically close the issue(s) it fixes.
-- In GitLab CI you can define your deployment stage progression (staging, pre-production, production) including manual approval.
+- When starting a branch with an issue (number/index.html.md) we link it to the branch.
+- When merging an MR you automatically close the issue(s/index.html.md) it fixes.
+- In GitLab CI you can define your deployment stage progression (staging, pre-production, production/index.html.md) including manual approval.
 - We run quality and security tools automatically and provide dashboards to check status instead of making it a step in the process.
 - We limit the impact of mistakes with incremental rollout and automatic rollback.
 
@@ -751,20 +751,20 @@ pages to add to performance debt. When they ship, they should be fast.
 
 You must account for all cases, from someone with a single object, to thousands of objects.
 
-Read the handbook page relating to [performance of GitLab.com](/handbook/engineering/performance), and note the Speed Index target shown there
-(read it thoroughly if you need a detailed overview of performance). Then:
+Read the handbook page relating to [performance of GitLab.com](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/performance/index.html.md), and note the Speed Index target shown there
+(read it thoroughly if you need a detailed overview of performance/index.html.md). Then:
 
 - Make sure that new pages and interactions meet the Speed Index target.
 - Existing pages should never be significantly slowed down by the introduction of new features
 or changes.
-- Pages that load very slowly (even if only under certain conditions) should be sped up by
+- Pages that load very slowly (even if only under certain conditions/index.html.md) should be sped up by
 prioritizing work on their performance, or changes that would lead to improved page load speeds
-(such as pagination, showing less data, etc).
-- Any page that takes more than 4 seconds to load (speed index) should be considered too slow.
-- Use the [availability & performance priority labels](/handbook/engineering/performance/#performance-labels)
+(such as pagination, showing less data, etc/index.html.md).
+- Any page that takes more than 4 seconds to load (speed index/index.html.md) should be considered too slow.
+- Use the [availability & performance priority labels](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/performance/#performance-labels/index.html.md)
 to communicate and prioritize issues relating to performance.
 
-Of course, you must prioritize improvements according to their impact (per the [availability & performance priority labels](/handbook/engineering/performance/#performance-labels)).
+Of course, you must prioritize improvements according to their impact (per the [availability & performance priority labels](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/performance/#performance-labels/index.html.md)/index.html.md).
 Pages that are visited often should be prioritized over pages that rarely have any visitors.
 However, if page load time approaches 4 seconds or more, they are considered no longer
 usable and should be fixed at the earliest opportunity.
@@ -789,7 +789,7 @@ data accessed by our users.
 - unstable and can cause performance and stability issues
 - the configuration and dependencies are likely to change
 - features and functions may be removed
-- data loss can occur (be that through bugs or updates)
+- data loss can occur (be that through bugs or updates/index.html.md)
 
 #### Closed Beta
 
@@ -809,17 +809,17 @@ Similar to Beta, but only available to selected users.
 - features and functions unlikely to change
 - data loss not likely
 
-#### Generally Available (GA)
+#### Generally Available (GA/index.html.md)
 
-Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md) for GitLab.com, which means that it is:
+Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md/index.html.md) for GitLab.com, which means that it is:
 
 - ready for production use at any scale
 - fully documented and supported
 
 ### Discouraging, deprecating and removing features
 
-Deprecating features (changes) follows a particular pattern.
-Use the language `Discouraged (maintained)`, `Deprecated (not maintained)` or `Removed` to
+Deprecating features (changes/index.html.md) follows a particular pattern.
+Use the language `Discouraged (maintained/index.html.md)`, `Deprecated (not maintained/index.html.md)` or `Removed` to
 specify the state of a feature that is going to be or is removed.
 
 Features that are discouraged, deprecated or removed should be:
@@ -829,14 +829,14 @@ Features that are discouraged, deprecated or removed should be:
 
 Features that are Deprecated or Removed should be removed from marketing pages.
 
-#### Discouraged (maintained)
+#### Discouraged (maintained/index.html.md)
 
 - planned to be removed at some point in the future, but will be deprecated publicly ahead of time
 - maintained: bugs and regressions are still fixed
 - still available with new installations, but documentation mentions
-that use is discouraged (with alternatives if relevant)
+that use is discouraged (with alternatives if relevant/index.html.md)
 
-#### Deprecated (no longer maintained)
+#### Deprecated (no longer maintained/index.html.md)
 
 - may be removed at any point in the future
 - no longer maintained: bugs and regressions are no longer fixed
@@ -849,14 +849,14 @@ deprecated state
 
 ### No artificial limits in Core
 
-Per [GitLab Stewardship](/stewardship/#promises), we will not introduce _artificial_ limits in Core. Artificial means
-arbitrarily setting a small number (such as: 1) as a limit on a given GitLab object category,
+Per [GitLab Stewardship](/stewardship/#promises/index.html.md), we will not introduce _artificial_ limits in Core. Artificial means
+arbitrarily setting a small number (such as: 1/index.html.md) as a limit on a given GitLab object category,
 that would incur _no additional_ effort or cost had we chosen a larger number. The additional
 effort includes product, design, and engineering effort to create the feature in the first place,
 and to maintain it over time.
 
-For example, GitLab Core has the [issue board feature](https://docs.gitlab.com/ee/user/project/issue_board.html) in every project.
-In GitLab EE, each project supports [multiple boards](https://docs.gitlab.com/ee/user/project/issue_board.html#multiple-issue-boards).
+For example, GitLab Core has the [issue board feature](https://docs.gitlab.com/ee/user/project/issue_board.html/index.html.md) in every project.
+In GitLab EE, each project supports [multiple boards](https://docs.gitlab.com/ee/user/project/issue_board.html#multiple-issue-boards/index.html.md).
 This _does not_ mean that Core has an artificial limit of one board per project, because there is additional effort
 to manage multiple boards such as supporting the navigation interface, and all the associated engineering work.
 
@@ -873,7 +873,7 @@ company successful as well. This means that we should:
 - Use and improve existing tools we have inside of GitLab before leaning towards off-the-shelf products.
 - Our customers, sales team and customer success teams all benefit greatly from similar insights into their usage as the product team does. Make things that help all of these people.
 
-### Working with (customer) feature proposals
+### Working with (customer/index.html.md) feature proposals
 
 When someone requests a particular feature, it is the duty of the PM to investigate
 and understand the need for this change. This means you focus on what is the problem
@@ -889,16 +889,16 @@ This prevents us from building an overly complex application.
 
 Take this into consideration even when getting feedback or requests from colleagues.
 As a PM you are ultimately responsible for the quality of the solutions you ship,
-make sure they're the (first iteration of the) best possible solution.
+make sure they're the (first iteration of the/index.html.md) best possible solution.
 
 ### Security Paradigm
 
-Security is now part of [SDLC](https://en.wikipedia.org/wiki/Software_development_process).
+Security is now part of [SDLC](https://en.wikipedia.org/wiki/Software_development_process/index.html.md).
 
-You can read more about our approach in the [Secure Vision](/direction/secure/) page.
+You can read more about our approach in the [Secure Vision](/direction/secure/index.html.md/index.html.md) page.
 
 If you are interested in advanced technical details, you can find more in the
-[Secure Team engineering](https://about.gitlab.com/handbook/engineering/ops-backend/secure/) page.
+[Secure Team engineering](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/engineering/ops-backend/secure/index.html.md/index.html.md) page.
 
 ### Statistics and performance data
 
@@ -913,7 +913,7 @@ by default. It's equally important that this can be optionally restricted to adm
 as laws in some countries require this, such as Germany.
 
 Not all instance-data is available to all users in GitLab yet.
-[This issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/41416) and the epic above should solve this.
+[This issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/41416/index.html.md) and the epic above should solve this.
 
 ## How to work as a PM
 
@@ -921,12 +921,12 @@ If you follow the guidelines above, you won't be writing long, detailed
 specs for a part of the product for next year. So how should you be
 spending your time?
 
-Invest the majority of your time (say 70%) in deeply understanding the problem.
+Invest the majority of your time (say 70%/index.html.md) in deeply understanding the problem.
 Then spend 10% of your time writing the spec _for the first iteration only_ and
 handling comments, and use the remaining 20% to work on promoting it.
 
-A problem you understand well should always have a (seemingly) simple or obvious
-solution. Reduce it to its simplest form (see above) and only ship that.
+A problem you understand well should always have a (seemingly/index.html.md) simple or obvious
+solution. Reduce it to its simplest form (see above/index.html.md) and only ship that.
 
 Once you've shipped your solution, both you and the community will
 have a much better idea of what can be improved and what should be prioritized
@@ -949,20 +949,20 @@ planned, not come up with every idea or change.
 
 ### Planning and roadmaps
 
-As a PM, you must plan for the near term (more detailed) as well as for the
-long term (more broad). This will enable you to efficiently communicate both
-internally and externally how the team is planning to deliver on the [product vision](https://about.gitlab.com/direction/product-vision/).
+As a PM, you must plan for the near term (more detailed/index.html.md) as well as for the
+long term (more broad/index.html.md). This will enable you to efficiently communicate both
+internally and externally how the team is planning to deliver on the [product vision](https://about.gitlab.com/direction/product-vision/index.html.md/index.html.md).
 
 #### Near-term
 
 In order to plan effectively around releases, as a PM you should have a detailed
 3-month roadmap at all times. The issues contained in this near-term roadmap
 are the ones you should be spending the most energy on (fleshing them out,
-adding detail, discussing, etc). These issues will go through a refinement period where
+adding detail, discussing, etc/index.html.md). These issues will go through a refinement period where
 Product, Engineering, UX and other parties will discuss the proposal until a
-proper MVC proposal is reached (see [Contents of an MVP](https://about.gitlab.com/handbook/product/#content-of-an-mvp)
-for more detail). Most of the communication may happen within the issue
-comments, but some may happen offline (such as via Slack). Ensure that any
+proper MVC proposal is reached (see [Contents of an MVP](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/product/#content-of-an-mvp/index.html.md)
+for more detail/index.html.md). Most of the communication may happen within the issue
+comments, but some may happen offline (such as via Slack/index.html.md). Ensure that any
 relevant information that arise as part of an offline conversation is added to
 the issue title and issue description. As a PM you must ensure that issues
 have enough detail added to them before they become actionable as part of
@@ -978,7 +978,7 @@ category and areas of responsibilities. This lives either on the [direction page
 or is linked from there, e.g. `/direction/create`.
 
 Your long-term vision should be more concrete for things that are closer in time,
-and vice versa. The format of the [2018 vision](https://about.gitlab.com/direction/product-vision/)
+and vice versa. The format of the [2018 vision](https://about.gitlab.com/direction/product-vision/index.html.md/index.html.md)
 is a great way to structure your vision. You're free to do otherwise,
 just make sure it's easily consumable from the website.
 
@@ -995,27 +995,27 @@ the content.
 
 It's okay if your vision changes over time. Ideally, what you'll change are minor
 things: links, issues, smaller features. Large, strategic initiatives are unlikely to
-change frequently - when they do, it's probably worth talking about (i.e. redoing the video).
+change frequently - when they do, it's probably worth talking about (i.e. redoing the video/index.html.md).
 
 #### Special consideration
 
 The roadmap should also delimit which items will be delivered prior to the
-next [summit](https://about.gitlab.com/culture/summits/), as well as prior to
+next [summit](https://about.gitlab.com/culture/summits/index.html.md/index.html.md), as well as prior to
 the end of the current calendar year. These delimitations will help determine
 both the internal and external communication for both product and marketing.
 
 ### Important dates PMs should keep in mind
 
 - **1st** - Scope/capacity for the upcoming release has been agreed on between
-  product/engineering/UX (released the month following, not the current month)
+  product/engineering/UX (released the month following, not the current month/index.html.md)
 - **7th** - Code freeze for the current release goes into effect. After this
   date you should not commit to any last minute requests (issues that are
   critical, such as security vulnerabilities, are generally handled directly
-  by engineering). Also, update the [Kickoff document](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit)
+  by engineering/index.html.md). Also, update the [Kickoff document](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit/index.html.md)
   to explicitly declare which items did and did not get merged for the current
-  release. Notify your manager of anything that did not make it, [if you haven't already](https://about.gitlab.com/handbook/product/#shifting-commitment-mid-iteration).
+  release. Notify your manager of anything that did not make it, [if you haven't already](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/product/#shifting-commitment-mid-iteration/index.html.md).
 - **8th** - Kickoff call for upcoming release (published the month
-  following). This is a live-streamed call where PMs communicate the features
+  following/index.html.md). This is a live-streamed call where PMs communicate the features
   their teams will focus on for the upcoming release. The kickoff does not have
   to include every single issue included in the iteration; it should focus on
   major work/features as defined by the `direction` label. i.e. all items
@@ -1023,16 +1023,16 @@ both the internal and external communication for both product and marketing.
   `direction` items that are marked as `Deliverable` for the upcoming release
   should be mentioned. Issues such as documentation or minor fixes need not be
   mentioned. Same applies to exploration issues.
-- **14th** (6th working day before the 22nd) - All relevant items in your area have been added to the [release post draft]
-  (https://about.gitlab.com/handbook/marketing/blog/release-posts/) for the
+- **14th** (6th working day before the 22nd/index.html.md) - All relevant items in your area have been added to the [release post draft]
+  (https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/index.html.md/index.html.md) for the
   current release.
-- **15th** - [Team retrospective](https://about.gitlab.com/handbook/engineering/management/team-retrospectives)
+- **15th** - [Team retrospective](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/engineering/management/team-retrospectives/index.html.md)
 - **22nd** - New release and blog post are published. Also, by now you should
   have a draft on the issues that will be included in the next kickoff
-  (released 2 months later). Start capacity and technical discussions with
+  (released 2 months later/index.html.md). Start capacity and technical discussions with
   engineering/UX.
 
-(current release = published this month, upcoming release = published next month)
+(current release = published this month, upcoming release = published next month/index.html.md)
 
 ### Dogfood everything
 
@@ -1071,20 +1071,20 @@ Almost everything that we do is documented in issues.
 1. If you have time, the first thing you should do is search both CE and EE
 projects to see if a similar issue already exists. We shouldn't create
 duplicates if we can avoid them.
-1. Identify if the issue is about GitLab Community Edition (CE) or GitLab
-Enterprise Edition (EE), although this can easily be changed later.
+1. Identify if the issue is about GitLab Community Edition (CE/index.html.md) or GitLab
+Enterprise Edition (EE/index.html.md), although this can easily be changed later.
 1. You should clearly state what the current pain point is, what we are trying
 to solve, what the benefits will be, what it should do, how to accomplish that
 and the next steps.
 1. The body of the issue should be written in a clear way, without ambiguity.
-1. The initial issue should be about the problem we are solving.  If a separate [product discovery issue](#product-discovery-issues) is needed for additional research and design work, it will be created by a PM or UX person.
+1. The initial issue should be about the problem we are solving.  If a separate [product discovery issue](#product-discovery-issues/index.html.md) is needed for additional research and design work, it will be created by a PM or UX person.
 1. If the body contains too many paragraphs, it can surely be rewritten to be shorter.
 1. Do not use acronyms or abbreviations. Everyone should be able to jump on the
 issue and participate without needing a glossary.
 1. Choose labels which are relevant to the issue. If you are unsure about what
-certain labels are for, check the labels pages ([CE](https://gitlab.com/gitlab-org/gitlab-ce/labels)
-or [EE](https://gitlab.com/gitlab-org/gitlab-ee/labels)), and read the
-descriptions. The [contributing doc](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
+certain labels are for, check the labels pages ([CE](https://gitlab.com/gitlab-org/gitlab-ce/labels/index.html.md)
+or [EE](https://gitlab.com/gitlab-org/gitlab-ee/labels/index.html.md)/index.html.md), and read the
+descriptions. The [contributing doc](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md/index.html.md)
 provides a breakdown of the label types and how to choose the right label.
 1. Unless you know what you are doing, do not
     - assign someone to the issue
@@ -1094,15 +1094,15 @@ provides a breakdown of the label types and how to choose the right label.
     defined by our developers
 1. Mention the different stakeholders in the body of your issue. In most product
 related issues, we usually mention the product manager, the design, frontend, and backend managers as appropriate.
-Some teams have [experts](/team/structure/#expert) or [liaisons](/job-families/liaison) that can be mentioned instead of the managers.
+Some teams have [experts](/team/structure/#expert/index.html.md) or [liaisons](/job-families/liaison/index.html.md) that can be mentioned instead of the managers.
 Mentioning the people in the body of the issue will trigger the notification mechanisms
 chosen by the people who are mentioned - therefore there is no need to notify
-people in another channel after the issue has been created (Slack, email).
+people in another channel after the issue has been created (Slack, email/index.html.md).
 
 #### How to use epics
 
 Issues related to the same feature should be bundled together into an
-into an [epic](https://docs.gitlab.com/ee/user/group/epics/).
+into an [epic](https://docs.gitlab.com/ee/user/group/epics/index.html.md/index.html.md).
 
 ##### Epics for a single iteration
 
@@ -1126,7 +1126,7 @@ in order to bring it to be feature complete.
 #### Product Discovery Issues
 
 When a product discovery step is needed to design a feature, PMs should
-create a separate issue (linked to the epic and implementation issue) for that
+create a separate issue (linked to the epic and implementation issue/index.html.md) for that
 research and design work to occur.  We should not repurpose or otherwise reuse
 the existing implementation issue; doing so creates a risk of the issue being
 closed when the design work is complete and thereby losing track of the actual
@@ -1147,7 +1147,7 @@ group is generally not an effective approach..  Because we aim to deliver MVC
 features, there should almost always be enough time in a single release to both
 research and deliver a feature that adds value for our customers.
 
-Be sure to follow the [CE contribution guidelines](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#implement-design-ui-elements) on correct
+Be sure to follow the [CE contribution guidelines](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#implement-design-ui-elements/index.html.md) on correct
 labeling practices for the ``product discovery`` label.
 
 #### Wireframes
@@ -1155,7 +1155,7 @@ labeling practices for the ``product discovery`` label.
 When relevant, you can include a wireframe in your issues in order to illustrate
 your point. You don't need to include wireframes on your own; our UX/design team can
 help us on that matter. Simply ping them if you need their help. We like
-[Balsamiq](https://balsamiq.com/) for its simplicity and its sketch-style approach.
+[Balsamiq](https://balsamiq.com/index.html.md/index.html.md) for its simplicity and its sketch-style approach.
 If are struggling for inspiration, you can also paste screenshots of similar
 features in other products.
 
@@ -1172,7 +1172,7 @@ consequence, they always lead to something great.
 
 Meta issues themselves generally should not be assigned to a milestone as the
 actual work is covered in sub-issues. Sometimes, for example if you want a meta
-issue to show up in our [direction](/direction) page for a given release, you may
+issue to show up in our [direction](/direction/index.html.md) page for a given release, you may
 add a milestone, but *only* if you know for sure that all sub-issues will be
 *completed* by that milestone. Don't assign a milestone for when you're going to
 *start* a meta issue.
@@ -1185,7 +1185,7 @@ issue is going to span multiple releases, split it up into multiple issues.
 Meta/epic issues are the exception to this rule, but should be kept to a
 minimum and only serve to guide broader subjects, not a single feature
 over multiple releases. This is to make sure we stick to our values of
-the [minimally viable change](#the-minimally-viable-change).
+the [minimally viable change](#the-minimally-viable-change/index.html.md).
 This means that feature issues should be closed after the first iteration
 whenever possible. We'll know more in the future and this keeps any remaining
 issues short and actionable.
@@ -1204,15 +1204,15 @@ our attention the most.
 
 Before a new features is shipped, the PM should test it out to make sure it
 solves the original problem effectively. This is not about quality assurance
-(QA), as developers are responsible for the quality of their code. This is about
-feature assurance (FA). Feature assurance is necessary because sometimes there
+(QA/index.html.md), as developers are responsible for the quality of their code. This is about
+feature assurance (FA/index.html.md). Feature assurance is necessary because sometimes there
 are misunderstandings between the original issue proposal and the final
 implementation. Sometimes features don't actually solve the intended problem,
 even though it seemed like it would, and sometimes solutions just don't feel as
 useful as intended when actually implemented.
 
 If you can test out the feature during development, pulling down branches
-locally (or with a review app!), that's great. But sometimes it's not feasible
+locally (or with a review app!/index.html.md), that's great. But sometimes it's not feasible
 to test a feature until it's bundled into a release candidate and deployed to
 GitLab.com. If so, make sure to test out features as soon as possible so any new
 issues can be addressed before final release. Also, take the FA cycle into
@@ -1220,11 +1220,11 @@ account when scheduling new milestone work.
 
 If you are looking to test code that has not been merged to GitLab.com or is not yet
 part of an RC, you can pull the branch down locally and test it using the [GitLab
-Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit).
+Development Kit (GDK/index.html.md)](https://gitlab.com/gitlab-org/gitlab-development-kit/index.html.md).
 
 #### Managing Upcoming Releases
 
-Refer to the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
+Refer to the [Product Development Timeline](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/#product-development-timeline/index.html.md)
 for details on how Product works with UX and Engineering to schedule and work on
 issues in upcoming releases.
 
@@ -1267,7 +1267,7 @@ explaining your use case and why this is important to you.
 Again, the milestone of an issue can be changed at any moment, including for both
 of these special milestones.
 
-For a detailed timeline, see [the product development timeline](/handbook/engineering/workflow/#product-development-timeline).
+For a detailed timeline, see [the product development timeline](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/#product-development-timeline/index.html.md).
 
 #### Content of an MVP
 
@@ -1316,7 +1316,7 @@ Close issues that are either:
 1. 'not the next iteration': an iteration on a proposed feature that is unlikely to ship in the next few months.
 
 When closing an issue, leave a comment explaining why you're closing the issue and link
-to anything of relevance (the other duplicate, the original feature that this is an iteration on, etc).
+to anything of relevance (the other duplicate, the original feature that this is an iteration on, etc/index.html.md).
 
 The 'not the next iteration' issues are the most important ones to resolve.
 It is very easy to create a big plan with meta issues and lots of improvements, <-- this sentence was incomplete, so this is a guess -->
@@ -1325,13 +1325,13 @@ We have to ship the iteration, wait for it to be used, and look for the feedback
 As a product manager you must think about the bigger picture when making a proposal to improve the product.
 It's important to avoid writing this down as a bunch of issues.
 Come up with a plan but only record the first step.
-This way we can preserve the efficiency of [our value of iteration](/handbook/values/#iteration).
+This way we can preserve the efficiency of [our value of iteration](https://github.com/isamu-isozaki/teamai_test/tree/master/values/#iteration/index.html.md).
 Closing issues whenever possible is an important part of your job and helps to keep a clear view of what is next.
 Consider using the following template to close an issue:
 
 > Closing this because XXX is something we should do first. When that feature is
 finished, we can learn from observing it in use. If we learn that this issue is
-still relevant, we can then reopen it. See /handbook/product/#when-to-create-or-close-an-issue
+still relevant, we can then reopen it. See https://github.com/isamu-isozaki/teamai_test/tree/master/product/#when-to-create-or-close-an-issue
 for more detail about this policy.
 
 #### Competition Channel
@@ -1341,7 +1341,7 @@ creating an issue and/or [a change in `features.yml`][features], follow this
 procedure:
 
 - Create a thread on the item by posting `I'm documenting this`
-- Either do the following yourself, or [link](#competition-channel)
+- Either do the following yourself, or [link](#competition-channel/index.html.md)
 to this paragraph for the person picking this up to follow
 - If needed: create an issue
 - [Add the item to the `features.yml`][features]
@@ -1354,14 +1354,14 @@ From time to time, there may be circumstances that change the ability for a team
 to ship the features/issues they committed to at the beginning of the iteration.
 When this happens, as a PM you must ensure the related issues  and the roadmap
 are updated to reflect the new plan (for example, remove `deliverable`
-tag, update `milestone`, etc.). Additionally, notify your manager of the shift
-and update the [kick-off document](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit)
-to reflect the status of the item within the iteration (merged, not merged).
+tag, update `milestone`, etc./index.html.md). Additionally, notify your manager of the shift
+and update the [kick-off document](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit/index.html.md)
+to reflect the status of the item within the iteration (merged, not merged/index.html.md).
 
 ### Where should you look when you need help?
 
 * The first thing you should do is read this page carefully, as well as the
-[general handbook](/handbook/).
+[general handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/index.html.md/index.html.md).
 * You can ask questions related to Product in the `#product` Slack channel.
 * General questions should be asked in `#questions`.
 * Specific Git related questions should be asked in `#git-help`.
@@ -1405,35 +1405,35 @@ feedback ahead of, during, and after the release.
 Here is the ideal rollout schedule. For each step there is an indication for
 who is responsible for it.
 
-1. Feature is drafted in an issue (PM)
-1. Feature is planned in an upcoming release (PM)
-1. A feature proposal blog post is made (PM or Dev), which includes:
+1. Feature is drafted in an issue (PM/index.html.md)
+1. Feature is planned in an upcoming release (PM/index.html.md)
+1. A feature proposal blog post is made (PM or Dev/index.html.md), which includes:
 	* What we are planning on doing.
 	* How people will be able to get it: CE or any EE Editions.
 	* A link to the issue.
 	* When it'll be available, if possible.
 	* Anything else that is interesting to share in order to fuel the discussion.
-1. Feature is implemented, and documentation is written (Dev).
-1. Feature should appear on the website (Marketing)
+1. Feature is implemented, and documentation is written (Dev/index.html.md).
+1. Feature should appear on the website (Marketing/index.html.md)
 	* For very significant features: Feature page on the website is made and
       pushed, with the mention "Available from X.X"
 	* For other features: Feature should be listed on some page (/comparison,
-      Enterprise page, /features page).
-1. Feature is launched with the release (Marketing)
+      Enterprise page, /features page/index.html.md).
+1. Feature is launched with the release (Marketing/index.html.md)
 	* "Available from X.X" is removed
 	* Documentation and other resources are linked
 	* Pricing page is updated if needed
-1. Feature is highlighted in a blog post (Marketing)
-	* This post is linked from the feature page on the website (if applicable)
+1. Feature is highlighted in a blog post (Marketing/index.html.md)
+	* This post is linked from the feature page on the website (if applicable/index.html.md)
 
 ### Communicating product vision
 
 Occasionally, we rally around a product vision, a direction to aim towards, to
 improve alignment internally and externally. We usually start out with a clear,
-simple concept like [going faster from idea to production](/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/#from-idea-to-production-with-gitlab),
-or shipping [complete DevOps](/2017/10/04/devops-strategy/). We announced our
-first Master Plan as part of our [Series B funding announcement](/2016/09/13/gitlab-master-plan/),
-and our second master plan with our [Series C announcement](/2017/10/09/gitlab-raises-20-million-to-complete-devops/).
+simple concept like [going faster from idea to production](/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/#from-idea-to-production-with-gitlab/index.html.md),
+or shipping [complete DevOps](/2017/10/04/devops-strategy/index.html.md/index.html.md). We announced our
+first Master Plan as part of our [Series B funding announcement](/2016/09/13/gitlab-master-plan/index.html.md/index.html.md),
+and our second master plan with our [Series C announcement](/2017/10/09/gitlab-raises-20-million-to-complete-devops/index.html.md/index.html.md).
 While the first iterations and presentations are great for aligning the product team
 and announcing the vision to the world, the text and slides only go so far to
 convey the depth of the vision. So, we usually iterate on the vision by fleshing
@@ -1441,18 +1441,18 @@ it out more in various stages and communicating it in different ways, usually
 increasing fidelity over time.
 
 This iteration may look like this, for example:
-* start with a [Google doc](https://docs.google.com/document/d/1TKqHSwCdxXOb27cqKoHOrnYIA4waZE25SVsexLqp8zE/edit),
-* turn that into a [single-source-of-truth based on issues](/direction/product-vision/),
-* then [slideware](https://docs.google.com/presentation/d/1d6vL4dz-V_JxiStu4keL01SLd7w0JfNfcHzyetczp7k/edit)
-* then a [mockupware video](https://youtu.be/lRAKmTzpGXE)
-* then an [interactive prototype](https://framer.cloud/UaofH/index.html) and [recorded video](https://youtu.be/RmSTLGnEmpQ)
+* start with a [Google doc](https://docs.google.com/document/d/1TKqHSwCdxXOb27cqKoHOrnYIA4waZE25SVsexLqp8zE/edit/index.html.md),
+* turn that into a [single-source-of-truth based on issues](/direction/product-vision/index.html.md/index.html.md),
+* then [slideware](https://docs.google.com/presentation/d/1d6vL4dz-V_JxiStu4keL01SLd7w0JfNfcHzyetczp7k/edit/index.html.md)
+* then a [mockupware video](https://youtu.be/lRAKmTzpGXE/index.html.md)
+* then an [interactive prototype](https://framer.cloud/UaofH/index.html/index.html.md) and [recorded video](https://youtu.be/RmSTLGnEmpQ/index.html.md)
 * then a seamless, but still fake video demo
 * then finally a production demo.
 
 The interactive prototype video is a good time to reiterate the vision
 with a blog post.
 
-Additionally, the [direction page](/direction/#devops-stages) contains the specific vision for each devops stage along with 
+Additionally, the [direction page](/direction/#devops-stages/index.html.md) contains the specific vision for each devops stage along with 
 links to the epics that contain the work to be done. We aim to use these epics and issues as the single source of truth for 
 our plans, and as such we strive to maintain them up-to-date with the latest developments and plans.
 
@@ -1476,10 +1476,10 @@ gather momentum.
 
 Feature requests and merge requests can be rejected for the following reasons:
 
-* Not within our scope: the Direction page [lists all the areas](/direction/#scope)
+* Not within our scope: the Direction page [lists all the areas](/direction/#scope/index.html.md)
 where GitLab, the product, won't go. Point the issue's author to this article
 and close the issue.
-* We don't want another setting: whenever we can, we try to [avoid having settings](#convention-over-configuration).
+* We don't want another setting: whenever we can, we try to [avoid having settings](#convention-over-configuration/index.html.md).
 Some settings are unavoidable, but most aren't. Ask the user to change how she
 approaches the feature in order to get rid of the setting.
 * Too complex: We want to have a simple, user-friendly product that does complex
@@ -1488,7 +1488,7 @@ about the problem to be solved in the first place. Offer directions on
 what could be done instead. If she's not willing to do it, indicate that you will
 have to close the issue/merge request because it will go nowhere.
 * Brings an Enterprise exclusive feature to the Community Edition: this problem
-is already addressed in the [Stewardship page](/stewardship/#contributing-an-existing-ee-feature-to-ce).
+is already addressed in the [Stewardship page](/stewardship/#contributing-an-existing-ee-feature-to-ce/index.html.md).
 Indicate that we will investigate whether the feature can be ported to the
 Community Edition, discuss it with other teams members and come back to the user
 in a timely fashion.
@@ -1520,7 +1520,7 @@ As a PM you're expected to:
 - Help build a vision for GitLab and GitLab's features.
 - Understand deeply whatever it is you're working on. You should be spending a
   lot of time learning about your subject matter.
-- Have regular meetings (at least once a week) with customers.
+- Have regular meetings (at least once a week/index.html.md) with customers.
 - Make sure marketing materials related to your work are up to date.
 
 #### Customer meetings
@@ -1561,7 +1561,7 @@ any existing content is updated where necessary.
 
 It's not acceptable to do this after the release. GitLab is very complex, and features
 and functions are easily missed, even those that provide significant value to customers
-(e.g. the many ways you can authenticate with GitLab).
+(e.g. the many ways you can authenticate with GitLab/index.html.md).
 
 You can recruit the help of the marketing and technical writing team if needed,
 but it's highly recommended to do small updates yourself. This takes less time
@@ -1569,14 +1569,14 @@ and overhead than communicating what needs to be done to someone else.
 
 #### Release posts
 
-As a PM, you are [accountable](/handbook/marketing/blog/release-posts/#general-contributions)
-for adding new features (under your umbrella) to the monthly release post, respecting the
+As a PM, you are [accountable](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/#general-contributions/index.html.md)
+for adding new features (under your umbrella/index.html.md) to the monthly release post, respecting the
 guidelines defined in the
-[release posts handbook](/handbook/marketing/blog/release-posts/) and its **due dates**.
+[release posts handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/index.html.md/index.html.md) and its **due dates**.
 Be sure to go over all the details.
 
 Every month, a PM will take the
-[leadership](/handbook/marketing/blog/release-posts/#authorship)
+[leadership](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/#authorship/index.html.md)
 of the release post, and will be responsible for delivering it in time.
 
 ### Communication guidelines for product managers
@@ -1589,7 +1589,7 @@ background and context you might have.
 For example, when someone involved in sales asks you about upcoming issues in a particular
 area, you would respond with:
 
-- a clear overview of what is coming (link to the single source of truth)
+- a clear overview of what is coming (link to the single source of truth/index.html.md)
 - how that relates to the customer's request
 - that this is flexible and we are interested in hearing more from the customer
 - if necessary: a suggestion to discuss this directly with the customer
@@ -1609,7 +1609,7 @@ so that we avoid creating uncertainty with customers, and colleagues.
 When closing an issue for this reason, make sure to update the issue body and leave a comment
 explaining why the issue is being closed. Issues can be reopened if we change our stance on them.
 
-#### Working with Product Marketing (PMM)
+#### Working with Product Marketing (PMM/index.html.md)
 
 Product marketers and managers should be joined at the hip. Just as a feature without documentation
 should not be considered shipped, benefits of GitLab that we're not actively talking about might
@@ -1618,7 +1618,7 @@ as well not exist.
 Product marketers rely on product managers to be guided to what is important and high impact.
 In general, you should:
 
-- always mention the [appropriate PMM](/handbook/product/categories) on epics and high level issues
+- always mention the [appropriate PMM](https://github.com/isamu-isozaki/teamai_test/tree/master/product/categories/index.html.md) on epics and high level issues
 - regularly meet/talk async with the PMM that is aligned with your product area
 - proactively reach out for input when contemplating new features
 - involve PMM as early as possible with work on important changes
@@ -1630,10 +1630,10 @@ Use this section as guidance for using existing features and developing new ones
 1. Guests are not active contributors in private projects. They can only see, and leave comments and issues.
 1. Reporters are read-only contributors: they can't write to the repository, but can on issues.
 1. Developers are direct contributors, and have access to everything to go from idea to production,
-   unless something has been explicitly restricted (e.g. through branch protection).
+   unless something has been explicitly restricted (e.g. through branch protection/index.html.md).
 1. Masters are super-developers: they are able to push to master, deploy to production.
    This role is often held by maintainers and engineering managers.
-1. Admin-only features can only be found in `/admin`. Outside of that, admins are the same as the highest possible permission (owner).
+1. Admin-only features can only be found in `/admin`. Outside of that, admins are the same as the highest possible permission (owner/index.html.md).
 1. Owners are essentially group-admins. They can give access to groups and have
    destructive capabilities.
 
@@ -1647,9 +1647,9 @@ So, in the long term, we want our permission system to explicitly cover the next
 1. A manager. A role to keep a project running, add new team members etc.
 1. A higher development role to do code review, approve contributions, and other development related tasks.
 
-All the above can be achieved by iteratively improving existing roles and maybe [adding one more](https://gitlab.com/gitlab-org/gitlab-ce/issues/45414).
+All the above can be achieved by iteratively improving existing roles and maybe [adding one more](https://gitlab.com/gitlab-org/gitlab-ce/issues/45414/index.html.md).
 
-[Documentation on permissions](https://docs.gitlab.com/ee/user/permissions.html)
+[Documentation on permissions](https://docs.gitlab.com/ee/user/permissions.html/index.html.md)
 
 ## Internationalisation
 
@@ -1681,7 +1681,7 @@ If you want to make any changes to this page, create a merge request and assign 
 
 ### What goes in what paid tier
 
-Please see [The likely type of buyer determines what features go in what tier](/handbook/product/pricing/#the-likely-type-of-buyer-determines-what-features-go-in-what-tier).
+Please see [The likely type of buyer determines what features go in what tier](https://github.com/isamu-isozaki/teamai_test/tree/master/product/pricing/#the-likely-type-of-buyer-determines-what-features-go-in-what-tier/index.html.md).
 
 ### Starter, Premium, and Ultimate requirements
 
@@ -1693,12 +1693,12 @@ All Starter, Premium, and Ultimate features must:
 - Work with GitLab.com Bronze / Silver / Gold subscriptions. This means there has to be
   some way of toggling or using the feature at a namespace level.
 - Have documentation.
-- Be featured on [products](/products) and [comparison](/comparison) at launch.
+- Be featured on [products](/products/index.html.md) and [comparison](/comparison/index.html.md) at launch.
 
 ### Pricing plans
 
 For more information about how we think about pricing, please see the
-[pricing page in the handbook](/handbook/product/pricing/).
+[pricing page in the handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/product/pricing/index.html.md/index.html.md).
 
 ### Designing features for paid tiers
 
@@ -1722,7 +1722,7 @@ example, follow this process:
   and ask for feedback there or in the issue
 
 After appropriate consideration, update all stakeholders on the decision that you've made
-and move forward with making that change (or simply close the issue with the reasoning for why not).
+and move forward with making that change (or simply close the issue with the reasoning for why not/index.html.md).
 
 ## GitLab.com
 
@@ -1731,7 +1731,7 @@ GitLab.com runs GitLab Enterprise Edition.
 To keep our code easy to maintain and to make sure everyone reaps the benefits
 of all our efforts, we will not separate GitLab.com codebase from the Enterprise Edition codebase.
 
-To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](/handbook/marketing/product-marketing/#tiers) have a 1:1 match.
+To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/#tiers/index.html.md) have a 1:1 match.
 No exceptions to this rule are acceptable.
 
 - Free: Core features
@@ -1747,23 +1747,23 @@ This has been a source of confusion in the past for customers.
 
 ### Restriction of closed source Javascript
 
-In addition, to meet the [ethical criteria of GNU](https://www.gnu.org/software/repo-criteria-evaluation.html),
+In addition, to meet the [ethical criteria of GNU](https://www.gnu.org/software/repo-criteria-evaluation.html/index.html.md),
 all our javascript code on GitLab.com has to be free as in freedom.
-Read more about this on [GNU's website](https://www.gnu.org/philosophy/javascript-trap.html).
+Read more about this on [GNU's website](https://www.gnu.org/philosophy/javascript-trap.html/index.html.md).
 
 ## Private tools and dashboards for monitoring and KPI tracking
 
-[Feature usage](https://redash.gitlab.com/dashboard/feature-adoption)
+[Feature usage](https://redash.gitlab.com/dashboard/feature-adoption/index.html.md)
 
-[EE usage](https://version.gitlab.com/): dev.gitlab.org account
+[EE usage](https://version.gitlab.com/index.html.md/index.html.md): dev.gitlab.org account
 
-[Grafana](https://dashboards.gitlab.net): Google gitlab.com account
+[Grafana](https://dashboards.gitlab.net/index.html.md): Google gitlab.com account
 
-[Kibana](https://log.gitlab.net): dev.gitlab.org account
+[Kibana](https://log.gitlab.net/index.html.md): dev.gitlab.org account
 
-[S3stat](https://www.s3stat.com): GitLab 1Password account
+[S3stat](https://www.s3stat.com/index.html.md): GitLab 1Password account
 
-[Sentry](https://sentry.gitlap.com): dev.gitlab.org account
+[Sentry](https://sentry.gitlap.com/index.html.md): dev.gitlab.org account
 
 ## Writing about features
 
@@ -1773,12 +1773,12 @@ internally to promote something, and in emails sent to customers.
 While we want every PM to have a unique voice and style, there are some
 guidelines that one should take into account when writing about features. Let's
 highlight them with a concrete example, Preventing Secrets in your repositories,
- that [we shipped in 8.12](/2016/09/22/gitlab-8-12-released/#preventing-secrets-in-your-repositories-ee).
+ that [we shipped in 8.12](/2016/09/22/gitlab-8-12-released/#preventing-secrets-in-your-repositories-ee/index.html.md).
 
 * Start with the context. Explain what the current situation is without the
   feature. Describe the pain points.
 
-> It's a bad idea to commit secrets (such as keys and certificates) to your
+> It's a bad idea to commit secrets (such as keys and certificates/index.html.md) to your
 repositories: they'll be cloned to the machines of anyone that has access to the
 repository. If just a single one is insecure, the information will be
 compromised. Unfortunately, it can happen quite easily. You write
@@ -1794,14 +1794,14 @@ were meant to stay local!
 > Just check the checkbox in the repository settings, under push rules and
 GitLab will prevent common unsafe files such as .pem and .key from being committed.
 
-* Point to the documentation and any other relevant links (previous posts, etc).
+* Point to the documentation and any other relevant links (previous posts, etc/index.html.md).
 
 ### Writing release blog posts
 
 For every monthly release, there is a blog post announcing features.
 The blog post should contain everything _exciting_ or _disruptive_.
 All new features should appear in the blog post.
-We want to help people understand exciting features (which are often new), and increase adoption.
+We want to help people understand exciting features (which are often new/index.html.md), and increase adoption.
 Disruptive features may change workflows or even introduce unavoidable inconveniences.
 We want to anticipate questions and avoid confusion by communicating these changes through the blog post.
 Smaller tweaks and bug fixes don't necessarily need to be mentioned,
@@ -1812,12 +1812,12 @@ but if interesting, can be included at the bottom of the post.
 There is a hierarchy of bundling features:
 <-- hierarchy? In general, this whole section is unclear. What is an area, exactly? -->
 
-1. DevOps lifecycle stages (stages), see [SDLC](/sdlc/)
-1. Product categories (categories), see [SDLC](/sdlc/)
-1. Feature areas (areas), see end of ['Plan Positioning' Google Doc](https://docs.google.com/document/d/19RNBDoy-rLmR3PEhN8GJVOdb8Et2-IMjaMPYcXzUUEI/edit#)
-1. Individual features (features), see [Features](/features/)
+1. DevOps lifecycle stages (stages/index.html.md), see [SDLC](/sdlc/index.html.md/index.html.md)
+1. Product categories (categories/index.html.md), see [SDLC](/sdlc/index.html.md/index.html.md)
+1. Feature areas (areas/index.html.md), see end of ['Plan Positioning' Google Doc](https://docs.google.com/document/d/19RNBDoy-rLmR3PEhN8GJVOdb8Et2-IMjaMPYcXzUUEI/edit#/index.html.md)
+1. Individual features (features/index.html.md), see [Features](/features/index.html.md/index.html.md)
 
-The areas are used to position the plans (CE, Starter, Premium, Ultimate).
+The areas are used to position the plans (CE, Starter, Premium, Ultimate/index.html.md).
 Each plan has a maximum of 7 areas.
 
 When we introduce a new feature we look for each plan if it matches an area.
@@ -1827,7 +1827,7 @@ This is because if areas of non-CE plans don't match it ends up in CE, so it has
 
 ## Links
 
-- [Engineering Workflow](/handbook/engineering/workflow)
-- [Release posts handbook](/handbook/marketing/blog/release-posts/)
+- [Engineering Workflow](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/index.html.md)
+- [Release posts handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/index.html.md/index.html.md)
 
 [features]: https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/features.md

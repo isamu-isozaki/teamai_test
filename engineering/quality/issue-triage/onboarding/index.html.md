@@ -41,7 +41,7 @@ The Development side of the issue triage is varied. Around 20% of your time shou
 
 ##### Finding Issues
 
-Developers are expected to triage all issues posted to the Issue Trackers of Projects within the [GitLab-Org group](https://gitlab.com/gitlab-org/) and the [GitLab.com Support Tracker](https://gitlab.com/gitlab-com/support-forum/) on GitLab.com.
+Developers are expected to triage all issues posted to the Issue Trackers of Projects within the [GitLab-Org group](https://gitlab.com/gitlab-org/index.html.md/index.html.md) and the [GitLab.com Support Tracker](https://gitlab.com/gitlab-com/support-forum/index.html.md/index.html.md) on GitLab.com.
 
 ##### Checklist
 
@@ -61,7 +61,7 @@ A rule of thumb for labelling each individual issue is that the issue should hav
  * One or more feature labels
 
 For more details about workflow labels, please read our
-[contributing guide](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels).
+[contributing guide](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels/index.html.md).
 
 ##### Effectively Triaging Issues
 
@@ -73,7 +73,7 @@ These types of severe issues can be reported at any time, but will be  prevalent
 
 ###### Labelling Regression Issues
 
-A [regression](/handbook/glossary/#regression) is defined as a change that results in a negative impact on the functionality of an existing feature due to recent changes, i.e. the latest release.
+A [regression](https://github.com/isamu-isozaki/teamai_test/tree/master/glossary/#regression/index.html.md) is defined as a change that results in a negative impact on the functionality of an existing feature due to recent changes, i.e. the latest release.
 
 Each release has it's own regression issue, used to index all issues that have been raised that relate to a degradation in existing functionality.
 
@@ -112,16 +112,16 @@ We were able to reproduce the bug on GitLab.com, this is a proper regression! Le
 * `issues` - because we reproduced by mentioning a user in an issue
 * `bug` - because the functionality is not working as intended
 * `reproduced on GitLab.com` - because we reproduced it on GitLab.com!
-* `regression` - because the functionality used to work in the previous release (8.14.x)
+* `regression` - because the functionality used to work in the previous release (8.14.x/index.html.md)
 * `Next Patch Release` - we should endeavor to fix all regressions in a patch release
 * `8.16 milestone` - this is the phase where the regression will be fixed. This is confusing as the fix for the regression will be fixed in a 8.15 patch release
 
 ##### Checklist
 
 - [ ] Explore the existing issues and notice the labels that have been applied
-- [ ] Explore and understand the labels that are available for each project. Start with the [GitLab-CE project's labels](https://gitlab.com/gitlab-org/gitlab-ce/labels)
-- [ ] Explore the Teams in the [handbook](/handbook/engineering/)
-- [ ] Explore the domain experts listed on the [team page](/team/)
+- [ ] Explore and understand the labels that are available for each project. Start with the [GitLab-CE project's labels](https://gitlab.com/gitlab-org/gitlab-ce/labels/index.html.md)
+- [ ] Explore the Teams in the [handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/index.html.md/index.html.md)
+- [ ] Explore the domain experts listed on the [team page](/team/index.html.md/index.html.md)
 - [ ] Identify the current release's regression issue and take a look at the referenced regression issues
 
 ----
@@ -139,16 +139,16 @@ We were able to reproduce the bug on GitLab.com, this is a proper regression! Le
 
 Developers working on issue triage need a solid understanding of the main features of the GitLab products to respond to and triage Community posted issues.
 
-Some issues may just require some inside knowledge to explain a feature or a link to the documentation. Some issues may require that an issue be reproduced in an isolated environment to confirm the existence (or non-existence) of a reported bug. Some issues may require a deeper understanding of a particular feature set to properly grasp a proposed feature request.
+Some issues may just require some inside knowledge to explain a feature or a link to the documentation. Some issues may require that an issue be reproduced in an isolated environment to confirm the existence (or non-existence/index.html.md) of a reported bug. Some issues may require a deeper understanding of a particular feature set to properly grasp a proposed feature request.
 
-Diagnosing issues facing GitLab.com users is aided greatly by a good knowledge of the tools that we have at our disposal. We use [Sentry](https://sentry.gitlap.com) for error tracking and [Kibana](https://log.gitlab.net) for logging.
+Diagnosing issues facing GitLab.com users is aided greatly by a good knowledge of the tools that we have at our disposal. We use [Sentry](https://sentry.gitlap.com/index.html.md) for error tracking and [Kibana](https://log.gitlab.net/index.html.md) for logging.
 
 ##### Checklist
 
-- [ ] Complete the [Support Engineer onboarding Checklist](/handbook/support/onboarding/checklist/) to gain knowledge of the products from installation to general and more advanced usage
-- [ ] Complete the [Support Engineer steps to get your own environment](/handbook/support/onboarding/checklist/) in which to replicate issues and manage your own instance just like our customers do
-- [ ] Dig in to [the GitLab knowledge base](https://docs.gitlab.com) and understand where to look for more information regarding features and the API
-- [ ] Gain familiarity with [Sentry](https://sentry.gitlap.com), and [Kibana](https://log.gitlab.net) via [the runbook](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/kibana.md) for diagnosing production facing issues on GitLab.com
+- [ ] Complete the [Support Engineer onboarding Checklist](https://github.com/isamu-isozaki/teamai_test/tree/master/support/onboarding/checklist/index.html.md/index.html.md) to gain knowledge of the products from installation to general and more advanced usage
+- [ ] Complete the [Support Engineer steps to get your own environment](https://github.com/isamu-isozaki/teamai_test/tree/master/support/onboarding/checklist/index.html.md/index.html.md) in which to replicate issues and manage your own instance just like our customers do
+- [ ] Dig in to [the GitLab knowledge base](https://docs.gitlab.com/index.html.md) and understand where to look for more information regarding features and the API
+- [ ] Gain familiarity with [Sentry](https://sentry.gitlap.com/index.html.md), and [Kibana](https://log.gitlab.net/index.html.md) via [the runbook](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/kibana.md/index.html.md) for diagnosing production facing issues on GitLab.com
 
 ----
 
@@ -161,9 +161,9 @@ Diagnosing issues facing GitLab.com users is aided greatly by a good knowledge o
 
 ##### Checklist
 
-- [ ] Become comfortable with the concepts and principles outlined in the  [Engineering Workflow](/handbook/engineering/workflow/)
-- [ ] Find an existing ~bug issue to work on in the [GitLab-CE issue tracker bug list](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&state=opened&utf8=%E2%9C%93&label_name%5B%5D=bug)
-- [ ] Follow the [contributing guidelines](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md) and get your bug fix merged!
+- [ ] Become comfortable with the concepts and principles outlined in the  [Engineering Workflow](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/index.html.md/index.html.md)
+- [ ] Find an existing ~bug issue to work on in the [GitLab-CE issue tracker bug list](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&state=opened&utf8=%E2%9C%93&label_name%5B%5D=bug/index.html.md)
+- [ ] Follow the [contributing guidelines](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md/index.html.md) and get your bug fix merged!
 
 #### Stage 4 - Prepare to gain production access to investigate production issues for GitLab.com
 
@@ -185,7 +185,7 @@ Certain issues will be reported that are only affecting GitLab.com's user base. 
 ##### Checklist
 
 - [ ] Become comfortable with working with the Ruby on Rails console to investigate, and fix, problems on your own instance
-- [ ] Look into the issues reported by GitLab.com user base in the [GitLab.com Support Tracker](https://gitlab.com/gitlab-com/support-forum/issues)
+- [ ] Look into the issues reported by GitLab.com user base in the [GitLab.com Support Tracker](https://gitlab.com/gitlab-com/support-forum/issues/index.html.md)
 - [ ] Ask for production access from the Infrastructure team
 
 ```

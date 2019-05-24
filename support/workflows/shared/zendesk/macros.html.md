@@ -9,7 +9,7 @@ We use Zendesk Macros as a tool to help support common workflows and allow us to
 
 ## Who can create a Macro?
 
-Macros can be created by ZenDesk Admins and should be used for things that require a rigid process (2FA re-auth/DMCA) or when we _need_ to provide a template response (Holiday Coverage).
+Macros can be created by ZenDesk Admins and should be used for things that require a rigid process (2FA re-auth/DMCA/index.html.md) or when we _need_ to provide a template response (Holiday Coverage/index.html.md).
 
 ## Where Macros Live
 

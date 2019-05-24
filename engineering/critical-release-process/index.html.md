@@ -11,4 +11,4 @@ title: "Critical Security Release Process"
 {:toc}
 # Critical Security Release
 
-Moved to [release documentation for security releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases).
+Moved to [release documentation for security releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases/index.html.md).

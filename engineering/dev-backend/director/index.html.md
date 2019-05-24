@@ -12,7 +12,7 @@ title: "Director of Dev Backend"
 ## Purpose
 
 This page acts as a readme for the current Director of Dev Backend, AKA
-[me](/team/#tommy.morgan). Feel free to make suggestions
+[me](/team/#tommy.morgan/index.html.md). Feel free to make suggestions
 if you think I should cover something here that I haven't, and let me know if
 you believe anything here isn't accurate. Topics are more or less arranged in
 order of importance.
@@ -33,15 +33,15 @@ order of importance.
 I don’t typically put a lot of stock in behavioral/personality profiles, but I
 have found that they can be very useful starting points in building out personal
 relationships. You can find a [full report of my DiSC profile
-here](https://drive.google.com/file/d/1EWmLhYZvB-bUmTWxMACWG9ogyYUR0Qz2/view).
+here](https://drive.google.com/file/d/1EWmLhYZvB-bUmTWxMACWG9ogyYUR0Qz2/view/index.html.md).
 The very abridged version of my results is that I am a high DC, where:
 
 - **D stands for Dominance.** This means I’m very action-oriented, don’t put too
   much stock in the status quo, and can sometimes come across pushy, impatient,
   or outright rude.
-- **C stands for Conscientiousness** (they really need a shorter word). This
+- **C stands for Conscientiousness** (they really need a shorter word/index.html.md). This
   means that I tend to be very thorough, prefer hard data and strong
-  organization to qualitative information and “loose” structure, and overall
+  organization to qualitative information and “loose� structure, and overall
   have a tendency to try to turn everything into a spreadsheet if the world will
   let me.
 
@@ -58,7 +58,7 @@ extremely unlike to ever be sarcastic. So, it's not perfect. Sorry.
 
 - I’m typically very conversational in communication and can go down rabbit
   trails very easily if I let that impulse get the best of me. Feel free to
-  interrupt me.  I’m a [high D](#disc-profile), I don’t mind at all.
+  interrupt me.  I’m a [high D](#disc-profile/index.html.md), I don’t mind at all.
 - While I don’t get a ton of email at GitLab yet, I’m sure it will start
   happening soon. Anything that I am CC’ed on I assume is for my information, so
   that goes into a separate inbox that I don’t check very frequently.
@@ -77,11 +77,11 @@ extremely unlike to ever be sarcastic. So, it's not perfect. Sorry.
 
 This is my first time working at a meaningfully international/multicultural
 company. I am certain that is going to be a significant learning experience for
-me. Please be patient with me :)
+me. Please be patient with me :/index.html.md)
 
 I grew up in a culture that was not careful about bias in conversation and that
 has led me to adopt some habits that are hard to break, even though I am aware
-of them. Particularly things like referring to a mixed-gender group as “guys.”
+of them. Particularly things like referring to a mixed-gender group as “guys.�
 Please feel free to call me on it but also know that I am working on addressing
 it.
 
@@ -119,8 +119,8 @@ that, too. I know better.
 ## Ideation
 
 I like to test ideas by negation; that is to say my mental process kicks pretty
-immediately to “what could be wrong with this idea” and stays there until it’s
-satisfied. I also like to ask “stupid questions” to clarify my understanding,
+immediately to “what could be wrong with this idea� and stays there until it’s
+satisfied. I also like to ask “stupid questions� to clarify my understanding,
 encourage lateral thinking, and occasionally to make sure we’re trying to
 implement the smallest viable solution. This can sometimes make me seem overly
 critical but it’s just a side-effect of the way I process ideas. I usually
@@ -135,8 +135,8 @@ to do that. I'm likely just talking things through.
 
 I subscribe to the school of thought that the best way to coach someone is to
 ask questions rather than provide answers. If I am ever helping you work through
-a problem, I will probably do my best to stay in “question-only” mode. This can
-seem overly [Socratic](https://en.wikipedia.org/wiki/Socratic_method) at times,
+a problem, I will probably do my best to stay in “question-only� mode. This can
+seem overly [Socratic](https://en.wikipedia.org/wiki/Socratic_method/index.html.md) at times,
 especially if I don’t do it well, and that can drive people crazy. If you feel
 at any point like that’s happening to you, let me know and I will adjust.
 
@@ -163,23 +163,23 @@ like Coca-Cola and Brother, helped create an educational game simulating
 non-violent resistance, and did a lot of other fun stuff.
 
 Between that gig and GitLab, I ran the Engineering team at
-[Treehouse](http://www.teamtreehouse.com), also working from home. All in all
+[Treehouse](http://www.teamtreehouse.com/index.html.md), also working from home. All in all
 I've been working remotely for 10+ years now.
 
 ### Etc....
 
 - I'm looking forward to meeting as many GitLabbers as possible at the
-  [summit](https://gitlab.com/summits/2018-Summit/) this year.
+  [summit](https://gitlab.com/summits/2018-Summit/index.html.md/index.html.md) this year.
 - [Crucial
-  Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/)
+  Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/index.html.md/index.html.md)
   is easily the most valuable book I've ever read in my career.
-- [Vim](https://www.vim.org/).
+- [Vim](https://www.vim.org/index.html.md/index.html.md).
 - Yes, there are several musical instruments in my office. No, I'm not really
   good at playing any of them. But I like to poke at them some while I think.
-- The [Braves](http://www.braves.com) are going to win the division this year.
+- The [Braves](http://www.braves.com/index.html.md) are going to win the division this year.
 - I'm currently getting a big kick out of [The
-  Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series)) and its [TV
-  adaptation](https://en.wikipedia.org/wiki/The_Expanse_(TV_series)).
-- [The Good Place](https://en.wikipedia.org/wiki/The_Good_Place) might just be
+  Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series/index.html.md)/index.html.md) and its [TV
+  adaptation](https://en.wikipedia.org/wiki/The_Expanse_(TV_series/index.html.md)/index.html.md).
+- [The Good Place](https://en.wikipedia.org/wiki/The_Good_Place/index.html.md) might just be
   the best comedy series that also happens to be about philosophy and ethics of
   its generation.

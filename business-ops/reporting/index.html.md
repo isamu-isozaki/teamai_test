@@ -9,4 +9,4 @@ title: "Business Operations - Reporting"
 - TOC
 {:toc}
 
-This page has been deprecated and moved to [Business Operations](/handbook/business-ops/#reporting). 
+This page has been deprecated and moved to [Business Operations](https://github.com/isamu-isozaki/teamai_test/tree/master/business-ops/#reporting/index.html.md). 

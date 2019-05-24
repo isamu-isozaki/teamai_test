@@ -19,7 +19,7 @@ Mark Pundsack
 
 ### Q: What is covered in today’s announcement?
 
-A: With [GitLab CI/CD for GitHub](https://about.gitlab.com/github), enterprises working with multiple different types of code repositories can now standardize on GitLab CI/CD for seamless consistency across both their GitHub and GitLab code repositories. Open source projects that host their code on GitHub can take advantage of CI/CD on GitLab.com, where GitLab offers top tier features for free to open source projects.
+A: With [GitLab CI/CD for GitHub](https://about.gitlab.com/github/index.html.md), enterprises working with multiple different types of code repositories can now standardize on GitLab CI/CD for seamless consistency across both their GitHub and GitLab code repositories. Open source projects that host their code on GitHub can take advantage of CI/CD on GitLab.com, where GitLab offers top tier features for free to open source projects.
 
 ### Q: What is the headline of the press release?
 
@@ -27,11 +27,11 @@ A: GitLab Brings Industry-Leading Continuous Integration and Deployment to GitHu
 
 ### Q: Who is quoted in the press release?
 
-A: Sid Sijbrandij: “Continuous integration and deployment form the backbone of modern DevOps,” said Sid Sijbrandij, CEO and co-founder of GitLab. "With this new offering, businesses and open source projects that use GitHub as a code repository will have access to GitLab’s industry leading CI/CD capabilities."
+A: Sid Sijbrandij: “Continuous integration and deployment form the backbone of modern DevOps,� said Sid Sijbrandij, CEO and co-founder of GitLab. "With this new offering, businesses and open source projects that use GitHub as a code repository will have access to GitLab’s industry leading CI/CD capabilities."
 
 ### Q: Where can I view a copy of the press release?
 
-A: [https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html](https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html)
+A: [https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html](https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html/index.html.md)
 
 ### Q: Is there a blog post providing more detail on the announcement?
 
@@ -41,15 +41,15 @@ A: Yes, there are more details in the 10.6 release post [link to blog post]
 
 ### Q: Is there a landing page for the feature?
 
-A: Yes, [https://about.gitlab.com/features/github](https://about.gitlab.com/features/github) [will go live 2018-03-22]
+A: Yes, [https://about.gitlab.com/features/github](https://about.gitlab.com/features/github/index.html.md) [will go live 2018-03-22]
 
-[https://about.gitlab.com/github](https://about.gitlab.com/github) will also redirect to the longer URL and can be used in social, emails, etc.
+[https://about.gitlab.com/github](https://about.gitlab.com/github/index.html.md) will also redirect to the longer URL and can be used in social, emails, etc.
 
 
 
 ### Q: Are there other activities associated with this announcement?
 
-A: We are running a promotion that makes this feature available (normally a Silver feature) part of the Free tier on GitLab.com for one year. (Self-hosted customers have access in the Premium tier.)
+A: We are running a promotion that makes this feature available (normally a Silver feature/index.html.md) part of the Free tier on GitLab.com for one year. (Self-hosted customers have access in the Premium tier./index.html.md)
 
 ### Q: Is GitLab CI/CD for GitHub generally available?
 
@@ -57,7 +57,7 @@ A: Yes
 
 ### Q: Does GitLab CI/CD also integrate with BitBucket? Other solutions?
 
-A: Yes, but the process is more manual. GitLab CI/CD can connect to any git repo via URL, including BitBucket, and configure status webhooks manually. Docs on how to [manually enable GitLab CI/CD.](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/bitbucket_integration.html) (With GitHub the process is all automatic.)
+A: Yes, but the process is more manual. GitLab CI/CD can connect to any git repo via URL, including BitBucket, and configure status webhooks manually. Docs on how to [manually enable GitLab CI/CD.](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/bitbucket_integration.html/index.html.md) (With GitHub the process is all automatic./index.html.md)
 
 ### Q: How does GitLab CI/CD integration to GitHub work?
 
@@ -76,7 +76,7 @@ A: Several  
 With large enterprises we have 2 opportunities:
 
 1. New starting point for GitLab adoption. Many enterprises adopt GitLab gradually over time starting with SCM. The GitHub Integration provides another starting point for enterprises to begin adopting GitLab by using CI/CD first.  
-2. Standardize on GitLab CI/CD with disparate SCM solutions. [How many GitLab users do they need if they are using GitHub for SCM](https://docs.google.com/document/d/1LrIDEmUNrb5lx8Xu9g2NnmcqSpnZGixHLo6raUVBJUo/edit#heading=h.kvatwhat61se)?  
+2. Standardize on GitLab CI/CD with disparate SCM solutions. [How many GitLab users do they need if they are using GitHub for SCM](https://docs.google.com/document/d/1LrIDEmUNrb5lx8Xu9g2NnmcqSpnZGixHLo6raUVBJUo/edit#heading=h.kvatwhat61se/index.html.md)?  
 
 #### Open Source Projects opportunity
 
@@ -88,7 +88,7 @@ By making GitLab CI/CD for GitHub available free of charge as part of our GitLab
 
 #### Gemnasium Customer opportunity
 
-Gemnasium customers who are using GitHub now have a migration path to use the Gemnasium features we’ve built (and will build) into GitLab CI/CD Security Testing. Note: Gemnasium customers will need Ultimate/Gold to take advantage of Security Testing.
+Gemnasium customers who are using GitHub now have a migration path to use the Gemnasium features we’ve built (and will build/index.html.md) into GitLab CI/CD Security Testing. Note: Gemnasium customers will need Ultimate/Gold to take advantage of Security Testing.
 
 ### Q: Is GitLab CI/CD for GitHub available as a standalone product?
 
@@ -98,7 +98,7 @@ A: No, GitLab CI/CD is a Premium functionality and is not a standalone product.
 
 A: GitLab CI/CD for GitHub is a feature of GitLab without stand-alone pricing.
 
-It is part of our Premium (Self-hosted) & Silver (GitLab.com) Tiers - $19 /user /month (For all GitLab Premium features including CI/CD for GitHub.)
+It is part of our Premium (Self-hosted/index.html.md) & Silver (GitLab.com/index.html.md) Tiers - $19 /user /month (For all GitLab Premium features including CI/CD for GitHub./index.html.md)
 
 Promotionally, we will make the GitLab CI/CD feature available as part of the Free Tier on GitLab.com through 2019-03-22.
 
@@ -137,7 +137,7 @@ Yes - this should be sold against Jenkins / Travis, think about how many users y
 
 ### Q: What are the details of the launch promotion?
 
-A: GitLab CI/CD for external repos, including GitLab CI/CD for GitHub will be available as part of the Free tier of GitLab.com for one-year (through 2019-03-22). After 2019-03-22 we plan to move the feature to be part of GitLab.com Silver. Note: this is for GitLab.com only - self-hosted customers will only have access in Premium & Ultimate.
+A: GitLab CI/CD for external repos, including GitLab CI/CD for GitHub will be available as part of the Free tier of GitLab.com for one-year (through 2019-03-22/index.html.md). After 2019-03-22 we plan to move the feature to be part of GitLab.com Silver. Note: this is for GitLab.com only - self-hosted customers will only have access in Premium & Ultimate.
 
 ### Q: Are there any other features offered as part of a different tier promotionally?
 
@@ -151,9 +151,9 @@ A: Yes, GitLab CI/CD for GitHub is available on all hosted versions and is avail
 
 A: Self-hosted: Premium and Ultimate
 
-GitLab.com: Free, Bronze, Silver, and Gold (through 2019-03-22)
+GitLab.com: Free, Bronze, Silver, and Gold (through 2019-03-22/index.html.md)
 
-GitLab.com Silver, Gold (after 2019-03-22)
+GitLab.com Silver, Gold (after 2019-03-22/index.html.md)
 
 ### Q: What stages of DevOps Lifecycle work with GitHub?
 
@@ -165,14 +165,14 @@ GitLab.com Silver, Gold (after 2019-03-22)
 | Create    | Code Review              | No                 |                                                                                                                                       |
 | Verify    | Continuous integration   | Yes                |                                                                                                                                       |
 | Verify    | Security Testing         | Yes                |                                                                                                                                       |
-| Package   | Container Registry       | Yes                | [On by default once instance container registry enabled](https://docs.gitlab.com/ee/administration/container_registry.html)                                                          |
+| Package   | Container Registry       | Yes                | [On by default once instance container registry enabled](https://docs.gitlab.com/ee/administration/container_registry.html/index.html.md)                                                          |
 | Release   | CD/Release automation    | Yes                | E.g. You CAN deploy to GCP using the GKE Integration                                                                                  |
 | Configure | Configuration management | Yes                |                                                                                                                                       |
 | Monitor   | Monitoring               | Yes                |                                                                                                                                       |
 
 ### Q: Do we have current customers using GitLab CI/CD for GitHub?
 
-A: No, GitLab CI/CD for GitHub is being [released and launched](https://about.gitlab.com/handbook/marketing/product-marketing/#release-vs-launch) on the same day. As such, it will not be available for customers to use until after GitLab 10.6  is released on 2018-03-22.
+A: No, GitLab CI/CD for GitHub is being [released and launched](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/#release-vs-launch/index.html.md) on the same day. As such, it will not be available for customers to use until after GitLab 10.6  is released on 2018-03-22.
 
 
 
@@ -186,26 +186,26 @@ possibility, but requires additional complexity such as augmenting how we price.
 
 
 
-- JAXenter:[GitLab 10.6: CI/CD for GitHub, increased Kubernetes support](https://jaxenter.com/gitlab-10-6-142702.html), Jane Elizabeth, 3.23.18
-    - “As part of their prior commitment to supporting open source, GitLab already offers all public projects their highest tier features for free. This means that open source projects on GitHub will be able to handle hundreds of concurrent jobs with 50,000 free pipeline minutes.”
+- JAXenter:[GitLab 10.6: CI/CD for GitHub, increased Kubernetes support](https://jaxenter.com/gitlab-10-6-142702.html/index.html.md), Jane Elizabeth, 3.23.18
+    - “As part of their prior commitment to supporting open source, GitLab already offers all public projects their highest tier features for free. This means that open source projects on GitHub will be able to handle hundreds of concurrent jobs with 50,000 free pipeline minutes.�
 
 
 
-- ZDNet:[GitLab makes CI/CD tools available for GitHub repositories](http://www.zdnet.com/article/gitlab-makes-cicd-tools-available-for-github-repositories/), Stephanie Condon, 3.22.18
-    - “GitLab is trying to reach more developers this way because it believes CI/CD is ‘a core component of making your DevOps transformation,’ Mark Pundsack, head of product at GitLab, told ZDNet.
+- ZDNet:[GitLab makes CI/CD tools available for GitHub repositories](http://www.zdnet.com/article/gitlab-makes-cicd-tools-available-for-github-repositories/index.html.md/index.html.md), Stephanie Condon, 3.22.18
+    - “GitLab is trying to reach more developers this way because it believes CI/CD is ‘a core component of making your DevOps transformation,� Mark Pundsack, head of product at GitLab, told ZDNet.
 
 
 
-- SiliconANGLE:[GitLab brings code integration and delivery to rival hosting service GitHub](https://siliconangle.com/blog/2018/03/22/gitlab-brings-cicd-capabilities-github/), Maria Deutscher, 3.22.18
-    - “By enabling software teams that use GitHub to handle the process with its platform, GitLab should make development operations considerably smoother for enterprises. In large organizations, different divisions often use different tools for their projects. Having a unified CI/CD tool that works across both GitLab and GitHub code repositories can take some of the complexity out of the equation.”
+- SiliconANGLE:[GitLab brings code integration and delivery to rival hosting service GitHub](https://siliconangle.com/blog/2018/03/22/gitlab-brings-cicd-capabilities-github/index.html.md/index.html.md), Maria Deutscher, 3.22.18
+    - “By enabling software teams that use GitHub to handle the process with its platform, GitLab should make development operations considerably smoother for enterprises. In large organizations, different divisions often use different tools for their projects. Having a unified CI/CD tool that works across both GitLab and GitHub code repositories can take some of the complexity out of the equation.�
 
 
 
-- DZone:[GitLab Opens CI/CD to GitHub Users](https://dzone.com/articles/gitlab-opens-cicd-to-github-users), John Vester, 3.22.18
-    - “When GitLab entered the market, their focus was to build a single application that meets the needs of every aspect of the DevOps lifecycle. As repositories begin to emerge on the GitLab service, those customers began to see the real value of such an application. Now, customers on GitHub/GitHub Enterprise can utilize those same CI/CD features, allowing the ability to standardize a single solution across the entire enterprise.”
+- DZone:[GitLab Opens CI/CD to GitHub Users](https://dzone.com/articles/gitlab-opens-cicd-to-github-users/index.html.md), John Vester, 3.22.18
+    - “When GitLab entered the market, their focus was to build a single application that meets the needs of every aspect of the DevOps lifecycle. As repositories begin to emerge on the GitLab service, those customers began to see the real value of such an application. Now, customers on GitHub/GitHub Enterprise can utilize those same CI/CD features, allowing the ability to standardize a single solution across the entire enterprise.�
 
 
 
-- TechCrunch:[GitLab adds support for GitHub](https://techcrunch.com/2018/03/22/gitlab-adds-support-for-github/), Frederic Lardinois, 3.22.18
-    - “The new GitHub integration allows developers to set up their projects in GitLab and connect them to a GitHub repository. So whenever developers push code to their GitHub repository, GitLab will kick off that project’s CI/CD pipeline with automated builds, tests and deployments.”
+- TechCrunch:[GitLab adds support for GitHub](https://techcrunch.com/2018/03/22/gitlab-adds-support-for-github/index.html.md/index.html.md), Frederic Lardinois, 3.22.18
+    - “The new GitHub integration allows developers to set up their projects in GitLab and connect them to a GitHub repository. So whenever developers push code to their GitHub repository, GitLab will kick off that project’s CI/CD pipeline with automated builds, tests and deployments.�
 

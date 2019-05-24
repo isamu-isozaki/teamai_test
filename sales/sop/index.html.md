@@ -12,4 +12,4 @@ title: "Sales Order Processing"
 
 ---
 
-This page has been deprecated and moved to [Sales](/handbook/sales/)
+This page has been deprecated and moved to [Sales](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/index.html.md/index.html.md)

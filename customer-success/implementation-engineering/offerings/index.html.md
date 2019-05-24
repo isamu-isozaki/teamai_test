@@ -16,16 +16,16 @@ title: "Professional Services Offerings"
 During a Discovery Engagement, the Implementation Engineering group will engage with a customer for a set period - typically one week - for a set price.  The Implementation Engineering group will consult with the customer and provide advice such as:
 
 * Onsite discovery of short, mid and long-term goals for successful deployment of GitLab in High-Availability mode.
-* Technical deep-dive into existing infrastructure (network topology, VM environment, inter-datacenter connectivity, security constraints).
+* Technical deep-dive into existing infrastructure (network topology, VM environment, inter-datacenter connectivity, security constraints/index.html.md).
 * Scope planning for short and mid-term goals to deliver GitLab to their internal customers relative to their enterprise SLAs.
 
 ### Training & Education
 
-Below are the main training courses that we currently offer.  Below find a description of each and an (internal) link to the slides that go along with the training.
+Below are the main training courses that we currently offer.  Below find a description of each and an (internal/index.html.md) link to the slides that go along with the training.
 
-* [GitLab with Git Basics](https://docs.google.com/presentation/d/1R_G9YPM3aS-3lUdAm4hu9jfP7xLYjqm5zzgh7AYPyw8/edit): This course is for users that are new to Git and GitLab.  The course walks through the basics of Git (commit, branching, trees, etc.) as well as how those basics work in the context of both the GitLab user interface and interacting with GitLab through the CLI.
-* [GitLab Admin Training](https://docs.google.com/presentation/d/1EKOEcQ_8qE0rQADmbzBKVoeMm7eEivkb_S_2rq4TCAU/edit): This course is for new GitLab administrators.  The course covers topics about installing, configuring and maintaining a GitLab instance.
-* [GitLab CI/CD Training](https://docs.google.com/presentation/d/1kx9P3n5AOKSXM9x1TWMOsjm7wVfrn12bZOLlJsYkvxo/edit): This course is useful to developers, administrators and DevOps professionals alike.  Topics covered include using GitLab CI/CD with your projects, the .gitlab-ci.yml file and the various ways GitLab can be used as an end-to-end solution for the entire DevOps lifecycle.
+* [GitLab with Git Basics](https://docs.google.com/presentation/d/1R_G9YPM3aS-3lUdAm4hu9jfP7xLYjqm5zzgh7AYPyw8/edit/index.html.md): This course is for users that are new to Git and GitLab.  The course walks through the basics of Git (commit, branching, trees, etc./index.html.md) as well as how those basics work in the context of both the GitLab user interface and interacting with GitLab through the CLI.
+* [GitLab Admin Training](https://docs.google.com/presentation/d/1EKOEcQ_8qE0rQADmbzBKVoeMm7eEivkb_S_2rq4TCAU/edit/index.html.md): This course is for new GitLab administrators.  The course covers topics about installing, configuring and maintaining a GitLab instance.
+* [GitLab CI/CD Training](https://docs.google.com/presentation/d/1kx9P3n5AOKSXM9x1TWMOsjm7wVfrn12bZOLlJsYkvxo/edit/index.html.md): This course is useful to developers, administrators and DevOps professionals alike.  Topics covered include using GitLab CI/CD with your projects, the .gitlab-ci.yml file and the various ways GitLab can be used as an end-to-end solution for the entire DevOps lifecycle.
 
 ### Migration Services
 
@@ -56,4 +56,4 @@ The GitLab Train the Trainer program is a set of workshops designed to enable su
 
 #### GitLab Certification Program
 
-The Implementation Engineering group will be rolling out a GitLab Certification Program in the second quarter of 2018.  To view the progress of this initiative, see [this internal issue](https://gitlab.com/gitlab-com/customer-success/professional-services/issues/46)
+The Implementation Engineering group will be rolling out a GitLab Certification Program in the second quarter of 2018.  To view the progress of this initiative, see [this internal issue](https://gitlab.com/gitlab-com/customer-success/professional-services/issues/46/index.html.md)

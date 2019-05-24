@@ -10,10 +10,10 @@ title: "Technical Writing workflow"
 {:toc}
 
 This document explains the workflow of the Technical Writing team. Consider it
-an extension of the [Engineering workflow](/handbook/engineering/workflow/)
+an extension of the [Engineering workflow](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/index.html.md/index.html.md)
 which you should be familiar with.
 For the workflow that applies to everyone please see
-[PROCESS.md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/PROCESS.md).
+[PROCESS.md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/PROCESS.md/index.html.md).
 
 ## Process
 
@@ -29,7 +29,7 @@ Two things you need to remember:
 1. For every release cycle, every issue that introduces a new feature and requires
    new documentation to be added or changed, **must have** the `Documentation` label
    assigned along with one of the
-   [priority labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels).
+   [priority labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels/index.html.md).
 1. If the implementation MR for some reason cannot have docs, only merge the MR if
    there is a _new_ issue created that is tracking the docs needed. The new issue
    should have the appropriate milestone, assignee and at least both the
@@ -46,13 +46,13 @@ issues to work on.
 There are various types of issues you are called to work on:
 
 - Documenting and reviewing the new features for the current release
-- Working on the [Documentation Backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Documentation)
-- Enhancing the [docs website](https://gitlab.com/gitlab-com/gitlab-docs/issues)
+- Working on the [Documentation Backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Documentation/index.html.md)
+- Enhancing the [docs website](https://gitlab.com/gitlab-com/gitlab-docs/issues/index.html.md)
 
 Below is the current priority of scheduling issues:
 
-1. Documentation for the current release (consult the [board])
-1. Documentation issues with the [customer label](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Documentation&label_name[]=customer)
+1. Documentation for the current release (consult the [board]/index.html.md)
+1. Documentation issues with the [customer label](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Documentation&label_name[]=customer/index.html.md)
 1. Everything else
 
 ## Workflow labels
@@ -64,8 +64,8 @@ Labels are described in our [Contribution guide][contrib-labels-guide].
 ## Product development timeline
 
 The documentation should be ready by the 8th for the kickoff call and the link
-added to the [release post](/handbook/marketing/blog/release-posts/) of the
+added to the [release post](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/index.html.md/index.html.md) of the
 upcoming release. For more information on the product development timeline, see the
-[Engineering handbook](/handbook/engineering/workflow/#product-development-timeline).
+[Engineering handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/#product-development-timeline/index.html.md).
 
 [board]: https://gitlab.com/groups/gitlab-org/-/boards/375110?milestone_title=%23started&=&label_name[]=Documentation

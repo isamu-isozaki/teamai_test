@@ -17,7 +17,7 @@ The bi-weekly newsletter goes out on the 10th and 25th of each month.
 
 #### Newsletter issue
 
-1. Open an issue in the [Content Marketing project](https://gitlab.com/gitlab-com/marketing/content-marketing/issues/142) using the `newsletter` issue template. Title it `Newsletter X/X` with the date and give it a due date of one working day before the send date.
+1. Open an issue in the [Content Marketing project](https://gitlab.com/gitlab-com/marketing/content-marketing/issues/142/index.html.md) using the `newsletter` issue template. Title it `Newsletter X/X` with the date and give it a due date of one working day before the send date.
 1. Team members can add suggestions, but as a rule we try to have a good balance of content, with a variety of blog posts, webcast landing pages, and product/company updates.
 1. The newsletter on the 25th must always lead with the release post for that month.
 
@@ -37,8 +37,8 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 #### Editing the newsletter in Marketo
 
 1. Make sure you update the subject line.
-1. Add your newsletter items by editing the existing boxes (double click to go into them). It's best to select the `HTML` button on the menu bar and edit the HTML so you don't inadvertently lose formatting.
-1. Don't forget to update the dates in the UTM parameters of your links (including the banner at the top and all default items such as the "We're hiring" button).
+1. Add your newsletter items by editing the existing boxes (double click to go into them/index.html.md). It's best to select the `HTML` button on the menu bar and edit the HTML so you don't inadvertently lose formatting.
+1. Don't forget to update the dates in the UTM parameters of your links (including the banner at the top and all default items such as the "We're hiring" button/index.html.md).
 1. When you're ready, select `Email actions` from the menu at the top, then `Send sample` to preview.
 1. Enter your email in the `Person` field, then in `Send to` you can add any other emails you'd like to send a preview too.
 1. When you are satisfied with the newsletter, select `Approve and close` from the `Email actions` menu.

@@ -9,23 +9,23 @@ title: "Tools"
 - TOC
 {:toc}
 
-A lot of tools we use are described in the rest of the handbook (GitLab, [Google Docs](/handbook/communication/#google-docs),
-[1Password](/handbook/security), etc.).
+A lot of tools we use are described in the rest of the handbook (GitLab, [Google Docs](https://github.com/isamu-isozaki/teamai_test/tree/master/communication/#google-docs/index.html.md),
+[1Password](https://github.com/isamu-isozaki/teamai_test/tree/master/security/index.html.md), etc./index.html.md).
 This section is for tools that don't fit anywhere else.
 
 
 ## Google Slides templates
 
-Use this general [GitLab branded slide template](https://docs.google.com/a/gitlab.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) when creating slide decks for internal and external use. Make a copy of the slide deck and only edit the copy; do not edit the template itself.
+Use this general [GitLab branded slide template](https://docs.google.com/a/gitlab.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing/index.html.md) when creating slide decks for internal and external use. Make a copy of the slide deck and only edit the copy; do not edit the template itself.
 
-In the [_Templates](https://drive.google.com/drive/folders/0B6i7Xg1yiB8teTdIT21pWHYwYms?usp=sharing) folder you can also find specific deck templates; for example, the [Functional Group Update template](https://docs.google.com/a/gitlab.com/presentation/d/1JYHRhLaO9fMy1Sfr1WDnCPGv6DrlohlpOzs48VvmlQw/edit?usp=sharing).
+In the [_Templates](https://drive.google.com/drive/folders/0B6i7Xg1yiB8teTdIT21pWHYwYms?usp=sharing/index.html.md) folder you can also find specific deck templates; for example, the [Functional Group Update template](https://docs.google.com/a/gitlab.com/presentation/d/1JYHRhLaO9fMy1Sfr1WDnCPGv6DrlohlpOzs48VvmlQw/edit?usp=sharing/index.html.md).
 
 ### Updating your slide deck theme
 
 Here are a few quick steps for updating your slide decks to match the most recent template:
 
-1. In the top toolbar click `Theme` which will open the Themes panel (on the right-hand side).
-![Change theme in Google Slides](/images/handbook/tools-and-tips/google-slides-change-theme.png)
+1. In the top toolbar click `Theme` which will open the Themes panel (on the right-hand side/index.html.md).
+![Change theme in Google Slides](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/google-slides-change-theme.png/index.html.md)
 1. At the bottom of the Themes panel, click `Import theme`.
 1. In the Import theme dialog box type `GitLab deck template` into the search field.
 1. Find the `GitLab-Deck-Template` and click the `Select` button in the bottom left to apply the theme to your slide deck.
@@ -33,16 +33,16 @@ Here are a few quick steps for updating your slide decks to match the most recen
 
 ## Google Forms templates
 
-Use these [Gitlab branded form templates](https://drive.google.com/open?id=0BxrZ6azkqZ1bVDl1TTZuelFOb1k) when creating internal or external surveys or forms. Make a copy of the form and only edit the copy; do not edit the template itself.
+Use these [Gitlab branded form templates](https://drive.google.com/open?id=0BxrZ6azkqZ1bVDl1TTZuelFOb1k/index.html.md) when creating internal or external surveys or forms. Make a copy of the form and only edit the copy; do not edit the template itself.
 
 ## Calendly
 
-[Calendly](https://calendly.com/) connects to your Google calendar so people can book a time with you without having a Google Account.
+[Calendly](https://calendly.com/index.html.md/index.html.md) connects to your Google calendar so people can book a time with you without having a Google Account.
 
-1. Set up a [Calendly](https://calendly.com/) account.
+1. Set up a [Calendly](https://calendly.com/index.html.md/index.html.md) account.
 1. Link it to your GitLab Google Calendar to make it possible for people to schedule a call with you.
-1. All meetings will have the same Google Hangouts URL on your calendar based on your @gitlab.com email handle. You can use that in the booking text above. Events on your calendar will automatically have the Google Hangouts URL added, so you can use [the plus landing page](https://plus.google.com/hangouts/_/gitlab.com) to quickly jump into the call. Please note that the appointment will show up in other people's calendars with a different link, so it is essential that you set a text with the link for your time slot as specified below.
-1. Set up the 45 minute time slot with the following event description text (replacing XXXXX with your @gitlab.com handle):
+1. All meetings will have the same Google Hangouts URL on your calendar based on your @gitlab.com email handle. You can use that in the booking text above. Events on your calendar will automatically have the Google Hangouts URL added, so you can use [the plus landing page](https://plus.google.com/hangouts/_/gitlab.com/index.html.md) to quickly jump into the call. Please note that the appointment will show up in other people's calendars with a different link, so it is essential that you set a text with the link for your time slot as specified below.
+1. Set up the 45 minute time slot with the following event description text (replacing XXXXX with your @gitlab.com handle/index.html.md):
 
     > This will be a Zoom Meeting at https://gitlab.zoom.us/XXXXX
     >
@@ -50,8 +50,8 @@ Use these [Gitlab branded form templates](https://drive.google.com/open?id=0BxrZ
 
 1. If you intend to use any of the other event types, make sure to add this to their event descriptions as well.
 1. For people outside of GitLab Inc, send them your Calendly link that links directly to the 45 minute time slot: "Are any of the times on https://calendly.com/XXXXX/45min/ convenient for you? If so please book one, if not please let me know what times are good for you and we'll find an alternative."
-1. Update your availability on [Calendy Event Types](https://calendly.com/event_types/).
-1. Add your Calendly link to your [Slack profile](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile). For `Display Text`, use this line: `Schedule a meeting with me!` so GitLabbers can schedule a 1:1 call with you in GitLab, by simply clicking your Calendly link in your Slack profile.
+1. Update your availability on [Calendy Event Types](https://calendly.com/event_types/index.html.md/index.html.md).
+1. Add your Calendly link to your [Slack profile](https://get.slack.help/hc/en-us/articles/204092246-Editing-your-profile/index.html.md). For `Display Text`, use this line: `Schedule a meeting with me!` so GitLabbers can schedule a 1:1 call with you in GitLab, by simply clicking your Calendly link in your Slack profile.
 
 Keep in mind that unlike normal Google Calendar events, Calendly events are not automatically synchronized between both parties when changes are made. If an event needs to be cancelled or modified, make sure to use Calendly to do so.
 
@@ -67,31 +67,31 @@ You can browse all available GitLab channels by clicking on "Channels" on the le
 
 ### Slack Status
 
-Slack has the functionality to set an individual [status](https://slackhq.com/set-your-status-in-slack-28a793914b98). For example, you can select away from keyboard, vacation, or working remotely. This is a great way to let your team know if you are available or not.
+Slack has the functionality to set an individual [status](https://slackhq.com/set-your-status-in-slack-28a793914b98/index.html.md). For example, you can select away from keyboard, vacation, or working remotely. This is a great way to let your team know if you are available or not.
 
 ### Slack Certification
 
-The [Slack Certification Beta](https://get.slack.help/hc/en-us/articles/115002636666-Slack-Certification-beta-) is an interactive learning tool.
+The [Slack Certification Beta](https://get.slack.help/hc/en-us/articles/115002636666-Slack-Certification-beta-/index.html.md) is an interactive learning tool.
 
 ### Invite
 
-There are [multiple ways](https://get.slack.help/hc/en-us/articles/201980108-Invite-members-to-a-channel) to invite people into a Slack channel.
+There are [multiple ways](https://get.slack.help/hc/en-us/articles/201980108-Invite-members-to-a-channel/index.html.md) to invite people into a Slack channel.
 The easiest way is to use the invite command by typing `/invite @jenny`. Avoid inviting people through a mention message. E.g. `@jenny` as it
 can create a message that distracts others.
 
 ### Quick Switcher
 
 Quick Switcher is a great feature to know about if you want to get productive with Slack. As the name suggests, it allows you to switch between channels and direct messages quickly.
-Invoke it with <kbd>Cmd</kbd> + <kbd>k</kbd> on Mac or <kbd>Ctrl</kbd> + <kbd>k</kbd> on Windows or Linux and start typing the name of the person to chat with or the channel you are interested in. You can then navigate the suggestions with <kbd>↑</kbd> and <kbd>↓</kbd> keys and hit <kbd>enter</kbd> to select.   
+Invoke it with <kbd>Cmd</kbd> + <kbd>k</kbd> on Mac or <kbd>Ctrl</kbd> + <kbd>k</kbd> on Windows or Linux and start typing the name of the person to chat with or the channel you are interested in. You can then navigate the suggestions with <kbd>�</kbd> and <kbd>�</kbd> keys and hit <kbd>enter</kbd> to select.   
 
 ## Zoom
 
-To set up a Zoom meeting, sign up for a free [basic account](https://gitlab.zoom.us/signup) using your GitLab email address, and share the link for your "personal meeting room" with your participants. Note that on the Basic license, meetings are capped at 100 people, and meeting durations are capped at 40 minutes. If you need to be able to organize calls longer than 40 minutes using Zoom, contact #peopleops to be granted a [Pro account](/handbook/general-onboarding/onboarding-processes/#onboarding-processes). By default, only Support Engineers and members of the Sales team are given Pro accounts during onboarding since their job routinely involves making video calls with (potential) customers.
+To set up a Zoom meeting, sign up for a free [basic account](https://gitlab.zoom.us/signup/index.html.md) using your GitLab email address, and share the link for your "personal meeting room" with your participants. Note that on the Basic license, meetings are capped at 100 people, and meeting durations are capped at 40 minutes. If you need to be able to organize calls longer than 40 minutes using Zoom, contact #peopleops to be granted a [Pro account](https://github.com/isamu-isozaki/teamai_test/tree/master/general-onboarding/onboarding-processes/#onboarding-processes/index.html.md). By default, only Support Engineers and members of the Sales team are given Pro accounts during onboarding since their job routinely involves making video calls with (potential/index.html.md) customers.
 
-To record the meeting set up [cloud recording](https://support.zoom.us/hc/en-us/articles/202921119-Automatic-Recording). You can also configure Zoom to save to the cloud automatically. Go to "My Meeting Settings" and find the "Recording" section, then click on "Cloud Recording".
-Setting the topic of the meeting is important, otherwise all meetings will be recorded with a generic name. Once recording is complete, your videos will not appear in the “Recordings” section of your Zoom account. Your recordings will automatically be saved to a folder on Google Drive under "GitLab Videos".
+To record the meeting set up [cloud recording](https://support.zoom.us/hc/en-us/articles/202921119-Automatic-Recording/index.html.md). You can also configure Zoom to save to the cloud automatically. Go to "My Meeting Settings" and find the "Recording" section, then click on "Cloud Recording".
+Setting the topic of the meeting is important, otherwise all meetings will be recorded with a generic name. Once recording is complete, your videos will not appear in the “Recordings� section of your Zoom account. Your recordings will automatically be saved to a folder on Google Drive under "GitLab Videos".
 
-Our Zoom account has [End-to-End Encryption](https://gitlab.com/gitlab-com/peopleops/issues/223) enabled. This may impact performance, so if you run into any issues, let People Ops know.
+Our Zoom account has [End-to-End Encryption](https://gitlab.com/gitlab-com/peopleops/issues/223/index.html.md) enabled. This may impact performance, so if you run into any issues, let People Ops know.
 
 If there is a meeting active, a new meeting cannot start until the host ends the meeting or all participants leave. People Ops can force end a meeting by logging into Zoom with the credentials in 1Password, going to My Meetings, finding the meeting they would like to end, then selecting "End." This will allow the next meeting to begin.
 
@@ -118,11 +118,11 @@ If you would like to practice presenting, you can do so using your own private Z
 1. Repeat the steps above.
 1. Stop and watch the recording. You'll see what the participants would see.
 
-### Zoom on Linux using FOSS (Firejail)
+### Zoom on Linux using FOSS (Firejail/index.html.md)
 While Zoom works on Linux, the application is not free software. As a result,
 some might be wary of running this directly on their computer. One way of
 running Zoom without worrying about what it does is to use
-[firejail](https://firejail.wordpress.com/).
+[firejail](https://firejail.wordpress.com/index.html.md/index.html.md).
 
 To use Zoom with Firejail, first install Zoom or download the archive. Zoom
 offers standalone binaries that you can download should your distribution not
@@ -176,18 +176,18 @@ wrapper called `zoom`.
 
 ## Shush
 
-[$4.99 tool for OS X](http://mizage.com/shush/) that lets you set a hotkey (e.g. `fn`) to mute your microphone ("push-to-talk" or "push-to-mute").
+[$4.99 tool for OS X](http://mizage.com/shush/index.html.md/index.html.md) that lets you set a hotkey (e.g. `fn`/index.html.md) to mute your microphone ("push-to-talk" or "push-to-mute"/index.html.md).
 Never again will you have to switch your window focus to Google Hangouts or Zoom to speak or mute.
-The icon will show the current state of your mic input (x means muted).
-With a right click (or your configured hotkey) you can switch from push to talk to push to mute.
+The icon will show the current state of your mic input (x means muted/index.html.md).
+With a right click (or your configured hotkey/index.html.md) you can switch from push to talk to push to mute.
 Don't forget to unblock your mic in Zoom/Google Hangouts immediately after joining.
 Be warned that page up with fn+down arrow will activate it.
 Use space for page down instead of fn+up arrow.
 
 ### Shush alternative for Linux
 
-If you use Linux (e.g. [Arch](https://www.archlinux.org/), [Ubuntu](https://www.ubuntu.com/) or [Fedora](https://getfedora.org/)) you can create a system-wide keyboard shortcut to mute/unmute your mic.
-Please note that it only works for Linux distributions which use [ALSA](http://alsa-project.org) for sounds (most popular Linux distributions use ALSA). All you need to do is go to your desktop environment's _Keyboard Settings_ and create a custom shortcut with the command `amixer set Capture toggle` and assign a key combination of your choice (e.g. `Pause Break` key). Once this is done, you can mute/unmute your mic using the assigned keyboard shortcut while you're in any application. Refer to this original answer on [Askubuntu](http://askubuntu.com/a/13364/12242) to learn more.
+If you use Linux (e.g. [Arch](https://www.archlinux.org/index.html.md/index.html.md), [Ubuntu](https://www.ubuntu.com/index.html.md/index.html.md) or [Fedora](https://getfedora.org/index.html.md/index.html.md)/index.html.md) you can create a system-wide keyboard shortcut to mute/unmute your mic.
+Please note that it only works for Linux distributions which use [ALSA](http://alsa-project.org/index.html.md) for sounds (most popular Linux distributions use ALSA/index.html.md). All you need to do is go to your desktop environment's _Keyboard Settings_ and create a custom shortcut with the command `amixer set Capture toggle` and assign a key combination of your choice (e.g. `Pause Break` key/index.html.md). Once this is done, you can mute/unmute your mic using the assigned keyboard shortcut while you're in any application. Refer to this original answer on [Askubuntu](http://askubuntu.com/a/13364/12242/index.html.md) to learn more.
 
 ## Disabling OS X Notification Center
 
@@ -199,7 +199,7 @@ If your laptop is a MacBook with a Touch Bar, note that you can assign a handy "
 
 ## Google Cloud Platform
 
-See the [Engineering handbook](/handbook/engineering/#resources) for a listing of cloud
+See the [Engineering handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/#resources/index.html.md) for a listing of cloud
 resources and how to gain access to them.
 
 ## Google Calendar
@@ -214,25 +214,25 @@ We recommend you set your Google calendar access permissions to 'Make available 
 
 There are several benefits and reasons to sharing your calendar with everyone at GitLab:
 1. Transparency is one of our values and sharing what you work on is in line with our message of "be open about as many things as possible".
-1. Due to our timezone differences, there are small windows of time where our availabilities overlap. If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member. This speaks to our value to be more efficient.
+1. Due to our timezone differences, there are small windows of time where our availabilities overlap. If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s/index.html.md) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member. This speaks to our value to be more efficient.
 
-![Google Calendar - make calendar available setting](/images/handbook/tools-and-tips/google-calendar-share.png)
+![Google Calendar - make calendar available setting](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/google-calendar-share.png/index.html.md)
 
 ### Modifying Events
 
-Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
+Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings/index.html.md)./index.html.md)
 
-![Google Calendar - Guests can modify events setting](/images/handbook/tools-and-tips/google-calendar-guestsmodifyevent.png)
+![Google Calendar - Guests can modify events setting](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/google-calendar-guestsmodifyevent.png/index.html.md)
 
 ### Managing invite responses
 
 Add a filter to remove invites responses from your inbox with the following query:
 
-`*.ics subject:("invitation" OR "accepted" OR "rejected" OR "updated" OR "canceled event" OR "declined") when where calendar who organizer`
+`*.ics subject:("invitation" OR "accepted" OR "rejected" OR "updated" OR "canceled event" OR "declined"/index.html.md) when where calendar who organizer`
 
 ### Gitlab Availability Calendar
 
-The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.  We have new created [tools and tips for managing your time off](https://about.gitlab.com/handbook/paid-time-off/)
+The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.  We have new created [tools and tips for managing your time off](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/paid-time-off/index.html.md/index.html.md)
 
 ### GitLab Team Meetings Calendar
 
@@ -240,12 +240,12 @@ The GitLab Team Meetings Calendar is available to all team members and can be fo
 
 ### Restore Deleted Calendar Items
 
-(This assumes you are using [Google's new Calendar](https://support.google.com/calendar/answer/7541906)).
+(This assumes you are using [Google's new Calendar](https://support.google.com/calendar/answer/7541906/index.html.md)/index.html.md).
 
 When you have accidentally deleted something from the Team Meetings calendar, you can recover it by:
 
-* Go to [Google Calendar](calendar.google.com) and click the gear icon at the top left of your screen.
-* Choose the [Trash](https://calendar.google.com/calendar/r/trash).
+* Go to [Google Calendar](calendar.google.com/index.html.md) and click the gear icon at the top left of your screen.
+* Choose the [Trash](https://calendar.google.com/calendar/r/trash/index.html.md).
 * Make sure you are on the correct calendar, by clicking on the name of the calendar in the left sidebar.
 * Hover over the item you'd like to restore and click the arrow to "Restore".
 
@@ -278,7 +278,7 @@ inbox.
 1. Search for `from:gitlab@mg.gitlab.com`.
 1. Click the down arrow on the right side of the search field.
 1. Click **Create filter with this search**.
-1. Check **Skip the Inbox (Archive it)**.
+1. Check **Skip the Inbox (Archive it/index.html.md)**.
 1. Check **Apply the label:** and select a label to add, or create a new one, such
    as "GitLab.com".
 1. Check **Also apply filter to matching conversations**.
@@ -293,7 +293,7 @@ The default setting of showing the next older message is OK.
 
 ### Email signature
 
-Set up an [email signature](https://support.google.com/mail/answer/8395) which includes your full name and job title so people can quickly know what you do.
+Set up an [email signature](https://support.google.com/mail/answer/8395/index.html.md) which includes your full name and job title so people can quickly know what you do.
 
 #### Example
 
@@ -313,15 +313,15 @@ Steps below:
 - Turn Keyboard shortcuts "on"
 - Scroll down and Save Changes
 
-[Here are some shortcuts you can use](https://support.google.com/mail/answer/6594?hl=en&ref_topic=3394150)
+[Here are some shortcuts you can use](https://support.google.com/mail/answer/6594?hl=en&ref_topic=3394150/index.html.md)
 
-## Google Drive/Google Apps (Docs)
+## Google Drive/Google Apps (Docs/index.html.md)
 
-### First, an important message - Don't use Google Drive/Apps (unless you have to)
+### First, an important message - Don't use Google Drive/Apps (unless you have to/index.html.md)
 We would be remiss if we didn't start this section off with this IMPORTANT message:  **Your default storage place for information that needs to persist and be available to others in the company should be ON THE WEBSITE/IN THE COMPANY HANDBOOK and not in Google Drive and Google Apps files!!** This is from the top. This is how we operate, because Google Docs/Apps can only be found and contributed to by team members, and not by users, customers, advocates, future employees, Google handbook searches, or developers.
 
 ### Which files and rules to using Google Drive/Apps
-Having said that, there is content which doesn’t make sense to be created on the website directly (eg. large collections of data in tables, spreadsheets for calculations, etc) or for which Google Drive storage makes sense. For these, when creating or storing files in Google Drive, the web/handbook should have a link to this content and effectively be the index for finding things of relevance that are stored in the Google drive.
+Having said that, there is content which doesn’t make sense to be created on the website directly (eg. large collections of data in tables, spreadsheets for calculations, etc/index.html.md) or for which Google Drive storage makes sense. For these, when creating or storing files in Google Drive, the webhttps://github.com/isamu-isozaki/teamai_test/tree/master should have a link to this content and effectively be the index for finding things of relevance that are stored in the Google drive.
 
 There are a few ways to do this to maintain proper levels of privacy:
 
@@ -344,147 +344,147 @@ Following are some tips for how to use Google Drive for the instances where it m
 
 ### Keeping it organized
 It is important that we not just throw files into random or general places in the shared Google Drives. Doing so makes it harder for others to find and work with the content. Here are some guidelines to organizing the Google Drive content:
-* First by department (eg. product marketing)
-* then by subject (eg. analysts relations)
-* then by sub-subjects as deep as necessary (eg. Gartner -> 2018 ARO MQ)
+* First by department (eg. product marketing/index.html.md)
+* then by subject (eg. analysts relations/index.html.md)
+* then by sub-subjects as deep as necessary (eg. Gartner -> 2018 ARO MQ/index.html.md)
 
 ### Using Google Drive
-For starters, when your GitLab Google company account is created you automatically get a Google Drive 30GB storage allocation in your own "home" directory (called My Drive). You can get to it by:
-1. (optional) Login to your GitLab account in your browser (if you are using Chrome)
+For starters, when your GitLab Google company account is created you automatically get a Google Drive 30GB storage allocation in your own "home" directory (called My Drive/index.html.md). You can get to it by:
+1. (optional/index.html.md) Login to your GitLab account in your browser (if you are using Chrome/index.html.md)
 2. Open your web browser to https://drive.google.com
-3. If your not already logged in as your GitLab account (Chrome users should be) then login to Google using your GitLab account
-4. This will take you to your Google Drive (called My Drive) which is like your home directory. If you create Google files using Google Apps and don't specify where to store them, they will be put in this home directory.
+3. If your not already logged in as your GitLab account (Chrome users should be/index.html.md) then login to Google using your GitLab account
+4. This will take you to your Google Drive (called My Drive/index.html.md) which is like your home directory. If you create Google files using Google Apps and don't specify where to store them, they will be put in this home directory.
 
-This is great for storing your own working files. As already stated, **this should never be the final resting place for shared files** that are meant to be used by the rest of the company (or beyond).
+This is great for storing your own working files. As already stated, **this should never be the final resting place for shared files** that are meant to be used by the rest of the company (or beyond/index.html.md).
 
 ### Existing GitLab Google Drive repositories
-There are a few Google Drive repositories of GitLab shared files (there might be more, please add if not listed here):
+There are a few Google Drive repositories of GitLab shared files (there might be more, please add if not listed here/index.html.md):
 
-- [GitLab Marketing Drive](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3helZZQlV3ajFNTzg) - This houses all shared files from the entire Marketing organization. The best practice is for sub-organizations to have their own directory inside this space (eg. [Product Marketing](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3hNjJMNUt2LUJGREU)).  
-- [Sales Drive](https://drive.google.com/drive/u/0/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM) - This houses all the shared files from the Sales organization. The best practice is for some sub-organizations to have their own directory inside this space (eg. [Customer Success](https://drive.google.com/drive/u/0/folders/0B3MA-pZf8fAYdUl6Nk5ObzlQbjQ)).
+- [GitLab Marketing Drive](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3helZZQlV3ajFNTzg/index.html.md) - This houses all shared files from the entire Marketing organization. The best practice is for sub-organizations to have their own directory inside this space (eg. [Product Marketing](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3hNjJMNUt2LUJGREU/index.html.md)/index.html.md).  
+- [Sales Drive](https://drive.google.com/drive/u/0/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM/index.html.md) - This houses all the shared files from the Sales organization. The best practice is for some sub-organizations to have their own directory inside this space (eg. [Customer Success](https://drive.google.com/drive/u/0/folders/0B3MA-pZf8fAYdUl6Nk5ObzlQbjQ/index.html.md)/index.html.md).
 
 How do you use these? You don't have to remember these URL's. To add these links to your Google Drive My Drive directory, do the following:
 
-![Add to Drive Animation](pics/add2drive.gif)
+![Add to Drive Animation](pics/add2drive.gif/index.html.md)
 
 1. Make sure you are logged into your GitLab account in Google Drive in your browser
-2. Open the link of interest (from above) to go to that directory
-3. Find the directory path across the top (under the "Search Drive" field)
-4. Find the name of directory in that path that you want to add to your drive (eg. Sales)
+2. Open the link of interest (from above/index.html.md) to go to that directory
+3. Find the directory path across the top (under the "Search Drive" field/index.html.md)
+4. Find the name of directory in that path that you want to add to your drive (eg. Sales/index.html.md)
 5. Click on the down arrow next to it
 6. From the resulting pop-up menu, select "Add to My Drive"
-7. From now on you can get to that directory by first going to your drive (https://drive.google.com) and then opening that link
+7. From now on you can get to that directory by first going to your drive (https://drive.google.com/index.html.md) and then opening that link
 
 ### Adding Google Drive to your Mac
-To really make your Google Drive easier to access, you can have your Google Drive show up on your Mac Finder as a regular drive. With this it is easier to store and view files such as videos, analyst reports (PDFs), etc.
+To really make your Google Drive easier to access, you can have your Google Drive show up on your Mac Finder as a regular drive. With this it is easier to store and view files such as videos, analyst reports (PDFs/index.html.md), etc.
 
 Here's how to do this:
 
-![Download Drive Sync Animation](pics/downloaddrivesync.gif)
+![Download Drive Sync Animation](pics/downloaddrivesync.gif/index.html.md)
 
 1. Make sure you are logged into your GitLab account in Google Drive in your browser
-2. Go to your Google Drive (https://drive.google.com)
-3. Click on the "Settings" icon (Gear) to the right of the search field
+2. Go to your Google Drive (https://drive.google.com/index.html.md)
+3. Click on the "Settings" icon (Gear/index.html.md) to the right of the search field
 4. From the resulting menu, select "Download Drive File Stream for Mac"
 5. It might pull up a new page/tab and use your personal login. If it does this you won't see "Download & install Drive File Stream" on the page. Switch to your GitLab account.
 6. Download and install
 
 ## Hangouts
 
-Computers with older CPUs (pre-2016/Skylake) may be missing hardware acceleration for [VP9](https://en.wikipedia.org/wiki/VP9#Hardware_encoding.2Fdecoding_support).
+Computers with older CPUs (pre-2016/Skylake/index.html.md) may be missing hardware acceleration for [VP9](https://en.wikipedia.org/wiki/VP9#Hardware_encoding.2Fdecoding_support/index.html.md).
 In Chrome, this can cause excessive CPU due to use of the codec.
-On MacOS switching to Safari or using [h264ify](https://github.com/erkserkserks/h264ify) ([Chrome Web Store](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal)) solves this since it will use h264 that is hardware accelerated.
+On MacOS switching to Safari or using [h264ify](https://github.com/erkserkserks/h264ify/index.html.md) ([Chrome Web Store](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal/index.html.md)/index.html.md) solves this since it will use h264 that is hardware accelerated.
 
-To check the status of acceleration on Chrome, see the "Video Encode" option in [about://gpu](about://gpu).
+To check the status of acceleration on Chrome, see the "Video Encode" option in [about://gpu](about://gpu/index.html.md).
 
 ## Hangouts on air
 
-Hangouts on Air probably only works with a maximum of 15 people for scheduled calls (same limit as normal Google Hangouts).
+Hangouts on Air probably only works with a maximum of 15 people for scheduled calls (same limit as normal Google Hangouts/index.html.md).
 
 Potential problem 1: even when I logged in as GitLab and got the bar below the call, I could not switch it to on-air!
-I did notice that the time was not properly set (anymore?).
+I did notice that the time was not properly set (anymore?/index.html.md).
 I did a test event before and that seemed to work OK.
 I'll try one more time to see if it works.
 
 Potential problem 2: the video showed up as listed by default
 
-Go to [My live events on YouTube](https://www.youtube.com/my_live_events) and switch to the GitLab account on the top right (you need to be a manager of our YouTube channel).
+Go to [My live events on YouTube](https://www.youtube.com/my_live_events/index.html.md) and switch to the GitLab account on the top right (you need to be a manager of our YouTube channel/index.html.md).
 
 Go to => life streaming => events and create a new one with the attributes:
 
-- type => quick (using Google Hangouts on Air)
+- type => quick (using Google Hangouts on Air/index.html.md)
 - advanced: promotions: disable both checkboxes
 - time needs to be set correctly
 
 The view on watch page URL only allows for people to watch it.
 Window that pops up when you press the start hangout on air button has the proper URL that you can send to other people and/or add it to the calendar invite, it is structured like: https://plus.google.com/hangouts/_/ytl/LONGHASH.
-When people join the event they have to [accept a warning](https://gitlab.com/snippets/16245).
+When people join the event they have to [accept a warning](https://gitlab.com/snippets/16245/index.html.md).
 
-[Completed live events](https://www.youtube.com/my_live_events?filter=completed) will show the video and you can click the image to view it.
+[Completed live events](https://www.youtube.com/my_live_events?filter=completed/index.html.md) will show the video and you can click the image to view it.
 You can use actions to make it public here.
 
-BTW Trying to set this up via Google+ via [Hangouts on Air](https://support.google.com/plus/answer/7126353?hl=en) instead of via YouTube doesn't seem to connect to the right YouTube channel, even if you selected the right account on the top right.
+BTW Trying to set this up via Google+ via [Hangouts on Air](https://support.google.com/plus/answer/7126353?hl=en/index.html.md) instead of via YouTube doesn't seem to connect to the right YouTube channel, even if you selected the right account on the top right.
 
 ## Grammarly
 
-[Grammarly](https://www.grammarly.com) is a good tool for those who want to feel more comfortable drafting written communication in English (American or British). There is a free and premium version.
+[Grammarly](https://www.grammarly.com/index.html.md) is a good tool for those who want to feel more comfortable drafting written communication in English (American or British/index.html.md). There is a free and premium version.
 
-_Warning:_ Grammarly has a contextual spelling and grammar check. Grammarly will have access to everything you type, they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378).
+_Warning:_ Grammarly has a contextual spelling and grammar check. Grammarly will have access to everything you type, they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378/index.html.md).
 
 ## Gravatar
 
-Link your GitLab email address to an easily recognizable photo of yourself on [Gravatar](https://en.gravatar.com/). It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for any of your GitLab accounts, as we have a lot of GitLabbers and our brains are comfortable with recognizing people; let's use them.
+Link your GitLab email address to an easily recognizable photo of yourself on [Gravatar](https://en.gravatar.com/index.html.md/index.html.md). It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for any of your GitLab accounts, as we have a lot of GitLabbers and our brains are comfortable with recognizing people; let's use them.
 
 ## Appear.in
 
-[Appear.in](https://appear.in/) allows you to instantly create a free video chat room for up to 8 participants with no login and no installation. It also offers a free reliable mobile video conference app.
+[Appear.in](https://appear.in/index.html.md/index.html.md) allows you to instantly create a free video chat room for up to 8 participants with no login and no installation. It also offers a free reliable mobile video conference app.
 
 ## One Tab
 
-[One Tab (Free)](https://www.one-tab.com/) tames tabs into a list which can be sorted and exported.
+[One Tab (Free/index.html.md)](https://www.one-tab.com/index.html.md/index.html.md) tames tabs into a list which can be sorted and exported.
 
 ## Quitter
 
-[Quitter (Free)](https://marco.org/apps) will switch off apps for you after some period of inactivity. Consider using this to hide Slack after a while to reduce your urge to check new messages all the time.
+[Quitter (Free/index.html.md)](https://marco.org/apps/index.html.md) will switch off apps for you after some period of inactivity. Consider using this to hide Slack after a while to reduce your urge to check new messages all the time.
 
 ## TripMode
 
-[TripMode ($7.99)](https://www.tripmode.ch/) lets you control which apps can use the internet. Especially useful when you're working on a cellular/metered connection.
+[TripMode ($7.99/index.html.md)](https://www.tripmode.ch/index.html.md/index.html.md) lets you control which apps can use the internet. Especially useful when you're working on a cellular/metered connection.
 
 ## ShareX
 
-[ShareX (Free / Windows only)](https://getsharex.com/) is the ultimate screen capture toolbox for Windows, which includes many different options to record your screen and automate your workflow with automatic uploading, resizing and much more.
+[ShareX (Free / Windows only/index.html.md)](https://getsharex.com/index.html.md/index.html.md) is the ultimate screen capture toolbox for Windows, which includes many different options to record your screen and automate your workflow with automatic uploading, resizing and much more.
 
 ## Teampaper Snap
 
-[Teampaper Snap (Free / Mac only)](http://teampaper.me/snap/) is the ultimate screen capture tool for Mac to voice your thoughts on anything you can see on a screen.
+[Teampaper Snap (Free / Mac only/index.html.md)](http://teampaper.me/snap/index.html.md/index.html.md) is the ultimate screen capture tool for Mac to voice your thoughts on anything you can see on a screen.
 
 ## Clocker
 
-[Clocker (Free / macOS Only)](https://abhishekbanthia.com/clocker/) adds a clean and distraction free world clock to your menu bar so you can check on your fellow teammates across different timezones.
+[Clocker (Free / macOS Only/index.html.md)](https://abhishekbanthia.com/clocker/index.html.md/index.html.md) adds a clean and distraction free world clock to your menu bar so you can check on your fellow teammates across different timezones.
 
-## Status Clock (UTC)
+## Status Clock (UTC/index.html.md)
 
-[Status Clock](https://itunes.apple.com/us/app/status-clock/id552792489?)
+[Status Clock](https://itunes.apple.com/us/app/status-clock/id552792489?/index.html.md)
 is a free, easy tool to place a second clock into the macOS Menu Bar, e.g. for showing the UTC time.
-Perfect for anyone doing sysadmin work or tasks that require referencing UTC (or any secondary timezone).
+Perfect for anyone doing sysadmin work or tasks that require referencing UTC (or any secondary timezone/index.html.md).
 
 ## Bear
 
-[Bear (Free)](https://www.bear-writer.com/) is a clean writing tool for notes and long-form writing. [Ulysses $5/month](https://ulyssesapp.com/) is also a great choice.
+[Bear (Free/index.html.md)](https://www.bear-writer.com/index.html.md/index.html.md) is a clean writing tool for notes and long-form writing. [Ulysses $5/month](https://ulyssesapp.com/index.html.md/index.html.md) is also a great choice.
 
 ## Loom
 
-[Loom (Free)](https://www.useloom.com/) is a handy Chrome plugin tool for video walkthroughs. Nice tool for demo recordings and internal/external documentation.
+[Loom (Free/index.html.md)](https://www.useloom.com/index.html.md/index.html.md) is a handy Chrome plugin tool for video walkthroughs. Nice tool for demo recordings and internal/external documentation.
 
 ## WorkFrom
-[WorkFrom](https://workfrom.co/) is a crowd-sourced resource of coffee shops and other such places that are remote-work friendly.
+[WorkFrom](https://workfrom.co/index.html.md/index.html.md) is a crowd-sourced resource of coffee shops and other such places that are remote-work friendly.
 
 ## Google Analytics
 
-[Google Analytics (GA)](https://analytics.google.com/) is an essential tool for making
+[Google Analytics (GA/index.html.md)](https://analytics.google.com/index.html.md/index.html.md) is an essential tool for making
 data-driven decisions. It receives data from both about.gitlab.com and docs.gitlab.com websites.
-Read through the [Online Marketing Handbook](../marketing/marketing-sales-development/online-marketing/ga-training/)
+Read through the [Online Marketing Handbook](../marketing/marketing-sales-development/online-marketing/ga-training/index.html.md/index.html.md)
 for more information on GA.
 
 For example, you can look at the GA data to analyze how visited is a certain page, in a period
@@ -493,12 +493,12 @@ coming from and where they go when they leave a certain page.
 
 To see the data for a specific page:
 
-- Open [GA](https://analytics.google.com/analytics/web/), and expand **Behavior** on the sidebar
+- Open [GA](https://analytics.google.com/analytics/web/index.html.md/index.html.md), and expand **Behavior** on the sidebar
 - Click **Site content > All pages**
 - On the top-right, adjust the period of time you'd like to analyze
-- On the middle of the page, look for a search bar and paste the URL you'd like to analyze (without `https://`) and click on the magnifier button to search:
+- On the middle of the page, look for a search bar and paste the URL you'd like to analyze (without `https://`/index.html.md) and click on the magnifier button to search:
 
-    ![Google Analytics - find pageviews](/images/handbook/tools-and-tips/google-analytics-find-pageviews.png)
+    ![Google Analytics - find pageviews](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/google-analytics-find-pageviews.png/index.html.md)
 
     Note that you can use the search tool with:
 
@@ -509,21 +509,21 @@ To see the data for a specific page:
     for a range of URLs in that tree. E.g., `docs.gitlab.com/ee/ci/` will
     return the results for all the range of pages contained in the `/ci/` directory
 
-- GA will output the data about the page (or range of pages) you searched for,
+- GA will output the data about the page (or range of pages/index.html.md) you searched for,
 including pageviews, unique pageviews, and other data:
 
-    ![Google Analytics - see pageviews](/images/handbook/tools-and-tips/google-analytics-pageviews.png)
+    ![Google Analytics - see pageviews](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/google-analytics-pageviews.png/index.html.md)
 
 To find the referrals for a certain page, continue from the steps above.
 
 - Click on one of the website links to look at the data for a page of your choice
 
-    ![Google Analytics - find referrals](/images/handbook/tools-and-tips/google-analytics-find-referrals.png)
+    ![Google Analytics - find referrals](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/google-analytics-find-referrals.png/index.html.md)
 
 - Just above the graph, click **Navigation summary**
 - GA will output the referrals, including **Previous Page Path** and **Next Page Path**:
 
-    ![Google Analytics - see referrals](/images/handbook/tools-and-tips/google-analytics-referrals.png)
+    ![Google Analytics - see referrals](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/google-analytics-referrals.png/index.html.md)
 
 ## Check which process occupies a given port
 
@@ -535,7 +535,7 @@ this command in your `.bash_profile` or equivalent for your shell.
 
 ## Shell aliases
 
-Use command aliases in your shell to speed up your workflow. Take a look at [these aliases](https://gitlab.com/sytses/dotfiles/blob/master/zsh/aliases.zsh) and others in [Sid's dotfiles project](https://gitlab.com/sytses/dotfiles/tree/master). For example, by adding the following to your `.bash_profile` or equivalent for your shell, you can just type <kbd>s</kbd> to checkout the `master` branch of this website, pull the latest changes, and open the repository in Sublime Text:
+Use command aliases in your shell to speed up your workflow. Take a look at [these aliases](https://gitlab.com/sytses/dotfiles/blob/master/zsh/aliases.zsh/index.html.md) and others in [Sid's dotfiles project](https://gitlab.com/sytses/dotfiles/tree/master/index.html.md). For example, by adding the following to your `.bash_profile` or equivalent for your shell, you can just type <kbd>s</kbd> to checkout the `master` branch of this website, pull the latest changes, and open the repository in Sublime Text:
 
 ```sh
 alias gco='git checkout'
@@ -554,10 +554,10 @@ By adding the below mentioned lines in your `.bash_profile` or any equivalent fo
 If you are not inside a git repository, it only displays the username and the current directory.
 
 ```sh
-git_branch() {
-    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+git_branch(/index.html.md) {
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\/index.html.md)/(\1/index.html.md)/'
 }
-export PS1="\u@\[\033[32m\]\w\[\033[33m\]\$(git_branch)\[\033[00m\]\$ "
+export PS1="\u@\[\033[32m\]\w\[\033[33m\]\$(git_branch/index.html.md)\[\033[00m\]\$ "
 ```
 Doing the following, makes the changes to get reflected in you current terminal:
 ```sh
@@ -580,28 +580,28 @@ Putting the following in Preferences.sublime-settings - User will among other th
 
 ## Simplenote
 
-[Simplenote](https://simplenote.com/) is a free, open source note taking app which is cross platform, and syncs across all devices.
+[Simplenote](https://simplenote.com/index.html.md/index.html.md) is a free, open source note taking app which is cross platform, and syncs across all devices.
 
 ## Spectacle App
 
-[Spectacle](https://www.spectacleapp.com/) is a free, open source windows resizing and arrangement tool for Macs and is amazing for productivity -- particularly if you use multiple displays. Once you use this you'll never go back! Consider donating if you love it.
+[Spectacle](https://www.spectacleapp.com/index.html.md/index.html.md) is a free, open source windows resizing and arrangement tool for Macs and is amazing for productivity -- particularly if you use multiple displays. Once you use this you'll never go back! Consider donating if you love it.
 
 ## MobileDay
 
-If you install [MobileDay (Free)](https://mobileday.com/) on your phone and give it access to your Google Calendar it can dial into conference calls for you. It is very good at detecting the number and password from the calendar invite.
+If you install [MobileDay (Free/index.html.md)](https://mobileday.com/index.html.md/index.html.md) on your phone and give it access to your Google Calendar it can dial into conference calls for you. It is very good at detecting the number and password from the calendar invite.
 
 ## Keeping You Awake
 
-[Keeping You Awake (Free & Open Source)](https://github.com/newmarcel/KeepingYouAwake) is a macOS utility application that can prevent your Mac from entering sleep mode for a predefined duration or as long as it is activated.
+[Keeping You Awake (Free & Open Source/index.html.md)](https://github.com/newmarcel/KeepingYouAwake/index.html.md) is a macOS utility application that can prevent your Mac from entering sleep mode for a predefined duration or as long as it is activated.
 
-## SessionBox (Chrome, Firefox 51+, Opera)
+## SessionBox (Chrome, Firefox 51+, Opera/index.html.md)
 
-[SessionBox](https://sessionbox.io/discover) is a browser extension that helps you deal with multiple sessions. It binds a particular session to a tab. This is particularly useful for testing with different users in the same browser.
+[SessionBox](https://sessionbox.io/discover/index.html.md) is a browser extension that helps you deal with multiple sessions. It binds a particular session to a tab. This is particularly useful for testing with different users in the same browser.
 
 ## Enable screen lock on your mac menu bar
 
 1. Open up the `Keychain Access` application
-2. In the menu bar (next to the apple logo), click on `Keychain Access`
+2. In the menu bar (next to the apple logo/index.html.md), click on `Keychain Access`
 3. Click on `Preferences`
 4. Check the box `Show keychain status in menu bar`
 5. The lock icon should now show up on your menu bar
@@ -610,7 +610,7 @@ You can lock your screen by clicking the lock icon on the menu bar and clicking 
 
 ## Visual help to differentiate between GitLab servers
 
-If you are working on multiple GitLab instances and want to have a visual differentiation, you can change the default [Application theme](https://docs.gitlab.com/ee/user/profile/preferences.html#syntax-highlighting-theme) to a different color.
+If you are working on multiple GitLab instances and want to have a visual differentiation, you can change the default [Application theme](https://docs.gitlab.com/ee/user/profile/preferences.html#syntax-highlighting-theme/index.html.md) to a different color.
 
 ## How to change your username at GitLab.com
 
@@ -621,18 +621,18 @@ a database. If we change the username, the userID does not change. And all the
 permissions, issues, MRs, and relevant stuff within GitLab are related to your
 **userID**, not with your username.
 - **Note:** if you are not a GitLab Team member, the same process applies except
-your e-mail ([STEP 2](#change-username-step-2)), which will be different
-(will not be @gitlab.com email), so you can replace it with your own email account.
+your e-mail ([STEP 2](#change-username-step-2/index.html.md)/index.html.md), which will be different
+(will not be @gitlab.com email/index.html.md), so you can replace it with your own email account.
 
 **STEP 1: Request your new username**
 
 - Access the username you want to request via `https://gitlab.com/mary`.
 - Check its activity and projects to see if he/she is an inactive user
-[according to the handbook](/handbook/support/workflows/services/support_workflows/dormant_username_policy.html).
+[according to the handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/support/workflows/services/support_workflows/dormant_username_policy.html/index.html.md).
 - Send your request to `support@gitlab.com`, explaining the reasons why
 you need that username.
 - There's no guarantee that the username will be available for you. Please
-check the [handbook guidelines for dormant usernames](/handbook/support/workflows/services/support_workflows/dormant_username_policy.html).
+check the [handbook guidelines for dormant usernames](https://github.com/isamu-isozaki/teamai_test/tree/master/support/workflows/services/support_workflows/dormant_username_policy.html/index.html.md).
 
 **STEP 2: Create a new account with your new username**
 {: #change-username-step-2}
@@ -640,18 +640,18 @@ check the [handbook guidelines for dormant usernames](/handbook/support/workflow
 - If support replies to you telling that the username is free to use, create a new
 GitLab.com account with it. Use a personal email to register your new account and
 choose one that has not been used with your old GitLab account.
-- Navigate to your [**Profile Settings** > **Emails**](https://gitlab.com/profile/emails),
-and add a new email. ⭐️ **Trick** ⭐️ If your email at GitLab is `mary@gitlab.com`,
+- Navigate to your [**Profile Settings** > **Emails**](https://gitlab.com/profile/emails/index.html.md),
+and add a new email. ⭐� **Trick** ⭐� If your email at GitLab is `mary@gitlab.com`,
 add the new email as `mary+something@gitlab.com`:
-this is a [Gmail trick](https://support.google.com/mail/answer/12096?hl=en)! All
-your emails sent to this alias will end up in your GitLab email account. 😃
+this is a [Gmail trick](https://support.google.com/mail/answer/12096?hl=en/index.html.md)! All
+your emails sent to this alias will end up in your GitLab email account. �
 - Navigate to <https://gitlab.com/profile/notifications> and choose the notifications
 email: `mary+something@gitlab.com`.
 - Open your old account in one browser and the new one in another browser
-(e.g., Chrome and Firefox, or Chrome and Safari) - log in to both accounts at
+(e.g., Chrome and Firefox, or Chrome and Safari/index.html.md) - log in to both accounts at
 the same time.
 
-**STEP 3: Let's have some fun (kidding, this is critical!)**
+**STEP 3: Let's have some fun (kidding, this is critical!/index.html.md)**
 
 - Navigate to <https://gitlab.com/profile/account> in both your accounts.
 - Look for your username. This operation has to be done quickly, otherwise you are
@@ -664,17 +664,17 @@ open them side by side, so that you can keep an eye on both at the same time.
 **update username** yet. Rename your old username `old-mary` to your new
 username `mary` and **DO NOT** update that either. Just leave them typed into the boxes.
 - Make sure you did the previous step right!
-- ⚠️ **CRITICAL** ⚠️ Update the first one (`mary` to `mary-1`). Immediately, click
-**update** on the other one (`old-mary` to `mary`).
+- ⚠� **CRITICAL** ⚠� Update the first one (`mary` to `mary-1`/index.html.md). Immediately, click
+**update** on the other one (`old-mary` to `mary`/index.html.md).
 - Immediately, rename the `mary-1` to your old one `old-mary` and click
 **update username** again.
 - Ta-Da! 🙌
 
-**STEP 4: Move your projects (or not)**
+**STEP 4: Move your projects (or not/index.html.md)**
 
 - Now, if you have any personal projects, you might want to import them to
-your new account (the one that has your old username now). To do that, in
-your new account (the one with the old username), click **Create a New Project**,
+your new account (the one that has your old username now/index.html.md). To do that, in
+your new account (the one with the old username/index.html.md), click **Create a New Project**,
 give it the very same name as the original one, click **Git - add repo by url**,
 and paste the `https://` url of your project there. To make things easier, make
 sure all the projects you want to import are set to `public` view.  You can make
@@ -682,52 +682,52 @@ them private afterwards.
 - If you have GitLab Pages projects with the default **GitLab.io** url, you will need
 to import them to you new account, then make a change to **trigger a build** and
 redeploy your site. They will be affected only if you're using a
-[CNAME with a subdomain instead of an A record](/2016/04/07/gitlab-pages-setup/#custom-domains).
+[CNAME with a subdomain instead of an A record](/2016/04/07/gitlab-pages-setup/#custom-domains/index.html.md).
 This won't affect Pages projects that use custom domains, as they all point to
 the same Pages server IP via `A` record. Your groups won't be affected either,
 as they operate under their own namespace. Add both users as members of your
 groups and nothing changes.
 
 That's it! Don't forget to update your username on the
-[team page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml)
-and on the [Marketing Handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/index.html.md),
+[team page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml/index.html.md)
+and on the [Marketing Handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sourcehttps://github.com/isamu-isozaki/teamai_test/tree/master/marketing/index.html.md/index.html.md),
 in case you're a Marketing Team member.
 
 ## How to create gifs
 
-We have a [dedicated section](/handbook/product/making-gifs) for that in the handbook.
+We have a [dedicated section](https://github.com/isamu-isozaki/teamai_test/tree/master/product/making-gifs/index.html.md) for that in the handbook.
 
 ## Long haul flights
 
 Note: you have to pay for these items yourself.
 
-- [Quiet comfort 35 Bose over ear noise canceling headphones](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html)
-- [Shaped sleep mask](https://www.amazon.com/gp/product/B01HYIER7W/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) (so it doesn't touch your dyed out eyes)
-- Custom molded ear plugs (can be up to $200 hearing aid store but are usable in many situations, there are also [DYI kits](https://www.amazon.com/Radians-CEP001-Custom-Molded-Earplugs/dp/B003A28P4I) but Sid has not tried that)
-- [Melatonin](https://www.webmd.com/vitamins-supplements/ingredientmono-940-melatonin.aspx?activeingredientid=940) (possible unsafe during pregnancy and breast-feeding)
-- Sleeping pills (over the counter is fine)
+- [Quiet comfort 35 Bose over ear noise canceling headphones](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html/index.html.md)
+- [Shaped sleep mask](https://www.amazon.com/gp/product/B01HYIER7W/ref=oh_aui_search_detailpage?ie=UTF8&psc=1/index.html.md) (so it doesn't touch your dyed out eyes/index.html.md)
+- Custom molded ear plugs (can be up to $200 hearing aid store but are usable in many situations, there are also [DYI kits](https://www.amazon.com/Radians-CEP001-Custom-Molded-Earplugs/dp/B003A28P4I/index.html.md) but Sid has not tried that/index.html.md)
+- [Melatonin](https://www.webmd.com/vitamins-supplements/ingredientmono-940-melatonin.aspx?activeingredientid=940/index.html.md) (possible unsafe during pregnancy and breast-feeding/index.html.md)
+- Sleeping pills (over the counter is fine/index.html.md)
 
 ## Count handbook pages
 
-`find source/handbook -type f | xargs wc -w`
+`find sourcehttps://github.com/isamu-isozaki/teamai_test/tree/master -type f | xargs wc -w`
 
-It was 636063 words on 2018-04-17, 1414 pages according to [Wordcounter](https://wordcounter.net/words-per-page), and that is not counting the images.
+It was 636063 words on 2018-04-17, 1414 pages according to [Wordcounter](https://wordcounter.net/words-per-page/index.html.md), and that is not counting the images.
 
 ## Webex
 
-If people want to use Webex instead of Zoom consider installing their [native client under WebEx Productivity Tools](https://analyst-gartner.webex.com/mc3100/meetingcenter/support/support.do?siteurl=analyst-gartner&Action=downloads).
+If people want to use Webex instead of Zoom consider installing their [native client under WebEx Productivity Tools](https://analyst-gartner.webex.com/mc3100/meetingcenter/support/support.do?siteurl=analyst-gartner&Action=downloads/index.html.md).
 With the in-browser plugin the screen sharing sometimes doesn't work.
 
 ## Alfred
 
-[£19 tool for OS X](https://www.alfredapp.com/) is an application launcher on steroids.
-With the (paid) [Powerpack](https://www.alfredapp.com/powerpack/buy/), it's the best companion for developers, enabling automation and also a fantastic clipboard history.
-This feature is nicely integrated with many tools, and for example will forget passwords copied from 1password after they have been pasted. Using either the free or paid version you can also [create custom web searches](https://www.alfredapp.com/help/features/web-search/custom-searches/) that will allow you to quickly search GitLab documentation and the handbook.
+[£19 tool for OS X](https://www.alfredapp.com/index.html.md/index.html.md) is an application launcher on steroids.
+With the (paid/index.html.md) [Powerpack](https://www.alfredapp.com/powerpack/buy/index.html.md/index.html.md), it's the best companion for developers, enabling automation and also a fantastic clipboard history.
+This feature is nicely integrated with many tools, and for example will forget passwords copied from 1password after they have been pasted. Using either the free or paid version you can also [create custom web searches](https://www.alfredapp.com/help/features/web-search/custom-searches/index.html.md/index.html.md) that will allow you to quickly search GitLab documentation and the handbook.
 
 Simply create two custom web searches and input the URLs below as the search URL for each.
 
 - https://docs.gitlab.com/search/?q={query}
-- https://about.gitlab.com/handbook/#stq={query}&stp=1
+- https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/#stq={query}&stp=1
 
 ## JetBrains
 
@@ -738,36 +738,36 @@ please notify us via `jetbrains@gitlab.com`, so that we can assign the license t
 
 ## 2FA debugging
 
-If 2FA stops working unexpectedly (no new phone or computer) it's usually because of improperly configured date & time on either device. Make sure that "Automatic Date & Time" is **enabled** on both devices. If they're already enabled try toggling them off and on again to force an update.
+If 2FA stops working unexpectedly (no new phone or computer/index.html.md) it's usually because of improperly configured date & time on either device. Make sure that "Automatic Date & Time" is **enabled** on both devices. If they're already enabled try toggling them off and on again to force an update.
 If this doesn't work, request that PeopleOps reset your 2FA setting.
 
 Links for finding the settings:
 - iOS: https://support.apple.com/en-us/HT203483
 - macOS: https://support.apple.com/kb/PH25523?locale=en_US
-- Linux (using systemd): https://wiki.archlinux.org/index.php/systemd-timesyncd
+- Linux (using systemd/index.html.md): https://wiki.archlinux.org/index.php/systemd-timesyncd
 
 For Android there's no definitive link, since most vendors have different UIs for their settings. But in the Settings-app, look for "Date & Time" and there should be a "Automatic Date & Time" toggle.
 
 ## Brain.fm
 
-[Brain.fm (free trial)](http://brain.fm) provides music specially designed to help you focus, relax, meditate, recharge, sleep (great for plane rides).
+[Brain.fm (free trial/index.html.md)](http://brain.fm/index.html.md) provides music specially designed to help you focus, relax, meditate, recharge, sleep (great for plane rides/index.html.md).
 It's not just music though. They use scientifically validated brainwave manipulations to get results. It is AMAZING and really does work.
-Make sure to use with headphones, and give it 10-15 minutes for your brain to get used to it. ($6.95/$15.99/$47.40 per month/quarter/year)
+Make sure to use with headphones, and give it 10-15 minutes for your brain to get used to it. ($6.95/$15.99/$47.40 per month/quarter/year/index.html.md)
 
 ## Do NOT Use
 
-**Flash**: Due to security flaws, we strongly recommend _not_ using Adobe Flash. Certainly do not install it on your local machine. But even the Google Chrome plugin that let's you see embedded Flash content in websites can pose a security hazard. If you have not already, go to your [Chrome Flash Settings](chrome://settings/content/flash) and disable Flash. For further context, note that [Google Chrome is removing Flash support soon](https://nakedsecurity.sophos.com/2016/05/18/yet-more-bad-news-for-flash-as-google-chrome-says-goodbye-sort-of/), and while the [plugin is better than a local install of Flash](http://security.stackexchange.com/questions/98117/should-flash-be-disabled-or-are-sandboxes-secure-enough), it still leaves vulnerabilities for [zero-day attacks](http://www.pctools.com/security-news/zero-day-vulnerability/).
+**Flash**: Due to security flaws, we strongly recommend _not_ using Adobe Flash. Certainly do not install it on your local machine. But even the Google Chrome plugin that let's you see embedded Flash content in websites can pose a security hazard. If you have not already, go to your [Chrome Flash Settings](chrome://settings/content/flash/index.html.md) and disable Flash. For further context, note that [Google Chrome is removing Flash support soon](https://nakedsecurity.sophos.com/2016/05/18/yet-more-bad-news-for-flash-as-google-chrome-says-goodbye-sort-of/index.html.md/index.html.md), and while the [plugin is better than a local install of Flash](http://security.stackexchange.com/questions/98117/should-flash-be-disabled-or-are-sandboxes-secure-enough/index.html.md), it still leaves vulnerabilities for [zero-day attacks](http://www.pctools.com/security-news/zero-day-vulnerability/index.html.md/index.html.md).
 
 ## GitLabber's Setups
 
-For engineers interested in using Linux, please see our [linux tools page](/handbook/tools-and-tips/linux-tools/).
+For engineers interested in using Linux, please see our [linux tools page](https://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/linux-tools/index.html.md/index.html.md).
 
-@tipyn's [home office equipment and macOS setup](https://gitlab.com/tipyn/macos-setup/blob/master/README.md)
+@tipyn's [home office equipment and macOS setup](https://gitlab.com/tipyn/macos-setup/blob/master/README.md/index.html.md)
 
 ## The Pomodoro Technique
 
 Using this time management method is a great way to define time into "work" & "break" intervals that boost productivity. In brief; A 30 minute block of time is divided into a 25 minute work session, followed by a 5 minute break session. Repeat this twice an hour till the day is done & marvel at how much you've finished.
 
-Link to [Pomodoro Technique Wikipedia Page](https://en.wikipedia.org/wiki/Pomodoro_Technique).
+Link to [Pomodoro Technique Wikipedia Page](https://en.wikipedia.org/wiki/Pomodoro_Technique/index.html.md).
 
-Link to download a [Pomodoro Chrome Extension](https://chrome.google.com/webstore/search/pomodoro).
+Link to download a [Pomodoro Chrome Extension](https://chrome.google.com/webstore/search/pomodoro/index.html.md).

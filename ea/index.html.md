@@ -17,7 +17,7 @@ If there are things that might seem pretentious or overbearing please raise them
 ## Meeting request requirements
 
 If you want to schedule a meeting, email the EA the following:
-* Must have/optional attendees (keep in mind that the more must haves, the harder to schedule/more time needed)
+* Must have/optional attendees (keep in mind that the more must haves, the harder to schedule/more time needed/index.html.md)
 * Meeting type: internal prep, client facing/customer, prospective customer, etc
 * Urgency: in the next two days, in the next week or two, etc
 * Duration: 25 mins, 50 mins, etc.
@@ -28,18 +28,18 @@ In case you have a **same day** request, you can send the same information in th
 
 ### Formats for invites
 * MTG for meetings in person, either in the boardroom or another location
-* INTERVIEW for interviews (make sure to loop in our PR partner)
+* INTERVIEW for interviews (make sure to loop in our PR partner/index.html.md)
 * PHONECALL for phone calls
 * VIDEOCALL for video conference calls using Zoom
-  * Example: “VIDEOCALL Kirsten Abma for Executive Assistant” or "VIDEOCALL Kirsten Abma (GitLab) & Sid Sijbrandij (GitLab)""
-* When using the [Zoom plugin for Google Calendar](/handbook/communication/#video-calls) you can easily get the info you need in the invite.
+  * Example: “VIDEOCALL Kirsten Abma for Executive Assistant� or "VIDEOCALL Kirsten Abma (GitLab/index.html.md) & Sid Sijbrandij (GitLab/index.html.md)""
+* When using the [Zoom plugin for Google Calendar](https://github.com/isamu-isozaki/teamai_test/tree/master/communication/#video-calls/index.html.md) you can easily get the info you need in the invite.
 * Please add the subject of the call in the description, for internal and external calls.
 <br>
 * All external meetings RSVP should be confirmed with the guests a day before to make sure people are attending or need to reschedule
 * When meetings are being rescheduled please put RESCHEDULING at the beginning of the appointment
 * When video calls or meetings are being recorded add RECORDING to the invite so people in the boardroom can see it and keep the background noise minimal
 * Addresses in calendar invites should only have an address and nothing else
-* **Everyone external** receives a link to the [GitLab About page](/about). Only for final interviews people receive the form to fill out.
+* **Everyone external** receives a link to the [GitLab About page](/about/index.html.md). Only for final interviews people receive the form to fill out.
 * **All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
 
 Make sure to include the following in the description:
@@ -63,12 +63,12 @@ Copy-paste instructions to GitLab boardroom from the Google Doc the EA's have sa
 
 ## General scheduling guidelines
 
-* [everytimezone.com](http://www.everytimezone.com) can help determine the best time to schedule
-* You can add other [calendars](calendar.google.com) on the left, to see when GitLab team members are free to schedule a meeting with
-* Use for example a tool like [Skyscanner](www.skyscanner.com) to find different flight options with most airlines when needing to book travel
+* [everytimezone.com](http://www.everytimezone.com/index.html.md) can help determine the best time to schedule
+* You can add other [calendars](calendar.google.com/index.html.md) on the left, to see when GitLab team members are free to schedule a meeting with
+* Use for example a tool like [Skyscanner](www.skyscanner.com/index.html.md) to find different flight options with most airlines when needing to book travel
 <br>
 <br>
-* Schedule calls in European timezones in the morning (am) Pacific (Daylight) Time and US time zones in the afternoon (pm) Pacific (Daylight) Time
+* Schedule calls in European timezones in the morning (am/index.html.md) Pacific (Daylight/index.html.md) Time and US time zones in the afternoon (pm/index.html.md) Pacific (Daylight/index.html.md) Time
 * Keep 1 hour open in calendar per day for email
 * Holds on the schedule should be removed at least 15 minutes before the preceeding meeting starts.
 * Monthly video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
@@ -77,16 +77,16 @@ Copy-paste instructions to GitLab boardroom from the Google Doc the EA's have sa
 <br>
 <br>
 * For meetings or lunch/dinner appointments, always make sure to add the address in the invite of the location where it’s scheduled.
-* Make sure to plan travel time (in a separate calendar item, just for the exec) before and after the meeting in case another meeting or call should follow.
+* Make sure to plan travel time (in a separate calendar item, just for the exec/index.html.md) before and after the meeting in case another meeting or call should follow.
 * Sales meetings are important. If the CEO can help the process, feel free to include him in the meeting by working with the EA on this.
 
 ## E Group In-person Meetings and Board Meetings
 
 There should be one invite for all attendees that includes the following:
 
-* Exact meeting time blocked (ie: Start at 9am PST, End at 5pm PST)
+* Exact meeting time blocked (ie: Start at 9am PST, End at 5pm PST/index.html.md)
 * Zoom Link for remote participants
-* Agenda (the agenda should also include the zoom link at the top)
+* Agenda (the agenda should also include the zoom link at the top/index.html.md)
 
 Make sure to:
 
@@ -98,11 +98,11 @@ Make sure to:
 * Labels: /archive, /respond or /urgent-important
 * Prepare draft responses
 * Standard reply for recruiters:
-“We do not accept solicitations by recruiters, recruiting agencies, headhunters, and outsourcing organizations. Please find all info [on our jobs page](/jobs/#no-recruiters)
+“We do not accept solicitations by recruiters, recruiting agencies, headhunters, and outsourcing organizations. Please find all info [on our jobs page](/jobs/#no-recruiters/index.html.md)
 
 ## Physical Mail
 
-* Check all incoming (physical) mail at 1233 Howard Street and sort the urgent and important letters.
+* Check all incoming (physical/index.html.md) mail at 1233 Howard Street and sort the urgent and important letters.
 * Inform AP if invoices came in.
 * Inform other people/departments if mail is addressed for them and include a scan of the document.
 
@@ -115,17 +115,17 @@ If a flight was changed or not taken due to delays or other circumstances, make 
 ## Expensify
 
 * When you’re logged in, you can find wingman account access for other team members in the top right corner menu.
-* Check their email (if you have access), using the search bar in the top, to find any receipts for the postings in the current expense report.
+* Check their email (if you have access/index.html.md), using the search bar in the top, to find any receipts for the postings in the current expense report.
 * And/or write down what receipts are missing and email to request them if needed.
 
 ## Scheduling preferences for Sid Sijbrandij, CEO
 
 * Don't schedule over the Infrastucture team call unless approved
-* Mark the events listed in [Google Calendar section](/handbook/communication/#google-calendar) of the handbook as 'Private'
-* The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1) of items to be handled by Sid's EA
+* Mark the events listed in [Google Calendar section](https://github.com/isamu-isozaki/teamai_test/tree/master/communication/#google-calendar/index.html.md) of the handbook as 'Private'
+* The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1/index.html.md) of items to be handled by Sid's EA
 * Monthly video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
-* After each meeting with a potential investor, make sure to update the sheet with the information on these meetings (to be found in the agenda doc for Sid's EA)
-* Follow up on introductions from certain recipients (board, investors) immediately without asking for approval.
+* After each meeting with a potential investor, make sure to update the sheet with the information on these meetings (to be found in the agenda doc for Sid's EA/index.html.md)
+* Follow up on introductions from certain recipients (board, investors/index.html.md) immediately without asking for approval.
 * If Sid is meeting with a potential hire, make sure to create a profile in our ATS before the meeting for Sid to take notes during the call.
 
 <br>
@@ -138,22 +138,22 @@ If a flight was changed or not taken due to delays or other circumstances, make 
 Current preferences for flights are:
 * Aisle seat
 * Check a bag for all trips longer than one night
-* Frequent Flyer details of all (previously flown) airlines are in EA vault of 1Password as well as important passport/visa info
+* Frequent Flyer details of all (previously flown/index.html.md) airlines are in EA vault of 1Password as well as important passport/visa info
 
 ### Pick your brain meetings
 
 If people want advice on open source, remote work, or other things related to GitLab we'll consider that. If Sid approves of the request we suggest the following since we want to make sure the content is radiated as wide as possible.:
 
-1. We send an email: "Thanks for being interested in GitLab. If we schedule a meeting it will follow the format on /handbook/ceo/#pick-your-brain-meetings Are you able to submit a draft post with us within 48 hours of interview?"
-1. If we receive a positive answer we schedule a 50 minute Zoom video call or [visit to our boardroom](/visiting/) that is recorded by us, uploaded to Youtube as a private video, and shared with you.
+1. We send an email: "Thanks for being interested in GitLab. If we schedule a meeting it will follow the format on https://github.com/isamu-isozaki/teamai_test/tree/master/ceo/#pick-your-brain-meetings Are you able to submit a draft post with us within 48 hours of interview?"
+1. If we receive a positive answer we schedule a 50 minute Zoom video call or [visit to our boardroom](/visiting/index.html.md/index.html.md) that is recorded by us, uploaded to Youtube as a private video, and shared with you.
 1. Within 48 hours you share a draft post with us in a Google Doc with suggestion or edit rights for anyone that knows the url.
 1. You can redact anything you don't want to publish.
 1. Our content department will work with you to publish the post within the agreed timeframe.
-1. A great examples of this in action are the first two times we did this [/2016/07/14/building-an-open-source-company-interview-with-gitlabs-ceo/](https://news.ycombinator.com/item?id=12615723) and [https://news.ycombinator.com/item?id=12615723](https://news.ycombinator.com/item?id=12615723). Both got to nr. 1 on [Hacker News](https://news.ycombinator.com/).
+1. A great examples of this in action are the first two times we did this [/2016/07/14/building-an-open-source-company-interview-with-gitlabs-ceo/](https://news.ycombinator.com/item?id=12615723/index.html.md) and [https://news.ycombinator.com/item?id=12615723](https://news.ycombinator.com/item?id=12615723/index.html.md). Both got to nr. 1 on [Hacker News](https://news.ycombinator.com/index.html.md/index.html.md).
 
-The EA-team will create an issue once it's scheduled with the label [ceo-interview on GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com/issues?label_name=ceo-interview&scope=all&state=all) should follow up to make sure the draft post is submitted.
+The EA-team will create an issue once it's scheduled with the label [ceo-interview on GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com/issues?label_name=ceo-interview&scope=all&state=all/index.html.md) should follow up to make sure the draft post is submitted.
 
-Reply to emails: Thanks for wanting to chat. I propose we meet in the format proposed on /handbook/ceo/#pick-your-brain-meetings so that other people benefit from our conversation too. If you're up for that please work with Kirsten (cc:) to schedule a time and location.
+Reply to emails: Thanks for wanting to chat. I propose we meet in the format proposed on https://github.com/isamu-isozaki/teamai_test/tree/master/ceo/#pick-your-brain-meetings so that other people benefit from our conversation too. If you're up for that please work with Kirsten (cc:/index.html.md) to schedule a time and location.
 
 Alternatively we can also make it a YouTube live event, people can ask us questions in the chat during the event, and we can share the recording later.
 
@@ -161,9 +161,9 @@ Alternatively we can also make it a YouTube live event, people can ask us questi
 
 * Meetings according to time zone. Try to keep mornings free for people in GMT+
 * On the weeks Barbie has her kids she will doing school drop off and pick up. If needed - she can take calls during pick up 3:45-4:15pm but can’t do video.
-* Barbie likes when she can have free time (30 minutes) between 4:30-5pm to help the kids with homework, but it isn’t required.
-* Hours between 7am-8:30am (M,T,TH,F) 8-9:30am (W)  5-8pm are sacred for family time on the weeks she has the kids. On Wednesdays her kids don’t start school until 9:15am so she leaves the house around 9am to drop them off and is usually home by 9:15am. 
-* Barbie loves reminders - upcoming meetings that she may need to prep for. Out of office email responders, etc (ie: PeopleOps FGU, PeopleOps Monthly Metrics, PeopleOps 101, etc).
+* Barbie likes when she can have free time (30 minutes/index.html.md) between 4:30-5pm to help the kids with homework, but it isn’t required.
+* Hours between 7am-8:30am (M,T,TH,F/index.html.md) 8-9:30am (W/index.html.md)  5-8pm are sacred for family time on the weeks she has the kids. On Wednesdays her kids don’t start school until 9:15am so she leaves the house around 9am to drop them off and is usually home by 9:15am. 
+* Barbie loves reminders - upcoming meetings that she may need to prep for. Out of office email responders, etc (ie: PeopleOps FGU, PeopleOps Monthly Metrics, PeopleOps 101, etc/index.html.md).
 * Ensure Calendar is up to date on out of office days to cancel, decline, and reschedule meetings
 * All Meetings should have personal zoom link
 * All E-Group meetings should have a Zoom link and accurate times in the invite
@@ -172,18 +172,18 @@ Alternatively we can also make it a YouTube live event, people can ask us questi
 
 ## Scheduling for Michael McBride, CRO
 
-* Prefers “appropriate length” conversations, so short meetings are okay on the calendar.  If a topic only needs 10 mins, book 10 mins instead of 30, etc.
-* He also almost always runs late ;-)
+* Prefers “appropriate length� conversations, so short meetings are okay on the calendar.  If a topic only needs 10 mins, book 10 mins instead of 30, etc.
+* He also almost always runs late ;-/index.html.md)
 * Include Meeting Agendas in invites / make sure the team knows to include this with requests for time.
 * Flexible with late evening calls for Asia or Australia - check with him first. 
 * Add pre-emptive blocks in calendar that can be used for meetings or calls.
-* Add an hour a day for work time - title “workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that it can still happen.
+* Add an hour a day for work time - title “workflow�. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that it can still happen.
 
 ## Scheduling for Eric Johnson, VPE
 
-* 1:1 Meeting title format: “Person:Eric 1:1”
-* Tick the box “Attendees can modify”
-* Please create an additional reminder (besides the default 10min pop-up) that is 1 day. Email (reminds me to go into the doc and populate notes)
+* 1:1 Meeting title format: “Person:Eric 1:1�
+* Tick the box “Attendees can modify�
+* Please create an additional reminder (besides the default 10min pop-up/index.html.md) that is 1 day. Email (reminds me to go into the doc and populate notes/index.html.md)
 * Use Personal Zoom for meetings with the exception of back to back meetings. Please ensure there is another Zoom link.
 Note: Eric will attach private 1:1 docs to the meeting series once they are created.
 * Eric will block off personal appointments and family related blocks. 

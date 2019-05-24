@@ -14,7 +14,7 @@ category: Shared Infrastructure
 
 ## Jira Server
 
-[Jira](https://www.atlassian.com/software/jira/core) is a project 
+[Jira](https://www.atlassian.com/software/jira/core/index.html.md) is a project 
 management product from Atlassian which integrates with GitLab. To test 
 and debug we've configured a server at http://jira.gitlap.com:8080.
 

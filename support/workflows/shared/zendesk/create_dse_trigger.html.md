@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: Creating a DSE trigger (for Resellers)
+title: Creating a DSE trigger (for Resellers/index.html.md)
 category: Zendesk
 ---
 
@@ -18,7 +18,7 @@ category: Zendesk
 ### Overview
 
 
-Use this workflow when adding a DSE trigger to ZenDesk as part of the Dedicated Support Engineering policy - /handbook/support/#dedicated-support-engineers
+Use this workflow when adding a DSE trigger to ZenDesk as part of the Dedicated Support Engineering policy - https://github.com/isamu-isozaki/teamai_test/tree/master/support/#dedicated-support-engineers
 
 ______________
 
@@ -31,10 +31,10 @@ ______________
    - If the organization does not exist, create a new organization
 https://gitlab.zendesk.com/agent/organizations/new
 
-1. Navigate to the trigger page in ZenDesk (administrator account required)
+1. Navigate to the trigger page in ZenDesk (administrator account required/index.html.md)
    - https://gitlab.zendesk.com/agent/admin/triggers
 
-1. Click “add trigger”
+1. Click “add trigger�
 
 1. **Trigger title:** DSE: Assign {RESELLER} to {AGENT}
 
@@ -49,4 +49,4 @@ Ticket: Assignee {AGENT}
 Ticket: Priority High
 
 ```
-*Replace {RESELLER} with the organization name (see first step). Replace {AGENT} with the Support Engineers first name.*
+*Replace {RESELLER} with the organization name (see first step/index.html.md). Replace {AGENT} with the Support Engineers first name.*

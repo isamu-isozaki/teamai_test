@@ -27,7 +27,7 @@ Users don't have to set up or ask others to set up a project across applications
 
 ### Single setup
 
-With [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/) your new projects have all the needed testing and deployment from the get go. And by having logging and security scanning happen automatically you reduce risk.
+With [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/index.html.md/index.html.md) your new projects have all the needed testing and deployment from the get go. And by having logging and security scanning happen automatically you reduce risk.
 
 ### Single interface
 
@@ -79,11 +79,11 @@ multiple trainers to manage.
 We prefer to offer a single application instead of a network of services or
 offering plugins for the following reasons:
 
-1. We think a single application provides a better user experience than a modular approach, as detailed by [this article from Stratechery](https://stratechery.com/2013/clayton-christensen-got-wrong/).
+1. We think a single application provides a better user experience than a modular approach, as detailed by [this article from Stratechery](https://stratechery.com/2013/clayton-christensen-got-wrong/index.html.md/index.html.md).
 1. The open source nature of GitLab ensures that that we can combine great open source products.
-1. Everyone can contribute to create a feature set that is [more complete than other tools](/comparison/). We'll focus on making all the parts work well together to create a better user experience.
+1. Everyone can contribute to create a feature set that is [more complete than other tools](/comparison/index.html.md/index.html.md). We'll focus on making all the parts work well together to create a better user experience.
 1. Because GitLab is open source the enhancements can become [part of
-the codebase instead](https://docs.gitlab.com/ee/project_services/project_services.html) of being external. This ensures the automated tests for all
+the codebase instead](https://docs.gitlab.com/ee/project_services/project_services.html/index.html.md) of being external. This ensures the automated tests for all
 functionality are continually run, ensuring that additions keep working. This is in contrast to externally maintained plugins that might not be updated.
 1. Having the enhancements as part of the codebase also
 ensures GitLab can continue to evolve with its additions instead of being bound
@@ -129,22 +129,22 @@ correct context and can start to solve the issue immediately.
 
 ### Security benefits
 
-When we have [added aggregated logging](https://gitlab.com/gitlab-org/gitlab-ee/issues/3711) we can move on to some security features that only a single application for the whole DevOps lifecycle can offer out of the box:
+When we have [added aggregated logging](https://gitlab.com/gitlab-org/gitlab-ee/issues/3711/index.html.md) we can move on to some security features that only a single application for the whole DevOps lifecycle can offer out of the box:
 
-1. Log complete requests (header, payload, cookie) from Nginx to Elastic Search to form the basis of an Intrusion Detection System (IDS) and give you complete sitemaps. We can probably use something like `client_body_in_file_only` and we don't need something like [MITM proxy](https://mitmproxy.org/) since we can use the SSL keys.
+1. Log complete requests (header, payload, cookie/index.html.md) from Nginx to Elastic Search to form the basis of an Intrusion Detection System (IDS/index.html.md) and give you complete sitemaps. We can probably use something like `client_body_in_file_only` and we don't need something like [MITM proxy](https://mitmproxy.org/index.html.md/index.html.md) since we can use the SSL keys.
 1. Log complete sessions, that contain multiple requests over time, such as logging in and creating a new object before the final request is possible.
-1. Modify the payload or headers with something like [wfuzz](https://github.com/xmendez/wfuzz) and content like [seclists](https://github.com/danielmiessler/SecLists), run it against a review app and see what http status returns change from 2xx to 5xx and/or where you can do a [SQL string escape](https://github.com/thlorenz/sql-escape-string). Show a sorted list of starting with the most likely vulnerabilities.
+1. Modify the payload or headers with something like [wfuzz](https://github.com/xmendez/wfuzz/index.html.md) and content like [seclists](https://github.com/danielmiessler/SecLists/index.html.md), run it against a review app and see what http status returns change from 2xx to 5xx and/or where you can do a [SQL string escape](https://github.com/thlorenz/sql-escape-string/index.html.md). Show a sorted list of starting with the most likely vulnerabilities.
 1. When running the above fuzzing payloads see if they hit new code paths by instrumenting the application with runtime application self protection and then sort by seeing what code paths are the least covered by the unit tests ran by GitLab CI.
-1. Any [error tracking](https://gitlab.com/gitlab-org/gitlab-ee/issues/5686) report contains all the requests in that user session to generate that state.
-1. When someone submits a vulnerability report combine this with any 500 error stack traces stored in [error tracking](https://gitlab.com/gitlab-org/gitlab-ee/issues/5686).
-1. When fuzzing or a human hits a vulnerability generate a [pcap file](https://en.wikipedia.org/wiki/Pcap) with the request and start scanning production traffic for this.
+1. Any [error tracking](https://gitlab.com/gitlab-org/gitlab-ee/issues/5686/index.html.md) report contains all the requests in that user session to generate that state.
+1. When someone submits a vulnerability report combine this with any 500 error stack traces stored in [error tracking](https://gitlab.com/gitlab-org/gitlab-ee/issues/5686/index.html.md).
+1. When fuzzing or a human hits a vulnerability generate a [pcap file](https://en.wikipedia.org/wiki/Pcap/index.html.md) with the request and start scanning production traffic for this.
 
-### Lower operating expense (OpEx)
+### Lower operating expense (OpEx/index.html.md)
 Building and maintaining integration between multiple individual point tools comes with additional overt and
 hidden costs.
 
 #### Overt cost
-The overt cost of paying for [licensing and support of multiple tools](/roi/replace/) is
+The overt cost of paying for [licensing and support of multiple tools](/roi/replace/index.html.md/index.html.md) is
 higher than a single application. A single application can charge less because fixed costs are distributed
 across the functionality vs each separate vendor needing to pay those costs themselves for their
 point solution.
@@ -153,16 +153,16 @@ point solution.
 Businesses that manage a toolchain pay hidden operating costs in the form of engineering time needed to
 build and maintain the toolchain instead of using those engineering resources to write software with
 business logic that delivers differentiated value. For a large enterprise this can be the difference
-between [paying 20 engineers vs one engineer](/handbook/marketing/product-marketing/#administrative-overhead)
+between [paying 20 engineers vs one engineer](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/#administrative-overhead/index.html.md)
 to maintain your tools.
 
 ### Further examples
 
-1. Planning (code merge closes issues updates epic) - Always up to date and across different projects
+1. Planning (code merge closes issues updates epic/index.html.md) - Always up to date and across different projects
 1. Move from issue board to issue tracker - Kanban boards are consistent with issue tracker
 1. Getting the stack running for a new developer - Can start developing without setup time or help
 1. Merge request contains monitoring, security, etc. information - Can see overview in MR of tests, quality, performance, browser performance, artifacts, discussion, environment, rollback
-1. Security (security in parallel, instead of separate) - Security tests results can be aggregated
+1. Security (security in parallel, instead of separate/index.html.md) - Security tests results can be aggregated
 1. Identify vulnerable applications quickly and automate the remedy
 1. Add the build application to a container registry - No need to set up a project in the container registry and pass credentials around
 1. Need to find an artifact from a CI build - Artifacts are accessible directly from any merge request
@@ -172,7 +172,7 @@ to maintain your tools.
 1. A project adopts containerization - New servers are automatically provisioned via Kubernetes
 1. Rollback a failing deployment automatically without human intervention
 1. Activity feeds span all product categories, across DevOps lifecycle
-1. Cycle time (real time and integrated) - Can view activity across DevOps lifecycle
+1. Cycle time (real time and integrated/index.html.md) - Can view activity across DevOps lifecycle
 1. Permission levels and settings - User rights are consistent across all applications
 1. Audit log - What a person was able to do across the lifecycle in audit logs
 1. Geo does not just to SCM, it also does CI, CD, issue tracking - People at other location have quick access to the whole DevOps-lifecycle, not just repos
@@ -203,7 +203,7 @@ has to check out code locally to verify changes in a development environment,
 but you simply click on the environment link and try things out.
 
 Only a tool that combines code review with CI/CD pipelines and integration with
-container schedulers (Kubernetes) is able to quickly create and shut down review
+container schedulers (Kubernetes/index.html.md) is able to quickly create and shut down review
 apps and make them part of the review process.
 
 ### Cycle Analytics
@@ -220,8 +220,8 @@ faster.
 Every GitLab projects comes with a container registry. That means there is no
 need for elaborate configuration to be able to use and push container images in
 CI. Rather, all you have to do is use a [pre-defined
-variable](https://docs.gitlab.com/ee/user/project/container_registry.html) in
-your CI configuration file (`.gitlab-ci.yml`).
+variable](https://docs.gitlab.com/ee/user/project/container_registry.html/index.html.md) in
+your CI configuration file (`.gitlab-ci.yml`/index.html.md).
 
 ### Use cases, not modules
 

@@ -6,7 +6,7 @@ title: Support Handbook
 ## Welcome to the GitLab Support Handbook
 {: .no_toc}
 
-**Looking for technical support? Please visit the [Support Page](/support/) instead.**
+**Looking for technical support? Please visit the [Support Page](/support/index.html.md/index.html.md) instead.**
 {:.no_toc}
 
 ----
@@ -21,7 +21,7 @@ title: Support Handbook
 
 ## <i class="fas fa-question-circle fa-fw icon-color font-awesome" aria-hidden="true"></i>  Support Direction
 
-The overall direction for Support in 2018 is set by our overall [strategic objectives](/strategy), with a particular emphasis on continued improvement of (Premium) Customer satisfaction. As can also be inferred from our [publicly visible OKR page](/okrs/), the effort focuses on the following elements.
+The overall direction for Support in 2018 is set by our overall [strategic objectives](/strategy/index.html.md), with a particular emphasis on continued improvement of (Premium/index.html.md) Customer satisfaction. As can also be inferred from our [publicly visible OKR page](/okrs/index.html.md/index.html.md), the effort focuses on the following elements.
 
 **Triaging Support Effort**
 
@@ -31,11 +31,11 @@ By triaging support effort through internal SLAs and integration of SalesForce, 
 
 In 2016 and 2017 we expanded the support team significantly, and this trend will continue in 2018. Along the way, the Support team developed internal training tools to assist in rapid, robust, self-guided training for any team member. As GitLab -- the product -- continues to expand, so will the skill and knowledge of all Support Engineers to be able to continue providing an excellent customer support experience.
 
-Know someone who might be a great fit for our team? Please refer them to the [Support Engineer job description](/job-families/engineering/support-engineer).
+Know someone who might be a great fit for our team? Please refer them to the [Support Engineer job description](/job-families/engineering/support-engineer/index.html.md).
 
 **Actionable Analytics**
 
-Better reporting on ticket metrics (topic, response times, product it relates to, etc.) will help guide the Support Team's priorities in terms of adding to the greatest documentation needs, bug fixes, and support processes.
+Better reporting on ticket metrics (topic, response times, product it relates to, etc./index.html.md) will help guide the Support Team's priorities in terms of adding to the greatest documentation needs, bug fixes, and support processes.
 
 ----
 
@@ -52,7 +52,7 @@ and include:
 1. Any other supporting information
 
 Include your Manager, Director of Support, Abuse Team and Chief Culture Officer in this issue. Together we will evaluate on a
-case-by-case basis whether to take action (e.g. ban the user from the forums for violating the Code of Conduct).
+case-by-case basis whether to take action (e.g. ban the user from the forums for violating the Code of Conduct/index.html.md).
 
 ## Our Meetings
 
@@ -82,7 +82,7 @@ During the meeting, the chair:
 
 * will ensure that each point in the agenda is covered by the listed person,
 * may ask the team to move a discussion to a relevant issue when appropriate,
-* cover [metrics in brief](#weekly-metrics-in-brief), and
+* cover [metrics in brief](#weekly-metrics-in-brief/index.html.md), and
 * copy the agenda template for the following week and tag the next chair/secretary.
 
 If a chair is not available, it is their responsibility to find a substitute.
@@ -97,7 +97,7 @@ Answers to questions, deeper insight, and analysis is not expected of the chair.
 
 ## Cross Functional Meetings
 As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab. As such we have standing meetings
-across functions to help surface issues and smooth the interface between groups. If you're missing from this list (and want to be on it)
+across functions to help surface issues and smooth the interface between groups. If you're missing from this list (and want to be on it/index.html.md)
 please let the Support Managers know in `#support-managers`
 
 If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#support-managers`.
@@ -116,42 +116,42 @@ If you're on the Support Team and have something you'd like to surface, or would
  
 
 ## Time Off
-The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
+The Support Team follows [GitLab's paid time off policy](https://github.com/isamu-isozaki/teamai_test/tree/master/paid-time-off/index.html.md). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
 
-In addition to the tips in [Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off) please also:
-- add an event to the [**Support Time-off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) calendar with your name and a brief note, marked "free", and optionally inviting your manager
-- ensure that you take steps to alert your availability in Calendly (either in the Calendly app, or by making meetings marked "busy" during your working hours)
+In addition to the tips in [Communicating Your Time Off](https://github.com/isamu-isozaki/teamai_test/tree/master/paid-time-off/#communicating-your-time-off/index.html.md) please also:
+- add an event to the [**Support Time-off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com/index.html.md) calendar with your name and a brief note, marked "free", and optionally inviting your manager
+- ensure that you take steps to alert your availability in Calendly (either in the Calendly app, or by making meetings marked "busy" during your working hours/index.html.md)
 - if you're on-call, make sure you have coverage and that PagerDuty is up to date
 - reschedule any 1:1 meetings with your manager
 - add an agenda item during the team meeting before your time off
 - add an agenda item after you get back to let us know what you've been up to!
 
-If you do not have access to the [**Support Time-off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) team calendar, please raise it in the `#support` channel on Slack and someone will share it with you.
+If you do not have access to the [**Support Time-off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com/index.html.md) team calendar, please raise it in the `#support` channel on Slack and someone will share it with you.
 
 ### Support Ops
 
-Please see  [Support Ops](/handbook/support/support-ops).
+Please see  [Support Ops](https://github.com/isamu-isozaki/teamai_test/tree/master/support/support-ops/index.html.md).
 
 ## Additional Resources for the Support Team
 
 ### Breach Hawks
 
-Breach hawks are members of the support team who help the rest of the team keep an eye out for nearly-breaching tickets, so that they can be responded to in a timely manner. Of course, any and all members of the Support Team will have a sense of how many tickets are close to breaching and how high the load is on any given day. But it can happen that you're deep into a ticket, a customer call, etc., unaware of the impending doom. That's where breach hawks come in: they tackle their tickets, but they also keep an eye out for the team at large and can call in the [Support Turbos](#support-turbo) when needed.
+Breach hawks are members of the support team who help the rest of the team keep an eye out for nearly-breaching tickets, so that they can be responded to in a timely manner. Of course, any and all members of the Support Team will have a sense of how many tickets are close to breaching and how high the load is on any given day. But it can happen that you're deep into a ticket, a customer call, etc., unaware of the impending doom. That's where breach hawks come in: they tackle their tickets, but they also keep an eye out for the team at large and can call in the [Support Turbos](#support-turbo/index.html.md) when needed.
 
 ### Support Turbo
 
-Every now and then, it may occur that we come close to breaching our SLAs. To prevent an actual breach from occurring, the Support team can call on the help of several "Support Turbo" developers who are denoted on the [Team Page](/team/).
+Every now and then, it may occur that we come close to breaching our SLAs. To prevent an actual breach from occurring, the Support team can call on the help of several "Support Turbo" developers who are denoted on the [Team Page](/team/index.html.md/index.html.md).
 
 Anyone within the support team can call Turbos when there is a need for it. Turbos should be called by pinging specific people via Slack. If you are in doubt who is available, you can use `@turbos`, but this may lead to a bystander effect.
 
-The support team calls for help when necessary via Slack. Support Turbos should treat requests to solve breaching tickets with high priority. If a Turbo is working on something that cannot wait (e.g. security release, critical regressions, direction issues with near deadlines), the Turbo should ensure that someone else fields the request for Turbos by checking with the development lead or VP of Engineering.
+The support team calls for help when necessary via Slack. Support Turbos should treat requests to solve breaching tickets with high priority. If a Turbo is working on something that cannot wait (e.g. security release, critical regressions, direction issues with near deadlines/index.html.md), the Turbo should ensure that someone else fields the request for Turbos by checking with the development lead or VP of Engineering.
 
 Further guidelines when rolling up your sleeves to do Turbo work:
 
-- Turbos should attempt to pick up "single touch" tickets (though this is not always easy to recognize) whenever possible
+- Turbos should attempt to pick up "single touch" tickets (though this is not always easy to recognize/index.html.md) whenever possible
 - Since Turbos log in using a generic agent, there are some special considerations:
    - Pro-actively sign the tickets with your name, or leave an internal note so that the rest of the team knows which individual provided a response. This is helpful to be able to reach out and gain context, etc.
-   - Do not [assign tickets](https://support.zendesk.com/hc/en-us/articles/203690956) to the generic agent account. Leave the assignee as the "group", otherwise these tickets will get lost.
+   - Do not [assign tickets](https://support.zendesk.com/hc/en-us/articles/203690956/index.html.md) to the generic agent account. Leave the assignee as the "group", otherwise these tickets will get lost.
    - Please remember that people may pick up any ticket after you've replied. Adding any issues, docs, or follow-up expectations for a reply as an internal comment would be really beneficial for the person picking it up after you.
 
 ## Contacting Support
@@ -160,16 +160,16 @@ Further guidelines when rolling up your sleeves to do Turbo work:
 
 Fellow GitLab team members can reach out for help from the Support Team in various ways:
 
-1. For normal support questions ("Can GitLab do x?", "How do I do y with GitLab?") try:
+1. For normal support questions ("Can GitLab do x?", "How do I do y with GitLab?"/index.html.md) try:
    - posing your question on the `#questions` channel in Slack, so that everyone can contribute to an answer. If you're not getting an answer, try cross-posting in the relevant support team channel.
-1. For longer term or larger scope questions, such a process change, or data gathering requests, create a [support issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues)
-1. If you have a user or account request that needs a GitLab.com administrator, please create an issue in the [dotcom internal requests tracker](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal).
-1. If customers or users have questions, advise them to contact support directly via the [support web form](https://support.gitlab.com).
+1. For longer term or larger scope questions, such a process change, or data gathering requests, create a [support issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/index.html.md)
+1. If you have a user or account request that needs a GitLab.com administrator, please create an issue in the [dotcom internal requests tracker](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/index.html.md).
+1. If customers or users have questions, advise them to contact support directly via the [support web form](https://support.gitlab.com/index.html.md).
 1. As a last resort, ping the support team on the one of the support channels.
 
 ### Support Issue Tracker
 
-The [Support project](https://gitlab.com/gitlab-com/support/support-team-meta/issues) hosts an issue tracker meant to improve our workflow by reporting any problems that may arise in our tools or processes. It's also meant to propose and discuss ideas in general.
+The [Support project](https://gitlab.com/gitlab-com/support/support-team-meta/issues/index.html.md) hosts an issue tracker meant to improve our workflow by reporting any problems that may arise in our tools or processes. It's also meant to propose and discuss ideas in general.
 
 The issue tracker is open to the community and part of the GitLab.com group. It should not contain any sensitive information. Links to Zendesk or other references are encouraged.
 
@@ -177,12 +177,12 @@ The issue tracker is open to the community and part of the GitLab.com group. It 
 
 We use our chat internally as a realtime communication tool. The support channels are as follows:
 
-- [#questions](https://gitlab.slack.com/messages/questions) - If your question is something that you think anyone in the company could answer or is valuable to the greater company to know, ask it here!
-- [#support-live-feed](https://gitlab.slack.com/messages/support-live-feed) - Feed of all Zendesk related events
-- [#services-live-feed](https://gitlab.slack.com/messages/CADGU8CG1) - Feed of all Zendesk related events for views that the GitLab.com Support team uses
-- [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed) - This channel is specifically for coordination related to Self Hosted issues.
-- [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG) - This channel is specifically for the GitLab.com support team. They handle GitLab.com account and subscription support and GitHost.
-- [#githost](https://gitlab.slack.com/messages/githost) - This channel handles monitoring for GitHost instances.
+- [#questions](https://gitlab.slack.com/messages/questions/index.html.md) - If your question is something that you think anyone in the company could answer or is valuable to the greater company to know, ask it here!
+- [#support-live-feed](https://gitlab.slack.com/messages/support-live-feed/index.html.md) - Feed of all Zendesk related events
+- [#services-live-feed](https://gitlab.slack.com/messages/CADGU8CG1/index.html.md) - Feed of all Zendesk related events for views that the GitLab.com Support team uses
+- [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/index.html.md) - This channel is specifically for coordination related to Self Hosted issues.
+- [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/index.html.md) - This channel is specifically for the GitLab.com support team. They handle GitLab.com account and subscription support and GitHost.
+- [#githost](https://gitlab.slack.com/messages/githost/index.html.md) - This channel handles monitoring for GitHost instances.
 
 In order to attract support team's attention in Slack, you can use the team handles, mentioning multiple team members in a message or a thread where support is needed. Support team handles are:
 - `@support-selfmanaged` - Self-managed support team members.
@@ -191,13 +191,13 @@ In order to attract support team's attention in Slack, you can use the team hand
 
 ## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i> Support Resources
 
-- [Support Onboarding](/handbook/support/onboarding)
-   - [Support Engineer Onboarding Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Support%20Engineering%20Bootcamp.md)
-   - [GitLab.com Support Agent Onboarding Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/GitLab.com%20Support%20Agent.md)
-- [All Support Workflows](/handbook/support/workflows)
-   - [GitLab.com Support Workflows](/handbook/support/workflows/services)
-   - [Support Engineering Workflows](/handbook/support/workflows/support-engineering)
-- [Support Channels](/handbook/support/channels)
-- [On-Call](/handbook/on-call/)
-- [Support Ops](/handbook/support/support-ops)
-- [Advanced Topics](/handbook/support/advanced-topics)
+- [Support Onboarding](https://github.com/isamu-isozaki/teamai_test/tree/master/support/onboarding/index.html.md)
+   - [Support Engineer Onboarding Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Support%20Engineering%20Bootcamp.md/index.html.md)
+   - [GitLab.com Support Agent Onboarding Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/GitLab.com%20Support%20Agent.md/index.html.md)
+- [All Support Workflows](https://github.com/isamu-isozaki/teamai_test/tree/master/support/workflows/index.html.md)
+   - [GitLab.com Support Workflows](https://github.com/isamu-isozaki/teamai_test/tree/master/support/workflows/services/index.html.md)
+   - [Support Engineering Workflows](https://github.com/isamu-isozaki/teamai_test/tree/master/support/workflows/support-engineering/index.html.md)
+- [Support Channels](https://github.com/isamu-isozaki/teamai_test/tree/master/support/channels/index.html.md)
+- [On-Call](https://github.com/isamu-isozaki/teamai_test/tree/master/on-call/index.html.md/index.html.md)
+- [Support Ops](https://github.com/isamu-isozaki/teamai_test/tree/master/support/support-ops/index.html.md)
+- [Advanced Topics](https://github.com/isamu-isozaki/teamai_test/tree/master/support/advanced-topics/index.html.md)

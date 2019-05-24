@@ -22,13 +22,13 @@ The following questions can be used to help develop the opportunity and advance 
     * What problems are they looking to solve?
         - If these problems are not solved, what happens?  What are the implications of these problems?
     * What tools are you using in your Dev Ops stack?
-        - Bug Tracker (Issue Tracker)
+        - Bug Tracker (Issue Tracker/index.html.md)
         - CI
         - Code Review
         - Deployment
         - Project Management/Agile Tools
-    * What performance issues are you experiencing in any of these areas (stack above)?
-    * Where is this interest/initiative coming from?  (At the top or only this lead - is it company, unit, or personal interest.  The higher the initiative, the more likely to close and quickly)
+    * What performance issues are you experiencing in any of these areas (stack above/index.html.md)?
+    * Where is this interest/initiative coming from?  (At the top or only this lead - is it company, unit, or personal interest.  The higher the initiative, the more likely to close and quickly/index.html.md)
     * What is the timing to purchase?
     * What are the requirements you have for this project?
         - What does success look like?
@@ -38,14 +38,14 @@ The following questions can be used to help develop the opportunity and advance 
     * What is your role and what do you do?
         - Ideal Roles: Infrastructure/Cloud/Enterprise Architects, Dev Ops, System Admin/Engineer, IT Managers/Directors, Release Engineer , VP Engineering
     * How would you describe what your group does?
-    * How large is your group? (Goal is to find out who will use GitLab and how large the opportunity could be)
+    * How large is your group? (Goal is to find out who will use GitLab and how large the opportunity could be/index.html.md)
     * Are other groups using Git?
         - If no, why not? and what Version Control Systems are they using?
         - If yes, who are they using?
     * Does each team/group purchase their own solutions or is their a department who does this?
         - If a centralized department, what is that groups name?
 
-1. Additional qualification questions if prospect signed up for free trial.  (Goal: Know how to ensure a successful trial)
+1. Additional qualification questions if prospect signed up for free trial.  (Goal: Know how to ensure a successful trial/index.html.md)
     * What would constitute a successful trial?
     * Are there certain features that are most important to you in your evaluation?
     * How many users are you interested in deploying on GitLab?
@@ -54,7 +54,7 @@ The following questions can be used to help develop the opportunity and advance 
     * Are you looking to bring one division of your company on to EE?
         - If only a group, what is preventing you from bringing on the entire company at this time?
 
-1. Opportunity Development Questions (Goal: develop their implicit and explicit needs.  Why they must make a decision)
+1. Opportunity Development Questions (Goal: develop their implicit and explicit needs.  Why they must make a decision/index.html.md)
     * How important is increased security/authentication for you and your company? For example, Two factor LDAP authentication
     * How important would it be to assign different user levels for team members to only be able to access certain areas of the source code?
     * Do you need to work with large binary files?
@@ -69,7 +69,7 @@ The following questions can be used to help develop the opportunity and advance 
         - how important is it to integrate with Jenkins?
     * How important is it to you to reduce costs being spent on with other test and review tools?
 
-1. Post Sale Account Development (Goal: Understand why they bought and use nuggets to further expand the sale and help with other sales)
+1. Post Sale Account Development (Goal: Understand why they bought and use nuggets to further expand the sale and help with other sales/index.html.md)
     * How is the adoption of GitLab going?
     * What are you liking about GitLab EE?
     * What are you not liking or have questions about?

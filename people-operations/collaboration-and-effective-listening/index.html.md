@@ -23,15 +23,15 @@ We did a training on these subjects which you can find here:
 
 ## Collaboration
 
-![collaboration](/images/training/collaboration_image.png)
+![collaboration](/images/training/collaboration_image.png/index.html.md)
 
 
 
 **What is collaboration?**
 
-Collaborate, according the the Merriam- Webster Dictionary, means “to work jointly with others or together especially in an intellectual endeavor.”
+Collaborate, according the the Merriam- Webster Dictionary, means “to work jointly with others or together especially in an intellectual endeavor.�
 
-A workforce, also according to the Merriam-Webster Dictionary, is comprised of “the people engaged in a specific activity or enterprise.”
+A workforce, also according to the Merriam-Webster Dictionary, is comprised of “the people engaged in a specific activity or enterprise.�
 
 Put it together and a collaborative workforce is a group of people working together toward a specific goal.
 
@@ -73,9 +73,9 @@ Think about a time that you tried to share information on how to complete a task
   <iframe src="https://www.youtube.com/embed/G6FDts-erVw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-It is estimated that people (listener) will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader).
+It is estimated that people (listener/index.html.md) will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader/index.html.md).
 
-## Effective Listening and Communication (what not to do!)
+## Effective Listening and Communication (what not to do!/index.html.md)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/sr1uS8KZbto" frameborder="0" allowfullscreen="true"> </iframe>
@@ -124,7 +124,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 
 ## THINK Before You Speak
 
-![think](/images/training/think_image.png)
+![think](/images/training/think_image.png/index.html.md)
 
 
 
@@ -135,22 +135,22 @@ There is a delicate balance between being confident enough to be assertive of pe
 
 ## Add-A Pal
 
-“A”  Assure a fair process
-“D”  Don’t react
-“D”  Deal with emotions
-“A”  Attack the problem and not the person
-“P”  Practice direct communication
-“A”  Ask about interests
-“L”  Look to the future
+“A�  Assure a fair process
+“D�  Don’t react
+“D�  Deal with emotions
+“A�  Attack the problem and not the person
+“P�  Practice direct communication
+“A�  Ask about interests
+“L�  Look to the future
 
 ## Ladder
 
-“L”  Look at the person speaking to you
-“A”  Ask questions
-“D”  Don’t Interrupt
-“D”  Don’t change the subject
-“E”  Empathize
-“R”  Respond verbally & non-verbally
+“L�  Look at the person speaking to you
+“A�  Ask questions
+“D�  Don’t Interrupt
+“D�  Don’t change the subject
+“E�  Empathize
+“R�  Respond verbally & non-verbally
 
 ## Summary
 
@@ -176,7 +176,7 @@ There is a delicate balance between being confident enough to be assertive of pe
   -  Reacting defensively to situations
 ^
 - **Improve Your Communication Skills**
-  - Listen carefully and focus on the speaker's’ message, this will allow you to respond appropriately and avoid misunderstandings
+  - Listen carefully and focus on the speaker's� message, this will allow you to respond appropriately and avoid misunderstandings
   - When the speaker is finished, state your understanding to ensure there is no misinterpretation
 ^
 - **Resolve Conflicts Early**

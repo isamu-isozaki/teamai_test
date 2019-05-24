@@ -20,7 +20,7 @@ tasks or improve our workflows.
 The premium breach notifications is a webhook that is triggered by a ZenDesk
 automation titled `Premium one hour breach tag`. The trigger looks for any
 high premium tagged tickets that have less than 2 hours left on the breach clock.
-The automation [runs at the top of every hour](https://support.zendesk.com/hc/en-us/articles/203662236-About-automations-and-how-they-work)
+The automation [runs at the top of every hour](https://support.zendesk.com/hc/en-us/articles/203662236-About-automations-and-how-they-work/index.html.md)
 and due to this limitation, it does not run at the exact hour the ticket is less than 2 hour from breaching.
 
 Once the ticket is updated, a trigger sends a webhook to slack which is
@@ -84,4 +84,4 @@ The webhook is formatted in json:
 ## Other tools
 {: #other-tools}
 
-[Supportbot](https://gitlab.com/gl-support/gitlab-support-bot/tree/master/) : Bot for getting ZenDesk tickets.
+[Supportbot](https://gitlab.com/gl-support/gitlab-support-bot/tree/master/index.html.md/index.html.md) : Bot for getting ZenDesk tickets.

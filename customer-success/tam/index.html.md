@@ -12,11 +12,11 @@ title: "Technical Account Management"
 - TOC
 {:toc}
 
-## What is a Technical Account Manager (TAM)?
+## What is a Technical Account Manager (TAM/index.html.md)?
 
 GitLab's Technical Account Managers serve as trusted advisors to GitLab customers. They offer guidance, planning and oversight during the technical deployment and implementation process. They fill a unique space in the overall service lifecycle and customer journey and actively bind together sales, solution architects, customer stakeholders, product management, implementation engineers and support. 
 
-See the [Technical Account Manager role description](/job-families/sales/technical-account-manager/) for further information.
+See the [Technical Account Manager role description](/job-families/sales/technical-account-manager/index.html.md/index.html.md) for further information.
 
 ### Advocacy
 A Technical Account Manager is an advocate for both the customer and GitLab. They act on behalf of customers serving as a feedback channel to development and shaping of the product.  In good balance, they also advocate on behalf of GitLab to champion capabilities and features that will improve quality, increase efficiency and realize new value for our customer base.
@@ -72,45 +72,45 @@ It is also possible for a customer to pay for a Technical Account Manager's serv
 There are three models currently offered for Technical Account Manager engagement. These are broken into tiers that currently use Annual Recurring Revenue as a metric for determining a manageable volume for a single Technical Account Manager and the depth of involvement during the engagement.
 
 ## Table of Technical Account Manager Engagements
-Technical Account Managers focus on [large and strategic accounts](/handbook/sales/#market-segmentation), [small business (SMB) and mid-market accounts](/handbook/sales/#market-segmentation) are typically handled by [Account Managers](/handbook/customer-success/account-management). 
+Technical Account Managers focus on [large and strategic accounts](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/#market-segmentation/index.html.md), [small business (SMB/index.html.md) and mid-market accounts](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/#market-segmentation/index.html.md) are typically handled by [Account Managers](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/account-management/index.html.md). 
 
 ||TIER 1 |TIER 2 |TIER 3 |
 |:---|:---|:---|:---|
 |Minimum ARR|$500,000|$250,000|$100,000|
 
 ## Managing the Customer Engagement
-Technical Account Managers will typically manage customer engagements via a GitLab project in the [`account-management` group](https://gitlab.com/gitlab-com/account-management/). This project will be based off a [customer collaboration project template](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) and then customized to match the customer's needs as outlined above. The project is pre-loaded with milestones, issues, labels and a README template to help kick off the project and outline a proof of concept, implementation and customer onboarding.
+Technical Account Managers will typically manage customer engagements via a GitLab project in the [`account-management` group](https://gitlab.com/gitlab-com/account-management/index.html.md/index.html.md). This project will be based off a [customer collaboration project template](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template/index.html.md) and then customized to match the customer's needs as outlined above. The project is pre-loaded with milestones, issues, labels and a README template to help kick off the project and outline a proof of concept, implementation and customer onboarding.
 
 ### To start a new customer engagement:
 1.  Somewhere between step 3 and step 7 of the customer journey sequence, a Solutions Architect should create a project for the customer in GitLab and include an Implementation Engineer and Technical Account Manager who're best aligned with the customer account.
-2. Go to the [customer collaboration project template project](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template).
+2. Go to the [customer collaboration project template project](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template/index.html.md).
 3. Follow the steps in the PLEASE-READ-THESE-INSTRUCTIONS.md file
 
 ### Where does a Technical Account Manager fit in?
-During the pre-sales process, a Solutions Architect owns the project with assistance from the Strategic Account Leader and should include the Implementation Engineer if there is one assigned. During the pre-sales project, a Technical Account Manager is involved but only for visibility. Until the account becomes a paying customer, the project remains in pre-sales. Once the customer has paid, the Strategic Account Leader will set up the Welcome to GitLab call along with the key GitLab employees (SAL, SA, IE and Technical Account Manager) and the customer. There is a preloaded issue for this in the project template.
+During the pre-sales process, a Solutions Architect owns the project with assistance from the Strategic Account Leader and should include the Implementation Engineer if there is one assigned. During the pre-sales project, a Technical Account Manager is involved but only for visibility. Until the account becomes a paying customer, the project remains in pre-sales. Once the customer has paid, the Strategic Account Leader will set up the Welcome to GitLab call along with the key GitLab employees (SAL, SA, IE and Technical Account Manager/index.html.md) and the customer. There is a preloaded issue for this in the project template.
 
-This call will introduce the customer to the Technical Account Manager and begin the handover process. The Technical Account Manager will then lead the rest of the call and own the project going forward. The project is then moved from a pre-sales project under the [`pre-sales account-management` group](https://gitlab.com/gitlab-com/account-management/pre-sales) to a post-sales project under [`account-management` group](https://gitlab.com/gitlab-com/account-management).
+This call will introduce the customer to the Technical Account Manager and begin the handover process. The Technical Account Manager will then lead the rest of the call and own the project going forward. The project is then moved from a pre-sales project under the [`pre-sales account-management` group](https://gitlab.com/gitlab-com/account-management/pre-sales/index.html.md) to a post-sales project under [`account-management` group](https://gitlab.com/gitlab-com/account-management/index.html.md).
 
 Typically this project template isn't used for small business or mid-market accounts. However, if an Account Manager feels this could be useful to assist their relationship with the customer, then they can utilise it and edit down as needed. 
 
 # Account Triaging
 
-In order to prevent customer churn and improve retention of our customers, we have an [Account Triage](https://gitlab.com/gitlab-com/customer-success/account-triage) project in GitLab. The information for this project is documented in the README.md for the project itself. 
+In order to prevent customer churn and improve retention of our customers, we have an [Account Triage](https://gitlab.com/gitlab-com/customer-success/account-triage/index.html.md) project in GitLab. The information for this project is documented in the README.md for the project itself. 
 
 # Customer Onboarding
 
-We should include a pre-defined set of professional services in each initial purchase. This will address customer experience across all "Gemstone" segmentation of customers whilst setting a precedent to how all customers are managed (with regards to outreach, support, technical account management etc.) throughout the duration of their experience and relationship with GitLab. This also includes small business and mid-market accounts. 
+We should include a pre-defined set of professional services in each initial purchase. This will address customer experience across all "Gemstone" segmentation of customers whilst setting a precedent to how all customers are managed (with regards to outreach, support, technical account management etc./index.html.md) throughout the duration of their experience and relationship with GitLab. This also includes small business and mid-market accounts. 
 
 Technical Account Managers and Implementation Engineers should work closely together throughout the onboarding process, with support from Solutions Architects where appropriate.
 
 ## Example Accounts Categorised by Gemstone 
 
-|  Customer | Tier | Segmentation | Product | On Prem? | Licenses Purchased | Total Expected/Predicted Adoption (Over 3 years)| Onboarding Gemstone | Technical Account Manager | Onboarding Time | 
+|  Customer | Tier | Segmentation | Product | On Prem? | Licenses Purchased | Total Expected/Predicted Adoption (Over 3 years/index.html.md)| Onboarding Gemstone | Technical Account Manager | Onboarding Time | 
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |  ------ | 
 | Homeworld Inc. | 1 | Strategic | Premium | Yes | 12,500 | 12,500 | Diamond | Yes | 180 Days |
 | Beach City Corp. | 1 | Large | Premium | Yes | 1020 | 4000 | Pearl | Yes | 180 days |
 | Funland Arcade | 2 | Strategic | Premium | Yes | 2500 | 5000 | Pearl | Yes | 180 Days |
-| Le Hotel | 3 | Large | Ultimate | No (GitHost) | 450 | 500 | Sapphire | Yes | 90 Days |
+| Le Hotel | 3 | Large | Ultimate | No (GitHost/index.html.md) | 450 | 500 | Sapphire | Yes | 90 Days |
 | The Crab Shack | 4 | Large | Starter | Yes | 2100 | 4100 | Ruby | No | 90 Days |
 | Buddwick Public Library | 4 | Strategic | Ultimate | Yes | 25 | 300 | Ruby | No | 90 Days |
 | Big Donut | 4 | Mid-Market | Starter | Yes | 500 | 500 | Quartz | No | 30 days |
@@ -124,7 +124,7 @@ At the time of writing this, there are only two customers who are on Starter and
 * Weekly TAM calls & IE is included on weekly calls
 * GitLab Customer Success project
 * Personal outreach & automated outreach
-* Hands on keyboard; On-site (total 2 weeks) support throughout onboarding
+* Hands on keyboard; On-site (total 2 weeks/index.html.md) support throughout onboarding
 * Remote support throughout onboarding
 
 ### Pearl
@@ -132,7 +132,7 @@ At the time of writing this, there are only two customers who are on Starter and
 * Weekly TAM calls & IE is included when needed.
 * GitLab Customer Success project
 * Personal outreach & automated outreach
-* On-site (1-3 days) kick-off with architecture discussion and training
+* On-site (1-3 days/index.html.md) kick-off with architecture discussion and training
 * Remote support throughout onboarding
 
 ### Sapphire
@@ -173,7 +173,7 @@ Currently, These profiles and data points are a work in progress and the Custome
 Some of these currently include:  
 
 * The Customer Collaboration Project - we are testing this as a type of customer success plan as well as a collaboration project between the team assigned to the customer.
-* Google documents, such as decks (a slightly older method) which outline a success plan created by the Strategic Account Leader and running notes pages within "Pods", where account planning is reviewed each week/bi-weekly between those pods.
-* Salesforce (SFDC): This is our main source of truth and contains all activity, notes and communication between Technical Account Managers, Solutions Architects and Implementation Engineers and their respective customers. The Customer Success Plans should also be linked to this record.
+* Google documents, such as decks (a slightly older method/index.html.md) which outline a success plan created by the Strategic Account Leader and running notes pages within "Pods", where account planning is reviewed each week/bi-weekly between those pods.
+* Salesforce (SFDC/index.html.md): This is our main source of truth and contains all activity, notes and communication between Technical Account Managers, Solutions Architects and Implementation Engineers and their respective customers. The Customer Success Plans should also be linked to this record.
 
 We are currently researching various Customer Success Applications, such as Gainsight, with which to fully manage post-sales customer success, reporting and strategy around accounts. Salesforce is somewhat limited in certain areas that pertain to Customer Success so this is becoming more of a necessity and will hopefully become part of our workflow some time in 2019.

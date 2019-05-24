@@ -26,6 +26,6 @@ ______________
 
 #### High Priority Cases
 In some cases, a renewal may be of particularly high priority and needs urgent attention (e.g. the license
-will expire within a few days). In these cases, please:
+will expire within a few days/index.html.md). In these cases, please:
 1. Determine who the account owner is in SFDC
 1. Ping them on Slack with the appropriate ticket number and context

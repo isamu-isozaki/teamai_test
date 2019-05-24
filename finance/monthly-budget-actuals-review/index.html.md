@@ -21,6 +21,6 @@ Following the month-end close, the Accounting Manager distributes department inc
 1. Budget owners are responsible for performing their analysis and make any related inquiries within two business days of receiving the reports.
 
 #### Expense Controls and Improving Efficiency
-1. The primary mechanism to ensure efficient spend of company assets is the approval process prior to authorization. See [Signature Authorization Matrix](/handbook/finance/authorization-matrix/).
-1. The secondary mechanism relates to approval of the payment and related voucher package according to the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/)
+1. The primary mechanism to ensure efficient spend of company assets is the approval process prior to authorization. See [Signature Authorization Matrix](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/authorization-matrix/index.html.md/index.html.md).
+1. The secondary mechanism relates to approval of the payment and related voucher package according to the [Signature Authorization Matrix](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/authorization-matrix/index.html.md/index.html.md)
 1. The third mechanism is the budget vs actual review to determine reasons for variances vs Plan. 

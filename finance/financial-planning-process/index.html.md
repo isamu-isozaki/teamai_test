@@ -11,7 +11,7 @@ title: "Financial Planning Process"
 
 ## Financial Planning Process
 
-At GitLab, we run a rolling 4 quarter forecast process. This means that we are always looking out a minimum of 12 months when projecting revenue and expenses, and we update those forecasts at least once per quarter. Things move quickly and our forecast needs to iterate quickly to keep up with the business. We plan our expenses at a high level (e-group) and we expect this group to make prioritizations and trade-offs while remaining accountable against the budget parameters. By reforecasting quarterly, we can quickly evaluate and incorporate new initiatives into our forecasting model. That being said, we do follow an annual plan to set our goals and measurement for our top-level targets of revenue, profitability and expense management. We follow the cadence below in our planning process:
+At GitLab, we run a rolling 4 quarter forecast process. This means that we are always looking out a minimum of 12 months when projecting revenue and expenses, and we update those forecasts at least once per quarter. Things move quickly and our forecast needs to iterate quickly to keep up with the business. We plan our expenses at a high level (e-group/index.html.md) and we expect this group to make prioritizations and trade-offs while remaining accountable against the budget parameters. By reforecasting quarterly, we can quickly evaluate and incorporate new initiatives into our forecasting model. That being said, we do follow an annual plan to set our goals and measurement for our top-level targets of revenue, profitability and expense management. We follow the cadence below in our planning process:
 
 **Note: During the last quarter of the year, GitLab runs a 5 quarter forecast that aligns with it's annual planning efforts.** 
 
@@ -61,9 +61,9 @@ At GitLab, we run a rolling 4 quarter forecast process. This means that we are a
 * **30th of September** - Four quarter rolling forecast completed
 * **1st of November** - Preliminary outlook reviewed at  Board of Directors
 * **6th of November** - Plan iteration and discussion at egroup offsite in Sonoma
-* **30th of November** - Product Roadmap and Investments (board review)
-* **6th of December** - Sales Ramp and Compensation (board review)
-* **13th of December** - Marketing and Demand Generation (board review)
+* **30th of November** - Product Roadmap and Investments (board review/index.html.md)
+* **6th of December** - Sales Ramp and Compensation (board review/index.html.md)
+* **13th of December** - Marketing and Demand Generation (board review/index.html.md)
 * **5th of January** - Sales compensation plans distributed to sales team
 * **25th of January** - Plan sent to Board for Approval
 * **31st of January** - 20xx Plan Approved by Board

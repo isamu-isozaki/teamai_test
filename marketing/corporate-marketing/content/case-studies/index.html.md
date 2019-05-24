@@ -15,9 +15,9 @@ The goal of the customer case studies program is to share and market the success
 them craft their story in a way that makes them proud and excited to talk about their success with GitLab. 
 
 Examples:
-- [Axway](/customers/axway/)
-- [Paessler](/customers/paessler/)
-- [Equinix](/customers/equinix/)
+- [Axway](/customers/axway/index.html.md/index.html.md)
+- [Paessler](/customers/paessler/index.html.md/index.html.md)
+- [Equinix](/customers/equinix/index.html.md/index.html.md)
 
 ### Objectives:
 - Illustrate successful and measurable improvements in the customerâ€™s business
@@ -26,11 +26,11 @@ Examples:
 - Develop and grow organizational relationships: speak at events on our behalf, promote their business
 
 A formal case study produces a polished, finished document or video published on our
-[customers page](/customers/). Case studies can include multiple formats, including
+[customers page](/customers/index.html.md/index.html.md). Case studies can include multiple formats, including
 a web page, video, downloadable PDF, and associated blog posts.
 
 A customer story is a blog post about how a customer solved a particular problem or
-received a specific benefit and are published on GitLab's [blog](/blog/).
+received a specific benefit and are published on GitLab's [blog](/blog/index.html.md/index.html.md).
 Customer stories can also be anonymous. e.g. "A large international financial services
 company used Gitlab CI/CD to reduce build times from 1 hour to 10 mins."
 
@@ -38,9 +38,9 @@ company used Gitlab CI/CD to reduce build times from 1 hour to 10 mins."
 
 **Internal discovery**
 
-Once you have a customer who either (1) has an excellent use case or (2) has committed to participating in a case study:
+Once you have a customer who either (1/index.html.md) has an excellent use case or (2/index.html.md) has committed to participating in a case study:
 
-1. AE: [Create & fill out a new issue in the Marketing issue tracker](https://gitlab.com/gitlab-com/marketing/general/issues/new?issue) and use the "Customer_Story_Kickoff" template. Mark issue confidential and assign to @erica. 
+1. AE: [Create & fill out a new issue in the Marketing issue tracker](https://gitlab.com/gitlab-com/marketing/general/issues/new?issue/index.html.md) and use the "Customer_Story_Kickoff" template. Mark issue confidential and assign to @erica. 
 1. Content: Assign to a writer and label `case study`.
 1. Content: Schedule an interal discovery meeting between AE and writer to discuss the use case, angle, and identify potential metrics. 
 1. Both: Set timeline for engagement and deliverables. 
@@ -58,14 +58,14 @@ Once you have a customer who either (1) has an excellent use case or (2) has com
 **Interview** 
 
 1. Content: write abstract and interview questions 1 week ahead of interview. 
-1. Content: Conduct 1 hour interview with case study subject(s). 
+1. Content: Conduct 1 hour interview with case study subject(s/index.html.md). 
 1. Content: Confirm deliverables and set timelines and expectations with the customer.
 1. Content: Confirm case study storyline, and schedule a follow-up interview if necessary.
 
 **Production**
 
-1. Content: Submit audio recording for transcription using [Transcription Panda's](https://transcriptionpanda.com/) `standard` (2-3 day turnaround) option. Use JJ's credit card (found in 1Password) and send her the final receipt.
-4. Once transcription is returned, label issue `case study - production` and create a draft following the [case study format](/handbook/marketing/product-marketing/#case-study-format).
+1. Content: Submit audio recording for transcription using [Transcription Panda's](https://transcriptionpanda.com/index.html.md/index.html.md) `standard` (2-3 day turnaround/index.html.md) option. Use JJ's credit card (found in 1Password/index.html.md) and send her the final receipt.
+4. Once transcription is returned, label issue `case study - production` and create a draft following the [case study format](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/product-marketing/#case-study-format/index.html.md).
 5. Once the draft is completed, writer will label `CMM - In review` and ping the Content Marketing Manager to review and send for approval.
 6. Once the case study has been reviewed and approved by the customer, follow the publishing process below to add to the marketing site.
 
@@ -108,9 +108,9 @@ Following approval from the customer, the Design team should be sent a doc of th
 *About GitLab:* Short paragraph on GitLab - about, solutions etc. Call to action of solutions offered.
 
 *Possible Additional Supporting Documents:*
-- Customer Deal Summary â€“ High Level PowerPoint summary after deal first signed.
+- Customer Deal Summary â€ High Level PowerPoint summary after deal first signed.
 - Customer Success Overview
-- Infographic â€“ Single page A4 summary with diagrams and measurable benchmarks
+- Infographic â€ Single page A4 summary with diagrams and measurable benchmarks
 - Benchmark Metrics
 - Publish on website
 - Video - Short video summary if customer is willing to participate - Perforce example

@@ -23,15 +23,15 @@ We are on the vanguard of helping our customers, from single-instance Omnibus de
 
 As you work through tickets, please be aware of the following key processes:
 
-- [How to Prioritize Tickets](/handbook/support/support-engineering/prioritizing-tickets.html)
-- [How to Submit issues to Product/Development](/handbook/support/workflows/services/support_workflows/issue_escalations.html)
-- [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
+- [How to Prioritize Tickets](https://github.com/isamu-isozaki/teamai_test/tree/master/support/support-engineering/prioritizing-tickets.html/index.html.md)
+- [How to Submit issues to Product/Development](https://github.com/isamu-isozaki/teamai_test/tree/master/support/workflows/services/support_workflows/issue_escalations.html/index.html.md)
+- [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md/index.html.md)
 
 The above are links to the appropriate sections of our handbook which further outline how each work.
 
 ## How We're Doing
 
-The [Zendesk Insights dashboard](https://gitlab.Zendesk.com/agent/reporting/analytics/period:0/dashboard:buLJ3T7IiFnr) lists the activity for all of our current channels and summarizes the last 30 days (Zendesk login required).
+The [Zendesk Insights dashboard](https://gitlab.Zendesk.com/agent/reporting/analytics/period:0/dashboard:buLJ3T7IiFnr/index.html.md) lists the activity for all of our current channels and summarizes the last 30 days (Zendesk login required/index.html.md).
 
 ## Our Meetings
 

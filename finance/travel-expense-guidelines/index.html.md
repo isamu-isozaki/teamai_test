@@ -13,9 +13,9 @@ title: "Travel and Expense Guidelines"
 
 ### Spend reduction
 
-When reducing spend, we'll not take the easy route of (temporarily) reducing discretionary spending.
+When reducing spend, we'll not take the easy route of (temporarily/index.html.md) reducing discretionary spending.
 Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and summits.
-By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/).
+By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-�-soda’s-are-no-longer-free/index.html.md/index.html.md).
 Discretionary spending is always subject to questioning, we are frugal and all spending needs to contribute to our goals.
 But we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
 Instead, we should do the hard work of identifying positions and costs that are not contributing to our goals.
@@ -29,7 +29,7 @@ Purchase the liability insurance that is excess of the standard inclusion of Sta
 
 Purchase the liability offered at the rental counter if there are foreign employees renting autos in the US or Canada. While workers' compensation would protect an injured US employee, other passengers may have the right to sue. To ensure that GitLab has protection when a foreign employee invites another person into the car we recommend the purchase of this insurance when offered at the rental counter.
 
-### Physical Damage – Collision Damage Waiver
+### Physical Damage � Collision Damage Waiver
 
 **Do not** purchase the Collision Damage Waiver offered at the rental counter. GitLab purchases coverage for damage to rented vehicles.
  If travel to Mexico is required, **purchase** the liability insurance for Mexico offered at the rental counter. You should verify that the rental agreement clearly states that the vehicle may be driven into Mexico and liability coverage will apply.
@@ -40,7 +40,7 @@ Purchase the liability offered at the rental counter if there are foreign employ
 
 Purchase the liability insurance offered at the rental counter when traveling outside the US and Canada. Automobile Bodily Injury and Property Damage Liability insurance are required by law in almost every country. Please verify this coverage is included with the rental agreement.
 
-### Physical Damage – Collision Damage Waiver
+### Physical Damage � Collision Damage Waiver
 
 Purchase the Collision Damage Waiver or Physical Damage Coverage offered by the rental agency when traveling outside the US and Canada.
 
@@ -53,21 +53,21 @@ Coverage is **not** provided for personal use of automobiles or when family memb
 
 ## Reimbursable Expenses
 
-The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and subsidiary assignment (Inc, LTD, BV, GmbH). Check with PeopleOps if you are unsure about either of these. 
+The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee/index.html.md) and subsidiary assignment (Inc, LTD, BV, GmbH/index.html.md). Check with PeopleOps if you are unsure about either of these. 
 
-For information regarding the company expense policy, check out the section of our team handbook on [Spending Company Money](/handbook/spending-company-money). The accounting team will review the expenses for compliance with the company travel policy.  Exceptions will be escalated to the manager for review and approval. The CEO will review selected escalations at least annually.
+For information regarding the company expense policy, check out the section of our team handbook on [Spending Company Money](https://github.com/isamu-isozaki/teamai_test/tree/master/spending-company-money/index.html.md). The accounting team will review the expenses for compliance with the company travel policy.  Exceptions will be escalated to the manager for review and approval. The CEO will review selected escalations at least annually.
 
 ### Independent Contractors
-Contributors who are legally classified as independent contractors should include reimbursable expenses on the invoices they submit to the company through our Accounts Payable mailbox (ap@gitlab.com). These team members should also consider the terms and conditions of their respective contractor agreements, when submitting invoices to the company.  
+Contributors who are legally classified as independent contractors should include reimbursable expenses on the invoices they submit to the company through our Accounts Payable mailbox (ap@gitlab.com/index.html.md). These team members should also consider the terms and conditions of their respective contractor agreements, when submitting invoices to the company.  
 
 ### Employees
-Contributors who are on GitLab’s payroll are legally classified as employees. These team members will submit expenses in the Expensify application. Expense reports are to be submitted once a month, at least. If you were not assigned a user license as part of the onboarding process, you can request one by contacting PeopleOps. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
+Contributors who are on GitLab’s payroll are legally classified as employees. These team members will submit expenses in the Expensify application. Expense reports are to be submitted once a month, at least. If you were not assigned a user license as part of the onboarding process, you can request one by contacting PeopleOps. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close/index.html.md)
 
 ## Non-Reimbursable Expenses
 
-In order to purchase goods and services on behalf of the company, you should first [consult the Signature Authorization Matrix](/handbook/finance/authorization-matrix/) to determine the approval requirements. Note that this **does not** include travel expenses and other incidentals. These expenses should be self-funded then submitted for reimbursement within Expensify, or in the case of independent contractors, included in invoices to the company (per the guidelines above). 
+In order to purchase goods and services on behalf of the company, you should first [consult the Signature Authorization Matrix](https://github.com/isamu-isozaki/teamai_test/tree/master/finance/authorization-matrix/index.html.md/index.html.md) to determine the approval requirements. Note that this **does not** include travel expenses and other incidentals. These expenses should be self-funded then submitted for reimbursement within Expensify, or in the case of independent contractors, included in invoices to the company (per the guidelines above/index.html.md). 
 
-If approval is not required, then proceed and send the invoice to Accounts Payable (ap@gitlab.com). If approval is required, create a confidential issue in the [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance) and tag the required functional and financial approvers. Most importantly, the team member making the purchase request is ultimately responsible for final review and approval of the invoices. Final review and approval are critical process controls that help ensure we don't make erroneous payments to vendors. All original invoices and payment receipts must be sent to Accounts Payable.
+If approval is not required, then proceed and send the invoice to Accounts Payable (ap@gitlab.com/index.html.md). If approval is required, create a confidential issue in the [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance/index.html.md) and tag the required functional and financial approvers. Most importantly, the team member making the purchase request is ultimately responsible for final review and approval of the invoices. Final review and approval are critical process controls that help ensure we don't make erroneous payments to vendors. All original invoices and payment receipts must be sent to Accounts Payable.
 
 Examples of things we have not reimbursed:
 1. Costume for end of summit party.
@@ -78,18 +78,18 @@ Examples of things we have not reimbursed:
 1. Cellphones and accessories. 
 
 ## Marketing Campaign Expenses
-Please see the [campaign expense guidelines in the Marketing handbook](https://about.gitlab.com/handbook/marketing/marketing-sales-development/marketing-operations/#campaign-cost-tracking).
+Please see the [campaign expense guidelines in the Marketing handbook](https://about.gitlab.comhttps://github.com/isamu-isozaki/teamai_test/tree/master/marketing/marketing-sales-development/marketing-operations/#campaign-cost-tracking/index.html.md).
 
 ## Company Credit Cards
 <a name="company-cc"></a>
 
 We have worked to reduce the number of outstanding company credit cards in an effort to centralize corporate purchasing, however, there are still certain situations where it may be more practical to issue additional corporate cards. This will be addressed on a case-by-case basis and final approval will come from the CFO. Please contact the Finance team if you would like further information on this. 
 
-GitLabbers carrying company cards in their name are required to submit expenses in [Expensify](https://www.expensify.com/) on a monthly basis. Reports are to be submitted no later than the fourth business day of each month as the American Express statement period-end date is the 28th of each month. Card transactions are auto-imported into Expensify which then auto-generates the expense reports to match that of the American Express statements. Below you will find directions on how to sign up for an American Express account and submit these expenses in accordance with company policy.
+GitLabbers carrying company cards in their name are required to submit expenses in [Expensify](https://www.expensify.com/index.html.md/index.html.md) on a monthly basis. Reports are to be submitted no later than the fourth business day of each month as the American Express statement period-end date is the 28th of each month. Card transactions are auto-imported into Expensify which then auto-generates the expense reports to match that of the American Express statements. Below you will find directions on how to sign up for an American Express account and submit these expenses in accordance with company policy.
 
 ### Creating an American Express account
 
-1. Once you receive your card, [register the card in the American Express portal.](http://www.americanexpress.com/confirmcard)
+1. Once you receive your card, [register the card in the American Express portal.](http://www.americanexpress.com/confirmcard/index.html.md)
 
 ### Submitting company credit card expenses
 

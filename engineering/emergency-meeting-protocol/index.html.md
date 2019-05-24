@@ -17,7 +17,7 @@ The guidelines below should be considered in case of emergency meetings.
 There are many urgent and important situations that may require an emergency
 meeting, including severe customer-impacting issues, security breaches, or any
 other time-sensitive situation that has a clear and serious business impact. In
-these situations, it is most [efficient](/handbook/values/#efficiency) to call
+these situations, it is most [efficient](https://github.com/isamu-isozaki/teamai_test/tree/master/values/#efficiency/index.html.md) to call
 an emergency meeting to resolve the issue as quickly as possible.
 
 ### Video Call
@@ -108,7 +108,7 @@ Finally, when the issue is resolved, it is important to write down questions
 that will require a retrospective. Retrospective section should be updated
 both while the work is ongoing, but also at the end of the call as some questions
 might be answered during the course of the call. By writing the questions while
-the issue is ‚Äúhot‚Äù, you can capture the knowledge while the task is ongoing.
+the issue is ‚Äúhot‚Ä, you can capture the knowledge while the task is ongoing.
 It will be much more challenging to remember the questions after the call is disbanded.
 
 ## Example document
@@ -138,7 +138,7 @@ Timeline
 2018-01-01 00:55 UTC Ran script:
 find -all projects
 It returned nil
-2018-01-01 01:05 UTC The joker of the group asked if we ‚Äòtried turning it on and off again‚Äô
+2018-01-01 01:05 UTC The joker of the group asked if we ‚Ätried turning it on and off again‚Ä
 2018-01-01 01:06 UTC Still no one is amused
 2018-01-01 01:45 UTC Someone tried turning it on and off, things started working
 2018-01-01 01:47 UTC Collective facepalm

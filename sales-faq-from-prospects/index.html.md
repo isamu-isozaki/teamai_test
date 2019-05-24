@@ -31,7 +31,7 @@ title: "FAQ from prospects"
 
   Documentation: https://docs.gitlab.com/ee/markdown/markdown.html#code-and-syntax-highlighting
 
-- Q: Is there a max size (disk size) per project?
+- Q: Is there a max size (disk size/index.html.md) per project?
 
   A: Projects have no limit in disk size. The size of each project is listed in the projects overview in the admin panel.
 
@@ -107,7 +107,7 @@ title: "FAQ from prospects"
 
   A: For emergency issues that causes a standstill on a customer's operations, customers send an email to `emergency@gitlab.com` which will immediately notify a service engineer. For general issues and help with trouble shooting, customers send an email to `subscribers@gitlab.com` which is then picked by any service engineer. There is no single point of contact necessary.
 
-  Support Handbook: /handbook/support/
+  Support Handbook: https://github.com/isamu-isozaki/teamai_test/tree/master/support/
 
 
 - Q: Does GitLab provide the possibility to have custom installations?

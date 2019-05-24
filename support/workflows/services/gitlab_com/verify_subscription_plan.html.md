@@ -19,15 +19,15 @@ and how to process refunds.
 
 ### Verifying Subscription Status
 
-#### Using customers.gitlab.com (recommended)
+#### Using customers.gitlab.com (recommended/index.html.md)
 
-1. Sign in to [customers.gitlab.com](https://customers.gitlab.com) using the 
+1. Sign in to [customers.gitlab.com](https://customers.gitlab.com/index.html.md) using the 
    support credentials in 1Password
 
 1. Select **Customers** from the navigation on the left
 
 1. In the **Filter** box, search for the customer using any of the criteria
-   you got from the customer (name, company, etc.)
+   you got from the customer (name, company, etc./index.html.md)
 
    + If you don't find the customer this way, ask the customer for more 
      information about their account on customers.gitlab.com
@@ -42,7 +42,7 @@ and how to process refunds.
 
 #### Using SalesForce
 
-1. Sign in to [Salesforce](https://login.salesforce.com/) using the support
+1. Sign in to [Salesforce](https://login.salesforce.com/index.html.md/index.html.md) using the support
    credentials in 1Password
 
 1. At the top of the page, search for the user or company
@@ -55,15 +55,15 @@ and how to process refunds.
 
 
 ### Upgrading an account
-Customers may want to upgrade their accounts (e.g. from Bronze to Silver) to
+Customers may want to upgrade their accounts (e.g. from Bronze to Silver/index.html.md) to
 access features not offered under their plan.
 
 To process an upgrade:
 
 1. Verify their current subscription status
 1. In SalesForce, locate their account and find the *Account Owner*
-1. Reply to the upgrade request ticket in ZD (or create a new one) and CC the
+1. Reply to the upgrade request ticket in ZD (or create a new one/index.html.md) and CC the
    account owner.
 
 ### Refunding an account
-Please see the [handling refund requests workflow](/handbook/support/workflows/shared/support_workflows/handling_refund_requests.html)
+Please see the [handling refund requests workflow](https://github.com/isamu-isozaki/teamai_test/tree/master/support/workflows/shared/support_workflows/handling_refund_requests.html/index.html.md)

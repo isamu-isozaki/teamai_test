@@ -12,7 +12,7 @@ title: "Anti-Harassment Policy"
 
 ## Introduction
 
-Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call and written communication, such as email or shared documents, with the exception of team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](/handbook/values/), please report the incident directly to the Chief Culture Officer or People Operations Generalist immediately for thorough investigation.
+Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call and written communication, such as email or shared documents, with the exception of team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](https://github.com/isamu-isozaki/teamai_test/tree/master/values/index.html.md/index.html.md), please report the incident directly to the Chief Culture Officer or People Operations Generalist immediately for thorough investigation.
 
 ## Perspective
 
@@ -20,7 +20,7 @@ Even though GitLab is a global company, we consider ourselves a Silicon Valley, 
 
 ## Scope
 
-This policy applies to all team members employed by any entity of GitLab, whether contractor or employee, in all locations. There are local labor laws in every country and in the case of the United States, state laws, that must be followed when handling, reporting and investigating incidents of harassment. The People Operations team and legal counsel, if required, in each of those countries will be called upon to ensure compliance and the appropriate legal processes and procedures are followed. Specific country requirements for employees (subject to changes in employment law) are listed in the [Country & US State Specific Requirements](#country--us-state-specific-requirements) section and will be updated regularly.
+This policy applies to all team members employed by any entity of GitLab, whether contractor or employee, in all locations. There are local labor laws in every country and in the case of the United States, state laws, that must be followed when handling, reporting and investigating incidents of harassment. The People Operations team and legal counsel, if required, in each of those countries will be called upon to ensure compliance and the appropriate legal processes and procedures are followed. Specific country requirements for employees (subject to changes in employment law/index.html.md) are listed in the [Country & US State Specific Requirements](#country--us-state-specific-requirements/index.html.md) section and will be updated regularly.
 All individual contributors, managers, and leaders will be subject to disciplinary action, up to and including termination, for any act of harassment they commit.
 
 ## Types of Harassment
@@ -77,7 +77,7 @@ This does not ensure there will be no consequences.  However, it will greatly re
 1. Any individual who believes they have been the target of harassment of any kind is encouraged to immediately and directly address the harasser, letting them know that their behavior is unwelcome, offensive and must stop immediately.
 1. If they do not wish to address the harasser directly or the behavior doesn’t cease, they should report the misconduct to the Chief Culture Officer or the People Operations Generalist.
 1. Once reported, an impartial investigation will be conducted by People Operations or by an independent third party, depending on the severity and circumstances of the complaint.
-1. Individual(s) reporting an incident or pattern of behavior will be asked to provide a written account of any action(s) causing concern, dates and times such actions occurred, and names of anyone involved, including participants and witnesses. All complaints or concerns of alleged harassment or discrimination will be taken seriously and handled confidentially.
+1. Individual(s/index.html.md) reporting an incident or pattern of behavior will be asked to provide a written account of any action(s/index.html.md) causing concern, dates and times such actions occurred, and names of anyone involved, including participants and witnesses. All complaints or concerns of alleged harassment or discrimination will be taken seriously and handled confidentially.
 
 ### The Role of Managers
 
@@ -105,11 +105,11 @@ All employees have the responsibility to help create and maintain a work environ
 
 The Chief Culture Officer, People Operations Business Partners, and People Operations Generalist are responsible for:
 
-1. Ensuring that any individual filing a complaint and any accused individual(s) is made aware of the seriousness of misconduct.
+1. Ensuring that any individual filing a complaint and any accused individual(s/index.html.md) is made aware of the seriousness of misconduct.
 1. Explaining GitLab's no tolerance harassment policy and investigation procedures to all individuals included in a complaint.
 1. Arranging for an immediate investigation of alleged misconduct and the preparation of a written report summarizing the results of the investigation and making recommendations for remediation to designated company officials.
-1. Notifying appropriate authorities (police, FBI, country specific bureaus) when criminal activities are alleged.
-1. Exploring informal means of resolving potential harassment if a written (formal) complaint is not made when verbal allegations are shared.
+1. Notifying appropriate authorities (police, FBI, country specific bureaus/index.html.md) when criminal activities are alleged.
+1. Exploring informal means of resolving potential harassment if a written (formal/index.html.md) complaint is not made when verbal allegations are shared.
 
 ## Classification of disciplinary action
 
@@ -119,14 +119,14 @@ All individual contributors, managers, and leaders will be subject to disciplina
 
 First time occurences of inappropriate behavior. An act out of character. After formal investigation coworkers still feel comfortable working with the delinquent.
 
-- Suspension (Paid/Unpaid based on country)
+- Suspension (Paid/Unpaid based on country/index.html.md)
 - Formal apology towards inflicted parties
 
 ### Level 2
 
 Recurring socially inappropriate behavior.
 
-- Suspension (Paid/Unpaid based on country)
+- Suspension (Paid/Unpaid based on country/index.html.md)
 - Mandatory course on Inclusivity
 - Formal apology towards inflicted parties
 - Written admonition
@@ -152,13 +152,13 @@ Training and guidance on understanding, preventing, and dealing with discriminat
 
 ### Course
 
-[COM 001 Common Ground: Prevention of Harassment, Sexual Harassment, and Abusive Conduct in the workplace (2 hrs)](https://learning.willinteractive.com/) This training will be assigned to all managers using [Will Interactive's content and LMS platform](https://willinteractive.com/). Details on how to use the platform can be found on the [learning and development page.](/handbook/people-operations/learning-and-development/index.html#common-ground-harassment-prevention-for-managers)
+[COM 001 Common Ground: Prevention of Harassment, Sexual Harassment, and Abusive Conduct in the workplace (2 hrs/index.html.md)](https://learning.willinteractive.com/index.html.md/index.html.md) This training will be assigned to all managers using [Will Interactive's content and LMS platform](https://willinteractive.com/index.html.md/index.html.md). Details on how to use the platform can be found on the [learning and development page.](https://github.com/isamu-isozaki/teamai_test/tree/master/people-operations/learning-and-development/index.html#common-ground-harassment-prevention-for-managers/index.html.md)
 Once the course has been completed each manager will receive a certificate of completion which will be kept on their employee record in BambooHR.
 
 
 ## Country & US State Specific Requirements
 
-### GitLab BV (The Netherlands)
+### GitLab BV (The Netherlands/index.html.md)
 **Complaint Procedure**
 
 If attempts to solve the problem in an informal manner prove insufficient or if these attempts were refused or proved to be ineffective, the victim may follow the procedure below.
@@ -167,7 +167,7 @@ If attempts to solve the problem in an informal manner prove insufficient or if 
 2. The Chief Culture Officer or the People Operations Generalist shall ensure that within a reasonable period of time the complaint is included in a dated document including the statements of the victim and any witnesses, as well as the outcome of any mediation.
 3. The victim and the witnesses receive a copy of their statement.
 4. A copy of the complaint will immediately be handed over to the responsible person within GitLab.
-5. After submission of the complaint to the responsible person within GitLab, an investigation will be initiated. This investigation may be conducted by a third party (independent party) depending on the complaint itself.
+5. After submission of the complaint to the responsible person within GitLab, an investigation will be initiated. This investigation may be conducted by a third party (independent party/index.html.md) depending on the complaint itself.
 6. After the investigation, the conclusion and a proposal for appropriate measures will be handed over to the responsible person within GitLab.
 7. GitLab will take the appropriate measures.
 
@@ -183,24 +183,24 @@ Without prejudice to the provisions that may arise from a judicial process insti
 
 GitLab shall impose, by registered letter and within five working days, the sanctions imposed upon the person who has been guilty of undesirable behavior. In case an employee abuses this complaint procedure, the above sanctions may also apply for the employee.
 
-### GitLab BV (Belgium)
+### GitLab BV (Belgium/index.html.md)
 **Psychosocial Intervention**
 
-GitLab has engaged with an external health and safety service called [Mensura](https://www.mensura.be/en/about-mensura) who are responsible for handling any complaints received of harassment that can not be resolved informally and internally. Team members in Belgium may contact this service if they wish and make a request for an informal or formal psychosocial intervention. A request for a formal intervention should include the following:
+GitLab has engaged with an external health and safety service called [Mensura](https://www.mensura.be/en/about-mensura/index.html.md) who are responsible for handling any complaints received of harassment that can not be resolved informally and internally. Team members in Belgium may contact this service if they wish and make a request for an informal or formal psychosocial intervention. A request for a formal intervention should include the following:
 
 - a precise description of the constitutive facts of violence or psychological or sexual harassment at work, according to the Employee;
 - when and where each of the events took place;
-- the identity of the person(s) involved;
+- the identity of the person(s/index.html.md) involved;
 - the request to the Employer to take appropriate measures to put an end to the events.
 
 The psychosocial intervention advisor will investigate further and provide a report to the employee and People Operations with a recommended course of action.
 
-### GitLab LTD (The UK)
+### GitLab LTD (The UK/index.html.md)
 **Complaint Procedure**
 
-1. If the employee does not wish to address the harasser directly or the behavior does not cease, then the employee (accompanied by a colleague/union representative if they wish) should report the misconduct to their line manager or a member of the People Operations team. Wherever appropriate the line manager and or the People Operations team may attempt to resolve the situation on an informal basis.
+1. If the employee does not wish to address the harasser directly or the behavior does not cease, then the employee (accompanied by a colleague/union representative if they wish/index.html.md) should report the misconduct to their line manager or a member of the People Operations team. Wherever appropriate the line manager and or the People Operations team may attempt to resolve the situation on an informal basis.
 1. If the informal approach does not resolve matters or the situation is too serious to be dealt with informally, the employee will need to make a formal complaint to the line manager and/or the People Operations Team.
-1. Once reported, a formal investigation will be conducted impartially by People Operations or by an independent third party, depending on the severity and circumstances of the complaint.   Individual(s) reporting an incident or pattern of behavior will be asked to provide a written account of any action(s) causing concern, dates and times such actions occurred, and names of anyone involved, including participants and witnesses. All complaints or concerns of alleged harassment or discrimination will be taken seriously and handled promptly, sensitively and confidentially.
+1. Once reported, a formal investigation will be conducted impartially by People Operations or by an independent third party, depending on the severity and circumstances of the complaint.   Individual(s/index.html.md) reporting an incident or pattern of behavior will be asked to provide a written account of any action(s/index.html.md) causing concern, dates and times such actions occurred, and names of anyone involved, including participants and witnesses. All complaints or concerns of alleged harassment or discrimination will be taken seriously and handled promptly, sensitively and confidentially.
 1. Wherever possible the Company will try to ensure that the employee and the alleged harasser are not required to work together whilst the complaint is being investigated.  This may involve the alleged harasser being suspended or transferred to another work area.
 In very serious cases, a criminal offence may have been committed and the employee may wish to report the matter to the Police/Authorities.
 1. Employees will be kept informed of the general progress of the investigation and the outcome of any disciplinary proceeding.
@@ -213,9 +213,9 @@ In very serious cases, a criminal offence may have been committed and the employ
 
 Every team member located in the state of California will be required to sign an acknowledgement confirming they have read, reviewed and understood the following three documents:
 
-- [State requirements policy](https://docs.google.com/document/d/1n6tOlhAOJ-wtVjV8Iq-nGa5XgiDfolbHSqmmyE-XQas/edit)
-- [California Law Prohibits Workplace Discrimination & Harassment](https://drive.google.com/file/d/0Bwy71gCp1WgtcU1DeU5qQUxQR0E/view?usp=sharing)
-- [Sexual Harassment & Civil Remedies](https://drive.google.com/file/d/0Bwy71gCp1WgtYWZlRnF0TW1fdlU/view?usp=sharing)
+- [State requirements policy](https://docs.google.com/document/d/1n6tOlhAOJ-wtVjV8Iq-nGa5XgiDfolbHSqmmyE-XQas/edit/index.html.md)
+- [California Law Prohibits Workplace Discrimination & Harassment](https://drive.google.com/file/d/0Bwy71gCp1WgtcU1DeU5qQUxQR0E/view?usp=sharing/index.html.md)
+- [Sexual Harassment & Civil Remedies](https://drive.google.com/file/d/0Bwy71gCp1WgtYWZlRnF0TW1fdlU/view?usp=sharing/index.html.md)
 
 These will be sent via HelloSign for signature.
 
@@ -223,12 +223,12 @@ These will be sent via HelloSign for signature.
 
 We are continuously gathering country specific references to review regulation and obtain guidance on the management of harassment or misconduct at work. Here are a few authorities we referred to in the creation of this policy:
 
-- [Equal Employer Opportunity Commission (EEOC)](https://www.eeoc.gov/laws/index.cfm)
-- [Society of Human Resource Management (SHRM)](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/pages/federal-statutes-regulations-and-guidance.aspx)
+- [Equal Employer Opportunity Commission (EEOC/index.html.md)](https://www.eeoc.gov/laws/index.cfm/index.html.md)
+- [Society of Human Resource Management (SHRM/index.html.md)](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/pages/federal-statutes-regulations-and-guidance.aspx/index.html.md)
 
-## Further Guidance (Country Specific)
+## Further Guidance (Country Specific/index.html.md)
 
-- [UK: Acas (advisory service for employees and employers)](http://www.acas.org.uk/index.aspx?articleid=1864)
-- [The Netherlands: Inspectorate SZW](https://www.inspectieszw.nl/)
-- [India: Ministry of Labour & Employment](http://www.labour.nic.in/)
-- [Belgium: Unia: For equality, against discrimination](http://unia.be/en)
+- [UK: Acas (advisory service for employees and employers/index.html.md)](http://www.acas.org.uk/index.aspx?articleid=1864/index.html.md)
+- [The Netherlands: Inspectorate SZW](https://www.inspectieszw.nl/index.html.md/index.html.md)
+- [India: Ministry of Labour & Employment](http://www.labour.nic.in/index.html.md/index.html.md)
+- [Belgium: Unia: For equality, against discrimination](http://unia.be/en/index.html.md)

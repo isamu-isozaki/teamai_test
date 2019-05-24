@@ -27,7 +27,7 @@ Through this training course you will learn:
 It is important that you learn the playbook and how to use it in your job. This is a 3 week training course where you will learn the concepts mentioned above.
 
 
-Your manager will create an issue for each of the topics above to track the SDR’s progress by copying the content from the [raw markdown source](https://gitlab.com/gitlab-com/www-gitlab-com/raw/master/source/handbook/sales/sdr/sdr-playbook-onboarding/index.html.md).
+Your manager will create an issue for each of the topics above to track the SDR’s progress by copying the content from the [raw markdown source](https://gitlab.com/gitlab-com/www-gitlab-com/raw/master/sourcehttps://github.com/isamu-isozaki/teamai_test/tree/master/sales/sdr/sdr-playbook-onboarding/index.html.md/index.html.md).
 
 **PLEASE NOTE - You will be assigned the Grovo tests once you have a Grovo login created.**
 
@@ -37,7 +37,7 @@ Create a daily study plan to make sure you understand all the material included 
 
 ## Day 1 
 
-#### [Understanding the Buyer](https://docs.google.com/presentation/d/1B-a3w1cnJy1425XkAlVYCG-EMABD4Uiaf7qKGn6jxA0/edit#slide=id.g1de0c47e87_0_356) 
+#### [Understanding the Buyer](https://docs.google.com/presentation/d/1B-a3w1cnJy1425XkAlVYCG-EMABD4Uiaf7qKGn6jxA0/edit#slide=id.g1de0c47e87_0_356/index.html.md) 
 
 You should understand these concepts by the end of week one:
 * Standards for an SDR
@@ -47,15 +47,15 @@ You should understand these concepts by the end of week one:
 * Use Cases
 
 **Tests:**
- * [] [Grovo Test 1](https://app.grovo.com/training?aid=73591)
- * [] Create a Buyer Persona by following this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view)
- * [] Create a Value Proposition using this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view) 
+ * [] [Grovo Test 1](https://app.grovo.com/training?aid=73591/index.html.md)
+ * [] Create a Buyer Persona by following this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view/index.html.md)
+ * [] Create a Value Proposition using this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view/index.html.md) 
 
-[Understanding the buyer tools](https://docs.google.com/presentation/d/14aeeuqQyKuiqbSSspiuDnKHL1oC-_FIrj7AosY3Bt2I/edit#slide=id.p)
+[Understanding the buyer tools](https://docs.google.com/presentation/d/14aeeuqQyKuiqbSSspiuDnKHL1oC-_FIrj7AosY3Bt2I/edit#slide=id.p/index.html.md)
 
 ## Day 2
 
-#### [Framework](https://docs.google.com/presentation/d/1WJUQofnPa9rPvcyto2QOl3esdiP8Akhi0oidk7fIHsE/edit#slide=id.p)
+#### [Framework](https://docs.google.com/presentation/d/1WJUQofnPa9rPvcyto2QOl3esdiP8Akhi0oidk7fIHsE/edit#slide=id.p/index.html.md)
 
 You should be able to understand these concepts by the end of week 2
  * Framework
@@ -63,15 +63,15 @@ You should be able to understand these concepts by the end of week 2
  * Pre-Outreach Prep
 
 **Tests:**
- * [] [Grovo Test 2](https://app.grovo.com/training?aid=73591) 
- * [] Create two research documents by following this [framework](https://docs.google.com/document/d/1Li1w7FPjLiyX3g7IyoRjdj_ic4Y-t6DOECeiYonjTLs/edit)
- * [] Outside of the playbook, but also involved in your research is understanding what makes us different in the market. Create a differentiator document on what makes GitLab different from our competitors following this [framework](https://docs.google.com/document/d/19zAPULMyqvlVOZ5qnJ8eUKSc951KITcS6Iwc9KM7PaY/edit)
+ * [] [Grovo Test 2](https://app.grovo.com/training?aid=73591/index.html.md) 
+ * [] Create two research documents by following this [framework](https://docs.google.com/document/d/1Li1w7FPjLiyX3g7IyoRjdj_ic4Y-t6DOECeiYonjTLs/edit/index.html.md)
+ * [] Outside of the playbook, but also involved in your research is understanding what makes us different in the market. Create a differentiator document on what makes GitLab different from our competitors following this [framework](https://docs.google.com/document/d/19zAPULMyqvlVOZ5qnJ8eUKSc951KITcS6Iwc9KM7PaY/edit/index.html.md)
 
-[Framework Tools](https://docs.google.com/presentation/d/1C9JDfHNPfab-tUO0B3HPGt7IGmfE3pEL_Qibfa1bWkg/edit#slide=id.p)
+[Framework Tools](https://docs.google.com/presentation/d/1C9JDfHNPfab-tUO0B3HPGt7IGmfE3pEL_Qibfa1bWkg/edit#slide=id.p/index.html.md)
 
 ## Day 3
 
-#### [Outreach](https://docs.google.com/presentation/d/13GIrCyl_Y4_RY5z3DBY_mizqOwZfylTyGiDKXn-ZNUU/edit#slide=id.g1e0ab16194_0_620)
+#### [Outreach](https://docs.google.com/presentation/d/13GIrCyl_Y4_RY5z3DBY_mizqOwZfylTyGiDKXn-ZNUU/edit#slide=id.g1e0ab16194_0_620/index.html.md)
 
 You should be able to understand these concepts by the end of week 3
  * Touch Pattern
@@ -79,9 +79,9 @@ You should be able to understand these concepts by the end of week 3
  * Handoff
 
 **Tests:**
- * [] [Grovo Test 3](https://app.grovo.com/training?aid=73591)
- * [] Create an initial outreach email for a specific persona following this [framework](https://docs.google.com/presentation/d/1nDepN4HlL6rPMRHAkH4a5-aOWEKIY6m67iJXN1T_Mlo/edit#slide=id.g2292cd8ce2_0_91)
- * [] Create a voicemail using this [framework](https://docs.google.com/presentation/d/1ZUrgxlTx1lJ5W7WkSHl5PPO5mT-6CuHubTUM845JrFY/edit#slide=id.g229314aa4e_0_0)
- * [] With your manager, articulate how you would handoff a prospect to an AE (Manager will check this one off)
+ * [] [Grovo Test 3](https://app.grovo.com/training?aid=73591/index.html.md)
+ * [] Create an initial outreach email for a specific persona following this [framework](https://docs.google.com/presentation/d/1nDepN4HlL6rPMRHAkH4a5-aOWEKIY6m67iJXN1T_Mlo/edit#slide=id.g2292cd8ce2_0_91/index.html.md)
+ * [] Create a voicemail using this [framework](https://docs.google.com/presentation/d/1ZUrgxlTx1lJ5W7WkSHl5PPO5mT-6CuHubTUM845JrFY/edit#slide=id.g229314aa4e_0_0/index.html.md)
+ * [] With your manager, articulate how you would handoff a prospect to an AE (Manager will check this one off/index.html.md)
  
-[Outreach Tools](https://docs.google.com/presentation/d/1-PdiYcdPQUqODmFtWjbz61OMhlIBdDXAQ02k_4fh0jI/edit#slide=id.g1e0ad68d87_0_1093)
+[Outreach Tools](https://docs.google.com/presentation/d/1-PdiYcdPQUqODmFtWjbz61OMhlIBdDXAQ02k_4fh0jI/edit#slide=id.g1e0ad68d87_0_1093/index.html.md)

@@ -11,7 +11,7 @@ title: "GitLab Alliances Handbook"
 
 ## Open to collaboration
 
-GitLab is an open product with a Core, open-source edition, and a enterprise, open-core edition, with additional features that are closed-sourced. We're open to integrations with companies and tools that are interested in harnessing GitLab's platform capabilities, user flows and data with their products. If you want to talk to us about a partnership you can contact [Brandon Jung](mailto:bjung@gitlab.com), our VP Alliances.
+GitLab is an open product with a Core, open-source edition, and a enterprise, open-core edition, with additional features that are closed-sourced. We're open to integrations with companies and tools that are interested in harnessing GitLab's platform capabilities, user flows and data with their products. If you want to talk to us about a partnership you can contact [Brandon Jung](mailto:bjung@gitlab.com/index.html.md), our VP Alliances.
 
 
 ## Partner definitions
@@ -54,4 +54,4 @@ If you've received an inbound alliance request please post a new message to the 
 
 ## Acquisitions
 
-If you are interested to inquire about a potential acquisition of your company please visit our [acquisition offer](/handbook/alliances/acquisition-offer) page.
+If you are interested to inquire about a potential acquisition of your company please visit our [acquisition offer](https://github.com/isamu-isozaki/teamai_test/tree/master/alliances/acquisition-offer/index.html.md) page.

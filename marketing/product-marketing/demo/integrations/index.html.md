@@ -29,7 +29,7 @@ The below demonstration highlights a simple flow of work between GitHub pull req
 * Select the `spring-integrations` project in Jira and go to the issue board.
 * Create a new Jira issue. Note the ID or copy it to the clipboard.
 * Log into GitLab `spring-integrations` project on `demo.tanuki.cloud` via 1Password.
-* Create a branch from Repository>Branches. Include your new Jira issue ID in branch name and description (such as _fixes SI-X_, where _X_ is the issue number).
+* Create a branch from Repository>Branches. Include your new Jira issue ID in branch name and description (such as _fixes SI-X_, where _X_ is the issue number/index.html.md).
 * Create a merge request with _SI-X_ in the name and _Resolves SI-X_ in the description.
 * Edit any non-essential code within the repository, then enter a commit message mentioning _SI-X_ again.
 * Go to Jira again via the link in the GitLab menu.
@@ -57,14 +57,14 @@ The below demonstration highlights a simple flow of work between GitHub pull req
 * Create a new plan by selecting `create -> create plan`
 * Select an existing project or create a new project
 * Specify a `plan name`
-* Choose an existing repo or link to a new repository (credentials may be required when linking to a new repository)
+* Choose an existing repo or link to a new repository (credentials may be required when linking to a new repository/index.html.md)
 * Keep `isolate build` set to `Agent Environment`
 * Select `source code checkout` and enable `force clean build`
 * Save the changes and drag the task into `final tasks`
 * Select `Save and continue`
 * Select triggers tab
 * Delete default trigger and add a new `remote trigger`
-* Specify the IP addresses associated with your demo GitLab instance (Keep in mind you will need to provide load balancing IPs)
+* Specify the IP addresses associated with your demo GitLab instance (Keep in mind you will need to provide load balancing IPs/index.html.md)
 * Make sure the plan is enabled
 * Select `Run -> Run plan` to confirm the plan can build from GitLab
 * Return to the GitLab project and select `settings -> integrations`
@@ -79,9 +79,9 @@ The below demonstration highlights a simple flow of work between GitHub pull req
 * Edit README.md in new branch and commit the change
 * Check Bamboo to confirm the change has been picked up by Bamboo
 
-# OpenLDAP Integration Demo (Adding Users)
+# OpenLDAP Integration Demo (Adding Users/index.html.md)
 
-* Log into the OpenLDAP GUI (details can be found in the SA vault)
+* Log into the OpenLDAP GUI (details can be found in the SA vault/index.html.md)
 * In the left navigation panel, expand the LDAP tree
 * Click on the `ou=users` organization unit
 * In the main panel, click `Create a child entry`
@@ -98,9 +98,9 @@ The below demonstration highlights a simple flow of work between GitHub pull req
 # GitHub Integration Demo
 
 * Navigate to GitHub.com/signin and login using `GitHub Demo Login` in 1Password.
-* Navigate to GitLab.com and login using `GitHub Demo Login (GitLab)` in 1Password.
+* Navigate to GitLab.com and login using `GitHub Demo Login (GitLab/index.html.md)` in 1Password.
 * Begin the demo by showing how to create a GitLab project linked to a GitHub repo. Click on the `+` icon to create a new project in GitLab.
-* Select the `CI/CD for external repo` tab and highlight that you’d use an access token from GitHub to access GitHub repos within GitLab. Don’t create a new project at this point (cancel).
+* Select the `CI/CD for external repo` tab and highlight that you’d use an access token from GitHub to access GitHub repos within GitLab. Don’t create a new project at this point (cancel/index.html.md).
 * Switch to GitHub. Click into the `spring-boot-test` project repo.
 * Create a new branch using the `Branch:master` button.
 * Click into the `src/main/java/hello/HelloController.java` file and make a minor change to the screen message.

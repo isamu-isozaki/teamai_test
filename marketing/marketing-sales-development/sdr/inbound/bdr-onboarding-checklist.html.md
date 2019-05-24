@@ -10,40 +10,40 @@ Create issue for new hire in marketing with following checklist.
 ```
 ### Week 1
 
-1. [ ] Watch [Intro to Git](https://www.codeschool.com/users/sign_in) video
-1. [ ] Watch the [Vision Demo](/handbook/sales/vision-demo/): Idea to Production
-1. [ ] Read [GitLab Direction](/direction/)
-1. [ ] Read the [Handbook](/handbook/)
-1. [ ] Study GLU: [GitLab University](https://docs.gitlab.com/ee/university/)
-1. [ ] Create an email signature [Sample](https://docs.google.com/document/d/1NvfC4a26G0WZwxB1K2oeXyGvI0DGqy-LbTKa9iPP6kU/edit)
+1. [ ] Watch [Intro to Git](https://www.codeschool.com/users/sign_in/index.html.md) video
+1. [ ] Watch the [Vision Demo](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/vision-demo/index.html.md/index.html.md): Idea to Production
+1. [ ] Read [GitLab Direction](/direction/index.html.md/index.html.md)
+1. [ ] Read the [Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/index.html.md/index.html.md)
+1. [ ] Study GLU: [GitLab University](https://docs.gitlab.com/ee/university/index.html.md/index.html.md)
+1. [ ] Create an email signature [Sample](https://docs.google.com/document/d/1NvfC4a26G0WZwxB1K2oeXyGvI0DGqy-LbTKa9iPP6kU/edit/index.html.md)
 1. [ ] Open Salesforce welcome email and activate account
 1. [ ] Open Collabspot welcome email and activate account
 1. [ ] Schedule time with your assigned mentor
-1. [ ] Complete [General Onboarding Issue](https://gitlab.com/gitlab-com/people-ops/employment/blob/master/.gitlab/issue_templates/onboarding.md)
+1. [ ] Complete [General Onboarding Issue](https://gitlab.com/gitlab-com/people-ops/employment/blob/master/.gitlab/issue_templates/onboarding.md/index.html.md)
 
-#### By the end of your first week you should (know) and be able to do the following:
+#### By the end of your first week you should (know/index.html.md) and be able to do the following:
 
-- What is GitLab (from a high level)
-- Create and assign merge requests (from your onboarding issue)
-- Sign in to SFDC (Salesforce.com)
+- What is GitLab (from a high level/index.html.md)
+- Create and assign merge requests (from your onboarding issue/index.html.md)
+- Sign in to SFDC (Salesforce.com/index.html.md)
 - Sign in to Linkedin
 
 ### Week 2
 
 #### Training
 
-1. [ ] Study [GitLab University](https://docs.gitlab.com/ee/university/)
+1. [ ] Study [GitLab University](https://docs.gitlab.com/ee/university/index.html.md/index.html.md)
 1. [ ] SFDC Training TBD
-1. [ ] [Sales Process](/handbook/sales/) and [Qualification](https://docs.google.com/document/d/1GR0v4cvBYUoTSn66kVAqzY5q_imWbDWW4ifo7ag6Gow/edit#heading=h.ebl8fraqpynv)
+1. [ ] [Sales Process](https://github.com/isamu-isozaki/teamai_test/tree/master/sales/index.html.md/index.html.md) and [Qualification](https://docs.google.com/document/d/1GR0v4cvBYUoTSn66kVAqzY5q_imWbDWW4ifo7ag6Gow/edit#heading=h.ebl8fraqpynv/index.html.md)
 1. [ ] Prospecting 101 by Scheduled Chet
 
 ### For Inbound BDR's
 
 1. [ ] Message 200 inbound leads that you'll receive starting this working week
-1. [ ] Add these suggested [canned responses](https://docs.google.com/a/gitlab.com/document/d/1EektuIAJKo9fBe-EiAnPR3BHhlkdaWE4wqG2z3QuP5o/edit?usp=sharing) to your gmail for quick replies
+1. [ ] Add these suggested [canned responses](https://docs.google.com/a/gitlab.com/document/d/1EektuIAJKo9fBe-EiAnPR3BHhlkdaWE4wqG2z3QuP5o/edit?usp=sharing/index.html.md) to your gmail for quick replies
 1. [ ] Create SFDC tasks for the leads you choose to work
 1. [ ] Create a task list in SFDC of at least 15 leads
-1. [ ] Shadow 3 Inbound BDRs for one hour (See [Team Page](/team/))
+1. [ ] Shadow 3 Inbound BDRs for one hour (See [Team Page](/team/index.html.md/index.html.md)/index.html.md)
 
 #### Metrics
 
@@ -56,7 +56,7 @@ Create issue for new hire in marketing with following checklist.
 1. [ ] Mine 5 leads each day using Linkedin Sales Navigator and Inside View then add them as contacts to SFDC
 1. [ ] Create tasks for each contact
 1. [ ] Create a task list in SFDC of at least 25 contacts/leads
-1. [ ] Shadow 3 Outbound BDRs for one hour (See [Team Page](/team/))
+1. [ ] Shadow 3 Outbound BDRs for one hour (See [Team Page](/team/index.html.md/index.html.md)/index.html.md)
 
 #### Metrics
 
@@ -65,23 +65,23 @@ Create issue for new hire in marketing with following checklist.
 1. [ ] Add 25 New contacts to your task list
 1. [ ] Convert first SQL
 
-#### By the end of your second week you should (know) and be able to do the following:
+#### By the end of your second week you should (know/index.html.md) and be able to do the following:
 
-- Create tasks for leads within SFDC (inbound)
-- Maintain a task list of at least 15 leads (inbound)
+- Create tasks for leads within SFDC (inbound/index.html.md)
+- Maintain a task list of at least 15 leads (inbound/index.html.md)
 - How to manage your task list in SFDC
-- Create and add contacts to SFDC (outbound)
+- Create and add contacts to SFDC (outbound/index.html.md)
 - How to use Clearbit
 - Craft a basic response email
-- Be assigned a list of accounts to work by your Team lead (outbound)
+- Be assigned a list of accounts to work by your Team lead (outbound/index.html.md)
 
 ### Week 3
 
 #### Training
 
-1. [ ] Study [GitLab University](https://docs.gitlab.com/ee/university/)
+1. [ ] Study [GitLab University](https://docs.gitlab.com/ee/university/index.html.md/index.html.md)
 1. [ ] Manager Session
-1. [ ] BDR Ongoing Training (Friday)
+1. [ ] BDR Ongoing Training (Friday/index.html.md)
 
 ### For Inbound BDR's
 
@@ -90,32 +90,32 @@ Create issue for new hire in marketing with following checklist.
 1. [ ] Start receiving live leads
 1. [ ] Schedule time with 3 AE's to collaborate and learn about lead management **Note** There is no agenda for this meeting, attend prepared with questions
 1. [ ] Develop a healthy task list of at least 25 leads to target
-1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/team/))
+1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/team/index.html.md/index.html.md)/index.html.md)
 
 #### Metrics
 
 1. [ ] Generate three SQLs
-1. [ ] Send 50 Prospecting Emails (See Endnote [1](#end1))
+1. [ ] Send 50 Prospecting Emails (See Endnote [1](#end1/index.html.md)/index.html.md)
 
 ### For Outbound BDR's
 
 #### To Do List
 
-1. [ ] Schedule 30 minutes with the AE’s that own your accounts (Accounts will assigned to you by your team lead) to collaborate, strategize, and plan.
+1. [ ] Schedule 30 minutes with the AE’s that own your accounts (Accounts will assigned to you by your team lead/index.html.md) to collaborate, strategize, and plan.
 1. [ ] Have a healthy task list of at least 30 contacts/leads to target
-1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/team/))
+1. [ ] Sit in on three discovery calls with the AE's (See [Team Page](/team/index.html.md/index.html.md)/index.html.md)
 
 #### Metrics
 
 1. [ ] Generate three SQLs
 1. [ ] Make 100 Prospecting Calls
 1. [ ] Send 50 Prospecting Emails
-1. [ ] Add 25 new contacts to your list (See Endnote [1](#end1))
+1. [ ] Add 25 new contacts to your list (See Endnote [1](#end1/index.html.md)/index.html.md)
 
-#### By the end of your third week you should (know) and be able to do the following:
+#### By the end of your third week you should (know/index.html.md) and be able to do the following:
 
-- Convert leads into opportunities (Inbound)
-- Create and add contacts to SFDC (Outbound)
+- Convert leads into opportunities (Inbound/index.html.md)
+- Create and add contacts to SFDC (Outbound/index.html.md)
 - How to manage your task list in SFDC
 - How to use Clearbit
 - How to BDR

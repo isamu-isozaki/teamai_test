@@ -16,13 +16,13 @@ title: "Technical Writing"
 {:.no_toc}
 
 * [Workflow][technical writing workflow]
-* [Markdown Guide](/handbook/product/technical-writing/markdown-guide/)
-* [Community writers](/community-writers/)
-* [Release posts](/handbook/marketing/blog/release-posts/)
+* [Markdown Guide](https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/markdown-guide/index.html.md/index.html.md)
+* [Community writers](/community-writers/index.html.md/index.html.md)
+* [Release posts](https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/release-posts/index.html.md/index.html.md)
 
 ## Technical Writing
 
-> _Technical writing is sometimes defined as simplifying the complex. In a concise and deceptively simple definition, it is a whole range of skills and characteristics that address nearly every field of human endeavor at some level._ ([techwhirl.com](http://techwhirl.com/what-is-technical-writing/))
+> _Technical writing is sometimes defined as simplifying the complex. In a concise and deceptively simple definition, it is a whole range of skills and characteristics that address nearly every field of human endeavor at some level._ ([techwhirl.com](http://techwhirl.com/what-is-technical-writing/index.html.md/index.html.md)/index.html.md)
 
 At GitLab, tech writers are the folks who take care of writing and maintaining technical content, while keeping it clear, concise, consistent, professional, and up-to-date.
 
@@ -68,7 +68,7 @@ GitLab Blog directive, and the [Blog Style Guidelines][blog-style-guidelines]
 ## Workflow
 
 In order to be organized and provide timely documentation with every feature
-release, a standard workflow (process) is required.
+release, a standard workflow (process/index.html.md) is required.
 
 [Read how the Docs team flows.][technical writing workflow]
 
@@ -91,31 +91,31 @@ Before writing on behalf of GitLab, make sure you've read through this [guide][m
 
 ### Technical Blog Posts
 
-[Technical][tech-writing-wiki] posts include: tutorials, guides, overviews, techniques, methods, processes, and anything else which requires some sort of technical knowledge or standard procedure. For these cases, follow all the steps described in the [writing method](#writing-method).
+[Technical][tech-writing-wiki] posts include: tutorials, guides, overviews, techniques, methods, processes, and anything else which requires some sort of technical knowledge or standard procedure. For these cases, follow all the steps described in the [writing method](#writing-method/index.html.md).
 
 ### Non-Technical Blog Posts
 
-For non-technical posts, we don't need to do every step in the [writing method](#writing-method) below. Check which category matches best with the subject you'll be working on to know how to proceed.
+For non-technical posts, we don't need to do every step in the [writing method](#writing-method/index.html.md) below. Check which category matches best with the subject you'll be working on to know how to proceed.
 
 - **Personal Experience**
    - _Personal content_: user stories, user experience, opinion-based overviews or comparisons, etc.
    - _Inside GitLab_
 
-    Steps that can be skipped: [4th (Research)](#4th-research) and [7th (Test)](#7th-test).
+    Steps that can be skipped: [4th (Research/index.html.md)](#4th-research/index.html.md) and [7th (Test/index.html.md)](#7th-test/index.html.md).
 
-- **Information** (If the content is not a tutorial or a guide, but it has an informative purpose)
+- **Information** (If the content is not a tutorial or a guide, but it has an informative purpose/index.html.md)
    - _Feature overviews_
    - _Product comparisons_
    - _Case studies_
 
-    Steps that can be skipped: [7th (Test)](#7th-test)  
-    Note: For the [4th (Research)](#4th-research) step, provide links to corroborate your information.
+    Steps that can be skipped: [7th (Test/index.html.md)](#7th-test/index.html.md)  
+    Note: For the [4th (Research/index.html.md)](#4th-research/index.html.md) step, provide links to corroborate your information.
 
 - **Quick Announcements**
    - _Release announcements_
    - _Feature highlights_
 
-    Steps that can be skipped: [2nd (Brainstorm)](#2nd-Brainstorm), [3rd (Plan)](#3rd-Plan), [4th (Research)](#4th-research), [5th (Draft)](#5th-draft), [7th (Test)](#7th-test).  
+    Steps that can be skipped: [2nd (Brainstorm/index.html.md)](#2nd-Brainstorm/index.html.md), [3rd (Plan/index.html.md)](#3rd-Plan/index.html.md), [4th (Research/index.html.md)](#4th-research/index.html.md), [5th (Draft/index.html.md)](#5th-draft/index.html.md), [7th (Test/index.html.md)](#7th-test/index.html.md).  
     Note: **Do Not Skip** 1st, 6th, 8th, 9th, or 10th steps.
 
 - **Other**
@@ -147,7 +147,7 @@ Think about everything regarding the subject you want to write about. Write down
 
 #### 3rd. Plan
 <!-- Is this "Perfect" necessary? -->
-Perfect. Now you should have a lot of ideas to organize. In this stage you will filter out the important things from your brainstorming notes, arrange them in a logical order, and cut out what's not necessary. You'll do that by creating the _outlines_ for your article. Organize the sections with titles, subtitles, bullet points, brief descriptions, and include important [(key)words] that came out in the brainstorming that you want to include in your article.
+Perfect. Now you should have a lot of ideas to organize. In this stage you will filter out the important things from your brainstorming notes, arrange them in a logical order, and cut out what's not necessary. You'll do that by creating the _outlines_ for your article. Organize the sections with titles, subtitles, bullet points, brief descriptions, and include important [(key/index.html.md)words] that came out in the brainstorming that you want to include in your article.
 
 Keep in mind the audience you chose before. Do not complicate things if you are writing for beginners, or simplify too much if you're targeting experts.
 
@@ -168,7 +168,7 @@ A _reliable source_ is officially documented information, as well as content des
 
 Now that you have a skeleton for your article, and some links to guide you, you can start to write, filling in the gaps following the structure you planned in step 3.
 
-Never make a statement without providing the source for that information, unless it is your own conclusion and you have the expertise to defend it. This way of writing will avoid mistrust and loss of credibility. Follow the [Writing Tips](#writing-tips) below.
+Never make a statement without providing the source for that information, unless it is your own conclusion and you have the expertise to defend it. This way of writing will avoid mistrust and loss of credibility. Follow the [Writing Tips](#writing-tips/index.html.md) below.
 
 It's much quicker to write with a clear plan. Contiinue and write everything you need. Don't try to review every sentence or think too much before writing it down. You'll review afterwards.
 
@@ -187,13 +187,13 @@ If you wrote a tutorial or about any procedure that can be tested, test it. Go o
 
 #### 8th. Submit
 
-When you're happy with your draft, submit it in a [WIP][WIP MR] (Work In Progress) merge request.
+When you're happy with your draft, submit it in a [WIP][WIP MR] (Work In Progress/index.html.md) merge request.
 
 #### 9th. Review
 
 Be aware that your reviewers will probably request changes, ask difficult questions, insist on some points. Do not be discouraged by the review. It will only help you to improve it even more, and enhance the quality of your work.
 
-If you don't agree with the reviewer about something, just say it (respectfully). Discuss your matter and defend your point of view, until you both agree or find a compromise.
+If you don't agree with the reviewer about something, just say it (respectfully/index.html.md). Discuss your matter and defend your point of view, until you both agree or find a compromise.
 
 #### 10th. Publish
 
@@ -228,7 +228,7 @@ Some tips:
   potentially calculate how much of your time you will have to allocate on new
   documentation. If something in the process has gone wrong during the release
   cycle, make sure to mention it in the retrospective meeting. We can always do
-  better ðŸ˜Š
+  better ðŸ
 - Directly participate in the regular meetings each group has. That way you will
   establish a connection between yourself and engineering, UX, QA, etc.
 - Attend the FGU of each group in engineering since it may contain valuable
@@ -240,17 +240,17 @@ Some tips:
 [android-doc]: http://developer.android.com/intl/pt-br/tools/help/emulator.html
 [android-emulator]: http://developer.android.com/intl/pt-br/tools/devices/emulator.html
 [blog]: /blog
-[blog-style-guidelines]: /handbook/marketing/blog/#blog-style-guidelines
+[blog-style-guidelines]: https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/#blog-style-guidelines
 [blog-tracker]: https://gitlab.com/gitlab-com/blog-posts/issues
 [bundler]: http://bundler.io/
 [documentation]: http://docs.gitlab.com/
 [git]: https://git-scm.com/
 [issue-docs]: https://gitlab.com/gitlab-org/gitlab-ce/issues/
-[(key)words]: http://www.wordstream.com/seo-keyword
+[(key/index.html.md)words]: http://www.wordstream.com/seo-keyword
 [Kramdown]: http://kramdown.gettalong.org
 [Mac screenshot]: https://support.apple.com/en-us/HT201361
 [Markdown Style Guide]: markdown-guide/
-[marketing-blog]: /handbook/marketing/blog/
+[marketing-blog]: https://github.com/isamu-isozaki/teamai_test/tree/master/marketing/blog/
 [middleman]: https://middlemanapp.com/basics/install/
 [Nimbus Screenshot]: http://nimbus.everhelper.me/screenshot.php
 [Professional Writing Techniques]: #professional-writing-techniques
@@ -258,7 +258,7 @@ Some tips:
 [Snipping Tool]: https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots
 [synonyms]: http://www.thesaurus.com/
 [technical writers]: /job-families/product/technical-writer/
-[technical writing workflow]: /handbook/product/technical-writing/workflow/
+[technical writing workflow]: https://github.com/isamu-isozaki/teamai_test/tree/master/product/technical-writing/workflow/
 [tech-writing-wiki]: https://en.wikipedia.org/wiki/Technical_writing
 [tinypng]: https://tinypng.com/
 [unsplash]: https://unsplash.com/

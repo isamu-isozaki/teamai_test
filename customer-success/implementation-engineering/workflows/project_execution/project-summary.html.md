@@ -23,6 +23,6 @@ Thanks again, and have a great week/weekend!
 ## Next Steps
 * If the customer does not acknowledge the e-mail, continue the weekly call as planned and get verbal confirmation of the above.
   - Send out that confirmation as part of the minutes of the meeting.
-* Send the [project sign off doc](/handbook/customer-success/implmentation-engineering/workflows/project_execution/sign-off.html)
-* Ensure project financial wrap-up by following [these steps](/handbook/customer-success/implementation-engineering/workflows/internal/financial-wrapup.html)
-* Conduct a [internal post-mordem](/handbook/customer-success/implementation-engineering/workflows/internal/post-mordem.html)
+* Send the [project sign off doc](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/implmentation-engineering/workflows/project_execution/sign-off.html/index.html.md)
+* Ensure project financial wrap-up by following [these steps](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/implementation-engineering/workflows/internal/financial-wrapup.html/index.html.md)
+* Conduct a [internal post-mordem](https://github.com/isamu-isozaki/teamai_test/tree/master/customer-success/implementation-engineering/workflows/internal/post-mordem.html/index.html.md)

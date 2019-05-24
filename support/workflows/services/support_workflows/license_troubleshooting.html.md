@@ -24,7 +24,7 @@ When a customer reports problems when registering their license key, please chec
 
     You can ask the customer the following:
 
-    > How many active users do you have? (You can find this on the admin dashboard at `http://<hostname>/admin/users` next to the "Active" tab)
+    > How many active users do you have? (You can find this on the admin dashboard at `http://<hostname>/admin/users` next to the "Active" tab/index.html.md)
 
 1. If the customer reports the following validation error:
 
@@ -32,15 +32,15 @@ When a customer reports problems when registering their license key, please chec
 
     That usually means that that GitLab instance has more active users than the number allowed by the license key. Please ask the customer for the number of active users and suggest to buy more seats if required.
 
-    That validation error [has been fixed](https://gitlab.com/gitlab-org/gitlab-ee/merge_requests/4961) but the fix will be included in the `10.7` version of GitLab.
+    That validation error [has been fixed](https://gitlab.com/gitlab-org/gitlab-ee/merge_requests/4961/index.html.md) but the fix will be included in the `10.7` version of GitLab.
 
 1.  If the customer reports the following validation error:
 
-    ![You have applied a True-up for 2 users but you need one for 3 users.](/images/handbook/support/support_license-troubleshooting.png)
+    ![You have applied a True-up for 2 users but you need one for 3 users.](/imageshttps://github.com/isamu-isozaki/teamai_test/tree/master/support/support_license-troubleshooting.png/index.html.md)
 
     That usually means that the number of true-up purchased is invalid. If you consider that the customer has purchased an adequate true-up please follow these steps:
 
-    1. Go to the [license app](https://license.gitlab.com/)
+    1. Go to the [license app](https://license.gitlab.com/index.html.md/index.html.md)
     2. Find the last license key by email or company name
     3. Duplicate the license key
     4. Edit the `true up count` field with the correct number
@@ -50,9 +50,9 @@ When a customer reports problems when registering their license key, please chec
 
 ## GitLab.com Subscriptions
 
-In order to purchase a GitLab.com subscription, we need the customer to have an account on [GitLab.com](https://gitlab.com/users/sign_in). Please ask the customer to create an account first, in case they don't have one yet.
+In order to purchase a GitLab.com subscription, we need the customer to have an account on [GitLab.com](https://gitlab.com/users/sign_in/index.html.md). Please ask the customer to create an account first, in case they don't have one yet.
 
-If the customer can't see their Groups when purchasing a subscription, please let them know that they need to create a Group on [GitLab.com](https://gitlab.com/users/sign_in) first.
+If the customer can't see their Groups when purchasing a subscription, please let them know that they need to create a Group on [GitLab.com](https://gitlab.com/users/sign_in/index.html.md) first.
 
 ### Troubleshooting sales-assisted transactions for GitLab.com
 

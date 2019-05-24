@@ -23,7 +23,7 @@ increase the number of qualified candidates in our pipeline.
 ## Sourcing vs. Referrals
 
 Sourcing and [making
-referrals](/handbook/hiring/greenhouse/#making-a-referral)
+referrals](https://github.com/isamu-isozaki/teamai_test/tree/master/hiring/greenhouse/#making-a-referral/index.html.md)
 are similar activities, because they both involve recommending people to join
 the company. They differ in familiarity and confidence, however:
 
@@ -36,18 +36,18 @@ the company. They differ in familiarity and confidence, however:
 Because of this difference, sourcing is usually not a very detailed activity,
 and it is common for a person to source dozens of candidates in a brief session
 where they may rarely if ever make a referral. This also means that [referral
-bonuses](/handbook/incentives/#referral-bonuses) and
+bonuses](https://github.com/isamu-isozaki/teamai_test/tree/master/incentives/#referral-bonuses/index.html.md) and
 other incentive programs for referrals do not apply to sourced candidates.
 
 ## How to Source Candidates
 
 Sourcing candidates doesn’t mean that you should know these people in person.
 For anyone that you do not have a personal relationship with, simply add them to
-the spreadsheet and indicate “None” for the relationship. This means that these
+the spreadsheet and indicate “None� for the relationship. This means that these
 people won’t be counted as your referrals.
 If you have anyone that you know or are familiar with that you think would be a
 good candidate, please make sure to submit them to Greenhouse as a referral (you can
-ask a Recruiter for a link).
+ask a Recruiter for a link/index.html.md).
 
 The most efficient way to source candidates for any position is to search
 through a professional network, such as LinkedIn, AngelList, etc. for people who
@@ -93,7 +93,7 @@ We ask you all to contribute by digging into LinkedIn or your favorite social
 media space and add candidates to the spreadsheet.
 By doing this, we are reaching out to people that are very closely aligned with
 the team’s needs and finding better-suited candidates, instead of just waiting
-for ad-response! (We call that, “the Post and Pray” model).
+for ad-response! (We call that, “the Post and Pray� model/index.html.md).
 
 ### Source-a-thon participants:
 
@@ -105,8 +105,8 @@ for ad-response! (We call that, “the Post and Pray” model).
 ### How to organize:
 
 * Hiring manager requests Recruiter/Recruiting Sourcer to organise a Source-a-thon stating the desired time and participant list
-* Recruiter/Recruiting Sourcer schedules a calendar event, adds Zoom link and a sourcing spreadsheet template available [here](https://docs.google.com/spreadsheets/d/1Zy4n5MpuyhkucrF363ZyJq6oNDEYApkAqia-eDMmtFE/edit).
-* Recruiter/Recruiting Sourcer should add a source-a-thon spreadsheet to this [folder](https://drive.google.com/drive/folders/164enfXxW_G4Z562ZHT-VNqCTdZUzGDhS?usp=sharing).
+* Recruiter/Recruiting Sourcer schedules a calendar event, adds Zoom link and a sourcing spreadsheet template available [here](https://docs.google.com/spreadsheets/d/1Zy4n5MpuyhkucrF363ZyJq6oNDEYApkAqia-eDMmtFE/edit/index.html.md).
+* Recruiter/Recruiting Sourcer should add a source-a-thon spreadsheet to this [folder](https://drive.google.com/drive/folders/164enfXxW_G4Z562ZHT-VNqCTdZUzGDhS?usp=sharing/index.html.md).
 
 ### Timing:
 

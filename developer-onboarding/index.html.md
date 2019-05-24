@@ -6,7 +6,7 @@ title: "Developer Onboarding"
 Awesome! You're about to become a GitLab developer!
 Make sure you've checked out our [handbook] beforehand, so you get a feeling
 of how we work at GitLab. Below you'll find everything you need to start developing.
-If something is missing, add it (as goes with everything at GitLab)!
+If something is missing, add it (as goes with everything at GitLab/index.html.md)!
 
 ### On this page
 {:.no_toc}
@@ -16,28 +16,28 @@ If something is missing, add it (as goes with everything at GitLab)!
 
 ## GitLab Environments
 
-We have multiple [GitLab environments](/handbook/engineering/infrastructure/environments/).
+We have multiple [GitLab environments](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/environments/index.html.md/index.html.md).
 
 On those instances, please enable the
-[performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html)
+[performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html/index.html.md)
 by pressing <kbd>p</kbd> then <kbd>b</kbd>.
 
 Then, bookmark and enable the
-[canary testing bookmarklet](/handbook/engineering/#canary-testing)
+[canary testing bookmarklet](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/#canary-testing/index.html.md)
 for GitLab.com.
 
 ## Getting started with GitLab development
 
 To start development, follow the instructions for the
-[GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit).
+[GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit/index.html.md).
 
 ## GitLab Repositories
 
 GitLab consists of many subprojects. A curated list of GitLab Repositories
-can be found at the [GitLab Engineering Projects](/handbook/engineering/projects) page.
+can be found at the [GitLab Engineering Projects](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/projects/index.html.md) page.
 
 Almost all repositories are available on both GitLab.com and dev.gitlab.org. We
-also mirror to dev.gitlab.org for availability reasons and [GitHub](https://github.com/gitlabhq)
+also mirror to dev.gitlab.org for availability reasons and [GitHub](https://github.com/gitlabhq/index.html.md)
 for historical reasons.
 
 All issues should be filed on GitLab.com.
@@ -45,7 +45,7 @@ All issues should be filed on GitLab.com.
 ## Infrastructure
 
 For everything related to infrastructure, check out the
-[Infrastructure handbook](/handbook/engineering/infrastructure).
+[Infrastructure handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/infrastructure/index.html.md).
 
 GitLab.com runs on Microsoft Azure. Many people in GitLab also have instances
 on DigitalOcean. If you need a VPS for any reason, it's probably easiest
@@ -58,7 +58,7 @@ to set one up at DigitalOcean. Ask another developer for access.
 Please see the [engineering workflow document][eng-wf] in the handbook and read
 the [developer documentation][dev-doc].
 
-[eng-wf]: /handbook/engineering/workflow
+[eng-wf]: https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow
 [dev-doc]: http://docs.gitlab.com/ee/development/README.html
 
 ### Security
@@ -88,7 +88,7 @@ another developer or the CTO for advice.
 
 In GitLab all code should go through a review process before it can be merged.
 Make sure you submit a merge request for any changes you've made.
-When the merge request is ready, it should be assigned to [someone else on the team](/handbook/engineering/#code-reviews).
+When the merge request is ready, it should be assigned to [someone else on the team](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/#code-reviews/index.html.md).
 This person is then responsible for reviewing your code and merging it.
 Optionally, you can request another developer to help or review by writing a comment.
 If a merge request is not assigned, it will probably be ignored and create
@@ -119,24 +119,24 @@ or clone [license-app][license-app] and generate your own licenses.
 [License-app][license-app] and [license.gitlab.com][license-app-hosted]
 are only available for GitLab employees.
 
-For detail steps and guidance for generating license keys refers to [How to Request / Install GitLab License Key](https://goo.gl/VbNaZj) document.
+For detail steps and guidance for generating license keys refers to [How to Request / Install GitLab License Key](https://goo.gl/VbNaZj/index.html.md) document.
 
-[license-app]: /handbook/engineering/projects/#license-app
+[license-app]: https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/projects/#license-app
 [license-app-hosted]: https://license.gitlab.com
 
 ### Ensure that your changes apply cleanly to GitLab EE
 
 GitLab Community Edition is merged every 3 hours to GitLab Enterprise Edition (look for
-the [`CE Upstream` merge requests]) and as a developer it's your responsibility
+the [`CE Upstream` merge requests]/index.html.md) and as a developer it's your responsibility
 to ensure that your merge requests [apply cleanly to GitLab EE][ce-ee-docs].
 Please consult [Automatic CE->EE merge][ce-ee-docs] for
 more details.
 
-Please see [GitLab Enterprise Edition (EE)][gitlab-ee].
+Please see [GitLab Enterprise Edition (EE/index.html.md)][gitlab-ee].
 
 [`CE Upstream` merge requests]: https://gitlab.com/gitlab-org/gitlab-ee/merge_requests?label_name%5B%5D=CE+upstream
 [ce-ee-docs]: https://docs.gitlab.com/ee/development/automatic_ce_ee_merge.html
-[gitlab-ee]: /handbook/engineering/projects/#gitlab-ee
+[gitlab-ee]: https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/projects/#gitlab-ee
 
 ### Ruby Gems
 
@@ -146,22 +146,22 @@ orphaned because the original author left, lost their credentials, passed away,
 etc. When publishing a Gem you can add some or all of the following people as
 co-owners:
 
-* [Dmitriy Zaporozhets](https://rubygems.org/profiles/dzaporozhets)
-* [Douwe Maan](https://rubygems.org/profiles/DouweM)
-* [Marin Jankovski](https://rubygems.org/profiles/marinjankovski)
-* [Rémy Coutable](https://rubygems.org/profiles/rymai)
-* [Robert Speicher](https://rubygems.org/profiles/rspeicher)
-* [Stan Hu](https://rubygems.org/profiles/stanhu)
-* [Yorick Peterse](https://rubygems.org/profiles/YorickPeterse)
+* [Dmitriy Zaporozhets](https://rubygems.org/profiles/dzaporozhets/index.html.md)
+* [Douwe Maan](https://rubygems.org/profiles/DouweM/index.html.md)
+* [Marin Jankovski](https://rubygems.org/profiles/marinjankovski/index.html.md)
+* [Rémy Coutable](https://rubygems.org/profiles/rymai/index.html.md)
+* [Robert Speicher](https://rubygems.org/profiles/rspeicher/index.html.md)
+* [Stan Hu](https://rubygems.org/profiles/stanhu/index.html.md)
+* [Yorick Peterse](https://rubygems.org/profiles/YorickPeterse/index.html.md)
 
 You're of course free to add other developers as well.
 
-[handbook]: /handbook
+[handbook]: https://github.com/isamu-isozaki/teamai_test/tree/master
 [in the open]: /2015/08/03/almost-everything-we-do-is-now-open/
 [contrib-guide]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md
 
 ## Relevant links
 
-- [Engineering Handbook](/handbook/engineering)
-- [Engineering Workflow](/handbook/engineering/workflow)
-- [Product Handbook](/handbook/product)
+- [Engineering Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/index.html.md)
+- [Engineering Workflow](https://github.com/isamu-isozaki/teamai_test/tree/master/engineering/workflow/index.html.md)
+- [Product Handbook](https://github.com/isamu-isozaki/teamai_test/tree/master/product/index.html.md)
