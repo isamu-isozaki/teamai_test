@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: Handbook
-twitter_image: '/images/tweetshttps://github.com/isamu-isozaki/teamai_test/tree/master-gitlab.png'
+twitter_image: '/images/tweets/handbook-gitlab.png'
 ---
 
 The GitLab team handbook is the central repository for how we run the company. Printed it consists of over [1,000 pages of text](https://github.com/isamu-isozaki/teamai_test/tree/master/tools-and-tips/#count-handbook-pages/index.html.md). As part of our value of being transparent the handbook is <a href="https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sourcehttps://github.com/isamu-isozaki/teamai_test/tree/master">open to the world</a>, and we welcome feedback<a name="feedback"></a>. Please make a <a href="https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests">merge request</a> to suggest improvements or add clarifications.
